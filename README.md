@@ -1,2 +1,3 @@
-# phenotypeCR_eval
+# Evaluation and Finetuning of Phenotype Concept Recognition Tools
 Repo for UNSW Capstone Project P106 - Evaluation and Finetuning of Phenotype Concept Recognition Tools
+
