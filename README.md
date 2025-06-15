@@ -4,6 +4,6 @@ Repo for UNSW Capstone Project P106 - Evaluation and Finetuning of Phenotype Con
 
 The goal of this project is to evaluate the performance of SOTA Phenotype Concept Recognition tools like [PhenoTagger](https://github.com/ncbi-nlp/PhenoTagger) against our newly created HPO Phenotype Gold Corpus.
 
-The Gold Corpus was created with [INCEpTION](https://inception-project.github.io). Text spans representing phenotypes were highlighted and labelled with a corresponding HPO term. See the [Annotation Guidelines] for details.
+The Gold Corpus was created with [INCEpTION](https://inception-project.github.io). Text spans representing phenotypes were highlighted and labelled with a corresponding HPO term. See the [Annotation Guidelines](Annotation_Guidelines/Annotation_Guidelines.html) for details.
 
 The annotations were exported in [BioC](https://inception-project.github.io/releases/36.5/docs/user-guide.html#sect_formats_bioc) and [UIMA CAS JSON](https://inception-project.github.io/releases/36.5/docs/user-guide.html#sect_formats_uimajson) formats. See here for more on [BioC](https://bioc.sourceforge.net) and [UIMA](https://uima.apache.org/d/uimaj-current/tug.html).
