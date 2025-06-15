@@ -1,0 +1,72 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 is the older brother of Patient 1.</text>
+            </sentence>
+            <sentence>
+                <offset>45</offset>
+                <text>He was recognized to have similar craniofacial features during childhood but without craniosynostosis (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>159</offset>
+                <text>Head shape at age 8 years at time of referral to a craniofacial clinic was described as brachycephaly with retrusion of supraorbital rims and proptosis.</text>
+            </sentence>
+            <sentence>
+                <offset>312</offset>
+                <text>Maxilla was retruded with Class III malocclusion.</text>
+            </sentence>
+            <sentence>
+                <offset>362</offset>
+                <text>Submerged deciduous teeth were documented at age 12 years.</text>
+            </sentence>
+            <sentence>
+                <offset>421</offset>
+                <text>He had bilateral chronic serious otitis media with conductive hearing loss.</text>
+            </sentence>
+            <sentence>
+                <offset>497</offset>
+                <text>At age 7 years, agenesis of the right malleus and incus and fixation of the right stapes was noted at the time of surgical middle ear exploration.</text>
+            </sentence>
+            <sentence>
+                <offset>644</offset>
+                <text>Otoscopy at age 13 years suggested absence of the left incus with continued serous effusion.</text>
+            </sentence>
+            <sentence>
+                <offset>737</offset>
+                <text>He was treated with orthodontics and a combination of LeFort I and LeFort III maxillary osteotomy with distraction and iliac crest bone graft.</text>
+            </sentence>
+            <sentence>
+                <offset>880</offset>
+                <text>As an adult, he was seen for medical genetics evaluation at another center where his height was 188 cm and weight 72.5 kg.</text>
+            </sentence>
+            <sentence>
+                <offset>1003</offset>
+                <text>No OFC was documented.</text>
+            </sentence>
+            <sentence>
+                <offset>1026</offset>
+                <text>His craniofacies, hands and feet were described as normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1085</offset>
+                <text>Intelligence is normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1109</offset>
+                <text>He has developed a seizure disorder.</text>
+            </sentence>
+            <sentence>
+                <offset>1146</offset>
+                <text>Magnetic resonance imaging (MRI) of the brain and cervical spine showed mild Chiari 1 malformation with a small syrinx at C2.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

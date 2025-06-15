@@ -1,0 +1,48 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 25 was a 11-year-old Portuguese boy.</text>
+            </sentence>
+            <sentence>
+                <offset>46</offset>
+                <text>Pregnancy and delivery were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>82</offset>
+                <text>His birth weight was 3.6 kg, length 51 cm and head circumference 36 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>154</offset>
+                <text>He was referred to the Genetic Clinic at the age of 8 months because of clinical findings of slightly delayed developmental milestones, cardiac defect (ventricular septum defect), right cryptorchidism and facial dysmorphic features (Figure 2).</text>
+            </sentence>
+            <sentence>
+                <offset>398</offset>
+                <text>At present, he is of low normal intelligence (WISC-R scale: IQ 80) with impairment in expressive language and speech articulation difficulties, emotional behaviour problems with occasional temper tantrums, short stature (132.5 cm; 5th percentile), moderate rhizomelia of upper and lower limbs, short hands with cutaneous syndactyly of fingers, a surgically corrected right-sided cryptorchidism and over-riding scrotum.</text>
+            </sentence>
+            <sentence>
+                <offset>817</offset>
+                <text>Craniofacial findings included relative macrocephaly (OFC 55 cm; 90th percentile), frontal bossing, hypertelorism (inner canthal distance 3.5 cm; &gt;97th percentile – outer canthal distance 11 cm; &gt;97th percentile), down slant of palpebral fissures, short nose with anteverted nostrils, wide philtrum and thin upper lip.</text>
+            </sentence>
+            <sentence>
+                <offset>1136</offset>
+                <text>In the past, the chromosomal analysis in peripheral blood lymphocytes had revealed a 46,XY(90%)/47,XYY(10%) mosaic.</text>
+            </sentence>
+            <sentence>
+                <offset>1252</offset>
+                <text>Molecular analysis revealed a missense mutation in exon 3 (614 G&gt;T) that causes a change in the residue 205 from Ser to Ile.</text>
+            </sentence>
+            <sentence>
+                <offset>1377</offset>
+                <text>The same mutation was found in his mother and in her three sisters, who have mild phenotypical signs (hypertelorism, widow's peak).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

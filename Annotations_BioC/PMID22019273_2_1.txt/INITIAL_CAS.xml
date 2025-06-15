@@ -1,0 +1,64 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient II-1, a 21-year-old female, is the second child of unrelated, healthy parents.</text>
+            </sentence>
+            <sentence>
+                <offset>87</offset>
+                <text>At birth, developmental dysplasia of both hips and general hypotonia were observed.</text>
+            </sentence>
+            <sentence>
+                <offset>171</offset>
+                <text>Ophthalmoscopy at the age of 11 years revealed attenuated arteries and bone-spicule-shaped deposits in the periphery of the retina (Figure 1A).</text>
+            </sentence>
+            <sentence>
+                <offset>315</offset>
+                <text>An electroretinogram showed completely extinguished signals, indicative of tapetoretinal dystrophy.</text>
+            </sentence>
+            <sentence>
+                <offset>415</offset>
+                <text>She had recurrent pneumonia and asthma, consistent with respiratory function tests that indicated reduced lung capacity.</text>
+            </sentence>
+            <sentence>
+                <offset>536</offset>
+                <text>At the age of 11 years she was investigated for retardation of statural growth with height 2–3 cm under the 2.5th centile, but no underlying cause was found.</text>
+            </sentence>
+            <sentence>
+                <offset>694</offset>
+                <text>After treatment with growth hormone therapy, her height attained the 10th centile.</text>
+            </sentence>
+            <sentence>
+                <offset>777</offset>
+                <text>The mid-parental height was 175 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>813</offset>
+                <text>When she was 11 years old, she presented with a moderately increased serum creatinine and hypertension.</text>
+            </sentence>
+            <sentence>
+                <offset>917</offset>
+                <text>Ultrasound showed hyperechoic kidneys, and histological examination of a renal biopsy revealed unspecific changes that were compatible with a nephronophthisis-like disease (Figures 1D and 1E).</text>
+            </sentence>
+            <sentence>
+                <offset>1110</offset>
+                <text>The nephropathy progressed rapidly, and a successful renal transplantation was performed when she was 14 years old.</text>
+            </sentence>
+            <sentence>
+                <offset>1226</offset>
+                <text>She also had idiopathic bone marrow hypoplasia.</text>
+            </sentence>
+            <sentence>
+                <offset>1274</offset>
+                <text>The diagnosis of Sensenbrenner syndrome was made based on the combination of clinical findings of the patient and her brother.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

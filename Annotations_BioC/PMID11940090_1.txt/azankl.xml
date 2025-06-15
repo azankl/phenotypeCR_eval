@@ -1,0 +1,126 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>azankl</key>
+    <document>
+        <id>azankl</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This boy was born at term to parents of Swiss and Danish extraction, and had a normal birth length of 52 cm (P50–90).</text>
+            </sentence>
+            <sentence>
+                <offset>118</offset>
+                <text>The subject's growth declined to P10 during the first year of his life and to slightly below P3 by 3 years of age.</text>
+            </sentence>
+            <sentence>
+                <offset>233</offset>
+                <text>At 7.5 years of age, he was 109 cm in height, 8 cm below P3 for Swiss children, but 2 cm above P90 for Finnish patients with CHH (4).</text>
+            </sentence>
+            <sentence>
+                <offset>370</offset>
+                <text>The subject was referred to us at 3 years of age because of his short stature and moderate varus deformity of the knees.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="64"/>
+                    <text>short stature</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002970</infon>
+                    <location length="28" offset="91"/>
+                    <text>varus deformity of the knees</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>491</offset>
+                <text>Radiographic examination at that time showed modest metaphyseal changes.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100255</infon>
+                    <location length="19" offset="52"/>
+                    <text>metaphyseal changes</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>564</offset>
+                <text>Cartilage-hair hypoplasia was considered in the differential diagnosis and a haematological-immunological work-up was performed.</text>
+            </sentence>
+            <sentence>
+                <offset>693</offset>
+                <text>The subject's haemoglobin level was borderline low for his age at 109 g L−1, and total IgG (4.23 g L−1) and total lgA (0.22 g L−1) in plasma were also borderline low.</text>
+            </sentence>
+            <sentence>
+                <offset>860</offset>
+                <text>A more extensive work-up at 7 years of age showed a slightly decreased level of haemoglobin (110 g L−1), but normal values for several parameters of cellular immunity (i.e. mitogen and antigen stimulations, lymphocyte subpopulations, expression of surface antigens, and adhesion molecules).</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="39" offset="52"/>
+                    <text>slightly decreased level of haemoglobin</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1151</offset>
+                <text>Therefore, an immune deficiency was excluded.</text>
+            </sentence>
+            <sentence>
+                <offset>1200</offset>
+                <text>The boy's mother noted a susceptibility to high fever during childhood, but unusual or serious infections were never found.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="45" offset="25"/>
+                    <text>susceptibility to high fever during childhood</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1324</offset>
+                <text>The subject had varicella at 6 years of age with pronounced efflorescences, but no complication.</text>
+            </sentence>
+            <sentence>
+                <offset>1421</offset>
+                <text>Resection of hypertrophic adenoids was done at 7 years of age, also without complications.</text>
+            </sentence>
+            <sentence>
+                <offset>1512</offset>
+                <text>He grows abundant hair of dark blond to light brown colour that has never been considered abnormal; hair thickness measurements have not been performed.</text>
+            </sentence>
+            <sentence>
+                <offset>1665</offset>
+                <text>Physical examination showed moderately short stature with relatively short legs (Fig. 1) and mild joint laxity.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004322</infon>
+                    <location length="13" offset="39"/>
+                    <text>short stature</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006385</infon>
+                    <location length="10" offset="69"/>
+                    <text>short legs</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001382</infon>
+                    <location length="12" offset="98"/>
+                    <text>joint laxity</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1777</offset>
+                <text>The radiographic features are shown in Fig. 1; although the diagnosis of a CHH variant was considered at 3 years of age, it was only at 7 years that more characteristic features of CHH were seen, namely the metaphyseal irregularities and particularly the phalangeal cone-shaped epiphyses of the hand.</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="26" offset="207"/>
+                    <text>metaphyseal irregularities</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2078</offset>
+                <text>The pelvis and the spine did not show peculiarities.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

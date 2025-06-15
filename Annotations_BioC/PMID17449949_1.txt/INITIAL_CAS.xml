@@ -1,0 +1,120 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The patient was a Korean male infant born at the 39th week of gestation via vaginal delivery at a regional maternity hospital.</text>
+            </sentence>
+            <sentence>
+                <offset>127</offset>
+                <text>His mother was a 32-yr-old women and his father was a 50-yr-old man.</text>
+            </sentence>
+            <sentence>
+                <offset>196</offset>
+                <text>His mother's obstetric history was gravida 2, para 1, and was otherwise unremarkable.</text>
+            </sentence>
+            <sentence>
+                <offset>282</offset>
+                <text>Although the mother had undergone no antenatal care, her current pregnancy had been otherwise free of complications.</text>
+            </sentence>
+            <sentence>
+                <offset>399</offset>
+                <text>In addition, neither side of the family had any history of consanguinity, structural anomalies, or genetic disorders.</text>
+            </sentence>
+            <sentence>
+                <offset>520</offset>
+                <text>The patient's Apgar scores were 6 and 8 at 1 and 5 min, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>590</offset>
+                <text>Ten minutes after birth, the infant exhibited some signs of mild respiratory distress, including nasal flaring, grunting, stridor, and tachypnea.</text>
+            </sentence>
+            <sentence>
+                <offset>736</offset>
+                <text>The patient was thus transferred to the Ansan Hospital, Korea University Medical Center.</text>
+            </sentence>
+            <sentence>
+                <offset>828</offset>
+                <text>Upon arrival at the neonatal intensive care unit, the patient exhibited coarse breathing sounds, and arterial oxygen saturation decreased gradually.</text>
+            </sentence>
+            <sentence>
+                <offset>977</offset>
+                <text>The infant was therefore treated with continuous positive airway pressure, with extra oxygen being delivered via nasal prongs.</text>
+            </sentence>
+            <sentence>
+                <offset>1104</offset>
+                <text>A whole body radiograph revealed a cloverleaf-shaped skull deformity, and faint air bronchogram in both of the patient's central lungs.</text>
+            </sentence>
+            <sentence>
+                <offset>1243</offset>
+                <text>The infant weighed 4,460 g (above 97th percentile), was 56 cm long (above 97th percentile), and had a head circumference of 36.5 cm (90-97th percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>1397</offset>
+                <text>On physical examination, the combination of a frontal and bitemporal prominence, and a wide anterior fontanel (5×5 cm), gave the patient's skull an appearance reminiscent of a cloverleaf.</text>
+            </sentence>
+            <sentence>
+                <offset>1585</offset>
+                <text>The patient also suffered from hydrocephalus, resulting in a soft contour scalp without palpable suture lines.</text>
+            </sentence>
+            <sentence>
+                <offset>1696</offset>
+                <text>We noted severe ocular proptosis and ocular hypertelorism, and the patient exhibited exophthalmos, which was aggravated when the infant cried.</text>
+            </sentence>
+            <sentence>
+                <offset>1839</offset>
+                <text>The patient's mid-facial region was hypoplastic, with a small nose and a depressed nasal bridge.</text>
+            </sentence>
+            <sentence>
+                <offset>1936</offset>
+                <text>The infant's ears were angulated posteriorly, and were significantly lowset, with deep vertical furrows appearing in the pre-auricular area (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>2086</offset>
+                <text>A skull anteroposterior view (Fig. 2) revealed severe temporal bulging, typical of a "cloverleaf" skull, as well as a 'scooping-out' effect apparent in the lacunar skull.</text>
+            </sentence>
+            <sentence>
+                <offset>2257</offset>
+                <text>The patient's maxillary bones were also found to be hypoplastic.</text>
+            </sentence>
+            <sentence>
+                <offset>2323</offset>
+                <text>On the 3rd day of birth, the infant manifested respiratory difficulty.</text>
+            </sentence>
+            <sentence>
+                <offset>2394</offset>
+                <text>Upon examination, the infant was feverish with purulent sputum, and exhibited inspiratory crackles with a mild intercostal retraction.</text>
+            </sentence>
+            <sentence>
+                <offset>2529</offset>
+                <text>At that time, the patient's chest radiography indicated mild bronchopneumonia.</text>
+            </sentence>
+            <sentence>
+                <offset>2608</offset>
+                <text>The patient was able to maintain normal oxygen saturations only when administered with oxygen with FiO2 40%, via intubation.</text>
+            </sentence>
+            <sentence>
+                <offset>2733</offset>
+                <text>We noted no abrupt symptomatic changes in the patient's condition, but observed a gradual and steady course of deterioration.</text>
+            </sentence>
+            <sentence>
+                <offset>2859</offset>
+                <text>The patient developed pneumonia, which was followed by the emergence of sepsis.</text>
+            </sentence>
+            <sentence>
+                <offset>2939</offset>
+                <text>At 21 days after birth, the patient went into cardio-respiratory arrest and expired.</text>
+            </sentence>
+            <sentence>
+                <offset>3024</offset>
+                <text>Mid-brain compression due to the craniosynostosis, which eventually resulted in central respiratory depression, was considered to be the underlying cause of death.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

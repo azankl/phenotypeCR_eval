@@ -1,0 +1,66 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>BAB5264 is a male born by vaginal delivery at 34 weeks gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>66</offset>
+                <text>Pregnancy was notable for a&#13;
+low-lying placenta and polyhydramnios.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0430070</infon>
+                    <location length="18" offset="29"/>
+                    <text>low-lying placenta</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001561</infon>
+                    <location length="14" offset="52"/>
+                    <text>polyhydramnios</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>134</offset>
+                <text>Physical examination at age 2 years and 4 months&#13;
+revealed: Weight: 10.9 kg (3%), Length: 76 cm (-4 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>239</offset>
+                <text>The mother reported the use of ear tubes&#13;
+and hearing aids but we did not have access to any audiologic tests.</text>
+            </sentence>
+            <sentence>
+                <offset>350</offset>
+                <text>He has astigmatism, reflux,&#13;
+and was considered hyperactive.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000483</infon>
+                    <location length="11" offset="7"/>
+                    <text>astigmatism</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="6" offset="20"/>
+                    <text>reflux</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000752</infon>
+                    <location length="11" offset="48"/>
+                    <text>hyperactive</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

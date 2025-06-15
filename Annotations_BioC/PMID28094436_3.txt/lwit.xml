@@ -1,0 +1,93 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 3 is presently a 39-year-old male with an adult height of 156.7 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>76</offset>
+                <text>He was first evaluated for mild short stature (height Z-score −2.5 to −2.7) at 6.3 years.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004322</infon>
+                    <location length="13" offset="32"/>
+                    <text>short stature</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>166</offset>
+                <text>Bone age was delayed (5 years) and the very mild metaphyseal irregularities were regarded normal.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="0"/>
+                    <text>Bone age</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="13"/>
+                    <text>delayed</text>
+                </annotation>
+                <relation id="4">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002750</infon>
+                    <node refid="2" role="source"/>
+                    <node refid="3" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>264</offset>
+                <text>At 14 years, his height Z-score was −1.6 but pubertal growth spurt was subnormal resulting in short stature by adulthood (Z-score −3.3).</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="21" offset="45"/>
+                    <text>pubertal growth spurt</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="71"/>
+                    <text>subnormal</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004322</infon>
+                    <location length="13" offset="94"/>
+                    <text>short stature</text>
+                </annotation>
+                <relation id="7">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031087</infon>
+                    <node refid="5" role="source"/>
+                    <node refid="6" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>401</offset>
+                <text>The diagnosis of CHH was made at 8 years.</text>
+            </sentence>
+            <sentence>
+                <offset>443</offset>
+                <text>During the first years of life, he had recurrent otitis media but no other infections since then except for rare mild URTIs.</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000388</infon>
+                    <location length="12" offset="49"/>
+                    <text>otitis media</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002788</infon>
+                    <infon key="Comment">! Abbreviation</infon>
+                    <location length="5" offset="118"/>
+                    <text>URTIs</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

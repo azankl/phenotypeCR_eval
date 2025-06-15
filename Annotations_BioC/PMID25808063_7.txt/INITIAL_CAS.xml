@@ -1,0 +1,40 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 7 was the second child of a non-consanguineous Brazilian couple.</text>
+            </sentence>
+            <sentence>
+                <offset>73</offset>
+                <text>She was noted at birth to have dysmorphic features with a “median nasal groove and crumpled ears” [Cabral de Almeida et al., 1995].</text>
+            </sentence>
+            <sentence>
+                <offset>205</offset>
+                <text>Cataracts were diagnosed at 3 months of age.</text>
+            </sentence>
+            <sentence>
+                <offset>250</offset>
+                <text>She had delayed eruption of her primary dentition and pointed cusp tip extension.</text>
+            </sentence>
+            <sentence>
+                <offset>332</offset>
+                <text>Her weight and height were consistently below the 3rd centile.</text>
+            </sentence>
+            <sentence>
+                <offset>395</offset>
+                <text>Radiographs showed epiphyseal delay and lumbar coronal clefts.</text>
+            </sentence>
+            <sentence>
+                <offset>458</offset>
+                <text>At age 5 years, she was described as having mild intellectual impairment.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

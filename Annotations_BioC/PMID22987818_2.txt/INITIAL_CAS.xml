@@ -1,0 +1,132 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A second pregnancy was complicated by IUGR detected at around 26 weeks gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>82</offset>
+                <text>Ultrasonography at 351/2 weeks of gestation showed a small fetus with shortness of all limbs and a very narrow chest (radiograph in Fig. 3).</text>
+            </sentence>
+            <sentence>
+                <offset>223</offset>
+                <text>Thickened skin was noted around the abdomen.</text>
+            </sentence>
+            <sentence>
+                <offset>268</offset>
+                <text>This was a female baby (II-II) and born at 38 1/7 weeks of gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>338</offset>
+                <text>She was small for gestational age (SGA) with a birth weight of 2,315 g and had Apgar scores of 8 and 9 at 1 and 5 min, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>471</offset>
+                <text>Echocardiogram showed a small patent ductus arteriosus (PDA) with left-to-right shunting and PFO with right to left shunting.</text>
+            </sentence>
+            <sentence>
+                <offset>597</offset>
+                <text>She developed direct hyperbilirubinemia.</text>
+            </sentence>
+            <sentence>
+                <offset>638</offset>
+                <text>A HIDA scan was consistent with cholestatic disease.</text>
+            </sentence>
+            <sentence>
+                <offset>691</offset>
+                <text>She was treated with ursodiol and vitamin K.</text>
+            </sentence>
+            <sentence>
+                <offset>736</offset>
+                <text>Renal ultrasound showed increased cortical echo density.</text>
+            </sentence>
+            <sentence>
+                <offset>793</offset>
+                <text>A skeletal survey showed proximal thumbs, mesomelic shortness, and rib anomalies affecting 7th, 8th, and 9th ribs.</text>
+            </sentence>
+            <sentence>
+                <offset>908</offset>
+                <text>At 2 weeks there was bitemporal narrowness, small eyes, upslanting palpebral fissures with epicanthal folds, cleft palate, microrethrognatia, midface hypoplasia, loose skin folds, posteriorly angulated ears, wide-spaced nipples, bridged palmar creases, left foot post-axial polydactyly, and fifth digit clinodactyly.</text>
+            </sentence>
+            <sentence>
+                <offset>1225</offset>
+                <text>The chest was narrow.</text>
+            </sentence>
+            <sentence>
+                <offset>1247</offset>
+                <text>Chromosomes were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1272</offset>
+                <text>Plasma amino acids were abnormal mostly related to liver dysfunction.</text>
+            </sentence>
+            <sentence>
+                <offset>1342</offset>
+                <text>Her liver disease remained stable with some improvement early on.</text>
+            </sentence>
+            <sentence>
+                <offset>1408</offset>
+                <text>She was discharged at 25 days.</text>
+            </sentence>
+            <sentence>
+                <offset>1439</offset>
+                <text>She was later on admitted to the hospital at 2 months with persistent conjugated hyperbilirubinemia and found to have a CMV infection.</text>
+            </sentence>
+            <sentence>
+                <offset>1574</offset>
+                <text>A liver biopsy and an intraoperative cholangiogram showed hypoplastic intrahepatic bile ducts, bridging portal fibrosis with bile duct proliferation, significant cholestasis, acute and chronic portal inflammation with cholangitis and patchy individual hepatocyte necrosis with mild lobular chronic inflammation.</text>
+            </sentence>
+            <sentence>
+                <offset>1886</offset>
+                <text>At 2 months her examination revealed a small OFC (33.5 cm &lt;3rd centile; Fig. 4) and dysmorphic features as noted above.</text>
+            </sentence>
+            <sentence>
+                <offset>2006</offset>
+                <text>She had multiple hospital admissions subsequently due to failure to thrive, febrile illnesses and coagulopathy complications.</text>
+            </sentence>
+            <sentence>
+                <offset>2132</offset>
+                <text>She received a G-button at age 5 months.</text>
+            </sentence>
+            <sentence>
+                <offset>2173</offset>
+                <text>At 13 months she presented to the emergency room with bleeding from the G-tube and poor vital signs due to a generalized coagulopathy.</text>
+            </sentence>
+            <sentence>
+                <offset>2308</offset>
+                <text>Attempts at resuscitation were unsuccessful.</text>
+            </sentence>
+            <sentence>
+                <offset>2353</offset>
+                <text>Her cause of death was a hypovolemic shock.</text>
+            </sentence>
+            <sentence>
+                <offset>2397</offset>
+                <text>Autopsy showed a brain weight of 765 g (expected 925 g) with cortical atrophy, a focal microdysgenesis in the parietal lobes, cortical atrophy of posterior frontal lobe, and ventriculomegaly.</text>
+            </sentence>
+            <sentence>
+                <offset>2589</offset>
+                <text>In addition she had two accessory spleens.</text>
+            </sentence>
+            <sentence>
+                <offset>2632</offset>
+                <text>Kidneys showed a chronic nephropathy with glomerulosclerosis and tubular atro-phy.</text>
+            </sentence>
+            <sentence>
+                <offset>2715</offset>
+                <text>The liver showed architectural distortion with loss of normal lobular configuration in many areas with expansion of the portal tracts by fibrosis and variable cholangiolar proliferation, focal bile stasis with plugging in more central sections, and mild portal inflammation with acute cholangitis.</text>
+            </sentence>
+            <sentence>
+                <offset>3013</offset>
+                <text>Cardiac examination showed left ventricular hypertrophy, and right atrial and ventricular dilatation.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,52 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A Japanese female infant was born at 37 weeks gestational age with a body weight of 2226 g without asphyxia in a non-consanguineous family.</text>
+            </sentence>
+            <sentence>
+                <offset>140</offset>
+                <text>She had no family history of kidney disease.</text>
+            </sentence>
+            <sentence>
+                <offset>185</offset>
+                <text>Prenatal ultrasound revealed bilateral enlarged and hyperechogenic kidneys.</text>
+            </sentence>
+            <sentence>
+                <offset>261</offset>
+                <text>During the neonatal period, she displayed dyspnoea and severe hypertension.</text>
+            </sentence>
+            <sentence>
+                <offset>337</offset>
+                <text>At 2 months old, her serum creatinine was 0.41 mg/dL.</text>
+            </sentence>
+            <sentence>
+                <offset>391</offset>
+                <text>Her renal function deteriorated gradually and, at 11 months old, she progressed to ESRD (serum creatinine 1.84 mg/dL) and peritoneal dialysis was initiated.</text>
+            </sentence>
+            <sentence>
+                <offset>548</offset>
+                <text>At 2 years old, acute pancreatitis due to haemorrhage of congenital pancreatic cysts prevented peritoneal dialysis and thereafter intermittent haemodialysis was initiated.</text>
+            </sentence>
+            <sentence>
+                <offset>720</offset>
+                <text>Ultrasound at two and a half years old revealed bilateral enlarged kidneys with diffuse microcysts (Fig. 2A, B), which resembled the salt-and-pepper appearance displayed by the kidneys of patients with ARPKD.</text>
+            </sentence>
+            <sentence>
+                <offset>929</offset>
+                <text>However, she was suspected to have ciliopathies other than ARPKD due to extrarenal manifestations including skeletal disorders (dolichocephaly, narrow thorax, polydactyly, and short stature) (Fig. 2C, D, E), congenital pancreatic cysts (Fig. 2F), retinal dystrophy, hydrocephalus, and psychomotor retardation in addition to Caroli disease (Fig. 2G).</text>
+            </sentence>
+            <sentence>
+                <offset>1279</offset>
+                <text>Based on these manifestations, she was diagnosed with Sensenbrenner syndrome</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

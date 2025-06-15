@@ -1,0 +1,92 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A 44-year-old woman who was seeking genetic counseling was referred to the clinic for evaluation of dysmorphic features and short stature.</text>
+            </sentence>
+            <sentence>
+                <offset>139</offset>
+                <text>She had been born after an uneventful pregnancy as the third child of first cousin-related parents of Turkish descent.</text>
+            </sentence>
+            <sentence>
+                <offset>258</offset>
+                <text>The remainder of the family history was non-contributory.</text>
+            </sentence>
+            <sentence>
+                <offset>316</offset>
+                <text>She had good verbal communication skills along with normal motor developmental milestones.</text>
+            </sentence>
+            <sentence>
+                <offset>407</offset>
+                <text>A formal psychometric evaluation was not made.</text>
+            </sentence>
+            <sentence>
+                <offset>454</offset>
+                <text>Unfortunately, due to social reasons, her schooling was interrupted at the elementary level.</text>
+            </sentence>
+            <sentence>
+                <offset>547</offset>
+                <text>Audiological assessment revealed bilateral, moderate degree, mixed type hearing loss.</text>
+            </sentence>
+            <sentence>
+                <offset>633</offset>
+                <text>She had undergone one reconstructive facial operation and a series of further operations were planned.</text>
+            </sentence>
+            <sentence>
+                <offset>739</offset>
+                <text>On examination, the patient had short-limb short stature, with height of 118 cm (&lt;3rd centile).</text>
+            </sentence>
+            <sentence>
+                <offset>835</offset>
+                <text>Head circumference was 55.5 cm (0.5 SD) and weight was 17 kg (&lt;3rd centile).</text>
+            </sentence>
+            <sentence>
+                <offset>912</offset>
+                <text>There was frontal bossing, temporal baldness, vertical skin creases of forehead, high arched eyebrows, narrow palpebral fissures with deep set globes, hypertelorism, low-set ears with posterior rotation and dysplasia of conchae, ear lobe and antitragus, preauricular skin tags, narrow auditory canals, a short neck, redundant skin folds at the back, and a low posterior hairline (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>1301</offset>
+                <text>She also had extreme limitation of movement of both upper and lower extremities including fixed flexion at the elbow joints and bilateral dislocation of the hips with fixed flexion.</text>
+            </sentence>
+            <sentence>
+                <offset>1484</offset>
+                <text>The main radiographic features were hypoplastic scapulae and iliac bones, short humerus and femurs, humeroradial synostosis, and mild brachydactyly (Fig. 2B,C).</text>
+            </sentence>
+            <sentence>
+                <offset>1645</offset>
+                <text>The neurocranium appeared small, there was thickening of the cranial vault, and the facial bones were more prominent compared to the neurocranium (Fig. 2A).</text>
+            </sentence>
+            <sentence>
+                <offset>1802</offset>
+                <text>Cranial computerized tomography demonstrated increased pericerebral spaces, interpreted as mild atrophy of brain and cerebellum.</text>
+            </sentence>
+            <sentence>
+                <offset>1931</offset>
+                <text>Abdominal ultrasonography revealed a hemorrhagic ovarian cyst and arcuate uterus.</text>
+            </sentence>
+            <sentence>
+                <offset>2014</offset>
+                <text>Endocrine work-up including serum FSH, LH, 17-OH progesterone, cortisone, DHEA sulphate, testosterone and free testosterone levels were all within normal values.</text>
+            </sentence>
+            <sentence>
+                <offset>2176</offset>
+                <text>Renal function tests, urine analysis, and HbA1C levels were also normal.</text>
+            </sentence>
+            <sentence>
+                <offset>2252</offset>
+                <text>On the basis of characteristic clinical and radiographic features, a diagnosis of Cousin syndrome was suspected.</text>
+            </sentence>
+            <sentence>
+                <offset>2365</offset>
+                <text>With informed consent of the patient, molecular investigations were started</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

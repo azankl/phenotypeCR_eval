@@ -1,0 +1,190 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 1 was a 3310 g (90th centile) female infant born to a then 36-year-old G4P2á3 at 37 2/7 weeks gestation via cesarean for breech presentation.</text>
+            </sentence>
+            <sentence>
+                <offset>150</offset>
+                <text>The pregnancy was complicated by prenatal ultrasound demonstrating craniosynostosis and polyhydramnios leading to suspicion for Crouzon syndrome.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001363</infon>
+                    <location length="16" offset="67"/>
+                    <text>craniosynostosis</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001561</infon>
+                    <location length="14" offset="88"/>
+                    <text>polyhydramnios</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>296</offset>
+                <text>At birth, she required immediate intubation.</text>
+            </sentence>
+            <sentence>
+                <offset>341</offset>
+                <text>Physical exam and imaging confirmed pansynostosis resulting in a cloverleaf skull as well as proptosis and shallow orbits.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011325</infon>
+                    <location length="13" offset="36"/>
+                    <text>pansynostosis</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002676</infon>
+                    <location length="16" offset="65"/>
+                    <text>cloverleaf skull</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000520</infon>
+                    <location length="9" offset="93"/>
+                    <text>proptosis</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000586</infon>
+                    <location length="14" offset="107"/>
+                    <text>shallow orbits</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>464</offset>
+                <text>Cutis gyrata was appreciated on her forehead and in the preauciular regjon (Fig. 1).</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="0"/>
+                    <text>Cutis gyrata</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="36"/>
+                    <text>forehead</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004450</infon>
+                    <location length="18" offset="56"/>
+                    <text>preauciular regjon</text>
+                </annotation>
+                <relation id="8">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010541</infon>
+                    <node refid="9" role="source"/>
+                    <node refid="7" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>549</offset>
+                <text>Postnatal retrospective examination of the prenatal 3D ultrasound images revealed irregularities of the scalp which were similar in appearance to the rugations of her cutis gyrata.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="104"/>
+                    <text>scalp</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="167"/>
+                    <text>cutis gyrata</text>
+                </annotation>
+                <relation id="13">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010541</infon>
+                    <node refid="11" role="source"/>
+                    <node refid="12" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>730</offset>
+                <text>There was also a paucity of scalp hair.</text>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002209</infon>
+                    <location length="21" offset="17"/>
+                    <text>paucity of scalp hair</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>770</offset>
+                <text>A hemangiomatous skin tag was noted on her chest, as well as, a prominent umbilical stump.</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010609</infon>
+                    <location length="8" offset="17"/>
+                    <text>skin tag</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001544</infon>
+                    <location length="25" offset="64"/>
+                    <text>prominent umbilical stump</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>861</offset>
+                <text>In addition, she had a sacral dimple, rugated labia majora and prominent clitoris.</text>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000960</infon>
+                    <location length="13" offset="23"/>
+                    <text>sacral dimple</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030913</infon>
+                    <location length="20" offset="38"/>
+                    <text>rugated labia majora</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008665</infon>
+                    <location length="18" offset="63"/>
+                    <text>prominent clitoris</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>944</offset>
+                <text>Based on the physical exam, molecular testing for BSS was sent and otolaryngology, neurosurgery, and plastic surgery consults were requested.</text>
+            </sentence>
+            <sentence>
+                <offset>1086</offset>
+                <text>She received a ventricuoperitoneal shunt on the first day of life due to hydrocephalus.</text>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000238</infon>
+                    <location length="13" offset="73"/>
+                    <text>hydrocephalus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1174</offset>
+                <text>Her hospital course was complicated by choanal stenosis and identification of a TCS on direct laryngoscopy/bronchoscopy.</text>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000452</infon>
+                    <location length="16" offset="39"/>
+                    <text>choanal stenosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1295</offset>
+                <text>Based on her poor clinical status with unlikely recovery, care was withdrawn at 8 days of age.</text>
+            </sentence>
+            <sentence>
+                <offset>1390</offset>
+                <text>Thereafter, she was found to have c.1707C&gt;G, resulting in p.Tyr375Cys mutation in FGFR2, which has been previously-reported in BSS.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

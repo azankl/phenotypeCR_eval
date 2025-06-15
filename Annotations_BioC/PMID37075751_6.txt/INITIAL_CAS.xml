@@ -1,0 +1,36 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 6 is a 10-year-old female with multiple congenital anomalies: choanal atresia requiring surgical repair, hydrocephalus with C0/C1 stenosis treated with ventriculocisternostomy, and cleft palate.</text>
+            </sentence>
+            <sentence>
+                <offset>206</offset>
+                <text>She was noted to have hypertelorism, low-set ears, and micrognathia.</text>
+            </sentence>
+            <sentence>
+                <offset>275</offset>
+                <text>She had a normal echocardiogram.</text>
+            </sentence>
+            <sentence>
+                <offset>308</offset>
+                <text>At age 10.3 years, her head circumference is 55.5 cm (+2 SD), height is 134 cm (-0.6 SD), and weight is 31 kg (-0.31 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>430</offset>
+                <text>Clinical exome sequencing identified a maternally inherited missense variant in POLR1A c.1442G&gt;A; p.</text>
+            </sentence>
+            <sentence>
+                <offset>530</offset>
+                <text>(Arg481Lys).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

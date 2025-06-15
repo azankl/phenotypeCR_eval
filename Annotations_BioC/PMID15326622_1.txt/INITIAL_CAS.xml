@@ -1,0 +1,168 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The propositus was born to an 18-year-old woman and a 23-year-old man.</text>
+            </sentence>
+            <sentence>
+                <offset>71</offset>
+                <text>He was born at 33 weeks of gestation by a normal vaginal delivery, with a birth weight of 1,814 g (10–25th centile) and a length of 40.6 cm (3rd–10th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>231</offset>
+                <text>He began walking at 15 months.</text>
+            </sentence>
+            <sentence>
+                <offset>262</offset>
+                <text>He had difficulty in rising from a sitting position and performed a Gower maneuver when attempting to stand.</text>
+            </sentence>
+            <sentence>
+                <offset>371</offset>
+                <text>He walked with a wide-based gait and often complained of leg pains.</text>
+            </sentence>
+            <sentence>
+                <offset>439</offset>
+                <text>At age 4 years, he was at the 25th centile for height and the 20th centile for weight.</text>
+            </sentence>
+            <sentence>
+                <offset>526</offset>
+                <text>He had lumbar lordosis, decreased reflexes, generalized weakness, and right cryptorchidism.</text>
+            </sentence>
+            <sentence>
+                <offset>618</offset>
+                <text>Biopsies of the right and left gastrocnemius by report showed muscle bundles with some variation in staining reaction.</text>
+            </sentence>
+            <sentence>
+                <offset>737</offset>
+                <text>The pale staining areas had poor definition of fibers, granularity, and fibrillation.</text>
+            </sentence>
+            <sentence>
+                <offset>823</offset>
+                <text>He was diagnosed with pseudohypertrophic muscular dystrophy.</text>
+            </sentence>
+            <sentence>
+                <offset>887</offset>
+                <text>He continued with the diagnosis of muscular dystrophy until age 17 years when a maternal aunt was diagnosed with PDD.</text>
+            </sentence>
+            <sentence>
+                <offset>1005</offset>
+                <text>He was unable to run and could only lift 5 pounds with each arm.</text>
+            </sentence>
+            <sentence>
+                <offset>1070</offset>
+                <text>He was pale and extremely thin.</text>
+            </sentence>
+            <sentence>
+                <offset>1102</offset>
+                <text>The shafts of his long bones were thickened.</text>
+            </sentence>
+            <sentence>
+                <offset>1147</offset>
+                <text>He had limited mobility at the shoulders, elbows, knees and hips, lumbar lordosis, genua valga, pronated flat feet, a wide-based, waddling gait, and poor muscular development.</text>
+            </sentence>
+            <sentence>
+                <offset>1323</offset>
+                <text>The skin over the tibiae was tightly stretched and shiny.</text>
+            </sentence>
+            <sentence>
+                <offset>1381</offset>
+                <text>He had hyperhidrosis of hands and feet, and delayed sexual maturation.</text>
+            </sentence>
+            <sentence>
+                <offset>1452</offset>
+                <text>Radiographs showed cortical thickening of the diaphyses of the femora, tibiae, fibulae, humeri, radii, and ulnae with narrowed medullary cavities.</text>
+            </sentence>
+            <sentence>
+                <offset>1599</offset>
+                <text>The metaphyses and epiphyses were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1641</offset>
+                <text>The skull showed thickening of the roofs of the orbits and the medial portion of the petrous bones.</text>
+            </sentence>
+            <sentence>
+                <offset>1741</offset>
+                <text>The bones of the hands and feet, pelvis, vertebrae, ribs, and clavicles were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1826</offset>
+                <text>Bone age was determined to be 12½ years at age 17 years.</text>
+            </sentence>
+            <sentence>
+                <offset>1886</offset>
+                <text>At age 18 years, he was 152 cm tall and weighed 32 kg.</text>
+            </sentence>
+            <sentence>
+                <offset>1941</offset>
+                <text>His linear growth began to accelerate at age 22.</text>
+            </sentence>
+            <sentence>
+                <offset>1990</offset>
+                <text>At age 25 years he reached 183 cm in height.</text>
+            </sentence>
+            <sentence>
+                <offset>2035</offset>
+                <text>At age 29 years he reported cold intolerance.</text>
+            </sentence>
+            <sentence>
+                <offset>2081</offset>
+                <text>He had cyanosis of nail beds, pectus excavatum, and cubitus valgus bilaterally.</text>
+            </sentence>
+            <sentence>
+                <offset>2161</offset>
+                <text>He now had markedly hyperactive deep tendon reflexes with otherwise normal neurological findings.</text>
+            </sentence>
+            <sentence>
+                <offset>2259</offset>
+                <text>He began taking cortisone at age 30 years.</text>
+            </sentence>
+            <sentence>
+                <offset>2302</offset>
+                <text>This resulted in a significant decrease in lower limb pain and fatigue.</text>
+            </sentence>
+            <sentence>
+                <offset>2374</offset>
+                <text>His muscle bulk and strength increased.</text>
+            </sentence>
+            <sentence>
+                <offset>2417</offset>
+                <text>At age 46 years, he presented with bilateral hip pain and decreased range of motion.</text>
+            </sentence>
+            <sentence>
+                <offset>2502</offset>
+                <text>Radiographs showed avascular necrosis of the femoral heads and bilateral acetabular dysplasia.</text>
+            </sentence>
+            <sentence>
+                <offset>2597</offset>
+                <text>He underwent bilateral hip surface replacements.</text>
+            </sentence>
+            <sentence>
+                <offset>2646</offset>
+                <text>He began having neck pain with limited range of motion of the cervical spine.</text>
+            </sentence>
+            <sentence>
+                <offset>2724</offset>
+                <text>Radiographs showed extensive spondylosis involving C4-5, C5-6, and C6-7.</text>
+            </sentence>
+            <sentence>
+                <offset>2800</offset>
+                <text>At age 56 years radiographs of the hips showed increasing resorption of the femoral neck.</text>
+            </sentence>
+            <sentence>
+                <offset>2890</offset>
+                <text>He underwent bilateral total hip replacements.</text>
+            </sentence>
+            <sentence>
+                <offset>2937</offset>
+                <text>He continued to have good muscle strength and endurance with daily cortisone therapy.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

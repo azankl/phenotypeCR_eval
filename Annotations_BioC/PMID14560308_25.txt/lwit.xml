@@ -1,0 +1,222 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 25 was a 11-year-old Portuguese boy.</text>
+            </sentence>
+            <sentence>
+                <offset>46</offset>
+                <text>Pregnancy and delivery were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>82</offset>
+                <text>His birth weight was 3.6 kg, length 51 cm and head circumference 36 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>154</offset>
+                <text>He was referred to the Genetic Clinic at the age of 8 months because of clinical findings of slightly delayed developmental milestones, cardiac defect (ventricular septum defect), right cryptorchidism and facial dysmorphic features (Figure 2).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001263</infon>
+                    <location length="32" offset="102"/>
+                    <text>delayed developmental milestones</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001627</infon>
+                    <location length="14" offset="136"/>
+                    <text>cardiac defect</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001629</infon>
+                    <location length="25" offset="152"/>
+                    <text>ventricular septum defect</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000028</infon>
+                    <location length="14" offset="186"/>
+                    <text>cryptorchidism</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001999</infon>
+                    <location length="26" offset="205"/>
+                    <text>facial dysmorphic features</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>398</offset>
+                <text>At present, he is of low normal intelligence (WISC-R scale: IQ 80) with impairment in expressive language and speech articulation difficulties, emotional behaviour problems with occasional temper tantrums, short stature (132.5 cm; 5th percentile), moderate rhizomelia of upper and lower limbs, short hands with cutaneous syndactyly of fingers, a surgically corrected right-sided cryptorchidism and over-riding scrotum.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="72"/>
+                    <text>impairment</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="19" offset="86"/>
+                    <text>expressive language</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009088</infon>
+                    <location length="32" offset="110"/>
+                    <text>speech articulation difficulties</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100851</infon>
+                    <location length="28" offset="144"/>
+                    <text>emotional behaviour problems</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025160</infon>
+                    <location length="15" offset="189"/>
+                    <text>temper tantrums</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004322</infon>
+                    <location length="13" offset="206"/>
+                    <text>short stature</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="257"/>
+                    <text>rhizomelia</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="257"/>
+                    <text>rhizomelia</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="271"/>
+                    <text>upper</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="281"/>
+                    <text>lower limbs</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004279</infon>
+                    <location length="11" offset="294"/>
+                    <text>short hands</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010554</infon>
+                    <location length="31" offset="311"/>
+                    <text>cutaneous syndactyly of fingers</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000028</infon>
+                    <location length="14" offset="379"/>
+                    <text>cryptorchidism</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000049</infon>
+                    <location length="19" offset="398"/>
+                    <text>over-riding scrotum</text>
+                </annotation>
+                <relation id="7">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002474</infon>
+                    <node refid="8" role="source"/>
+                    <node refid="6" role="target"/>
+                </relation>
+                <relation id="14">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004991</infon>
+                    <node refid="15" role="source"/>
+                    <node refid="13" role="target"/>
+                </relation>
+                <relation id="17">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012106</infon>
+                    <node refid="18" role="source"/>
+                    <node refid="16" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>817</offset>
+                <text>Craniofacial findings included relative macrocephaly (OFC 55 cm; 90th percentile), frontal bossing, hypertelorism (inner canthal distance 3.5 cm; &gt;97th percentile – outer canthal distance 11 cm; &gt;97th percentile), down slant of palpebral fissures, short nose with anteverted nostrils, wide philtrum and thin upper lip.</text>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000256</infon>
+                    <location length="12" offset="40"/>
+                    <text>macrocephaly</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002007</infon>
+                    <location length="15" offset="83"/>
+                    <text>frontal bossing</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="100"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000494</infon>
+                    <location length="32" offset="214"/>
+                    <text>down slant of palpebral fissures</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003196</infon>
+                    <location length="10" offset="248"/>
+                    <text>short nose</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000463</infon>
+                    <location length="19" offset="264"/>
+                    <text>anteverted nostrils</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000289</infon>
+                    <location length="13" offset="285"/>
+                    <text>wide philtrum</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000219</infon>
+                    <location length="14" offset="303"/>
+                    <text>thin upper lip</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1136</offset>
+                <text>In the past, the chromosomal analysis in peripheral blood lymphocytes had revealed a 46,XY(90%)/47,XYY(10%) mosaic.</text>
+            </sentence>
+            <sentence>
+                <offset>1252</offset>
+                <text>Molecular analysis revealed a missense mutation in exon 3 (614 G&gt;T) that causes a change in the residue 205 from Ser to Ile.</text>
+            </sentence>
+            <sentence>
+                <offset>1377</offset>
+                <text>The same mutation was found in his mother and in her three sisters, who have mild phenotypical signs (hypertelorism, widow's peak).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

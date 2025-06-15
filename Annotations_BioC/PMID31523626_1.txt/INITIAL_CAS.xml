@@ -1,0 +1,92 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿A 25-year-old pregnant Syrian woman was referred to the perinatology clinic for further screening due to a suspected skeletal anomaly at 27 weeks' gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>159</offset>
+                <text>The previous obstetric history was uneventful and the couple was non consanguineous.</text>
+            </sentence>
+            <sentence>
+                <offset>244</offset>
+                <text>The first trimester screening was negative, while a detailed sonography scan revealed short long bones (&lt;1st percentile for all long bones, including femur, tibia, fibula, humerus, radius and ulna) with a small thorax and polihydroamnios.</text>
+            </sentence>
+            <sentence>
+                <offset>483</offset>
+                <text>The family was provided genetic counseling related to the high suspicion of lethal skeletal dysplasia.</text>
+            </sentence>
+            <sentence>
+                <offset>586</offset>
+                <text>After detailed counseling, a cordocentesis was performed.</text>
+            </sentence>
+            <sentence>
+                <offset>644</offset>
+                <text>All sonographic findings suggested skeletal dysplasia; a conventional chromosomal analysis confirmed a normal 46,XY karyotype, while an exome sequencing analysis revealed ACG2.</text>
+            </sentence>
+            <sentence>
+                <offset>821</offset>
+                <text>After a 10-week follow-up period, a cesarean delivery was carried out at 39 weeks' gestation due to a previous history of cesarean section.</text>
+            </sentence>
+            <sentence>
+                <offset>962</offset>
+                <text>The patient had a 1 and 5 min.</text>
+            </sentence>
+            <sentence>
+                <offset>993</offset>
+                <text>APGAR score of 4 and 5 at birth, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>1040</offset>
+                <text>The patient was intubated after delivery due to a lack of spontaneous respiration and was admitted to the Level III Neonatal Intensive Care Unit (NICU), Bursa, Turkey.</text>
+            </sentence>
+            <sentence>
+                <offset>1208</offset>
+                <text>The birth weight was 2780 gr (3-10 percentile), height was 38 cm (below 3 percentile), and head circumference was 37 cm (90-97 percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>1348</offset>
+                <text>A physical examination revealed extremely short extremities, abdominal distention, a small chest, a prominent forehead and a flat nasal bridge (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>1503</offset>
+                <text>Ophthalmological examination of the patient was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1559</offset>
+                <text>The patient had severe respiratory distress, and follow-up was continued with high frequency oscillation ventilation (HFOV), as conventional mechanical ventilator settings failed to achieve the target saturation level.</text>
+            </sentence>
+            <sentence>
+                <offset>1778</offset>
+                <text>A peripheral vascular line could not be established due to extensive edema in the body, for which an umbilical catheter was inserted and total parenteral nutrition was initiated.</text>
+            </sentence>
+            <sentence>
+                <offset>1958</offset>
+                <text>A cranial and abdominal ultrasound revealed normal findings, while an X-ray examination revealed a short tubular bone structure, metaphyseal widening, short ribs, a small chest and a lack of ossification in the pelvis (Figure 2).</text>
+            </sentence>
+            <sentence>
+                <offset>2188</offset>
+                <text>A blood sample was obtained for genetic analysis with an antenatal pre diagnosis of ACG2.</text>
+            </sentence>
+            <sentence>
+                <offset>2278</offset>
+                <text>An echocardiography performed on postnatal day 4 revealed pulmonary hypertension and the patient was administered nitric oxide therapy for 2 days.</text>
+            </sentence>
+            <sentence>
+                <offset>2425</offset>
+                <text>Respiratory distress persisted in the follow-up period and the patient was followed with HFOV due to carbon dioxide retention with conventional ventilator settings.</text>
+            </sentence>
+            <sentence>
+                <offset>2590</offset>
+                <text>The patient died of respiratory insufficiency on postnatal day 25.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

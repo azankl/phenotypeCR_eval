@@ -1,0 +1,158 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>An 8-y-old boy, who was the second child of non consanguineous parents, was referred for evaluation of short stature noticed since 5 y of age.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004322</infon>
+                    <location length="13" offset="103"/>
+                    <text>short stature</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>143</offset>
+                <text>He was normal at birth except for sparse hair.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008070</infon>
+                    <location length="11" offset="34"/>
+                    <text>sparse hair</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>190</offset>
+                <text>He had normal development and his scholastic performance was good.</text>
+            </sentence>
+            <sentence>
+                <offset>257</offset>
+                <text>He did not have any symptoms of immunodeficiency and malabsorption.</text>
+            </sentence>
+            <sentence>
+                <offset>325</offset>
+                <text>His parents were of normal height.</text>
+            </sentence>
+            <sentence>
+                <offset>360</offset>
+                <text>On clinical examination, his weight was 20.7 kg (3rd centile for age), height 99 cm (less than 3rd centile for age), upper segment (US): lower segment (LS) ratio 1.2:1 (infantile), and arm span 109 cm which was greater than his height.</text>
+            </sentence>
+            <sentence>
+                <offset>596</offset>
+                <text>He also had a mild scoliosis to left and brachydactyly with 5th digit clinodactyly, bilaterally.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002650</infon>
+                    <location length="9" offset="19"/>
+                    <text>scoliosis</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001156</infon>
+                    <location length="13" offset="41"/>
+                    <text>brachydactyly</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004209</infon>
+                    <location length="22" offset="60"/>
+                    <text>5th digit clinodactyly</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>693</offset>
+                <text>He had sparse and light colored hair, eyebrows and eyelashes.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="7"/>
+                    <text>sparse</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="7"/>
+                    <text>sparse</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="7"/>
+                    <text>sparse</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="32"/>
+                    <text>hair</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="38"/>
+                    <text>eyebrows</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="51"/>
+                    <text>eyelashes</text>
+                </annotation>
+                <relation id="7">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008070</infon>
+                    <node refid="8" role="source"/>
+                    <node refid="6" role="target"/>
+                </relation>
+                <relation id="11">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0045075</infon>
+                    <node refid="12" role="source"/>
+                    <node refid="10" role="target"/>
+                </relation>
+                <relation id="13">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000653</infon>
+                    <node refid="14" role="source"/>
+                    <node refid="9" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>755</offset>
+                <text>His blood counts, serum alkaline phosphatase (215 U/dl) and immunoglobulin profile were normal (IgG 1660 mg/dl, IgE 343 IU/ml, IgM 81.2 mg/dl and Ig A 303 mg/dl).</text>
+            </sentence>
+            <sentence>
+                <offset>918</offset>
+                <text>His radiographs revealed, widened metaphysis with irregularities and brachydactyly (Fig. 1) As the features were suggestive of cartilage hair hypoplasia, sequencing of RMRP gene was done and a homozygous g. 70 A &gt; G mutation was identified.</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003016</infon>
+                    <location length="18" offset="26"/>
+                    <text>widened metaphysis</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="34"/>
+                    <text>metaphysis</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="50"/>
+                    <text>irregularities</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001156</infon>
+                    <location length="13" offset="69"/>
+                    <text>brachydactyly</text>
+                </annotation>
+                <relation id="18">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003025</infon>
+                    <node refid="16" role="source"/>
+                    <node refid="17" role="target"/>
+                </relation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

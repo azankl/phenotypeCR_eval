@@ -1,0 +1,172 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 11 was the child of a first cousin marriage.</text>
+            </sentence>
+            <sentence>
+                <offset>53</offset>
+                <text>He had facial asymmetry and downslanting palpebral fissures, but no midface or mandibular malformations (Fig. 1h).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000324</infon>
+                    <location length="16" offset="7"/>
+                    <text>facial asymmetry</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000494</infon>
+                    <location length="31" offset="28"/>
+                    <text>downslanting palpebral fissures</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>168</offset>
+                <text>Ears were prominent, low set and posteriorly rotated.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="0"/>
+                    <text>Ears</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="0"/>
+                    <text>Ears</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="0"/>
+                    <text>Ears</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="10"/>
+                    <text>prominent</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="21"/>
+                    <text>low set</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="19" offset="33"/>
+                    <text>posteriorly rotated</text>
+                </annotation>
+                <relation id="7">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000411</infon>
+                    <node refid="3" role="source"/>
+                    <node refid="6" role="target"/>
+                </relation>
+                <relation id="9">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000369</infon>
+                    <node refid="5" role="source"/>
+                    <node refid="8" role="target"/>
+                </relation>
+                <relation id="11">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000358</infon>
+                    <node refid="4" role="source"/>
+                    <node refid="10" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>222</offset>
+                <text>On the right hand, he had a thumb hypoplasia with thenar atrophy; the X-ray showed hypoplasia of the first metatarsal and phalanges (Fig. 2s, t).</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009778</infon>
+                    <location length="16" offset="28"/>
+                    <text>thumb hypoplasia</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003393</infon>
+                    <location length="14" offset="50"/>
+                    <text>thenar atrophy</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="83"/>
+                    <text>hypoplasia</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="83"/>
+                    <text>hypoplasia</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="101"/>
+                    <text>first metatarsal</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="101"/>
+                    <text>first</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="122"/>
+                    <text>phalanges</text>
+                </annotation>
+                <relation id="16">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010105</infon>
+                    <node refid="17" role="source"/>
+                    <node refid="15" role="target"/>
+                </relation>
+                <relation id="18">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009658</infon>
+                    <node refid="19" role="source"/>
+                    <node refid="14" role="target"/>
+                </relation>
+                <relation id="21">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="20" role="source"/>
+                    <node refid="19" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>368</offset>
+                <text>In addition, there was a bilateral fifth finger clinodactyly.</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004209</infon>
+                    <location length="25" offset="35"/>
+                    <text>fifth finger clinodactyly</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>430</offset>
+                <text>On the left side, he had a mild equinovarus foot malformation (Fig. 3f).</text>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001762</infon>
+                    <location length="11" offset="32"/>
+                    <text>equinovarus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>503</offset>
+                <text>He only had a single kidney on the left side.</text>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000122</infon>
+                    <location length="13" offset="14"/>
+                    <text>single kidney</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

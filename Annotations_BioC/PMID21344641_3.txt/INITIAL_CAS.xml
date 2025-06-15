@@ -1,0 +1,76 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 3 is the first child of nonconsanguineous parents; her mother is English, father Spanish.</text>
+            </sentence>
+            <sentence>
+                <offset>98</offset>
+                <text>She had a full head of shoulder length hair at birth and excessive hair growth over her body and limbs.</text>
+            </sentence>
+            <sentence>
+                <offset>202</offset>
+                <text>Her face is shown in Figure 1b.</text>
+            </sentence>
+            <sentence>
+                <offset>234</offset>
+                <text>Her early developmental milestones were delayed; she sat independently at 9 months, crawled at 13 months, and walked at 18 months.</text>
+            </sentence>
+            <sentence>
+                <offset>368</offset>
+                <text>At age 7 years she was referred for generalized hypertrichosis.</text>
+            </sentence>
+            <sentence>
+                <offset>432</offset>
+                <text>Although she was attending normal school she was experiencing some learning difficulties and behavior problems with frequent mood swings.</text>
+            </sentence>
+            <sentence>
+                <offset>570</offset>
+                <text>She had an unusual facial appearance (Fig. 5a), a muscular build, broad hands, and deep palmar creases.</text>
+            </sentence>
+            <sentence>
+                <offset>674</offset>
+                <text>Her echocardiogram showed left ventricular hypertrophy with a central jet of aortic regurgitation.</text>
+            </sentence>
+            <sentence>
+                <offset>776</offset>
+                <text>She developed some communication difficulties that became more apparent in her teenage years.</text>
+            </sentence>
+            <sentence>
+                <offset>870</offset>
+                <text>Following psychiatric and neuro-psychological assessments it was concluded that she had manifestations of Asperger syndrome.</text>
+            </sentence>
+            <sentence>
+                <offset>995</offset>
+                <text>She also developed obsessive traits, has started to hoard objects and has motor and verbal tics that worsen when she is anxious.</text>
+            </sentence>
+            <sentence>
+                <offset>1124</offset>
+                <text>At age 19 years her behavior had deteriorated and some of the changes were consistent with frontal lobe deficit.</text>
+            </sentence>
+            <sentence>
+                <offset>1237</offset>
+                <text>An MRI showed normal appearances of the cerebral parenchyma and no evidence of significant cerebral atrophy.</text>
+            </sentence>
+            <sentence>
+                <offset>1346</offset>
+                <text>However, there was mild enlargement of the pituitary fossa and moderate enlargement of the pituitary gland (10 mm by 11 mm) extending into the suprasellar cistern.</text>
+            </sentence>
+            <sentence>
+                <offset>1510</offset>
+                <text>Her pituitary gland is being monitored by interval scanning and has remained stable with no evidence of any clinical or endocrine effects at the present time.</text>
+            </sentence>
+            <sentence>
+                <offset>1669</offset>
+                <text>At her last cardiac review at age 19 years she had mild aortic valve regurgitation and mild septal hypertrophy that had not progressed.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

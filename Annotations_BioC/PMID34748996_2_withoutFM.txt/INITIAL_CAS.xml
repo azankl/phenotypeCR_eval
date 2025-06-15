@@ -1,0 +1,76 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿A 4 years old Egyptian male patient presented to LMSDC, NRC with multiple congenital anomalies, delayed walking, delayed speech and a patent ductus arteriosus (PDA), which surgically corrected at the age of one and half years.</text>
+            </sentence>
+            <sentence>
+                <offset>228</offset>
+                <text>He was born to first cousin parents.</text>
+            </sentence>
+            <sentence>
+                <offset>265</offset>
+                <text>There was history of maternal gestational diabetes mellitus which was diagnosed in the 4th month of pregnancy, and was controlled with subcutaneous insulin untill the end of pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>450</offset>
+                <text>Prenatal ultrasound revealed congenital heart disease at 16 weeks of pregnancy, bilateral talipes, and abnormal skull shape.</text>
+            </sentence>
+            <sentence>
+                <offset>576</offset>
+                <text>On physical examination, the patient had brachycephaly, trigonocephaly, dysmorphic features in the form of epicanthic folds, bilateral squint, broad nasal bridge, long philtrum, thick lips, and low set ears.</text>
+            </sentence>
+            <sentence>
+                <offset>784</offset>
+                <text>Both hands had brachydactyly and soft tissue syndactyly of 3rd and 4th fingers with medially deviated thumbs.</text>
+            </sentence>
+            <sentence>
+                <offset>894</offset>
+                <text>Bilateral genu valgum and talipes deformity with medially and posteriorly rotated feet were noted.</text>
+            </sentence>
+            <sentence>
+                <offset>993</offset>
+                <text>Both feet had preaxial polydactyly, soft tissue syndacyly and brachydactyly of all toes (Fig. 2B–G).</text>
+            </sentence>
+            <sentence>
+                <offset>1094</offset>
+                <text>Orodental evaluation showed long philtrum, everted lower lip open bite and high arched palate.</text>
+            </sentence>
+            <sentence>
+                <offset>1189</offset>
+                <text>Vineland scale revealed an IQ score of 75.</text>
+            </sentence>
+            <sentence>
+                <offset>1233</offset>
+                <text>Anthropometric measurements showed height of 94.1 cm (−1.74 SD), weight of 18Kgm (+0.74 SD) and head circumference of 50.6 cm (−0.38 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>1372</offset>
+                <text>Echocardiography revealed a closed PDA.</text>
+            </sentence>
+            <sentence>
+                <offset>1412</offset>
+                <text>Scrotal ultrasound examination showed bilateral undescended testes.</text>
+            </sentence>
+            <sentence>
+                <offset>1480</offset>
+                <text>Brain CT showed premature closure of metopic suture and brain MRI showed mild atrophic brain changes.</text>
+            </sentence>
+            <sentence>
+                <offset>1582</offset>
+                <text>Hearing test was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1607</offset>
+                <text>Chromosomal studies by conventional G-banded karyotype showed a normal male karyotype (46, XY).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

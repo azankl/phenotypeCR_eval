@@ -1,0 +1,142 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This girl is the first child of healthy non-consanguineous Korean parents.</text>
+            </sentence>
+            <sentence>
+                <offset>75</offset>
+                <text>She was noted to have a flat face, grooved nasal tip, and crumpled ears with forward facing lobes at birth.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012368</infon>
+                    <location length="9" offset="24"/>
+                    <text>flat face</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004112</infon>
+                    <location length="17" offset="35"/>
+                    <text>grooved nasal tip</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009901</infon>
+                    <location length="13" offset="58"/>
+                    <text>crumpled ears</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="67"/>
+                    <text>ears</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="20" offset="77"/>
+                    <text>forward facing lobes</text>
+                </annotation>
+                <relation id="6">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009909</infon>
+                    <node refid="4" role="source"/>
+                    <node refid="5" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>183</offset>
+                <text>At the age of 2 months, she was diagnosed with bilateral cataracts that were promptly surgically corrected.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000518</infon>
+                    <location length="9" offset="57"/>
+                    <text>cataracts</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>291</offset>
+                <text>She had no dental anomalies, either in shape or timing of eruption.</text>
+            </sentence>
+            <sentence>
+                <offset>359</offset>
+                <text>She had a developmental delay especially important in motor milestones exacerbated by cerebellar ataxia.</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001263</infon>
+                    <location length="19" offset="10"/>
+                    <text>developmental delay</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001251</infon>
+                    <location length="17" offset="86"/>
+                    <text>cerebellar ataxia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>464</offset>
+                <text>At 5 years of age, she is still unable to ambulate independently but can stand with assistance.</text>
+            </sentence>
+            <sentence>
+                <offset>560</offset>
+                <text>Radiographic examination revealed a generalized severe epiphyseal disorder with almost absent ossification of the capital femoral epiphyses and micro-epiphyses of the long bones.</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005930</infon>
+                    <location length="19" offset="55"/>
+                    <text>epiphyseal disorder</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008820</infon>
+                    <location length="52" offset="87"/>
+                    <text>absent ossification of the capital femoral epiphyses</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010585</infon>
+                    <location length="33" offset="144"/>
+                    <text>micro-epiphyses of the long bones</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>739</offset>
+                <text>There were no coronal clefts (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>778</offset>
+                <text>MRI of the brain at 3 years of age showed prominent cerebellar folae, shrunken vermis, and dilated cisterns surrounding the cerebellum indicative of marked cerebellar atrophy.</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [Neurology]</infon>
+                    <location length="26" offset="42"/>
+                    <text>prominent cerebellar folae</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001320</infon>
+                    <location length="15" offset="70"/>
+                    <text>shrunken vermis</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002119</infon>
+                    <location length="16" offset="91"/>
+                    <text>dilated cisterns</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001272</infon>
+                    <location length="18" offset="156"/>
+                    <text>cerebellar atrophy</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,56 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿A 35-year-old Italian primigravida was referred to our genetic unit at 18-week gestation (WG) due to abnormal ultrasonographic findings.</text>
+            </sentence>
+            <sentence>
+                <offset>138</offset>
+                <text>The parents of the fetus were non-consanguineous, and the familial history did not reveal any relevant information.</text>
+            </sentence>
+            <sentence>
+                <offset>254</offset>
+                <text>Informed written consent for both diagnostic and research purposes was obtained from the parents.</text>
+            </sentence>
+            <sentence>
+                <offset>353</offset>
+                <text>A three-dimensional ultrasound was performed to examine the fetus.</text>
+            </sentence>
+            <sentence>
+                <offset>420</offset>
+                <text>The fetal 3D ultrasound examination showed a brachycephaly, a prominent abdomen, short limbs (&lt;at the third centile), a facial dysmorphism characterized by abnormal implantation of the ears, microretrognathia, frontal bossing, a long philtrum, and congenital megalophthalmos.</text>
+            </sentence>
+            <sentence>
+                <offset>696</offset>
+                <text>The three-dimensional rendering of the fetal skeleton showed reduced ossification of the sacrum, iliac spines, and arched femurs (Figure 1A).</text>
+            </sentence>
+            <sentence>
+                <offset>838</offset>
+                <text>Amniocentesis performed at 19-WG for fetal karyotyping and array-CGH were negative.</text>
+            </sentence>
+            <sentence>
+                <offset>923</offset>
+                <text>At 20-WG gestation, the parents decided to interrupt the pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>991</offset>
+                <text>Postmortem radiography confirmed reduced ossification of the sacrum and arched femurs (Figure 1B).</text>
+            </sentence>
+            <sentence>
+                <offset>1090</offset>
+                <text>An autopsy was also performed (Figure 1C), and a cleft palate was observed.</text>
+            </sentence>
+            <sentence>
+                <offset>1166</offset>
+                <text>The prenatal and postnatal findings were strongly suggestive of skeletal dysplasia, in particular, of achondrogenesis type 2.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

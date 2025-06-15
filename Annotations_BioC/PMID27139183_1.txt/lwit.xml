@@ -1,0 +1,312 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Our proband (IV-1, Fig. 1) was referred to our genetics center in Indianapolis at age 16 years for the genetic evaluation of her sensorineural hearing loss.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000407</infon>
+                    <location length="26" offset="129"/>
+                    <text>sensorineural hearing loss</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>157</offset>
+                <text>Her past medical history indicated a normal pregnancy and perinatal period.</text>
+            </sentence>
+            <sentence>
+                <offset>233</offset>
+                <text>Birth was at 38 weeks gestation with a birth weight of 2.358 kg (5th centile) and a length of 53 cm (97th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>349</offset>
+                <text>Her early childhood was unremarkable except for the development of multiple finger contractures beginning at age 3 years, which have gotten worse with time.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0034681</infon>
+                    <location length="19" offset="76"/>
+                    <text>finger contractures</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>506</offset>
+                <text>At the age of 4, she was found to have an estimated 34% sensorineural hearing loss.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000407</infon>
+                    <location length="26" offset="56"/>
+                    <text>sensorineural hearing loss</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>590</offset>
+                <text>By age 16, her hearing loss had advanced to 58% of normal.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000365</infon>
+                    <location length="12" offset="15"/>
+                    <text>hearing loss</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>649</offset>
+                <text>Since age 4 our patient had been using hearing aids.</text>
+            </sentence>
+            <sentence>
+                <offset>705</offset>
+                <text>Also at some time during her childhood, she developed chronic joint pain involving the ­­hips and lower back.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="62"/>
+                    <text>joint pain</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="62"/>
+                    <text>joint pain</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="89"/>
+                    <text>hips</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="98"/>
+                    <text>lower back</text>
+                </annotation>
+                <relation id="6">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003365</infon>
+                    <node refid="7" role="source"/>
+                    <node refid="5" role="target"/>
+                </relation>
+                <relation id="9">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003419</infon>
+                    <node refid="10" role="source"/>
+                    <node refid="8" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>815</offset>
+                <text>Because of her contractures and the joint pain at the age of 6, she was evaluated at Chicago's Shriners Hospital for Children.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0034681</infon>
+                    <location length="12" offset="15"/>
+                    <text>contractures</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002829</infon>
+                    <location length="10" offset="36"/>
+                    <text>joint pain</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>942</offset>
+                <text>Here, her digital anomalies were thought to be post-traumatic.</text>
+            </sentence>
+            <sentence>
+                <offset>1005</offset>
+                <text>An attempt to surgically correct the contractures there was unsuccessful.</text>
+            </sentence>
+            <sentence>
+                <offset>1079</offset>
+                <text>She also was found to have scoliosis.</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002650</infon>
+                    <location length="9" offset="27"/>
+                    <text>scoliosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1117</offset>
+                <text>A head MRI at age 12 was within normal limits (Fig. 2).</text>
+            </sentence>
+            <sentence>
+                <offset>1176</offset>
+                <text>When we saw her at the age of 16, her past physical, intellectual, and social development had been normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1283</offset>
+                <text>At the ages of 8 and 10, she had experienced two tibial stress fractures.</text>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0041143</infon>
+                    <location length="23" offset="49"/>
+                    <text>tibial stress fractures</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1357</offset>
+                <text>She also had surgery to correct misalignment of the right hip.</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="32"/>
+                    <text>misalignment</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="3" offset="58"/>
+                    <text>hip</text>
+                </annotation>
+                <relation id="16">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002673</infon>
+                    <node refid="17" role="source"/>
+                    <node refid="15" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1420</offset>
+                <text>On physical exam, her height was 170 cm (90th centile), weight was 74.3 kg (90–95th centile), and OFC was 52 cm (−2 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>1541</offset>
+                <text>In addition, she had superficial telangiectasia over the nose, long, thin, and contracted fingers, mild scoliosis, genu valgum, and a leg length discrepancy of 1.6 cm with the left being longer than the right.</text>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="33"/>
+                    <text>telangiectasia</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="57"/>
+                    <text>nose</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="63"/>
+                    <text>long</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="69"/>
+                    <text>thin</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0034681</infon>
+                    <location length="18" offset="79"/>
+                    <text>contracted fingers</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="90"/>
+                    <text>fingers</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="90"/>
+                    <text>fingers</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002650</infon>
+                    <location length="9" offset="104"/>
+                    <text>scoliosis</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002857</infon>
+                    <location length="11" offset="115"/>
+                    <text>genu valgum</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100559</infon>
+                    <location length="22" offset="134"/>
+                    <text>leg length discrepancy</text>
+                </annotation>
+                <relation id="19">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007380</infon>
+                    <node refid="20" role="source"/>
+                    <node refid="18" role="target"/>
+                </relation>
+                <relation id="22">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100807</infon>
+                    <node refid="23" role="source"/>
+                    <node refid="21" role="target"/>
+                </relation>
+                <relation id="25">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001238</infon>
+                    <node refid="26" role="source"/>
+                    <node refid="24" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1751</offset>
+                <text>Radiologic images revealed a right coxa valga of the right femoral neck, the head of which was laterally displaced with 30% uncovering.</text>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002673</infon>
+                    <location length="10" offset="35"/>
+                    <text>coxa valga</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="59"/>
+                    <text>femoral</text>
+                </annotation>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="77"/>
+                    <text>head</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="105"/>
+                    <text>displaced</text>
+                </annotation>
+                <relation id="33">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="34" role="source"/>
+                    <node refid="32" role="target"/>
+                </relation>
+                <relation id="36">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006453</infon>
+                    <node refid="32" role="source"/>
+                    <node refid="35" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1887</offset>
+                <text>The left femoral head was medially displaced.</text>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="12" offset="9"/>
+                    <text>femoral head</text>
+                </annotation>
+                <annotation id="38">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="18" offset="26"/>
+                    <text>medially displaced</text>
+                </annotation>
+                <relation id="39">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="37" role="source"/>
+                    <node refid="38" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1933</offset>
+                <text>Sequencing of the fibroblast growth factor receptor 3 (FGFR3) gene revealed a c.1915G&gt;A (pR621H) transition in exon 15 of the FGFR3.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

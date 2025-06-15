@@ -1,0 +1,68 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The female proposita (Fig. 1) was delivered by cesarean at 36 weeks gestation due to breech presentation with normal birth parameters.</text>
+            </sentence>
+            <sentence>
+                <offset>135</offset>
+                <text>A two-vessel umbilical cord, hypertelorism and a wide metopic suture were noted at birth.</text>
+            </sentence>
+            <sentence>
+                <offset>225</offset>
+                <text>Her hearing and newborn metabolic screening tests were unremarkable and she was discharged from the hospital on day 4 of life.</text>
+            </sentence>
+            <sentence>
+                <offset>355</offset>
+                <text>She was referred to Genetics at 5 months for hypertelorism.</text>
+            </sentence>
+            <sentence>
+                <offset>415</offset>
+                <text>Growth and development were normal at that time.</text>
+            </sentence>
+            <sentence>
+                <offset>464</offset>
+                <text>She had a widow's peak, mild frontal bossing and a widened metopic suture.</text>
+            </sentence>
+            <sentence>
+                <offset>539</offset>
+                <text>She had telecanthus and ocular hypertelorism, with an inner canthal distance (ICD) of 3.5 cm (≫97th centile), interpupillary distance (IPD) of 5.2 cm (≫97th centile) and outer canthal distance (OCD) of 8.2 cm (≫97th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>765</offset>
+                <text>The nasal bridge was broad and the nasal tip was bifid.</text>
+            </sentence>
+            <sentence>
+                <offset>821</offset>
+                <text>Her ears were slightly low-set.</text>
+            </sentence>
+            <sentence>
+                <offset>853</offset>
+                <text>The philtrum was relatively long and the mouth had slightly downturned corners.</text>
+            </sentence>
+            <sentence>
+                <offset>933</offset>
+                <text>Her neck was normal and there was no chest deformity.</text>
+            </sentence>
+            <sentence>
+                <offset>987</offset>
+                <text>She had a small, dystrophic left fifth toenail, but her digits and nails were otherwise unremarkable.</text>
+            </sentence>
+            <sentence>
+                <offset>1092</offset>
+                <text>A cranial ultrasound performed at 2 months of age had shown no abnormalities other than a right choroid plexus cyst and a left ependymal cyst.</text>
+            </sentence>
+            <sentence>
+                <offset>1235</offset>
+                <text>Skull radiographs showed no evidence of craniosynostosis and further cranial imaging was declined.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

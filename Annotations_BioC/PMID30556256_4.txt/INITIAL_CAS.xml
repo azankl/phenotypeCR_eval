@@ -1,0 +1,56 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 4 is a white Scottish male from a nonconsanguineous family.</text>
+            </sentence>
+            <sentence>
+                <offset>68</offset>
+                <text>Bilateral talipes equinovarus was noted on antenatal ultrasound.</text>
+            </sentence>
+            <sentence>
+                <offset>133</offset>
+                <text>He was delivered at 41 weeks gestation by elective cesarean section, with a birth weight of 3.77 kg (50th–75th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>254</offset>
+                <text>He had severe developmental delay.</text>
+            </sentence>
+            <sentence>
+                <offset>289</offset>
+                <text>He first walked at 5 years of age, first words were at 2 years and 6 months of age, and he is not toilet trained.</text>
+            </sentence>
+            <sentence>
+                <offset>406</offset>
+                <text>On assessment at the age of 8 years, he had brachycephaly, a flat face, frontal hair upsweep, highly arched eyebrows, hypertelorism, epicanthic folds, long eyelashes, wide nasal bridge, thin upper lip, and everted lower lip (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>642</offset>
+                <text>His ears were low set and posteriorly rotated, and his tongue had a grooved tip.</text>
+            </sentence>
+            <sentence>
+                <offset>723</offset>
+                <text>His head circumference was between the 25th and 50th centiles and height and weight both between the 50th and 75th centiles.</text>
+            </sentence>
+            <sentence>
+                <offset>848</offset>
+                <text>He had three café au lait patches, and the anus was anteriorly placed.</text>
+            </sentence>
+            <sentence>
+                <offset>919</offset>
+                <text>He had scoliosis and bilateral talipes equinovarus, and also primary generalized epilepsy.</text>
+            </sentence>
+            <sentence>
+                <offset>1010</offset>
+                <text>Radiographs demonstrated abnormal modeling and fusion of his ribs, predominantly on the right.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

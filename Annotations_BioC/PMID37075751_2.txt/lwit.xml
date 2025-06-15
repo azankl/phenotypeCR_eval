@@ -1,0 +1,106 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 2, brother of Individual 1, presented as an infant with left-sided cleft lip and palate and metopic craniosynostosis.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0410030</infon>
+                    <location length="9" offset="78"/>
+                    <text>cleft lip</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="78"/>
+                    <text>cleft</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="92"/>
+                    <text>palate</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011330</infon>
+                    <location length="24" offset="103"/>
+                    <text>metopic craniosynostosis</text>
+                </annotation>
+                <relation id="3">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <node refid="4" role="source"/>
+                    <node refid="2" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>129</offset>
+                <text>He had a normal echocardiogram and brain magnetic resonance imaging (MRI), both obtained due to his brother’s sudden death.</text>
+            </sentence>
+            <sentence>
+                <offset>253</offset>
+                <text>As an infant, he had a polysomnography study which identified mixed obstructive and central apnea, treated with supplemental oxygen.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="68"/>
+                    <text>obstructive</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002871</infon>
+                    <location length="13" offset="84"/>
+                    <text>central apnea</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="92"/>
+                    <text>apnea</text>
+                </annotation>
+                <relation id="7">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002870</infon>
+                    <node refid="8" role="source"/>
+                    <node refid="6" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>386</offset>
+                <text>At 4 months of age, his weight gain plateaued, and he was diagnosed with frank aspiration, requiring gastrostomy tube placement.</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002835</infon>
+                    <location length="16" offset="73"/>
+                    <text>frank aspiration</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>515</offset>
+                <text>Now age 5, he has some speech difficulties (articulation and resonance) but overall development is on track.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002167</infon>
+                    <location length="19" offset="23"/>
+                    <text>speech difficulties</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>624</offset>
+                <text>He had clinical trio exome sequencing (GeneDx, Gaithersburg, MD) which identified a paternally inherited missense variant in POLR1A c. 176A&gt;T; p.</text>
+            </sentence>
+            <sentence>
+                <offset>769</offset>
+                <text>(Asp59Val), which was also confirmed to be present in his deceased brother.</text>
+            </sentence>
+            <sentence>
+                <offset>845</offset>
+                <text>The father of individuals 1 and 2 (not included in this series) was noted to have bitemporal narrowing and a prominent metopic ridge</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

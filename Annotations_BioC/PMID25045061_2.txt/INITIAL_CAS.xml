@@ -1,0 +1,92 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The second patient, a male, was born to healthy, nonconsanguineous Latin American parents.</text>
+            </sentence>
+            <sentence>
+                <offset>91</offset>
+                <text>Paternal and maternal ages were 28 and 29 years, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>154</offset>
+                <text>Antenatal ultrasound scans were normal until 6 months' gestation, when an impression of short limbs and an increased skull size were noted.</text>
+            </sentence>
+            <sentence>
+                <offset>294</offset>
+                <text>He was delivered at 36 weeks' gestation by elective cesarean, and had a birth weight of 3 kg (75th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>403</offset>
+                <text>Left cleft lip and palate and an umbilical hernia were noted at birth; both were subsequently surgically corrected.</text>
+            </sentence>
+            <sentence>
+                <offset>519</offset>
+                <text>Bilateral intra-abdominal testes were observed and surgically treated by left orchidectomy and right orchidopexy.</text>
+            </sentence>
+            <sentence>
+                <offset>633</offset>
+                <text>Recurrent episodes of otitis media throughout childhood required two adenoidectomies and repeated insertion of ventilation tubes.</text>
+            </sentence>
+            <sentence>
+                <offset>763</offset>
+                <text>His dentition was delayed; none of his primary teeth exfoliated prompting their removal from the lower jaw at 11 years of age.</text>
+            </sentence>
+            <sentence>
+                <offset>893</offset>
+                <text>When evaluated at 9 years of age the patient weighed 35.4 kg (90th–97th centile), had a height of 135 cm (75th–90th centile), and a head circumference of 62.7 cm (&gt;97th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>1072</offset>
+                <text>He had apparent hypertelorism, a broad nasal root, a flattened nasal tip and narrow nares.</text>
+            </sentence>
+            <sentence>
+                <offset>1163</offset>
+                <text>Oral findings included a short tongue, gingival hyperplasia, dental crowding, and a repaired cleft lip and palate on the left.</text>
+            </sentence>
+            <sentence>
+                <offset>1290</offset>
+                <text>Brachydactyly, broad thumbs, camptodactyly and bilateral flat feet were observed.</text>
+            </sentence>
+            <sentence>
+                <offset>1372</offset>
+                <text>Limb segments and the genitalia were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1417</offset>
+                <text>He drooled excessively, but did not have any difficulties eating, swallowing or with his speech.</text>
+            </sentence>
+            <sentence>
+                <offset>1514</offset>
+                <text>His cognitive functioning was normal, but he had mild motor impairments which were improving with physical therapy.</text>
+            </sentence>
+            <sentence>
+                <offset>1630</offset>
+                <text>Radiographs showed widespread osteosclerosis, particularly of the skull base and cortices of the long bones, which themselves were undertubulated.</text>
+            </sentence>
+            <sentence>
+                <offset>1777</offset>
+                <text>The distal phalanges of the hands and feet were hypoplastic with the terminal phalanx of both thumbs being partially bifid.</text>
+            </sentence>
+            <sentence>
+                <offset>1901</offset>
+                <text>A DEXA scan at 11 years of age showed increased bone density of the lumbar spine, with a bone mineral density (BMD) of 1.264 g/cm2 (Z-score + 7.6).</text>
+            </sentence>
+            <sentence>
+                <offset>2049</offset>
+                <text>The BMD of the left hip and left femoral neck were 0.937 g/cm2 (Z-score + 1.8) and 1.015 g/cm2 (Z-score + 3.0), respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>2175</offset>
+                <text>No mutations were found on direct sequencing of WNT5A.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,175 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The patient was a male baby who was born after a full-term pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>70</offset>
+                <text>His mother was 31 years old and his father was 34 years old at&#13;
+the time of his birth.</text>
+            </sentence>
+            <sentence>
+                <offset>157</offset>
+                <text>The parents were not consanguineous.</text>
+            </sentence>
+            <sentence>
+                <offset>194</offset>
+                <text>The&#13;
+family history was not contributory.</text>
+            </sentence>
+            <sentence>
+                <offset>236</offset>
+                <text>There was no maternal illness&#13;
+and drug usage during pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>300</offset>
+                <text>The pregnancy was uneventful&#13;
+until the 25th gestational week, when a cloverleaf skull was diagnosed by prenatal ultrasonography at Kaohsiung Chang-Gung Memorial Hospital.</text>
+            </sentence>
+            <sentence>
+                <offset>472</offset>
+                <text>The infant weighted 2980 gm and was 47 cm long&#13;
+at birth.</text>
+            </sentence>
+            <sentence>
+                <offset>530</offset>
+                <text>Clinical examinations showed a cloverleaf skull due to premature closure of multiple cranial sutures.</text>
+            </sentence>
+            <sentence>
+                <offset>632</offset>
+                <text>The skin overlying the&#13;
+scalp, face, ears, upper lips and limbs was markedly corrugated.</text>
+            </sentence>
+            <sentence>
+                <offset>722</offset>
+                <text>Deep furrows were vertically arranged.</text>
+            </sentence>
+            <sentence>
+                <offset>761</offset>
+                <text>The corrugations were also&#13;
+present on the palms, soles and scrotal area.</text>
+            </sentence>
+            <sentence>
+                <offset>835</offset>
+                <text>The midfacial region&#13;
+was hypoplastic with small nose and depressed nasal bridge.</text>
+            </sentence>
+            <sentence>
+                <offset>917</offset>
+                <text>There&#13;
+was choanal stenosis giving rise to breathing di‰culty.</text>
+            </sentence>
+            <sentence>
+                <offset>980</offset>
+                <text>The eyes were&#13;
+prominent with protruding eyeballs.</text>
+            </sentence>
+            <sentence>
+                <offset>1031</offset>
+                <text>Hypertelorism, downslanting&#13;
+palpebral fissures were also present.</text>
+            </sentence>
+            <sentence>
+                <offset>1098</offset>
+                <text>The ears were low set and malformed with deep vertical furrows in the preauricular area.</text>
+            </sentence>
+            <sentence>
+                <offset>1187</offset>
+                <text>The oral&#13;
+cavity was small with a high arched clefted palate.</text>
+            </sentence>
+            <sentence>
+                <offset>1249</offset>
+                <text>The umbilical&#13;
+stump was large and protruded.</text>
+            </sentence>
+            <sentence>
+                <offset>1295</offset>
+                <text>Neither acanthosis nigricans,&#13;
+hydrocephalus, nor Chiari malformation was found.</text>
+            </sentence>
+            <sentence>
+                <offset>1376</offset>
+                <text>Chromosomal&#13;
+analysis using the Giema-banding technique showed a normal&#13;
+46,XY karyotype and molecular analysis on the FGFR2 gene&#13;
+showed a Tyr 375 Cys substitution (Wang et al., unpublished data).</text>
+            </sentence>
+            <sentence>
+                <offset>1575</offset>
+                <text>On admission to NICU, an oropharyngeal tube was inserted&#13;
+to facilitate breathing.</text>
+            </sentence>
+            <sentence>
+                <offset>1658</offset>
+                <text>Nasogastric tube feeding was required because of poor sucking and easily choking.</text>
+            </sentence>
+            <sentence>
+                <offset>1740</offset>
+                <text>CSF rhinorrhea was noted&#13;
+then.</text>
+            </sentence>
+            <sentence>
+                <offset>1772</offset>
+                <text>Bilateral fronto-temporal craniectomy with morcellation and&#13;
+repair of the fornto-ethmoid cephalocele was performed 7 days after&#13;
+birth.</text>
+            </sentence>
+            <sentence>
+                <offset>1909</offset>
+                <text>Tracheostomy was done to relieve upper airway obstruction&#13;
+caused by choanal stenosis at 1 month after birth.</text>
+            </sentence>
+            <sentence>
+                <offset>2019</offset>
+                <text>CT scan of the&#13;
+head was performed at 4 months old.</text>
+            </sentence>
+            <sentence>
+                <offset>2071</offset>
+                <text>The results showed markedly&#13;
+dilated ventricles with an obstructive hydrocephalus.</text>
+            </sentence>
+            <sentence>
+                <offset>2154</offset>
+                <text>A ventriculoperitoneal shunt was inserted at that time.</text>
+            </sentence>
+            <sentence>
+                <offset>2210</offset>
+                <text>Secondary cranioplasty&#13;
+with transfrontal orbital reconstruction and transoral LeFort I osteotomy of the maxilla was performed to correct hypoplasia of upper&#13;
+and midface at 12 months old.</text>
+            </sentence>
+            <sentence>
+                <offset>2399</offset>
+                <text>The boy later developed apnea after&#13;
+crying (breath holding spells) and cyanosis 3 months later.</text>
+            </sentence>
+            <sentence>
+                <offset>2496</offset>
+                <text>MRI&#13;
+showed downward cerebellar herniation not identified in previous&#13;
+MRI examination.</text>
+            </sentence>
+            <sentence>
+                <offset>2584</offset>
+                <text>Cranioplasty and suboccipital craniectomy were&#13;
+then performed to correct the craniosynostosis and brain herniation.</text>
+            </sentence>
+            <sentence>
+                <offset>2702</offset>
+                <text>Episodes of apnea and bradycardia markedly decreased after this&#13;
+operation.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

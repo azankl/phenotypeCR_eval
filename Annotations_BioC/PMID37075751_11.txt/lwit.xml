@@ -1,0 +1,60 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 11 is an 11-year-old male with mild hypertelorism, gross motor delay, and spastic dystonia of the legs requiring tendon surgery.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="47"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001270</infon>
+                    <location length="11" offset="68"/>
+                    <text>motor delay</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="16" offset="85"/>
+                    <text>spastic dystonia</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="109"/>
+                    <text>legs</text>
+                </annotation>
+                <relation id="4">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="5" role="source"/>
+                    <node refid="3" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>140</offset>
+                <text>Otherwise, he had no intellectual problems and attends normal school.</text>
+            </sentence>
+            <sentence>
+                <offset>210</offset>
+                <text>He had a normal brain MRI and normal EEG.</text>
+            </sentence>
+            <sentence>
+                <offset>252</offset>
+                <text>Trio exome sequencing was performed as part of a research project identifying genes responsible for movement-disorder phenotypes (Helmholtz Center Munich and Technical University of Munich, Munich, Germany), and identified a de novo missense variant in POLR1A c.3721G&gt;A; p.</text>
+            </sentence>
+            <sentence>
+                <offset>525</offset>
+                <text>(Val1241Ile).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

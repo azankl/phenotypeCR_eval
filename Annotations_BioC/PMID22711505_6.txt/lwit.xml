@@ -1,0 +1,156 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 6 is the younger brother of Patient 5.</text>
+            </sentence>
+            <sentence>
+                <offset>47</offset>
+                <text>He was his parents’ second pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>85</offset>
+                <text>Short limbs were seen on prenatal ultrasound and he was delivered at term by cesarean (see Fig. 1; Tables I and ​andII).II).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009826</infon>
+                    <location length="11" offset="0"/>
+                    <text>Short limbs</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>210</offset>
+                <text>A submucous cleft palate was present.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <location length="12" offset="12"/>
+                    <text>cleft palate</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>248</offset>
+                <text>Early on, he was recognized as having the same syndromic condition as his brother.</text>
+            </sentence>
+            <sentence>
+                <offset>331</offset>
+                <text>Delayed development is present and necessitated special education programs.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001263</infon>
+                    <location length="19" offset="0"/>
+                    <text>Delayed development</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>407</offset>
+                <text>Dislocating patellae are present as is significant genua vara and a limb length discrepancy.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002999</infon>
+                    <location length="20" offset="0"/>
+                    <text>Dislocating patellae</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002970</infon>
+                    <location length="10" offset="51"/>
+                    <text>genua vara</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100559</infon>
+                    <location length="23" offset="68"/>
+                    <text>limb length discrepancy</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>500</offset>
+                <text>Abnormal progression of digital lengths was noted with shortened 4th and relatively elongated 3rd digits noted on the right side.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="55"/>
+                    <text>shortened 4th</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100807</infon>
+                    <location length="20" offset="84"/>
+                    <text>elongated 3rd digits</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="98"/>
+                    <text>digits</text>
+                </annotation>
+                <relation id="8">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009280</infon>
+                    <node refid="9" role="source"/>
+                    <node refid="7" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>630</offset>
+                <text>Additionally, he has esotropia with left hypertropia and strabismus, a high pitched voice, and sleep apnea.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000565</infon>
+                    <location length="9" offset="21"/>
+                    <text>esotropia</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025586</infon>
+                    <location length="11" offset="41"/>
+                    <text>hypertropia</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000486</infon>
+                    <location length="10" offset="57"/>
+                    <text>strabismus</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001620</infon>
+                    <location length="18" offset="71"/>
+                    <text>high pitched voice</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010535</infon>
+                    <location length="11" offset="95"/>
+                    <text>sleep apnea</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>738</offset>
+                <text>Chronic joint pain and morbid obesity were also a concern.</text>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002829</infon>
+                    <location length="10" offset="8"/>
+                    <text>joint pain</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001513</infon>
+                    <location length="7" offset="30"/>
+                    <text>obesity</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>797</offset>
+                <text>CANT1 sequencing was normal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

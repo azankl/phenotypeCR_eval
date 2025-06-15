@@ -1,0 +1,40 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>we were consulted about a newborn for whom a Desbuquois dysplasia was suspected; the newborn (patient 4) had been born at 36 weeks, with a length of 42 cm and a head circumference of 33 cm, to healthy parents from the Kerala region of India.</text>
+            </sentence>
+            <sentence>
+                <offset>242</offset>
+                <text>Growth retardation had been noted in the sixth month of pregnancy via ultrasonography.</text>
+            </sentence>
+            <sentence>
+                <offset>329</offset>
+                <text>At birth, he was noted to have prominent eyes, a flat face, severe micrognathia with posterior cleft palate, dislocation of both knees, limited extension at both elbows, and a peculiar abduction (lateral deviation) of the fifth toes bilaterally (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>586</offset>
+                <text>Radiographic examination showed short metacarpals and phalanges with an accessory ossification center at the base of the first metacarpal in the left hand, whereas the right hand showed splitting of the first metacarpal in two parts (Figure 2).</text>
+            </sentence>
+            <sentence>
+                <offset>831</offset>
+                <text>There was moderate shortening of the long bones and subluxation of the radial heads.</text>
+            </sentence>
+            <sentence>
+                <offset>916</offset>
+                <text>The vertebral contour was irregular, but clefting was not observed.</text>
+            </sentence>
+            <sentence>
+                <offset>984</offset>
+                <text>Unfortunately, the boy succumbed to aspiration pneumonia as a complication of his palatal cleft on day 5.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

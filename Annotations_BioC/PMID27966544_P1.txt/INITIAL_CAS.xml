@@ -1,0 +1,44 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The propositus (P1) is a 3-year-old Caucasian male who was referred to our institute for the evaluation of craniofacial and limb anomalies.</text>
+            </sentence>
+            <sentence>
+                <offset>140</offset>
+                <text>He was born at term after prenatal diagnosis of severe micrognathia and polyhydramnios.</text>
+            </sentence>
+            <sentence>
+                <offset>228</offset>
+                <text>Birth weight was 3480 g (50th centile), length was 49 cm (10th–25th centile) and head circumference was 34 cm (25th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>354</offset>
+                <text>At birth, severe micrognathia, submucous cleft palate and bilateral thumb hypoplasia were observed (Figure 1c and d).</text>
+            </sentence>
+            <sentence>
+                <offset>473</offset>
+                <text>The dysmorphologic examination revealed down-slanting palpebral fissures, sparse lower eyelashes, malar hypoplasia, severe micro-retrognathia, floating left thumb, type II hypoplasia of right thumb (according to Blauth classification) and limited forearm pronation–supination (Figure 1a).</text>
+            </sentence>
+            <sentence>
+                <offset>762</offset>
+                <text>Speech delay was observed owing to the severely limited mandible movements.</text>
+            </sentence>
+            <sentence>
+                <offset>838</offset>
+                <text>The clinical features suggested a diagnosis of Nager syndrome.</text>
+            </sentence>
+            <sentence>
+                <offset>904</offset>
+                <text>Audiometric and TC evaluations revealed a moderate bilateral conductive hearing loss with mild stenosis of the external auditory canals and bilateral dysplasia of the middle ear.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

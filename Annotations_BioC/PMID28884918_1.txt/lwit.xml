@@ -1,0 +1,227 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A male infant born at 38 weeks gestation was found to have a shortened right second distal phalanx, hypoplastic nails, calcified papules on several fingers and toes, and an erythematous and alopecic depressed patch on the vertex scalp at birth (Figs. 1-4).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="61"/>
+                    <text>shortened</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="21" offset="77"/>
+                    <text>second distal phalanx</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008386</infon>
+                    <location length="17" offset="100"/>
+                    <text>hypoplastic nails</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="119"/>
+                    <text>calcified papules</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="119"/>
+                    <text>calcified papules</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="148"/>
+                    <text>fingers</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="160"/>
+                    <text>toes,</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="173"/>
+                    <text>erythematous</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="24" offset="190"/>
+                    <text>alopecic depressed patch</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="209"/>
+                    <text>patch</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="229"/>
+                    <text>scalp</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="229"/>
+                    <text>scalp</text>
+                </annotation>
+                <relation id="2">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009566</infon>
+                    <node refid="3" role="source"/>
+                    <node refid="1" role="target"/>
+                </relation>
+                <relation id="7">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025520</infon>
+                    <node refid="8" role="source"/>
+                    <node refid="5" role="target"/>
+                </relation>
+                <relation id="9">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025520</infon>
+                    <node refid="10" role="source"/>
+                    <node refid="6" role="target"/>
+                </relation>
+                <relation id="13">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002293</infon>
+                    <node refid="14" role="source"/>
+                    <node refid="12" role="target"/>
+                </relation>
+                <relation id="16">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025474</infon>
+                    <node refid="17" role="source"/>
+                    <node refid="15" role="target"/>
+                </relation>
+                <relation id="18">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="11" role="source"/>
+                    <node refid="15" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>257</offset>
+                <text>The pregnancy was complicated by intrauterine growth retardation (IUGR), a two-vessel cord, and maternal alcohol use in the third trimester.</text>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001511</infon>
+                    <location length="31" offset="33"/>
+                    <text>intrauterine growth retardation</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001511</infon>
+                    <infon key="Comment">! Abbreviation</infon>
+                    <location length="4" offset="66"/>
+                    <text>IUGR</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001195</infon>
+                    <location length="15" offset="75"/>
+                    <text>two-vessel cord</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>398</offset>
+                <text>After an uncomplicated vaginal delivery, the baby remained hospitalized for hypoglycemia and jaundice.</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001943</infon>
+                    <location length="12" offset="76"/>
+                    <text>hypoglycemia</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000952</infon>
+                    <location length="9" offset="93"/>
+                    <text>jaundice.</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>501</offset>
+                <text>The unique constellation of findings prompted pediatric dermatology and infectious disease consultations.</text>
+            </sentence>
+            <sentence>
+                <offset>607</offset>
+                <text>At this time, examination for toxoplasmosis, other (syphilis, varicella zoster, parvovirus B19), rubella, cytomegalovirus, and herpes infections was negative; skeletal, cardiac, and brain imaging were performed.</text>
+            </sentence>
+            <sentence>
+                <offset>819</offset>
+                <text>A skeletal survey showed a calcified mass at the tip of the right first toe.</text>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="27"/>
+                    <text>calcified mass</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="66"/>
+                    <text>first toe</text>
+                </annotation>
+                <relation id="25">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025520</infon>
+                    <node refid="26" role="source"/>
+                    <node refid="24" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>896</offset>
+                <text>Echocardiogram showed a large patent ductus arteriosus and a small patent foramen ovale.</text>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001643</infon>
+                    <location length="24" offset="30"/>
+                    <text>patent ductus arteriosus</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001655</infon>
+                    <location length="20" offset="67"/>
+                    <text>patent foramen ovale</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>985</offset>
+                <text>After a cranial ultrasound suggested periventricular calcifications, follow-up brain magnetic resonance imaging demonstrated periventricular mineralization and bilateral inferior temporal cortical infarcts.</text>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007229</infon>
+                    <location length="30" offset="37"/>
+                    <text>periventricular calcifications</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025722</infon>
+                    <location length="17" offset="188"/>
+                    <text>cortical infarcts</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1192</offset>
+                <text>Bilateral cerebral hemispheric migration anomalies, consistent with polymicrogyria, were also noted (Figs. 4 and 5).</text>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002269</infon>
+                    <location length="31" offset="19"/>
+                    <text>hemispheric migration anomalies</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002126</infon>
+                    <location length="14" offset="68"/>
+                    <text>polymicrogyria</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

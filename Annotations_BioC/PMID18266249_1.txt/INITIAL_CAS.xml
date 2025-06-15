@@ -1,0 +1,48 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 1 had a BW of 3.2 kg and BL of 50 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>46</offset>
+                <text>OFC was not recorded.</text>
+            </sentence>
+            <sentence>
+                <offset>68</offset>
+                <text>Clinical examination at 20 years: height158 cm (25–50th centile), weight 42.2 kg (10th centile), OFC 56 cm (75th centile), inner canthal distance 34 mm (75–97th centile), outer canthal distance 80 mm (3–25th centile), palpebral fissure length 27 mm (below 3rd centile).</text>
+            </sentence>
+            <sentence>
+                <offset>338</offset>
+                <text>The girl (Fig. 1) had blepharophimosis, blepharoptosis, long eyelashes, synophrys, and arched eyebrows with lateral flare (both not seen in Fig. 1 because of depilatory action), high nasal root, hypoplastic alae nasi, short philtrum, high palate, hypoplastic ear lobules, a repaired umbilical hernia, periumbilical depression (Fig. 2), bilateral limited supination-pronation of the forearms and elbow extension, and sacral appendage (Fig. 3).</text>
+            </sentence>
+            <sentence>
+                <offset>781</offset>
+                <text>Ophthalmological examination documented bilateral cornea plana with peripheral opacities particularly in upper part (Fig. 4), iris hypoplasia, and the presence of strands running from the iris to the posterior surface of the cornea at the anterior chamber angle level.</text>
+            </sentence>
+            <sentence>
+                <offset>1050</offset>
+                <text>Audiological evaluation disclosed mixed hearing loss of mild severity (26–40 dB) on the left at the frequencies of 500, 1,000, and 2,000 Hz.</text>
+            </sentence>
+            <sentence>
+                <offset>1191</offset>
+                <text>Intelligence was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1216</offset>
+                <text>Roentgenograms: bilateral radioulnar synostosis, sacralization of L5 and spina bifida occulta at L5.</text>
+            </sentence>
+            <sentence>
+                <offset>1317</offset>
+                <text>G-banded karyotype gave a normal female karyotype.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

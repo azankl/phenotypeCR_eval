@@ -1,0 +1,92 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A male infant born at 35 weeks of gestation to a 28-year-old gravida six and para four mother via elective Cesarean section.</text>
+            </sentence>
+            <sentence>
+                <offset>125</offset>
+                <text>He was the fourth child to consanguineous (first cousin) Lebanese parents (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>211</offset>
+                <text>Antenatal ultrasound scans showed bilateral humeral and femoral shortening with multiple fractures (Figure 2).</text>
+            </sentence>
+            <sentence>
+                <offset>322</offset>
+                <text>Late antenatal ultrasound at 34 weeks of gestation revealed congenital cardiac disease; severe tricuspid valve regurgitation, pulmonary valve regurgitation, dilatation of the right heart, cardiomegaly, and a small arterial duct.</text>
+            </sentence>
+            <sentence>
+                <offset>554</offset>
+                <text>The infant required intubation at birth with poor Apgar scores of 3 and 6 at 1 and 5 min, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>658</offset>
+                <text>Birthweight was 2.36 kg (24th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>701</offset>
+                <text>At birth, severe limb deformity with contractures and skin tethering were noted, in addition to subtle facial dysmorphism (micrognathia, midface hypoplasia).</text>
+            </sentence>
+            <sentence>
+                <offset>859</offset>
+                <text>Radiographs (Figure 2) revealed multiple healing rib fractures, multiple healed limb fractures with flexion deformity of both elbows and knees.</text>
+            </sentence>
+            <sentence>
+                <offset>1003</offset>
+                <text>Biochemistry was normal except for low levels of 25-hydroxy vitamin D at 15 nmol/L (≥50 nmol/L) managed with cholecalciferol supplementation.</text>
+            </sentence>
+            <sentence>
+                <offset>1145</offset>
+                <text>Pamidronate (via central venous access) was given for management of perceived bone pain at 3 and 10 days of age, with a third dose planned but not administered due to the infant's death.</text>
+            </sentence>
+            <sentence>
+                <offset>1335</offset>
+                <text>Postnatal echocardiogram (Figure 2) confirmed tricuspid valve dysplasia with valve prolapse and severe regurgitation.</text>
+            </sentence>
+            <sentence>
+                <offset>1453</offset>
+                <text>The mitral valve was also abnormal with mild prolapse of the anterior leaflet and restriction of the posterior leaflet resulting in mild regurgitation.</text>
+            </sentence>
+            <sentence>
+                <offset>1605</offset>
+                <text>There were small ductus arteriosus and elevated pulmonary pressures.</text>
+            </sentence>
+            <sentence>
+                <offset>1674</offset>
+                <text>Cardiovascular therapy was directed at rapidly reducing the pulmonary vascular resistance to encourage antegrade flow through the right heart and reduce right ventricular afterload.</text>
+            </sentence>
+            <sentence>
+                <offset>1856</offset>
+                <text>The infant was commenced on inhaled nitric oxide and sildenafil in addition to ongoing ventilation and oxygenation with some reduction in pulmonary pressures.</text>
+            </sentence>
+            <sentence>
+                <offset>2015</offset>
+                <text>Cardiac prognosis was guarded and dependent on response to medical therapy.</text>
+            </sentence>
+            <sentence>
+                <offset>2091</offset>
+                <text>Due to multiple factors cardiothoracic surgical intervention was not felt to be a viable option.</text>
+            </sentence>
+            <sentence>
+                <offset>2191</offset>
+                <text>Invasive mechanical ventilation was commenced at birth and discontinued at 2 weeks of age with respiratory support weaned to high flow nasal canula oxygen.</text>
+            </sentence>
+            <sentence>
+                <offset>2347</offset>
+                <text>He remained clinically stable for 2 weeks from a respiratory point of view but then deteriorated due to pulmonary hemorrhage requiring invasive mechanical ventilation to be recommenced with high ventilatory pressure and oxygen requirement.</text>
+            </sentence>
+            <sentence>
+                <offset>2587</offset>
+                <text>Further deterioration occurred 1 week later with recurrent pulmonary hemorrhages and worsening oxygen desaturation despite maximal support.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

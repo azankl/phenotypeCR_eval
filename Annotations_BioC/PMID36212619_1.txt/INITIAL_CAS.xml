@@ -1,0 +1,106 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A newborn male child was spontaneously conceived after eleven years of primary infertility.</text>
+            </sentence>
+            <sentence>
+                <offset>92</offset>
+                <text>He was born to a 35-year-old primigravida without previous abortions and a 47-year-old father.</text>
+            </sentence>
+            <sentence>
+                <offset>187</offset>
+                <text>Initial blood work, dating of the pregnancy, nuchal translucency, and scan for fetal anomalies at 20 weeks gestation were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>317</offset>
+                <text>The mother was referred to the fetal medicine department at 33 weeks gestation for an abnormal shape of the fetal head detected on ultrasound at a subsequent visit.</text>
+            </sentence>
+            <sentence>
+                <offset>482</offset>
+                <text>The scan suggested premature closure of the cranial sutures resulting in a cloverleaf skull.</text>
+            </sentence>
+            <sentence>
+                <offset>575</offset>
+                <text>There was dilatation of the anterior ventricle and the fetal forehead appeared high and broad.</text>
+            </sentence>
+            <sentence>
+                <offset>670</offset>
+                <text>Proptosis of the eyes was evident and more severe on the right side (Figure 1(a)).</text>
+            </sentence>
+            <sentence>
+                <offset>753</offset>
+                <text>The long bones appeared short, with proximal rhizomelia, while the thumbs and greater toes were wide and rotated &#13;
+&#13;
+There was polyhydramnios with an amniotic fluid index of 24 cm and upper airway obstruction was also noted.</text>
+            </sentence>
+            <sentence>
+                <offset>978</offset>
+                <text>A provisional diagnosis of PS type II was entertained, and the couple were appropriately counseled regarding a guarded, poor prognosis for the baby.</text>
+            </sentence>
+            <sentence>
+                <offset>1127</offset>
+                <text>The parents declined amniocentesis in view of the advanced stage of pregnancy and considered palliative care for the baby after birth.</text>
+            </sentence>
+            <sentence>
+                <offset>1265</offset>
+                <text>The antenatal findings were clinically confirmed after birth Figure 2(a)–2(c) following elective delivery by Caesarian section at 37 weeks of gestation, due to breech presentation and a history of previous abdominal uterine myomectomy in the mother.</text>
+            </sentence>
+            <sentence>
+                <offset>1518</offset>
+                <text>The baby had low-set and posteriorly rotated ears and a tense fontanel.</text>
+            </sentence>
+            <sentence>
+                <offset>1590</offset>
+                <text>Severe respiratory distress was due to upper airway obstruction secondary to macroglossia relative to the small oral cavity.</text>
+            </sentence>
+            <sentence>
+                <offset>1715</offset>
+                <text>The feet were clubbed bilaterally, without syndactyly of the fingers and toes.</text>
+            </sentence>
+            <sentence>
+                <offset>1794</offset>
+                <text>There was marked hypospadias.</text>
+            </sentence>
+            <sentence>
+                <offset>1824</offset>
+                <text>The orbits were shallow (Figure 2(b)) without the right upper and lower eyelids.</text>
+            </sentence>
+            <sentence>
+                <offset>1905</offset>
+                <text>There was profound right eyeball proptosis with severe hyperemic, chemotic conjunctiva, and an irregular cornea with a collapsed anterior chamber compared to the exorbitism of the left eye, which was displaced inferolaterally and displayed exposure keratopathy and lagopthalmus (Figure 2(a) and 2(b)).</text>
+            </sentence>
+            <sentence>
+                <offset>2210</offset>
+                <text>Cranial ultrasound, CT scan, (Figure 3(a)) and magnetic resonance imaging of the brain revealed symmetrical lateral ventricular dilatation (anterior horns measured 16 mm in maximum transverse dimension) with no arterio-venous malformations and normal myelination of the white matter in both cerebral hemispheres.</text>
+            </sentence>
+            <sentence>
+                <offset>2523</offset>
+                <text>Abdominal ultrasound findings and cardiovascular examination were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>2597</offset>
+                <text>A three-dimensional craniofacial reconstruction computed tomography of the skull (Figure 3(b)) was performed and substantiated the cloverleaf deformity with multiple craniosynostoses resulting in acrocephaly and brachycephaly.</text>
+            </sentence>
+            <sentence>
+                <offset>2827</offset>
+                <text>The family were informed that cranial expansion with skull remodelling was urgently needed to decompress the raised intracranial pressure but that the surgical procedure was associated with significant risk.</text>
+            </sentence>
+            <sentence>
+                <offset>3035</offset>
+                <text>An electroretinogram was requested on both eyes with a tentative procedural plan for right unilateral orbital exenteration or enucleation.</text>
+            </sentence>
+            <sentence>
+                <offset>3174</offset>
+                <text>After careful consideration, the parents opted for comfort and palliative care and the baby died at 32 days of age and an autopsy was denied.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

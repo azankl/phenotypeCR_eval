@@ -1,0 +1,64 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 4 was the second pregnancy for his nonconsanguineous, average-statured, 19-year-old mother and 18-year-old father.</text>
+            </sentence>
+            <sentence>
+                <offset>123</offset>
+                <text>Family is from Russian/Latvian/German origin.</text>
+            </sentence>
+            <sentence>
+                <offset>169</offset>
+                <text>Prenatal ultrasound at 5 months of gestation showed short limbs.</text>
+            </sentence>
+            <sentence>
+                <offset>234</offset>
+                <text>He was born at term via cesarean (see Fig. 1; Tables I and ​andII).II).</text>
+            </sentence>
+            <sentence>
+                <offset>306</offset>
+                <text>Inguinal hernia surgery was performed at 16 months of age.</text>
+            </sentence>
+            <sentence>
+                <offset>365</offset>
+                <text>At 5 years of age the Desbuquois syndrome was considered.</text>
+            </sentence>
+            <sentence>
+                <offset>423</offset>
+                <text>Developmental motor skills were slightly delayed; cognitive delay and attention span issues were recognized at 9 years of age, and special education has been required.</text>
+            </sentence>
+            <sentence>
+                <offset>591</offset>
+                <text>At ages 16 and 17 patient has had, respectively, left and right patellar reconstruction, soft tissue and Fulkerson osteotomy, plus distal femur osteotomy with EBI rail.</text>
+            </sentence>
+            <sentence>
+                <offset>760</offset>
+                <text>Physical examination at age 17 years showed a high pitched voice, a warm outgoing personality and disproportionate short stature, predominantly rhizomelic, with a short and broad neck, stocky habitus and truncal obesity.</text>
+            </sentence>
+            <sentence>
+                <offset>981</offset>
+                <text>Dental crowding with a supernumerary conical tooth is present.</text>
+            </sentence>
+            <sentence>
+                <offset>1044</offset>
+                <text>Elbow supination was deficient due to a subluxed radial heads.</text>
+            </sentence>
+            <sentence>
+                <offset>1107</offset>
+                <text>Lower extremities showed flexible flat feet.</text>
+            </sentence>
+            <sentence>
+                <offset>1152</offset>
+                <text>Chromosome analysis and CANT1 sequencing was normal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

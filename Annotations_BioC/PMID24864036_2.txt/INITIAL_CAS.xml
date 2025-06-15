@@ -1,0 +1,40 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The younger brother (Fig. 1G) was similarly affected but with a milder phenotype attributed to the progressive nature of the disease as stated by the mother.</text>
+            </sentence>
+            <sentence>
+                <offset>158</offset>
+                <text>He had exaggerated lumbar lordosis and genu recurvatum.</text>
+            </sentence>
+            <sentence>
+                <offset>214</offset>
+                <text>At the age of 6 years and 3 months, he had a height of 142 cm (+5.1 SD), a head circumference of 50.4 cm (−1.0 SD), arm span of 137.5 cm with normal upper/lower segment ratio (0.95 = 69/73), and excessive length of both upper and lower limbs measurements (&gt;2.0 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>480</offset>
+                <text>Orodental evaluation showed high arched palate and long uvula.</text>
+            </sentence>
+            <sentence>
+                <offset>543</offset>
+                <text>He had abnormal pronunciation of some letters, hearing impairment on audiometry, and a normal IQ score of 98 (by Stanford Binet).</text>
+            </sentence>
+            <sentence>
+                <offset>673</offset>
+                <text>Skeletal survey showed knock knees, kyphoscoliosis of lower thoracic vertebrae (Fig. 1H), arachnodactyly with no carpal or tarsal fusions, and wormian skull bones.</text>
+            </sentence>
+            <sentence>
+                <offset>837</offset>
+                <text>He had squint of the left eye and no cataract or sublaxation of lenses.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

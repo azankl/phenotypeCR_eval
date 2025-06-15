@@ -1,0 +1,16 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The physical examination of the mother (P2) revealed asymmetric face, down-slanting palpebral fissures, malar hypoplasia, micro-retrognathia and type II hypoplasia of the right thumb (Figure 1h–j).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

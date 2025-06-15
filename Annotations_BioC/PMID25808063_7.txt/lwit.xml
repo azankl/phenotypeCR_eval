@@ -1,0 +1,88 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 7 was the second child of a non-consanguineous Brazilian couple.</text>
+            </sentence>
+            <sentence>
+                <offset>73</offset>
+                <text>She was noted at birth to have dysmorphic features with a “median nasal groove and crumpled ears” [Cabral de Almeida et al., 1995].</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004112</infon>
+                    <location length="19" offset="59"/>
+                    <text>median nasal groove</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009901</infon>
+                    <location length="13" offset="83"/>
+                    <text>crumpled ears</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>205</offset>
+                <text>Cataracts were diagnosed at 3 months of age.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000518</infon>
+                    <location length="9" offset="0"/>
+                    <text>Cataracts</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>250</offset>
+                <text>She had delayed eruption of her primary dentition and pointed cusp tip extension.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000680</infon>
+                    <location length="41" offset="8"/>
+                    <text>delayed eruption of her primary dentition</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [Dental]</infon>
+                    <location length="26" offset="54"/>
+                    <text>pointed cusp tip extension</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>332</offset>
+                <text>Her weight and height were consistently below the 3rd centile.</text>
+            </sentence>
+            <sentence>
+                <offset>395</offset>
+                <text>Radiographs showed epiphyseal delay and lumbar coronal clefts.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002663</infon>
+                    <location length="16" offset="19"/>
+                    <text>epiphyseal delay</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003417</infon>
+                    <location length="14" offset="47"/>
+                    <text>coronal clefts</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>458</offset>
+                <text>At age 5 years, she was described as having mild intellectual impairment.</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100543</infon>
+                    <location length="23" offset="49"/>
+                    <text>intellectual impairment</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

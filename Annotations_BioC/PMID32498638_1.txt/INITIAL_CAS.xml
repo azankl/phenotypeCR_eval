@@ -1,0 +1,104 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A 4-month-old male infant was found to have global developmental delay, microcephaly (&lt;3rd centile), truncal hypotonia, thrombocytopenia, and fingers anomalies.</text>
+            </sentence>
+            <sentence>
+                <offset>161</offset>
+                <text>The parents also noticed white reflex in both eyes from the age of 2 months.</text>
+            </sentence>
+            <sentence>
+                <offset>238</offset>
+                <text>The pregnancy was uneventful but the mother did not receive any antenatal care including vitamins (folic acid) or minerals supplements.</text>
+            </sentence>
+            <sentence>
+                <offset>374</offset>
+                <text>The patient was born at term by cesarean section with a birth weight of 2.5 kg.</text>
+            </sentence>
+            <sentence>
+                <offset>454</offset>
+                <text>He was admitted in the neonatal intensive care unit for 4 days due to respiratory distress.</text>
+            </sentence>
+            <sentence>
+                <offset>546</offset>
+                <text>The parents are first-degree cousins and the infant has two healthy older brothers.</text>
+            </sentence>
+            <sentence>
+                <offset>630</offset>
+                <text>There was no known family history of AOS or other significant medical conditions.</text>
+            </sentence>
+            <sentence>
+                <offset>712</offset>
+                <text>The unique constellation of findings prompted pediatrics and infectious disease consultations for which blood investigations including a TORCH screen were negative, except for a low platelet count.</text>
+            </sentence>
+            <sentence>
+                <offset>913</offset>
+                <text>Bone survey showed agenesis of the middle and distal phalanges of the right fifth digit with agenesis of the distal phalanges of the second, third and fourth digits and hypogenesis of the middle phalanx of the second digit in the left hand representing TTLDs (Figure 1a,b).</text>
+            </sentence>
+            <sentence>
+                <offset>1187</offset>
+                <text>ACC was not a presenting feature.</text>
+            </sentence>
+            <sentence>
+                <offset>1221</offset>
+                <text>Periventricular calcifications with mild lateral ventricular enlargement were evident on brain imaging (Figure 1a).</text>
+            </sentence>
+            <sentence>
+                <offset>1337</offset>
+                <text>Echocardiography showed normal intracardiac anatomy and function.</text>
+            </sentence>
+            <sentence>
+                <offset>1403</offset>
+                <text>Abdominal ultrasound was unremarkable.</text>
+            </sentence>
+            <sentence>
+                <offset>1442</offset>
+                <text>There was a mild increase in hearing threshold bilaterally (40 dB).</text>
+            </sentence>
+            <sentence>
+                <offset>1513</offset>
+                <text>Ophthalmic examination revealed normal eyelids, sunken eyes, bilateral nystagmus, clear corneas, clear lens in the right eye and cataractous changes in the left eye.</text>
+            </sentence>
+            <sentence>
+                <offset>1679</offset>
+                <text>Dilated fundus examination was significant for bilateral retinal detachment.</text>
+            </sentence>
+            <sentence>
+                <offset>1756</offset>
+                <text>The retina was very anterior in the left eye with a retrolental plaque.</text>
+            </sentence>
+            <sentence>
+                <offset>1828</offset>
+                <text>B-scan ultrasound showed a total retinal detachment that is closed anteriorly and posteriorly in the right eye and a closed funnel retinal detachment that is adherent to a fibrous retrolental plaque in the left eye.</text>
+            </sentence>
+            <sentence>
+                <offset>2044</offset>
+                <text>Limbal approach lensectomy, total capsulectomy, vitrectomy, membrane peeling, and viscoelastic fluid exchange was performed to the left eye.</text>
+            </sentence>
+            <sentence>
+                <offset>2185</offset>
+                <text>Four months later, examination under anesthesia was significant for neovascularization of the iris with posterior synechia, mild cataractous changes, a retrolental plaque, and a detached retina in the right eye (Figure 2a).</text>
+            </sentence>
+            <sentence>
+                <offset>2409</offset>
+                <text>Left eye showed no neovascularization of the iris, surgical aphakia, and a detached, folded retina with a residual temporal fibrosis (Figure 2b,c).</text>
+            </sentence>
+            <sentence>
+                <offset>2557</offset>
+                <text>The intraocular pressure was 24 and 46 mmHg of the right and left eyes, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>2643</offset>
+                <text>Visual evoked potentials (VEP) showed no response in both eyes.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

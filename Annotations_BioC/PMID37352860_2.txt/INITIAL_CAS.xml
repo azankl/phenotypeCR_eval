@@ -1,0 +1,116 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 2
+
+The Individual was a male neonate who was admitted to the neonatal ICU after birth due to respiratory distress.</text>
+            </sentence>
+            <sentence>
+                <offset>126</offset>
+                <text>He was noted to have short limbs on prenatal ultrasound at 24 weeks.</text>
+            </sentence>
+            <sentence>
+                <offset>195</offset>
+                <text>An amniocentesis was performed and testing for mutations in FGFR3, COL1A1 and COL1A2 did not identify rare variants.</text>
+            </sentence>
+            <sentence>
+                <offset>313</offset>
+                <text>At birth he was noted to be short, with a birth length of 40cm (-5.17SD).</text>
+            </sentence>
+            <sentence>
+                <offset>387</offset>
+                <text>Additionally, he had several dysmorphic features: facial dysmorphic features included a prominent forehead, flat nasal bridge, micrognathia, large ears.</text>
+            </sentence>
+            <sentence>
+                <offset>540</offset>
+                <text>He also had bilateral complete cutaneous syndactyly of fingers 35 and toes 4-5, 5th finger clinodactyly and a narrow thorax.</text>
+            </sentence>
+            <sentence>
+                <offset>665</offset>
+                <text>Further testing included a chromosomal microarray and FLNB gene sequencing, which were both normal.</text>
+            </sentence>
+            <sentence>
+                <offset>765</offset>
+                <text>No hematological abnormalities were noted.</text>
+            </sentence>
+            <sentence>
+                <offset>808</offset>
+                <text>Due to pulmonary hypertension and right heart failure, he passed away at age 5 months.</text>
+            </sentence>
+            <sentence>
+                <offset>895</offset>
+                <text>On autopsy, giant chondrocytes were seen in the epiphyseal plates of the long bones.</text>
+            </sentence>
+            <sentence>
+                <offset>980</offset>
+                <text>No other systemic or organ malformations were noted.</text>
+            </sentence>
+            <sentence>
+                <offset>1033</offset>
+                <text>Individual 3
+
+The boy was born to non-consanguineous Japanese parents at 39 weeks and 6 days of gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>1140</offset>
+                <text>His birth length was 41.7 cm (-4.3 SD) and weight 2,000 g (-3.3 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>1209</offset>
+                <text>He presented with tachypnea leading to a conventional respiratory support (nasal directional positive airway pressure).</text>
+            </sentence>
+            <sentence>
+                <offset>1329</offset>
+                <text>He showed oligosyndactyly of the right hand, proximally set left thumb, post-axial syndactyly of the feet, dislocation of the right elbow, and ulnar deviation of the left wrist.</text>
+            </sentence>
+            <sentence>
+                <offset>1507</offset>
+                <text>He was bottle-fed.</text>
+            </sentence>
+            <sentence>
+                <offset>1526</offset>
+                <text>His weight was 3,340 g at 3.5 months of age (&lt; -3 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>1581</offset>
+                <text>Respiratory support was weaned to nasal continuous positive airway pressure, and continued until hospital discharge at 4 months.</text>
+            </sentence>
+            <sentence>
+                <offset>1710</offset>
+                <text>Soon after then, he developed upper airway infection and subsequent respiratory failure, and came to an emergency room.</text>
+            </sentence>
+            <sentence>
+                <offset>1830</offset>
+                <text>Ultrasonography revealed pulmonary hypertension with severe tricuspid regurgitation.</text>
+            </sentence>
+            <sentence>
+                <offset>1915</offset>
+                <text>Despite ventilator support, he suddenly died the next day after hospital admission.</text>
+            </sentence>
+            <sentence>
+                <offset>2000</offset>
+                <text>His X-rays showed platyspondyly and metaphyseal dysplasias of the long tubular bones.</text>
+            </sentence>
+            <sentence>
+                <offset>2086</offset>
+                <text>The left hand showed type A1 brachydactyly, while the right hand showed oligosyndactyly.</text>
+            </sentence>
+            <sentence>
+                <offset>2175</offset>
+                <text>Both feet showed post-axial syndactyly.</text>
+            </sentence>
+            <sentence>
+                <offset>2215</offset>
+                <text>The test of blood cells showed macrocytic anemia and congenital neutropenia.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

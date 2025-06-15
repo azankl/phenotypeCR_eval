@@ -1,0 +1,68 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 4 was the unique girl of a nonconsanguineous Turkish couple from the same village.</text>
+            </sentence>
+            <sentence>
+                <offset>91</offset>
+                <text>No birth data were available.</text>
+            </sentence>
+            <sentence>
+                <offset>121</offset>
+                <text>She was referred at 5 years and 10 months of age for growth retardation and skeletal anomalies (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>226</offset>
+                <text>Height was 86 cm (−6 SD) and she presented with micromelic dwarfism with short hands and feet, pectus excavatum, pes varus, and bilateral genu valgum and recurvatum.</text>
+            </sentence>
+            <sentence>
+                <offset>392</offset>
+                <text>Cleft palate has been operated and was associated with micrognathia and bifid uvula.</text>
+            </sentence>
+            <sentence>
+                <offset>477</offset>
+                <text>Facial features included a broad nasal root.</text>
+            </sentence>
+            <sentence>
+                <offset>522</offset>
+                <text>She also had bilateral single palmar creases.</text>
+            </sentence>
+            <sentence>
+                <offset>568</offset>
+                <text>No intellectual disability was noticed but gross motor development was delayed.</text>
+            </sentence>
+            <sentence>
+                <offset>648</offset>
+                <text>Hand X-rays showed hyperphalangism of the third and fourth fingers associated with brachymetacarpy.</text>
+            </sentence>
+            <sentence>
+                <offset>748</offset>
+                <text>The middle phalanges of the two to fourth fingers were abnormally shaped and short.</text>
+            </sentence>
+            <sentence>
+                <offset>832</offset>
+                <text>No advanced carpal bone age was noticed but a carpal synostosis between the hamate and capitate bones (Fig. 2).</text>
+            </sentence>
+            <sentence>
+                <offset>944</offset>
+                <text>Spine examination showed a moderate scoliosis (Fig. 3) and pelvis X-ray coxa valga (Fig. 4).</text>
+            </sentence>
+            <sentence>
+                <offset>1037</offset>
+                <text>Foot X-rays showed clinodactyly of the fifth toes.</text>
+            </sentence>
+            <sentence>
+                <offset>1088</offset>
+                <text>Echocardiography excluded heart malformation.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

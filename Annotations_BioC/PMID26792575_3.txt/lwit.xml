@@ -1,0 +1,78 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 3 is the first child born to healthy, non-consanguineous Argentinian parents.</text>
+            </sentence>
+            <sentence>
+                <offset>86</offset>
+                <text>Prenatal ultrasound showed a cystic hygroma at 14 weeks’ gestation.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000476</infon>
+                    <location length="14" offset="29"/>
+                    <text>cystic hygroma</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>154</offset>
+                <text>She was born at term with a birth weight of 3.865 kg (90th centile), a length of 48 cm (50th centile), and a head circumference of 34 cm (50th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>307</offset>
+                <text>She was also diagnosed with generalized edema and ascites at birth.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000969</infon>
+                    <location length="5" offset="40"/>
+                    <text>edema</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001541</infon>
+                    <location length="7" offset="50"/>
+                    <text>ascites</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>375</offset>
+                <text>A complex, multi-sutural craniosynostosis was diagnosed shortly after birth.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001363</infon>
+                    <location length="16" offset="25"/>
+                    <text>craniosynostosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>452</offset>
+                <text>Surgical correction was undertaken at 3 and 8 months of age.</text>
+            </sentence>
+            <sentence>
+                <offset>513</offset>
+                <text>Bilateral conductive hearing loss was detected at the age of 3 months.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000405</infon>
+                    <location length="23" offset="10"/>
+                    <text>conductive hearing loss</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>584</offset>
+                <text>Chromosome analysis showed a normal female karyotype (46,XX).</text>
+            </sentence>
+            <sentence>
+                <offset>646</offset>
+                <text>She has been otherwise healthy, and her psychomotor development and growth are normal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

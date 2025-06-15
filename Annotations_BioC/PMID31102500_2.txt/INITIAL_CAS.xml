@@ -1,0 +1,52 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The younger affected sibling is a 21-year-old boy.</text>
+            </sentence>
+            <sentence>
+                <offset>51</offset>
+                <text>His height is 190 cm with a head circumference of 55 cm (98th percentile and 40th percentile, respectively).</text>
+            </sentence>
+            <sentence>
+                <offset>160</offset>
+                <text>He was born after a full-term spontaneous pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>213</offset>
+                <text>Polyhydramnios was detected during the pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>263</offset>
+                <text>Delivery was normal (vaginal), and the various birth parameters including weight, height, and head circumference were reported to be normal.</text>
+            </sentence>
+            <sentence>
+                <offset>404</offset>
+                <text>His clinical course and disease manifestations were very similar to his elder sister, including epilepsy.</text>
+            </sentence>
+            <sentence>
+                <offset>510</offset>
+                <text>Additionally, he had a cleft lip and cleft palate, which were not present in his sister.</text>
+            </sentence>
+            <sentence>
+                <offset>599</offset>
+                <text>He received speech therapy, physiotherapy, and occupational therapy.</text>
+            </sentence>
+            <sentence>
+                <offset>668</offset>
+                <text>He had moderate intellectual disabilities and attended a special education class.</text>
+            </sentence>
+            <sentence>
+                <offset>750</offset>
+                <text>The chest X-ray report indicated the presence of bilateral bifid and fused ribs, as well as hemivertebrae for the T1 and T2 thoracic vertebrae.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

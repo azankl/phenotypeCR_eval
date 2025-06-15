@@ -1,0 +1,70 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient II-2, the 16-year-old brother of patient II-1, presented with developmental dysplasia of both hips and craniosynostosis of the sagittal suture.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="84"/>
+                    <text>dysplasia</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="102"/>
+                    <text>hips</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004442</infon>
+                    <location length="39" offset="111"/>
+                    <text>craniosynostosis of the sagittal suture</text>
+                </annotation>
+                <relation id="2">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001385</infon>
+                    <node refid="3" role="source"/>
+                    <node refid="1" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>152</offset>
+                <text>Although he did not have ocular complaints at the age of 7, ophthalmoscopy revealed attenuated retinal vessels and an electroretinogram showed extinguished rod signals and severely reduced cone signals compatible with a rod-cone dystrophy (Figure 1C).</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007843</infon>
+                    <location length="26" offset="84"/>
+                    <text>attenuated retinal vessels</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008020</infon>
+                    <location length="20" offset="181"/>
+                    <text>reduced cone signals</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000510</infon>
+                    <location length="18" offset="220"/>
+                    <text>rod-cone dystrophy</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>404</offset>
+                <text>An ultrasound showed hyperechoic kidneys, but there were no clinical or biological signs of renal disease at follow-up.</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004719</infon>
+                    <location length="19" offset="21"/>
+                    <text>hyperechoic kidneys</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

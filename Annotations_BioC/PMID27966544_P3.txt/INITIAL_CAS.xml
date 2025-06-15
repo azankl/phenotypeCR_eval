@@ -1,0 +1,20 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The grandmother (P3) was born with unspecified mandible anomalies and cleft palate, which were both surgically corrected.</text>
+            </sentence>
+            <sentence>
+                <offset>122</offset>
+                <text>The physical evaluation revealed asymmetric face, down-slanting palpebral fissures, mild micro-retrognathia and type II hypoplasia of the left thumb.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

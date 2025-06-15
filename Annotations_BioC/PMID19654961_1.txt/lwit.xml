@@ -1,0 +1,258 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A 19-yr-old Korean male with a history of abnormal gait since the age of 2 was referred for molecular genetic testing.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001288</infon>
+                    <location length="13" offset="42"/>
+                    <text>abnormal gait</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>119</offset>
+                <text>His symptoms included wide base waddling gait, proximal muscle weakness, pain in the extremities, and easy fatigability.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="22"/>
+                    <text>wide base</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002515</infon>
+                    <location length="13" offset="32"/>
+                    <text>waddling gait</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="41"/>
+                    <text>gait</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003701</infon>
+                    <location length="24" offset="47"/>
+                    <text>proximal muscle weakness</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009763</infon>
+                    <location length="23" offset="73"/>
+                    <text>pain in the extremities</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003388</infon>
+                    <location length="17" offset="102"/>
+                    <text>easy fatigability</text>
+                </annotation>
+                <relation id="3">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002136</infon>
+                    <node refid="4" role="source"/>
+                    <node refid="2" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>240</offset>
+                <text>He had no history of trauma, infection, or systemic illness.</text>
+            </sentence>
+            <sentence>
+                <offset>301</offset>
+                <text>Physical examination showed no abnormalities in his reflexes and he was able to walk independently.</text>
+            </sentence>
+            <sentence>
+                <offset>403</offset>
+                <text>Radiographs of the proband showed cortical, periosteal, and endosteal bony thickening with narrowing of the medullary spaces confined to the diaphyses of the femur, tibia, and fibula (Fig. 2A).</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="34"/>
+                    <text>cortical</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="44"/>
+                    <text>periosteal</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000935</infon>
+                    <location length="25" offset="60"/>
+                    <text>endosteal bony thickening</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="70"/>
+                    <text>bony thickening</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="70"/>
+                    <text>bony thickening</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0032458</infon>
+                    <location length="33" offset="91"/>
+                    <text>narrowing of the medullary spaces</text>
+                </annotation>
+                <relation id="10">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005791</infon>
+                    <node refid="11" role="source"/>
+                    <node refid="9" role="target"/>
+                </relation>
+                <relation id="13">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006465</infon>
+                    <node refid="14" role="source"/>
+                    <node refid="12" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>597</offset>
+                <text>The epiphyses and metaphyses of the long bones are relatively spared.</text>
+            </sentence>
+            <sentence>
+                <offset>667</offset>
+                <text>In the upper extremity, the ulna is rather severely affected than the radius (Fig. 2B, C).</text>
+            </sentence>
+            <sentence>
+                <offset>758</offset>
+                <text>The humerus showed only mild cortical thickening.</text>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="4"/>
+                    <text>humerus</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="19" offset="29"/>
+                    <text>cortical thickening</text>
+                </annotation>
+                <relation id="19">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003868</infon>
+                    <node refid="17" role="source"/>
+                    <node refid="18" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>808</offset>
+                <text>Some curvature changes were seen in both tibias with genu valgus changes of both knees.</text>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002857</infon>
+                    <location length="11" offset="53"/>
+                    <text>genu valgus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>896</offset>
+                <text>Scoliosis of the thoracic and lumbar spines with mild kyphosis of the thoracic spines was also observed.</text>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="0"/>
+                    <text>Scoliosis</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="0"/>
+                    <text>Scoliosis</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="17"/>
+                    <text>thoracic</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="30"/>
+                    <text>lumbar</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="54"/>
+                    <text>kyphosis</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="70"/>
+                    <text>thoracic</text>
+                </annotation>
+                <relation id="24">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002943</infon>
+                    <node refid="21" role="source"/>
+                    <node refid="23" role="target"/>
+                </relation>
+                <relation id="26">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004626</infon>
+                    <node refid="22" role="source"/>
+                    <node refid="25" role="target"/>
+                </relation>
+                <relation id="29">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002942</infon>
+                    <node refid="27" role="source"/>
+                    <node refid="28" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1001</offset>
+                <text>No other gross bony abnormality was seen in the skull (Fig. 2D).</text>
+            </sentence>
+            <sentence>
+                <offset>1066</offset>
+                <text>The chest radiography was unremarkable.</text>
+            </sentence>
+            <sentence>
+                <offset>1109</offset>
+                <text>Laboratory findings in the patient indicated normal values for serum levels of electrolytes, calcium, and phosphate.</text>
+            </sentence>
+            <sentence>
+                <offset>1226</offset>
+                <text>Serum alkaline phosphatase was mildly elevated (139 IU/L; reference range, 42-117 IU/L) and peripheral blood analysis showed slight increase in ESR level (24 mm/hr; reference range, 0-15 mm/hr).</text>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="26" offset="0"/>
+                    <text>Serum alkaline phosphatase</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="38"/>
+                    <text>elevated</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003565</infon>
+                    <location length="21" offset="132"/>
+                    <text>increase in ESR level</text>
+                </annotation>
+                <relation id="32">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003155</infon>
+                    <node refid="30" role="source"/>
+                    <node refid="31" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1424</offset>
+                <text>Muscle biopsy was performed at the patient's right vastus lateralis, which did not show any pathologic findings.</text>
+            </sentence>
+            <sentence>
+                <offset>1537</offset>
+                <text>Degenerating or regenerating fibers were not seen and immunohistochemical staining for dystrophin was normal along the membranes of the muscle fibers.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

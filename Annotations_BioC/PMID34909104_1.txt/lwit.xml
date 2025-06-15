@@ -1,0 +1,200 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient information: a female term neonate was delivered on February 20, 2021, at Cape Coast Teaching Hospital Ghana via emergency caesarean section on account of poor progress of labour with acute fetal distress.</text>
+            </sentence>
+            <sentence>
+                <offset>214</offset>
+                <text>The birth weight was 3.8kg and Apgar scores were 2/10 and 5/10 at the first and fifth minute respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>321</offset>
+                <text>The baby was the 5th child of a couple, a 39-year-old man and a 34-year-old woman, in a non-consanguineous marriage and with no known family history of congenital anomalies.</text>
+            </sentence>
+            <sentence>
+                <offset>495</offset>
+                <text>From a family picture, no other nuclear family member was found to have similar physical features.</text>
+            </sentence>
+            <sentence>
+                <offset>594</offset>
+                <text>The neonate was discharged after spending a total of 20 days on admission at the Special Baby Care Unit of the Hospital.</text>
+            </sentence>
+            <sentence>
+                <offset>715</offset>
+                <text>The baby died 5 months later.</text>
+            </sentence>
+            <sentence>
+                <offset>748</offset>
+                <text>Clinical findings: the baby was noticed on the day of admission to the unit to have the following dysmorphic features; macrocephaly evidenced by an occipitofrontal circumference of 38.8cm (95th centile) with widely gaped sagittal sutures, proptosis with ocular hypertelorism (Figure 1), low set ears, protruding tongue, mandibular prognathism, ankylosed elbows, sacral dimple, wide sandal gap and medially deviated broad great toes (Figure 2 and Figure 3).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000256</infon>
+                    <location length="12" offset="119"/>
+                    <text>macrocephaly</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010537</infon>
+                    <location length="29" offset="208"/>
+                    <text>widely gaped sagittal sutures</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000520</infon>
+                    <location length="9" offset="239"/>
+                    <text>proptosis</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="261"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000369</infon>
+                    <location length="12" offset="287"/>
+                    <text>low set ears</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010808</infon>
+                    <location length="17" offset="301"/>
+                    <text>protruding tongue</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000303</infon>
+                    <location length="22" offset="320"/>
+                    <text>mandibular prognathism</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003070</infon>
+                    <location length="16" offset="344"/>
+                    <text>ankylosed elbows</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000960</infon>
+                    <location length="13" offset="362"/>
+                    <text>sacral dimple</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001852</infon>
+                    <location length="15" offset="377"/>
+                    <text>wide sandal gap</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="397"/>
+                    <text>medially deviated</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010055</infon>
+                    <location length="16" offset="415"/>
+                    <text>broad great toes</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="421"/>
+                    <text>great toes</text>
+                </annotation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008080</infon>
+                    <node refid="13" role="source"/>
+                    <node refid="11" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1205</offset>
+                <text>The clinical problems identified on initial assessment were respiratory distress which was evidenced by deep laboured breathing with poor oxygen saturation of 55% on room air, seizures of the upper limbs, high-grade fever, and pallor.</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002098</infon>
+                    <location length="20" offset="60"/>
+                    <text>respiratory distress</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="104"/>
+                    <text>deep</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002098</infon>
+                    <location length="18" offset="109"/>
+                    <text>laboured breathing</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="118"/>
+                    <text>breathing</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="176"/>
+                    <text>seizures</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="192"/>
+                    <text>upper limbs</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001945</infon>
+                    <location length="5" offset="216"/>
+                    <text>fever</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000980</infon>
+                    <location length="6" offset="227"/>
+                    <text>pallor</text>
+                </annotation>
+                <relation id="17">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002789</infon>
+                    <node refid="18" role="source"/>
+                    <node refid="16" role="target"/>
+                </relation>
+                <relation id="21">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011153</infon>
+                    <node refid="22" role="source"/>
+                    <node refid="20" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1440</offset>
+                <text>Other examination findings identified were bilaterally fused coronal sutures.</text>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004440</infon>
+                    <location length="21" offset="55"/>
+                    <text>fused coronal sutures</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1518</offset>
+                <text>The parents were counselled on the child´s condition.</text>
+            </sentence>
+            <sentence>
+                <offset>1572</offset>
+                <text>The child was later noticed to be drooling most of the time and on that note, ENT was consulted.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

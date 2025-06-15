@@ -1,0 +1,73 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>PMID28515031_1&#13;
+Patient 1 was born at 38 weeks’ gestation by caesarean section because of oligohydramnion and pathological cardiotocography.</text>
+            </sentence>
+            <sentence>
+                <offset>141</offset>
+                <text>At birth, he was small for gestational age with a weight of 2530 g [4.5th percentile, standard deviation score (SDS) -1.68] and a length of 48 cm (7th percentile, -1.47 SDS).</text>
+            </sentence>
+            <sentence>
+                <offset>316</offset>
+                <text>During the neonatal period, the patient had feeding problems and several episodes of hypoglycemia occurred.</text>
+            </sentence>
+            <sentence>
+                <offset>424</offset>
+                <text>Initial psychomotor milestones were reached rather late, but still within the normal range (walking at 1.6 years of age, speaking single words at 1.5 years of age).</text>
+            </sentence>
+            <sentence>
+                <offset>589</offset>
+                <text>However, subsequently, he displayed a delay in motor development and regression of verbal development, and ergotherapy and speech therapy were started.</text>
+            </sentence>
+            <sentence>
+                <offset>741</offset>
+                <text>Adenoidectomy and insertion of tympanic ventilation tubes were performed at the age of 3 years.</text>
+            </sentence>
+            <sentence>
+                <offset>840</offset>
+                <text>At the age of 3.5 years, he was referred to our clinic for further clinical evaluation.</text>
+            </sentence>
+            <sentence>
+                <offset>928</offset>
+                <text>On examination, he had light-coloured blue eyes and red-coloured hair, a round face with widely spaced eyes and midfacial hypoplasia with flattening of the nasal bridge (Figure 1A).</text>
+            </sentence>
+            <sentence>
+                <offset>1110</offset>
+                <text>Moreover, he had small broad hands and feet with stubby digits with relative sparing of the first toe.</text>
+            </sentence>
+            <sentence>
+                <offset>1213</offset>
+                <text>Furthermore, pigmented skin lesions were noticed on the upper arms and legs.</text>
+            </sentence>
+            <sentence>
+                <offset>1290</offset>
+                <text>Neuropsychological examination showed behavioural problems and a delay of gross and fine motor skills and speech development with severely impaired speech comprehension and dyslalia.</text>
+            </sentence>
+            <sentence>
+                <offset>1473</offset>
+                <text>He had grown below the 3rd percentile since the age of 2 years with a height of 90.7 cm (0.9th percentile, SDS -2.38) at the time of presentation.</text>
+            </sentence>
+            <sentence>
+                <offset>1620</offset>
+                <text>His weight was 12.8 kg (5.4th percentile, SDS -1.61) with a body mass index of 15.6 kg/m2 (51.6th percentile, SDS +0.04).</text>
+            </sentence>
+            <sentence>
+                <offset>1742</offset>
+                <text>Radiographic examination showed severe brachydactyly with shortening of metacarpals, metatarsals and phalanges, except for the big toe, cone-shaped epiphyses, and a significantly advanced bone age (Figure 2A).</text>
+            </sentence>
+            <sentence>
+                <offset>1952</offset>
+                <text>Laboratory investigations showed normal results, except for a mildly elevated TSH of 7.98 mU/L, while thyroid hormone levels were normal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

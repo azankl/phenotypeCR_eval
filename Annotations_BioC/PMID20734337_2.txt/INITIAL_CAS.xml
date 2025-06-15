@@ -1,0 +1,32 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The proband's father was noted to have hypertelorism and telecanthus with an ICD of 4.5 cm (&gt;97th centile), IPD 6.4 cm (&gt;97th centile) and OCD 10 cm (&gt;97th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>166</offset>
+                <text>His head circumference was 59.5 cm (+2 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>210</offset>
+                <text>He had a widow's peak and his palpebral fissures were upslanting, but his metopic suture was closed and his nose was not bifid.</text>
+            </sentence>
+            <sentence>
+                <offset>338</offset>
+                <text>His digits were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>362</offset>
+                <text>His chest showed scars from a surgery to repair a pectus carinatum.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

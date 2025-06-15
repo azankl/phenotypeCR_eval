@@ -1,0 +1,124 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The proband (Fig. 1A, B, and C), a male, was delivered at 40 weeks of gestation by cesarean section.</text>
+            </sentence>
+            <sentence>
+                <offset>101</offset>
+                <text>Birth weight, head circumference, length, and Apgar score were not recorded, but the mother reports that the baby was tall, thin, and of low birth weight.</text>
+            </sentence>
+            <sentence>
+                <offset>256</offset>
+                <text>At birth, skeletal deformities in the form of knock knees and bilateral lateral deviation of tibiae were noted together with neonatal jaundice.</text>
+            </sentence>
+            <sentence>
+                <offset>400</offset>
+                <text>His parents originate from Egypt and are first cousins.</text>
+            </sentence>
+            <sentence>
+                <offset>456</offset>
+                <text>He has a similarly affected younger brother (Fig. 1G).</text>
+            </sentence>
+            <sentence>
+                <offset>511</offset>
+                <text>He has shown a mild delay in the developmental milestones with sitting unsupported at the age of 10 months and speech development at 2 years.</text>
+            </sentence>
+            <sentence>
+                <offset>656</offset>
+                <text>At the age of 14 years and 4 months, the main complaints at presentation to the genetic counseling clinic included inability to walk and hearing impairment.</text>
+            </sentence>
+            <sentence>
+                <offset>813</offset>
+                <text>His weight was 62.0 kg (+1.4 SD), height 185.5 cm (+4.0 SD), head circumference 51.5 cm (−2.0 SD), and arm span 194.4 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>935</offset>
+                <text>Upper/lower body segment ratio was 0.8 (82.5/103) indicative of long lower limbs.</text>
+            </sentence>
+            <sentence>
+                <offset>1017</offset>
+                <text>All measurements of upper and lower limbs showed excessive length at above the +2.0 SD.</text>
+            </sentence>
+            <sentence>
+                <offset>1105</offset>
+                <text>Hearing impairment was first noted at the age of 6 years and is progressive.</text>
+            </sentence>
+            <sentence>
+                <offset>1182</offset>
+                <text>He has mild intellectual disability with an IQ of 70 (by Stanford Binet).</text>
+            </sentence>
+            <sentence>
+                <offset>1259</offset>
+                <text>Examination revealed severe lateral deviation, deformity, and anterior and lateral bowing of leg bones specifically of the tibiae (sabre tibia) with genu valgum, prominent joints, and lateral displacement of patellae.</text>
+            </sentence>
+            <sentence>
+                <offset>1477</offset>
+                <text>Upper limbs showed normal pronation and supination with no swellings at the elbow joints.</text>
+            </sentence>
+            <sentence>
+                <offset>1567</offset>
+                <text>The hands showed bilateral camptodactyly of the fifth fingers at the proximal interphalangeal joints (first noted at 9 years), arachnodactyly (Fig. 1D), webbing between fingers, and hyperextension at distal interphalangeal joints of all digits.</text>
+            </sentence>
+            <sentence>
+                <offset>1812</offset>
+                <text>He also had scoliosis, winging of scapulae, long narrow chest, and sloping shoulders (Fig. 1C).</text>
+            </sentence>
+            <sentence>
+                <offset>1908</offset>
+                <text>No specific dysmorphic features were noted apart from high arched palate and long uvula, which was noted in all examined members of the family.</text>
+            </sentence>
+            <sentence>
+                <offset>2052</offset>
+                <text>Neurological examination was normal except for muscle wasting in lower limbs and pectoral area.</text>
+            </sentence>
+            <sentence>
+                <offset>2148</offset>
+                <text>He could not walk and used a wheel chair.</text>
+            </sentence>
+            <sentence>
+                <offset>2193</offset>
+                <text>Skeletal radiographic survey showed thin, long lower limb bones, deformed bowed tibiae, and fibulae with widening and longitudinal striations at the lower end of femur and upper end of tibia (Fig. 1E).</text>
+            </sentence>
+            <sentence>
+                <offset>2395</offset>
+                <text>Arachnodactyly with no carpal or tarsal fusions, wormian bones, and increased pneumatization of sinuses on skull X-rays were seen.</text>
+            </sentence>
+            <sentence>
+                <offset>2526</offset>
+                <text>Vertebral X-rays showed scoliosis of the thoracic vertebrae with irregular upper and lower end plates of vertebrae (Fig. 1F).</text>
+            </sentence>
+            <sentence>
+                <offset>2652</offset>
+                <text>DEXA scan revealed borderline osteoporosis of femur with a z-score of −1.97.</text>
+            </sentence>
+            <sentence>
+                <offset>2729</offset>
+                <text>Audiometry results indicated the presence of moderate sensorineural hearing loss, which is more severe on the left side necessitating the use of hearing aids.</text>
+            </sentence>
+            <sentence>
+                <offset>2888</offset>
+                <text>Ophthalmology assessment of the fundi was normal, with no cataract or sublaxation of the lens.</text>
+            </sentence>
+            <sentence>
+                <offset>2983</offset>
+                <text>Abdomen ultrosonography and echocardiography were unremarkable.</text>
+            </sentence>
+            <sentence>
+                <offset>3047</offset>
+                <text>Serum electrolytes, urea, calcium, magnesium, phosphate, urine analysis, and thyroid function studies were all within normal limits.</text>
+            </sentence>
+            <sentence>
+                <offset>3180</offset>
+                <text>Chromosome study of lymphocytes with high resolution G banding showed 46,XY karyotype.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

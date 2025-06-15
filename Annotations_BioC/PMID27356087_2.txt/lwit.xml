@@ -1,0 +1,333 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 (Fig. 2B) is the 15-year-old sister of patient 1.</text>
+            </sentence>
+            <sentence>
+                <offset>60</offset>
+                <text>Like her sister, she too received an alveolar bone grafting procedure for her extensive oronasal fistula and bilateral cleft palate.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010294</infon>
+                    <location length="16" offset="88"/>
+                    <text>oronasal fistula</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <location length="12" offset="119"/>
+                    <text>cleft palate</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>193</offset>
+                <text>She has increased intraorbital distance and a prominent fronto-orbital contour.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="31" offset="8"/>
+                    <text>increased intraorbital distance</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011220</infon>
+                    <location length="32" offset="46"/>
+                    <text>prominent fronto-orbital contour</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>273</offset>
+                <text>She also has intermittent horizontal nystagmus but does not have significant epicanthal folding.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000666</infon>
+                    <location length="20" offset="26"/>
+                    <text>horizontal nystagmus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>370</offset>
+                <text>She has a flattened nasal root, bifidity to her nasal tip, and flatness to the nasal dorsum, which gives the exaggeration of hypertelorbitism.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005280</infon>
+                    <location length="20" offset="10"/>
+                    <text>flattened nasal root</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000456</infon>
+                    <location length="25" offset="32"/>
+                    <text>bifidity to her nasal tip</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000457</infon>
+                    <location length="28" offset="63"/>
+                    <text>flatness to the nasal dorsum</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <infon key="Comment">! Typo</infon>
+                    <location length="16" offset="125"/>
+                    <text>hypertelorbitism</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>513</offset>
+                <text>Her midface has reasonable projection with a skeletal class III relationship.</text>
+            </sentence>
+            <sentence>
+                <offset>591</offset>
+                <text>She still has transverse collapse of her arch and has a quadhelix in place to expand her palate.</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="31" offset="14"/>
+                    <text>transverse collapse of her arch</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>688</offset>
+                <text>She has a very sharp angle, almost triangulation to her dental arch on the maxilla.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="13" offset="35"/>
+                    <text>triangulation</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="56"/>
+                    <text>dental arch</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="75"/>
+                    <text>maxilla</text>
+                </annotation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="13" role="source"/>
+                    <node refid="11" role="target"/>
+                </relation>
+                <relation id="14">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="15" role="source"/>
+                    <node refid="13" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>772</offset>
+                <text>On her cleft lip repair, she has a very shortened lip.</text>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0410030</infon>
+                    <location length="9" offset="7"/>
+                    <text>cleft lip</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000188</infon>
+                    <location length="13" offset="40"/>
+                    <text>shortened lip</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>827</offset>
+                <text>Edges and white roll are aligned, but her columellar length is shortened.</text>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="42"/>
+                    <text>columellar length</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="63"/>
+                    <text>shortened</text>
+                </annotation>
+                <relation id="20">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002000</infon>
+                    <node refid="18" role="source"/>
+                    <node refid="19" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>902</offset>
+                <text>She had an operative procedure when she was 3 months old for a closed neural tube defect.</text>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0034238</infon>
+                    <location length="25" offset="63"/>
+                    <text>closed neural tube defect</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>992</offset>
+                <text>At age 10, a magnetic resonance imaging study of her spine showed that the spinal cord was low lying and tethered.</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="75"/>
+                    <text>spinal cord</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="75"/>
+                    <text>spinal cord</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="91"/>
+                    <text>low lying</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="105"/>
+                    <text>tethered</text>
+                </annotation>
+                <relation id="25">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002144</infon>
+                    <node refid="22" role="source"/>
+                    <node refid="24" role="target"/>
+                </relation>
+                <relation id="27">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002144</infon>
+                    <node refid="23" role="source"/>
+                    <node refid="26" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1107</offset>
+                <text>The craniocervical junction is tight with little cerebrospinal fluid anterior or posterior to the parenchymal elements.</text>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="23" offset="4"/>
+                    <text>craniocervical junction</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="31"/>
+                    <text>tight</text>
+                </annotation>
+                <relation id="30">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="28" role="source"/>
+                    <node refid="29" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1227</offset>
+                <text>There are no hypointensity changes within the spinal cord.</text>
+            </sentence>
+            <sentence>
+                <offset>1286</offset>
+                <text>There is slight dilatation of the central canal in the cervical and thoracic region, which varies between 2 and 3 mm and is in itself of no significance.</text>
+            </sentence>
+            <sentence>
+                <offset>1440</offset>
+                <text>She has complained of intermittent back pain, which radiates down the back of her legs to the knees.</text>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003418</infon>
+                    <location length="9" offset="35"/>
+                    <text>back pain</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1541</offset>
+                <text>There is no history of any motor or sensory loss in the lower extremities.</text>
+            </sentence>
+            <sentence>
+                <offset>1616</offset>
+                <text>Bladder function is reported to be normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1660</offset>
+                <text>Patient 2 has leg asymmetry: her right calf is 7 mm smaller than the left.</text>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100559</infon>
+                    <location length="13" offset="14"/>
+                    <text>leg asymmetry</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1735</offset>
+                <text>There is no deformation of the feet, which are the same size.</text>
+            </sentence>
+            <sentence>
+                <offset>1797</offset>
+                <text>The patient can push off from the ball of one foot and do a one-legged knee bend, but it is a little difficult for her to do so on the right side.</text>
+            </sentence>
+            <sentence>
+                <offset>1944</offset>
+                <text>She has more difficulty balancing on the right foot with her eyes open compared with the left.</text>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002172</infon>
+                    <location length="20" offset="13"/>
+                    <text>difficulty balancing</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2039</offset>
+                <text>She also has a little bit more difficulty hopping on the right foot.</text>
+            </sentence>
+            <sentence>
+                <offset>2109</offset>
+                <text>She was born with bilateral iris colobomas and cloudy corneas.</text>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000612</infon>
+                    <location length="14" offset="28"/>
+                    <text>iris colobomas</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007759</infon>
+                    <location length="14" offset="47"/>
+                    <text>cloudy corneas</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2172</offset>
+                <text>She has successfully undergone corneal transplant surgeries in both eyes.</text>
+            </sentence>
+            <sentence>
+                <offset>2246</offset>
+                <text>She has a small corneal scar in her left eye due to a corneal infection.</text>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000559</infon>
+                    <location length="12" offset="16"/>
+                    <text>corneal scar</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2319</offset>
+                <text>With corneal transplants, her vision has improved significantly to 4 feet/200 in the right eye and 10 feet/200 in the left.</text>
+            </sentence>
+            <sentence>
+                <offset>2443</offset>
+                <text>Her vision is limited secondary to visual development and the previous clouding of the cornea.</text>
+            </sentence>
+            <sentence>
+                <offset>2538</offset>
+                <text>Despite her eye trouble, she is in gifted classes in the ninth grade with accommodations for her vision needs and earns all As and Bs.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

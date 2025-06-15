@@ -1,0 +1,52 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 1 is an 11-month-old girl born to first-cousin Arab parents and who was referred for clinical genetics evaluation.</text>
+            </sentence>
+            <sentence>
+                <offset>126</offset>
+                <text>She has four normal siblings and a cousin who is said to be similarly affected but who was unavailable for evaluation (Figure 1A).</text>
+            </sentence>
+            <sentence>
+                <offset>257</offset>
+                <text>Pregnancy was uncomplicated.</text>
+            </sentence>
+            <sentence>
+                <offset>286</offset>
+                <text>Abnormal hands and feet were noted at birth.</text>
+            </sentence>
+            <sentence>
+                <offset>331</offset>
+                <text>At 11 months of age, she had severe and global developmental delay, recurrent seizures, and poor vision.</text>
+            </sentence>
+            <sentence>
+                <offset>436</offset>
+                <text>Physical examination revealed microcephaly, large cutis aplasia of the scalp, optic atrophy, and axial hypotonia with appendicular hypertonia.</text>
+            </sentence>
+            <sentence>
+                <offset>579</offset>
+                <text>In addition, there was distal reduction of the fingers and toes bilaterally and an absence of distal phalanges and nails (Figure 1B).</text>
+            </sentence>
+            <sentence>
+                <offset>713</offset>
+                <text>Echocardiography was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>742</offset>
+                <text>Brain CT demonstrated hydrocephalus with dilatation of the lateral ventricles and multiple small periventricular and subependymal calcifications (Figure 1B).</text>
+            </sentence>
+            <sentence>
+                <offset>900</offset>
+                <text>X-rays of the hands and feet revealed absence of the distal phalanges.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

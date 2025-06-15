@@ -1,0 +1,74 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿The second child (IV-2) was a girl of normal pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>57</offset>
+                <text>Prenatal ultrasound at the third trimester showed immobile fingers and abnormal skull shape.</text>
+            </sentence>
+            <sentence>
+                <offset>150</offset>
+                <text>Delivery was by low cesarean section.</text>
+            </sentence>
+            <sentence>
+                <offset>188</offset>
+                <text>Her birth weight was 3,375 g (50%), length 45 cm (&lt;3%) and head circumference 36 cm (90%).</text>
+            </sentence>
+            <sentence>
+                <offset>279</offset>
+                <text>At birth, she was noted to have clover-leaf appearance of the cranium with all sutures; the anterior and posterior fontanelles were closed.</text>
+            </sentence>
+            <sentence>
+                <offset>419</offset>
+                <text>The eyes were prominent, furthermore there was a depressed nasal bridge, high arched palate and low set ears (fig. ​</text>
+            </sentence>
+            <sentence>
+                <offset>537</offset>
+                <text>(fig.2C).&#13;
+2C).</text>
+            </sentence>
+            <sentence>
+                <offset>553</offset>
+                <text>She also had cutaneous syndactyly and brachydactyly of all fingers of both hands with limited extension of the proximal interphalangeal joints of all fingers (fig. ​</text>
+            </sentence>
+            <sentence>
+                <offset>720</offset>
+                <text>(fig.2D)&#13;
+2D) as well as bilateral preaxial polydactyl of feet and cutaneous syndactyly of all toes.</text>
+            </sentence>
+            <sentence>
+                <offset>821</offset>
+                <text>Cranial CT scan showed closure of all sutures, with absence of bone structure in the temporal-parietal region on both sides.</text>
+            </sentence>
+            <sentence>
+                <offset>946</offset>
+                <text>Moreover, the affected child also had dilatation of the lateral ventricles which required a ventriculo-peritoneal shunt.</text>
+            </sentence>
+            <sentence>
+                <offset>1067</offset>
+                <text>Hand X-rays showed absence of the middle phalanges of all the fingers.</text>
+            </sentence>
+            <sentence>
+                <offset>1138</offset>
+                <text>Craniosynostosis was operated on successfully at the age of 3 months.</text>
+            </sentence>
+            <sentence>
+                <offset>1208</offset>
+                <text>She is 6 years old now and has mild delay in speech.</text>
+            </sentence>
+            <sentence>
+                <offset>1261</offset>
+                <text>She is attending school and she is in the appropriate grade level.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,148 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 2 was the only son of healthy and non-consanguineous parents.</text>
+            </sentence>
+            <sentence>
+                <offset>73</offset>
+                <text>He was brought to medical attention at 2 months of age, when the presence of several fractures, micrognathia, frontal bossing, and ocular proptosis were noted.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002757</infon>
+                    <location length="17" offset="77"/>
+                    <text>several fractures</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000347</infon>
+                    <location length="12" offset="96"/>
+                    <text>micrognathia</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002007</infon>
+                    <location length="15" offset="110"/>
+                    <text>frontal bossing</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000520</infon>
+                    <location length="9" offset="138"/>
+                    <text>proptosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>233</offset>
+                <text>The anterior fontanel was very large and contiguous with the posterior fontanel.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="4"/>
+                    <text>anterior fontanel</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="31"/>
+                    <text>large</text>
+                </annotation>
+                <relation id="7">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000260</infon>
+                    <node refid="5" role="source"/>
+                    <node refid="6" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>314</offset>
+                <text>He developed communicating hydrocephalus in the first 18 months of life.</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000238</infon>
+                    <location length="13" offset="27"/>
+                    <text>hydrocephalus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>387</offset>
+                <text>He first presented at our institution at 18 years of age, with severe scoliosis and marked deformity of the upper and lower extremities with “popcorn epiphyses” in the distal femur and proximal tibia (Figure 1).</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004626</infon>
+                    <location length="9" offset="70"/>
+                    <text>scoliosis</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="91"/>
+                    <text>deformity</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="91"/>
+                    <text>deformity</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="108"/>
+                    <text>upper</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="118"/>
+                    <text>lower extremities</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="124"/>
+                    <text>extremities</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="17" offset="142"/>
+                    <text>popcorn epiphyses</text>
+                </annotation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002817</infon>
+                    <node refid="13" role="source"/>
+                    <node refid="11" role="target"/>
+                </relation>
+                <relation id="14">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002814</infon>
+                    <node refid="15" role="source"/>
+                    <node refid="10" role="target"/>
+                </relation>
+                <relation id="17">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="13" role="source"/>
+                    <node refid="16" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>599</offset>
+                <text>He used a wheelchair for all mobility.</text>
+            </sentence>
+            <sentence>
+                <offset>638</offset>
+                <text>Height was 97 cm (Z score: −11.7) and lumbar spine areal bone mineral density Z score was −5.1.</text>
+            </sentence>
+            <sentence>
+                <offset>734</offset>
+                <text>Serum levels of calcium, inorganic phosphorus, creatinine, alkaline phosphatase, and parathyroid hormone were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>852</offset>
+                <text>Intravenous pamidronate treatment, given for 3 years, was associated with an increase in lumbar spine areal bone mineral density Z score to −4.2, and otherwise unchanged clinical status.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

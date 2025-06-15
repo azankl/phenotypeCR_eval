@@ -1,0 +1,272 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿The patient was delivered by caesarean section at 36 weeks of gestation without a family history of 3M syndrome (Fig. 1a).</text>
+            </sentence>
+            <sentence>
+                <offset>124</offset>
+                <text>His birth weight was 1000 g (−4.8 SD), length 33.0 cm (−6.8 SD), head circumference 30.2 cm (−1.5 SD), and Apgar score 7/9.</text>
+            </sentence>
+            <sentence>
+                <offset>248</offset>
+                <text>Feeding difficulty was noted during the neonatal period.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011968</infon>
+                    <location length="18" offset="0"/>
+                    <text>Feeding difficulty</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>305</offset>
+                <text>He remained in a neonatal intensive care unit for 2 months and was referred to our group because of developmental delay and muscle hypotonia at 4 months.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001263</infon>
+                    <location length="19" offset="100"/>
+                    <text>developmental delay</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001252</infon>
+                    <location length="9" offset="131"/>
+                    <text>hypotonia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>459</offset>
+                <text>The patient displayed anomalies including hypospadias, inguinal hernia, hydrocele testis, inverted triangular gloomy face, malar hypoplasia, long eyelashes, epicanthal folds, short nose, anteverted nares, full lips, long philtrum, pointed chin, short chest, grooved lower anterior thorax, hypermobility of joints, and slender long bones (Fig. 1a,b).</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000047</infon>
+                    <location length="11" offset="42"/>
+                    <text>hypospadias</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000023</infon>
+                    <location length="15" offset="55"/>
+                    <text>inguinal hernia</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000034</infon>
+                    <location length="16" offset="72"/>
+                    <text>hydrocele testis</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="19" offset="90"/>
+                    <text>inverted triangular</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="11" offset="110"/>
+                    <text>gloomy face</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="117"/>
+                    <text>face</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000272</infon>
+                    <location length="16" offset="123"/>
+                    <text>malar hypoplasia</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000527</infon>
+                    <location length="14" offset="141"/>
+                    <text>long eyelashes</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000286</infon>
+                    <location length="16" offset="157"/>
+                    <text>epicanthal folds</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003196</infon>
+                    <location length="10" offset="175"/>
+                    <text>short nose</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000463</infon>
+                    <location length="16" offset="187"/>
+                    <text>anteverted nares</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012471</infon>
+                    <location length="9" offset="205"/>
+                    <text>full lips</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000343</infon>
+                    <location length="13" offset="216"/>
+                    <text>long philtrum</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000307</infon>
+                    <location length="12" offset="231"/>
+                    <text>pointed chin</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010306</infon>
+                    <location length="11" offset="245"/>
+                    <text>short chest</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="29" offset="258"/>
+                    <text>grooved lower anterior thorax</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001382</infon>
+                    <location length="23" offset="289"/>
+                    <text>hypermobility of joints</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003100</infon>
+                    <location length="18" offset="318"/>
+                    <text>slender long bones</text>
+                </annotation>
+                <relation id="8">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000325</infon>
+                    <node refid="9" role="source"/>
+                    <node refid="7" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>809</offset>
+                <text>Mild ventricular enlargement was observed by neuroradiological studies.</text>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002119</infon>
+                    <location length="23" offset="5"/>
+                    <text>ventricular enlargement</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>881</offset>
+                <text>His growth was severely retarded.</text>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="4"/>
+                    <text>growth</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="24"/>
+                    <text>retarded</text>
+                </annotation>
+                <relation id="26">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008897</infon>
+                    <node refid="24" role="source"/>
+                    <node refid="25" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>920</offset>
+                <text>At 2 years 9 months, his height, weight, and head circumference were 69.3 cm (−4.6 SD), 6.8 kg (−6.7 SD), and 48 cm (−1.2 SD), respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>1061</offset>
+                <text>His head size was disproportionately large compared to his height.</text>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="4"/>
+                    <text>head</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="37"/>
+                    <text>large</text>
+                </annotation>
+                <relation id="29">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000256</infon>
+                    <node refid="27" role="source"/>
+                    <node refid="28" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1128</offset>
+                <text>Thus the patient was diagnosed as suffering from 3M syndrome.</text>
+            </sentence>
+            <sentence>
+                <offset>1190</offset>
+                <text>He could understand simple sentences, but could not speak nor sit alone.</text>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001344</infon>
+                    <location length="9" offset="48"/>
+                    <text>not speak</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="3" offset="48"/>
+                    <text>not</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="62"/>
+                    <text>sit alone</text>
+                </annotation>
+                <relation id="32">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025336</infon>
+                    <node refid="33" role="source"/>
+                    <node refid="31" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1263</offset>
+                <text>Partial growth hormone (GH) deficiency was noted.</text>
+            </sentence>
+            <sentence>
+                <offset>1313</offset>
+                <text>GH replacement therapy was started from 2 years.</text>
+            </sentence>
+            <sentence>
+                <offset>1362</offset>
+                <text>GH was effective without side effects.</text>
+            </sentence>
+            <sentence>
+                <offset>1401</offset>
+                <text>At 5 years, his height and weight were 84.8 cm (−5.9 SD) and 10 kg (−3 SD), respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>1491</offset>
+                <text>He was moderately mentally retarded.</text>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001249</infon>
+                    <location length="17" offset="18"/>
+                    <text>mentally retarded</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

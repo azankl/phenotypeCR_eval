@@ -1,0 +1,97 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 4 was diagnosed with CHH at 4 months.</text>
+            </sentence>
+            <sentence>
+                <offset>46</offset>
+                <text>She had short stature with short limbs, sparse hair, joint hypermobility and varus deformity.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004322</infon>
+                    <location length="13" offset="8"/>
+                    <text>short stature</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009826</infon>
+                    <location length="11" offset="27"/>
+                    <text>short limbs</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008070</infon>
+                    <location length="11" offset="40"/>
+                    <text>sparse hair</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001382</infon>
+                    <location length="19" offset="53"/>
+                    <text>joint hypermobility</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="15" offset="77"/>
+                    <text>varus deformity</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>140</offset>
+                <text>Her growth followed the −5.0 SDS curve.</text>
+            </sentence>
+            <sentence>
+                <offset>180</offset>
+                <text>At 2 years, she presented with severe anemia (Hb 45 g/L) and almost total erythroaplasia on bone marrow evaluation.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001903</infon>
+                    <location length="6" offset="38"/>
+                    <text>anemia</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="74"/>
+                    <text>erythroaplasia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>296</offset>
+                <text>Anemia recovered spontaneously and the etiology remained unknown.</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001903</infon>
+                    <location length="6" offset="0"/>
+                    <text>Anemia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>362</offset>
+                <text>At 6.5 years, she developed aggressive B-cell lymphoma.</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012191</infon>
+                    <location length="15" offset="39"/>
+                    <text>B-cell lymphoma</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>418</offset>
+                <text>Primary tumor was detected in the adrenal gland and pulmonary metastases were present at diagnosis.</text>
+            </sentence>
+            <sentence>
+                <offset>518</offset>
+                <text>Treatment was unsuccessful and she died at the age of 7 years.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,40 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Case 5 was a 29-week-old fetus from unrelated parents.</text>
+            </sentence>
+            <sentence>
+                <offset>56</offset>
+                <text>The pregnancy was terminated because of corpus callosum agenesis and wide ventricles (8–10 mm) on prenatal MRI.</text>
+            </sentence>
+            <sentence>
+                <offset>168</offset>
+                <text>Examination of this fetus revealed facial dysmorphism (figure 1F) with macrocrania, hypertelorism, low set and posteriorly rotated ears with small lobules, and a large mouth with down-turned corners.</text>
+            </sentence>
+            <sentence>
+                <offset>368</offset>
+                <text>She also presented post-axial polydactyly of the four limbs (figure 1G,H).</text>
+            </sentence>
+            <sentence>
+                <offset>443</offset>
+                <text>Neuropathological examination confirmed the absence of corpus callosum (figure 1I), and enlarged third and lateral ventricles.</text>
+            </sentence>
+            <sentence>
+                <offset>570</offset>
+                <text>At the infratentorial level, brainstem and cerebellar anomalies were suggestive of an MTS (vermian hypoplasia and dysmorphic fourth ventricle with enlarged cerebellar peduncles containing fragmented dentate nuclei).</text>
+            </sentence>
+            <sentence>
+                <offset>786</offset>
+                <text>We identified two KIF7 heterozygous mutations: an eight base pair deletion (c.1054_1061del, p.Arg352GlyfsX108) and a 38 base pair deletion (c.1167_1204del, p.Arg390HisfsX60), both located in exon 5 and shown to be in trans by specific allele amplification.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

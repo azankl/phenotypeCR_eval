@@ -1,0 +1,178 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 14 is a 6-month-old male with craniofacial anomalies, hypotonia, failure to thrive requiring gastrostomy tube placement, unilateral (left) cryptorchidism, right sided inguinal hernia, and developmental delay.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000929</infon>
+                    <location length="22" offset="41"/>
+                    <text>craniofacial anomalies</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001252</infon>
+                    <location length="9" offset="65"/>
+                    <text>hypotonia</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001508</infon>
+                    <location length="17" offset="76"/>
+                    <text>failure to thrive</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000028</infon>
+                    <location length="14" offset="150"/>
+                    <text>cryptorchidism</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000023</infon>
+                    <location length="15" offset="178"/>
+                    <text>inguinal hernia</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001263</infon>
+                    <location length="19" offset="199"/>
+                    <text>developmental delay</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>220</offset>
+                <text>On exam he had hypertelorism and telecanthus with a broad and flat nasal bridge with an upturned nasal tip and anteverted nares, bilateral epicanthal folds, upslanting palpebral fissures, micrognathia, and low-set ears.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="15"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000506</infon>
+                    <location length="11" offset="33"/>
+                    <text>telecanthus</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="52"/>
+                    <text>broad</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005280</infon>
+                    <location length="17" offset="62"/>
+                    <text>flat nasal bridge</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="67"/>
+                    <text>nasal bridge</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000463</infon>
+                    <location length="18" offset="88"/>
+                    <text>upturned nasal tip</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000463</infon>
+                    <location length="16" offset="111"/>
+                    <text>anteverted nares</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000286</infon>
+                    <location length="16" offset="139"/>
+                    <text>epicanthal folds</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000582</infon>
+                    <location length="29" offset="157"/>
+                    <text>upslanting palpebral fissures</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000347</infon>
+                    <location length="12" offset="188"/>
+                    <text>micrognathia</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000369</infon>
+                    <location length="12" offset="206"/>
+                    <text>low-set ears</text>
+                </annotation>
+                <relation id="10">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000431</infon>
+                    <node refid="11" role="source"/>
+                    <node refid="9" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>440</offset>
+                <text>He had trigonocephaly due to metopic craniosynostosis that was confirmed on a magnetic resonance imaging (MRI) scan of the brain and for which he underwent surgical repair with a strip craniectomy.</text>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000243</infon>
+                    <location length="14" offset="7"/>
+                    <text>trigonocephaly</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011330</infon>
+                    <location length="24" offset="29"/>
+                    <text>metopic craniosynostosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>638</offset>
+                <text>MRI brain also showed a cavum septum pellucidum.</text>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002389</infon>
+                    <location length="23" offset="24"/>
+                    <text>cavum septum pellucidum</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>687</offset>
+                <text>Echocardiogram was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>714</offset>
+                <text>At 6 months, his head circumference was 42 cm (15th centile), length 60 cm (&lt;3rd centile), and weight 6.68 kg (3-15th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>842</offset>
+                <text>He developed focal epilepsy at 2 months of age which is treated with Keppra.</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007359</infon>
+                    <location length="14" offset="13"/>
+                    <text>focal epilepsy</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>919</offset>
+                <text>Trio exome sequencing (UCSF Genomic Medical Laboratory) identified a de novo variant in POLR1A, c.3988_3990delGAG; p.</text>
+            </sentence>
+            <sentence>
+                <offset>1036</offset>
+                <text>(Glu1330del)</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

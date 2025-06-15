@@ -1,0 +1,80 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Female, 22 years old, the first born to healthy, unrelated Dutch parents.</text>
+            </sentence>
+            <sentence>
+                <offset>74</offset>
+                <text>She has one healthy sibling.</text>
+            </sentence>
+            <sentence>
+                <offset>103</offset>
+                <text>At the age of 1 year she was evaluated because of growth failure, abnormal chest shape and limb shortness.</text>
+            </sentence>
+            <sentence>
+                <offset>210</offset>
+                <text>Skeletal radiographs showed a small, narrow thorax, brachydactyly of the fingers, short and broad diaphyses, and wide metaphyses of the arms and legs, and short iliac bones with spiky protrusions.</text>
+            </sentence>
+            <sentence>
+                <offset>407</offset>
+                <text>There was no history of respiratory difficulties.</text>
+            </sentence>
+            <sentence>
+                <offset>457</offset>
+                <text>At 3 years of age she was admitted because of a respiratory infection.</text>
+            </sentence>
+            <sentence>
+                <offset>528</offset>
+                <text>Blood gas revealed a metabolic acidose, serum creatinine was elevated, urinalysis showed proteinuria and her blood pressure was 200/170 mmHg.</text>
+            </sentence>
+            <sentence>
+                <offset>670</offset>
+                <text>Her renal function deteriorated (serum creatinine 422 μmol/l, ureum 16.8 mmol/l) and at the age of 4 years CAPD was started.</text>
+            </sentence>
+            <sentence>
+                <offset>795</offset>
+                <text>A renal transplant was performed when she was 5 years old and 5 weeks later bilateral nephrectomy was performed because of persistent hypertension.</text>
+            </sentence>
+            <sentence>
+                <offset>943</offset>
+                <text>At the age of 12 years she developed progressive renal failure, as a result of chronic rejection, and she was transplanted for a second time.</text>
+            </sentence>
+            <sentence>
+                <offset>1085</offset>
+                <text>Until now, her renal function remained stable.</text>
+            </sentence>
+            <sentence>
+                <offset>1132</offset>
+                <text>Ophthalmic examination showed narrow blood vessels without clinical problems.</text>
+            </sentence>
+            <sentence>
+                <offset>1210</offset>
+                <text>At the age of 22 years she is living independently and working as a nurse with mildly impaired exercise tolerance.</text>
+            </sentence>
+            <sentence>
+                <offset>1325</offset>
+                <text>Physical examination at the age of 22 years showed a height below the third centile, a sitting height/height ratio above the 97th centile, a chest circumference below the third centile, a hand length below the third centile and a foot length below the third centile.</text>
+            </sentence>
+            <sentence>
+                <offset>1592</offset>
+                <text>The chest radiograph showed an abnormal position of both ribs and claviculae with a CTR of 0.53 (reference &lt; 0.50; [28]).</text>
+            </sentence>
+            <sentence>
+                <offset>1714</offset>
+                <text>Pathological examination of the native kidneys showed that most of the glomeruli were totally sclerotic and the remainder showed capillary collapse.</text>
+            </sentence>
+            <sentence>
+                <offset>1863</offset>
+                <text>Periglomular fibrosis, tubular atrophy and dilatation with interstitial lymphocyte infiltration were seen.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

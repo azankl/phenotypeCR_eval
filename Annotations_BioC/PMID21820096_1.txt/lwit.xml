@@ -1,0 +1,242 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 1 is an 11-month-old girl born to first-cousin Arab parents and who was referred for clinical genetics evaluation.</text>
+            </sentence>
+            <sentence>
+                <offset>126</offset>
+                <text>She has four normal siblings and a cousin who is said to be similarly affected but who was unavailable for evaluation (Figure 1A).</text>
+            </sentence>
+            <sentence>
+                <offset>257</offset>
+                <text>Pregnancy was uncomplicated.</text>
+            </sentence>
+            <sentence>
+                <offset>286</offset>
+                <text>Abnormal hands and feet were noted at birth.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005922</infon>
+                    <location length="14" offset="0"/>
+                    <text>Abnormal hands</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="0"/>
+                    <text>Abnormal</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="19"/>
+                    <text>feet</text>
+                </annotation>
+                <relation id="3">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001760</infon>
+                    <node refid="4" role="source"/>
+                    <node refid="2" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>331</offset>
+                <text>At 11 months of age, she had severe and global developmental delay, recurrent seizures, and poor vision.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001263</infon>
+                    <location length="26" offset="40"/>
+                    <text>global developmental delay</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001250</infon>
+                    <location length="8" offset="78"/>
+                    <text>seizures</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000505</infon>
+                    <location length="11" offset="92"/>
+                    <text>poor vision</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>436</offset>
+                <text>Physical examination revealed microcephaly, large cutis aplasia of the scalp, optic atrophy, and axial hypotonia with appendicular hypertonia.</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000252</infon>
+                    <location length="12" offset="30"/>
+                    <text>microcephaly</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="50"/>
+                    <text>cutis aplasia</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="71"/>
+                    <text>scalp</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000648</infon>
+                    <location length="13" offset="78"/>
+                    <text>optic atrophy</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008936</infon>
+                    <location length="15" offset="97"/>
+                    <text>axial hypotonia</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002509</infon>
+                    <location length="23" offset="118"/>
+                    <text>appendicular hypertonia</text>
+                </annotation>
+                <relation id="10">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007385</infon>
+                    <node refid="11" role="source"/>
+                    <node refid="9" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>579</offset>
+                <text>In addition, there was distal reduction of the fingers and toes bilaterally and an absence of distal phalanges and nails (Figure 1B).</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009381</infon>
+                    <location length="31" offset="23"/>
+                    <text>distal reduction of the fingers</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="23"/>
+                    <text>distal reduction</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="59"/>
+                    <text>toes</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009835</infon>
+                    <location length="27" offset="83"/>
+                    <text>absence of distal phalanges</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="83"/>
+                    <text>absence</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="115"/>
+                    <text>nails</text>
+                </annotation>
+                <relation id="17">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001831</infon>
+                    <node refid="18" role="source"/>
+                    <node refid="16" role="target"/>
+                </relation>
+                <relation id="21">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001798</infon>
+                    <node refid="22" role="source"/>
+                    <node refid="20" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>713</offset>
+                <text>Echocardiography was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>742</offset>
+                <text>Brain CT demonstrated hydrocephalus with dilatation of the lateral ventricles and multiple small periventricular and subependymal calcifications (Figure 1B).</text>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000238</infon>
+                    <location length="13" offset="22"/>
+                    <text>hydrocephalus</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006956</infon>
+                    <location length="36" offset="41"/>
+                    <text>dilatation of the lateral ventricles</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="97"/>
+                    <text>periventricular</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0430048</infon>
+                    <location length="27" offset="117"/>
+                    <text>subependymal calcifications</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="130"/>
+                    <text>calcifications</text>
+                </annotation>
+                <relation id="26">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007229</infon>
+                    <node refid="27" role="source"/>
+                    <node refid="25" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>900</offset>
+                <text>X-rays of the hands and feet revealed absence of the distal phalanges.</text>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="14"/>
+                    <text>hands</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="24"/>
+                    <text>feet</text>
+                </annotation>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="31" offset="38"/>
+                    <text>absence of the distal phalanges</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="31" offset="38"/>
+                    <text>absence of the distal phalanges</text>
+                </annotation>
+                <relation id="30">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009835</infon>
+                    <node refid="31" role="source"/>
+                    <node refid="29" role="target"/>
+                </relation>
+                <relation id="33">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010185</infon>
+                    <node refid="34" role="source"/>
+                    <node refid="32" role="target"/>
+                </relation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

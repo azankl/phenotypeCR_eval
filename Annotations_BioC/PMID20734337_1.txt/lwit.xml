@@ -1,0 +1,246 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The female proposita (Fig. 1) was delivered by cesarean at 36 weeks gestation due to breech presentation with normal birth parameters.</text>
+            </sentence>
+            <sentence>
+                <offset>135</offset>
+                <text>A two-vessel umbilical cord, hypertelorism and a wide metopic suture were noted at birth.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001195</infon>
+                    <location length="25" offset="2"/>
+                    <text>two-vessel umbilical cord</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="29"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005487</infon>
+                    <location length="19" offset="49"/>
+                    <text>wide metopic suture</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>225</offset>
+                <text>Her hearing and newborn metabolic screening tests were unremarkable and she was discharged from the hospital on day 4 of life.</text>
+            </sentence>
+            <sentence>
+                <offset>355</offset>
+                <text>She was referred to Genetics at 5 months for hypertelorism.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="45"/>
+                    <text>hypertelorism</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>415</offset>
+                <text>Growth and development were normal at that time.</text>
+            </sentence>
+            <sentence>
+                <offset>464</offset>
+                <text>She had a widow's peak, mild frontal bossing and a widened metopic suture.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000349</infon>
+                    <location length="12" offset="10"/>
+                    <text>widow's peak</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002007</infon>
+                    <location length="15" offset="29"/>
+                    <text>frontal bossing</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005487</infon>
+                    <location length="22" offset="51"/>
+                    <text>widened metopic suture</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>539</offset>
+                <text>She had telecanthus and ocular hypertelorism, with an inner canthal distance (ICD) of 3.5 cm (≫97th centile), interpupillary distance (IPD) of 5.2 cm (≫97th centile) and outer canthal distance (OCD) of 8.2 cm (≫97th centile).</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000506</infon>
+                    <location length="11" offset="8"/>
+                    <text>telecanthus</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="20" offset="24"/>
+                    <text>ocular hypertelorism</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>765</offset>
+                <text>The nasal bridge was broad and the nasal tip was bifid.</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="4"/>
+                    <text>nasal bridge</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="21"/>
+                    <text>broad</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="35"/>
+                    <text>nasal tip</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="49"/>
+                    <text>bifid</text>
+                </annotation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000431</infon>
+                    <node refid="10" role="source"/>
+                    <node refid="11" role="target"/>
+                </relation>
+                <relation id="15">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011803</infon>
+                    <node refid="13" role="source"/>
+                    <node refid="14" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>821</offset>
+                <text>Her ears were slightly low-set.</text>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="4"/>
+                    <text>ears</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="23"/>
+                    <text>low-set</text>
+                </annotation>
+                <relation id="18">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000369</infon>
+                    <node refid="16" role="source"/>
+                    <node refid="17" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>853</offset>
+                <text>The philtrum was relatively long and the mouth had slightly downturned corners.</text>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="4"/>
+                    <text>philtrum</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="28"/>
+                    <text>long</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="41"/>
+                    <text>mouth</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="18" offset="60"/>
+                    <text>downturned corners</text>
+                </annotation>
+                <relation id="21">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000343</infon>
+                    <node refid="19" role="source"/>
+                    <node refid="20" role="target"/>
+                </relation>
+                <relation id="24">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002714</infon>
+                    <node refid="22" role="source"/>
+                    <node refid="23" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>933</offset>
+                <text>Her neck was normal and there was no chest deformity.</text>
+            </sentence>
+            <sentence>
+                <offset>987</offset>
+                <text>She had a small, dystrophic left fifth toenail, but her digits and nails were otherwise unremarkable.</text>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="10"/>
+                    <text>small</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="17"/>
+                    <text>dystrophic</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="39"/>
+                    <text>toenail</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="39"/>
+                    <text>toenail</text>
+                </annotation>
+                <relation id="26">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010624</infon>
+                    <node refid="27" role="source"/>
+                    <node refid="25" role="target"/>
+                </relation>
+                <relation id="29">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001810</infon>
+                    <node refid="30" role="source"/>
+                    <node refid="28" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1092</offset>
+                <text>A cranial ultrasound performed at 2 months of age had shown no abnormalities other than a right choroid plexus cyst and a left ependymal cyst.</text>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002190</infon>
+                    <location length="19" offset="96"/>
+                    <text>choroid plexus cyst</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002416</infon>
+                    <location length="14" offset="127"/>
+                    <text>ependymal cyst</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1235</offset>
+                <text>Skull radiographs showed no evidence of craniosynostosis and further cranial imaging was declined.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

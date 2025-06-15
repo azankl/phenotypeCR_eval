@@ -1,0 +1,160 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 was delivered normally at 41 weeks 3 days gestation weighing 3.43 kg.</text>
+            </sentence>
+            <sentence>
+                <offset>80</offset>
+                <text>Antenatal scans had shown hypoplastic kidneys, a prominent cisterna magna, bilateral radioulna fusion and oligosyndactyly.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000089</infon>
+                    <location length="19" offset="26"/>
+                    <text>hypoplastic kidneys</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002280</infon>
+                    <location length="24" offset="49"/>
+                    <text>prominent cisterna magna</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002974</infon>
+                    <location length="16" offset="85"/>
+                    <text>radioulna fusion</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012165</infon>
+                    <location length="15" offset="106"/>
+                    <text>oligosyndactyly</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001159</infon>
+                    <location length="15" offset="106"/>
+                    <text>oligosyndactyly</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>203</offset>
+                <text>At birth, he was confirmed to have similar, almost symmetrical, limb changes to his older brother (Figs. 2 and 3).</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0040064</infon>
+                    <location length="12" offset="64"/>
+                    <text>limb changes</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>318</offset>
+                <text>Renal ultrasound scanning showed that the right kidney was smaller measuring 4.6 cm (fifth centile for age is 4.9 cm) as well as being low-lying and malrotated.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="48"/>
+                    <text>kidney</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="48"/>
+                    <text>kidney</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="48"/>
+                    <text>kidney</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="59"/>
+                    <text>smaller</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="135"/>
+                    <text>low-lying</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="149"/>
+                    <text>malrotated</text>
+                </annotation>
+                <relation id="11">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000089</infon>
+                    <node refid="7" role="source"/>
+                    <node refid="10" role="target"/>
+                </relation>
+                <relation id="13">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100542</infon>
+                    <node refid="8" role="source"/>
+                    <node refid="12" role="target"/>
+                </relation>
+                <relation id="15">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004712</infon>
+                    <node refid="9" role="source"/>
+                    <node refid="14" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>479</offset>
+                <text>The left kidney measured 5.1 cm and appeared normal.</text>
+            </sentence>
+            <sentence>
+                <offset>532</offset>
+                <text>Both kidneys had simplex collecting systems.</text>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004742</infon>
+                    <location length="26" offset="17"/>
+                    <text>simplex collecting systems</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>577</offset>
+                <text>MAG3 scanning showed that both kidneys handled tracer normally with 58% function on the left and 42% on the right.</text>
+            </sentence>
+            <sentence>
+                <offset>692</offset>
+                <text>At 2.5 years of age, he has also had symptomatic hypoglycaemias during intercurrent illnesses and is currently being investigated for suspected ketotic hypoglycaemias.</text>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001943</infon>
+                    <location length="14" offset="49"/>
+                    <text>hypoglycaemias</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001943</infon>
+                    <location length="14" offset="152"/>
+                    <text>hypoglycaemias</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>860</offset>
+                <text>His most recent growth height at 2.7 years of age was 91.9 cm (25–50th centile) with a weight of 11.45 kg (9th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>981</offset>
+                <text>He has mild global developmental delay, but is otherwise in good health.</text>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001263</infon>
+                    <location length="26" offset="12"/>
+                    <text>global developmental delay</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

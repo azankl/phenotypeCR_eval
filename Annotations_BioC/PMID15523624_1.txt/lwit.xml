@@ -1,0 +1,606 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The proband was the first child of healthy, consanguineous Turkish parents.</text>
+            </sentence>
+            <sentence>
+                <offset>76</offset>
+                <text>Pregnancy and delivery were uneventful.</text>
+            </sentence>
+            <sentence>
+                <offset>116</offset>
+                <text>He was born at term with a weight of 3,000 g (10–50th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>180</offset>
+                <text>Length and head circumference at birth are not known.</text>
+            </sentence>
+            <sentence>
+                <offset>234</offset>
+                <text>Pterygia were present at the left elbow and at both knees, and extension of these joints was limited.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="0"/>
+                    <text>Pterygia</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="0"/>
+                    <text>Pterygia</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="34"/>
+                    <text>elbow</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="34"/>
+                    <text>elbow</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="52"/>
+                    <text>knees</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="52"/>
+                    <text>knees</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="63"/>
+                    <text>extension</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="63"/>
+                    <text>extension</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="93"/>
+                    <text>limited</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="93"/>
+                    <text>limited</text>
+                </annotation>
+                <relation id="3">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009760</infon>
+                    <node refid="4" role="source"/>
+                    <node refid="2" role="target"/>
+                </relation>
+                <relation id="5">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009756</infon>
+                    <node refid="6" role="source"/>
+                    <node refid="1" role="target"/>
+                </relation>
+                <relation id="11">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003066</infon>
+                    <node refid="8" role="source"/>
+                    <node refid="9" role="target"/>
+                </relation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001377</infon>
+                    <node refid="7" role="source"/>
+                    <node refid="10" role="target"/>
+                </relation>
+                <relation id="13">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="14" role="source"/>
+                    <node refid="10" role="target"/>
+                </relation>
+                <relation id="15">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="16" role="source"/>
+                    <node refid="9" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>336</offset>
+                <text>Contractures were present at the wrists, and there were bilateral clubfeet.</text>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="0"/>
+                    <text>Contractures</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="33"/>
+                    <text>wrists</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001762</infon>
+                    <location length="8" offset="66"/>
+                    <text>clubfeet</text>
+                </annotation>
+                <relation id="18">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001239</infon>
+                    <node refid="19" role="source"/>
+                    <node refid="17" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>412</offset>
+                <text>A fracture of the left arm diagnosed immediately after birth was attributed to trauma during delivery.</text>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="8" offset="2"/>
+                    <text>fracture</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="3" offset="23"/>
+                    <text>arm</text>
+                </annotation>
+                <relation id="22">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="23" role="source"/>
+                    <node refid="21" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>515</offset>
+                <text>Bilateral inguinal hernias were also diagnosed.</text>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000023</infon>
+                    <location length="16" offset="10"/>
+                    <text>inguinal hernias</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>563</offset>
+                <text>In the first 3 months the boy had two more fractures, one in the left arm, the other in the right arm.</text>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="9" offset="43"/>
+                    <text>fractures</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="9" offset="43"/>
+                    <text>fractures</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="3" offset="70"/>
+                    <text>arm</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="3" offset="98"/>
+                    <text>arm</text>
+                </annotation>
+                <relation id="27">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="28" role="source"/>
+                    <node refid="26" role="target"/>
+                </relation>
+                <relation id="29">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="30" role="source"/>
+                    <node refid="25" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>666</offset>
+                <text>At the age of 3 months OI was diagnosed because of recurrent fractures and evidence of marked osteopenia and bowing of the long bones.</text>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002757</infon>
+                    <location length="19" offset="51"/>
+                    <text>recurrent fractures</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000938</infon>
+                    <location length="10" offset="94"/>
+                    <text>osteopenia</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="109"/>
+                    <text>bowing</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="123"/>
+                    <text>long bones</text>
+                </annotation>
+                <relation id="34">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006487</infon>
+                    <node refid="35" role="source"/>
+                    <node refid="33" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>801</offset>
+                <text>Blood calcium and phosphate were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>842</offset>
+                <text>Treatment with intermittent intravenous pamidronate was started.</text>
+            </sentence>
+            <sentence>
+                <offset>907</offset>
+                <text>At age 6 months, weight was 5,740 g (below the 3rd centile), length 56 cm (3rd centile), and head circumference 41 cm (below the 3rd centile); blue-grey sclera and pectus carinatum were noticed.</text>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000592</infon>
+                    <location length="16" offset="143"/>
+                    <text>blue-grey sclera</text>
+                </annotation>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000768</infon>
+                    <location length="16" offset="164"/>
+                    <text>pectus carinatum</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1102</offset>
+                <text>Radiographs documented bilateral femoral bowing, periosteal reaction on tubular bones, a pathological fracture of the right humerus and diffuse osteoporosis.</text>
+                <annotation id="38">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002980</infon>
+                    <location length="14" offset="33"/>
+                    <text>femoral bowing</text>
+                </annotation>
+                <annotation id="39">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="19" offset="49"/>
+                    <text>periosteal reaction</text>
+                </annotation>
+                <annotation id="41">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="72"/>
+                    <text>tubular bones</text>
+                </annotation>
+                <annotation id="42">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="102"/>
+                    <text>fracture</text>
+                </annotation>
+                <annotation id="44">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="124"/>
+                    <text>humerus</text>
+                </annotation>
+                <annotation id="45">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000939</infon>
+                    <location length="12" offset="144"/>
+                    <text>osteoporosis</text>
+                </annotation>
+                <relation id="40">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031485</infon>
+                    <node refid="41" role="source"/>
+                    <node refid="39" role="target"/>
+                </relation>
+                <relation id="43">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0041055</infon>
+                    <node refid="44" role="source"/>
+                    <node refid="42" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1260</offset>
+                <text>Surgical correction of bilateral clubfoot was performed at the age of 11 months.</text>
+                <annotation id="46">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001762</infon>
+                    <location length="8" offset="33"/>
+                    <text>clubfoot</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1341</offset>
+                <text>An operation to release the knee contractures was performed at the age of 18 months.</text>
+                <annotation id="47">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0034671</infon>
+                    <location length="17" offset="28"/>
+                    <text>knee contractures</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1426</offset>
+                <text>His weight and head circumference always remained below the 3rd centile and his length was at the 3rd centile (measured with his legs only partially stretched) and between the 10th–25th centile if measured going over the deformities with the measuring tape.</text>
+            </sentence>
+            <sentence>
+                <offset>1684</offset>
+                <text>Mental development was normal (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>1727</offset>
+                <text>A skeletal survey was performed, and previous available radiographs were reviewed.</text>
+            </sentence>
+            <sentence>
+                <offset>1810</offset>
+                <text>It must be noted that obtaining standard projections was difficult because of the joint contractures.</text>
+                <annotation id="48">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0034392</infon>
+                    <location length="18" offset="82"/>
+                    <text>joint contractures</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1912</offset>
+                <text>The radiographic changes can be summarized as follows (Fig. 2): marked osteopenia was present from the first months of life in all skeletal elements.</text>
+                <annotation id="49">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000938</infon>
+                    <location length="10" offset="71"/>
+                    <text>osteopenia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2062</offset>
+                <text>Several diaphyseal fractures of the long bones (femurs, tibiae, ulnae, and fibulae) were documented.</text>
+                <annotation id="50">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="20" offset="8"/>
+                    <text>diaphyseal fractures</text>
+                </annotation>
+                <annotation id="51">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="20" offset="8"/>
+                    <text>diaphyseal fractures</text>
+                </annotation>
+                <annotation id="52">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="20" offset="8"/>
+                    <text>diaphyseal fractures</text>
+                </annotation>
+                <annotation id="53">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="20" offset="8"/>
+                    <text>diaphyseal fractures</text>
+                </annotation>
+                <annotation id="55">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="48"/>
+                    <text>femurs</text>
+                </annotation>
+                <annotation id="57">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="56"/>
+                    <text>tibiae</text>
+                </annotation>
+                <annotation id="59">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="64"/>
+                    <text>ulnae</text>
+                </annotation>
+                <annotation id="61">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="75"/>
+                    <text>fibulae</text>
+                </annotation>
+                <relation id="54">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031846</infon>
+                    <node refid="55" role="source"/>
+                    <node refid="50" role="target"/>
+                </relation>
+                <relation id="56">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0041143</infon>
+                    <node refid="57" role="source"/>
+                    <node refid="53" role="target"/>
+                </relation>
+                <relation id="58">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003987</infon>
+                    <node refid="59" role="source"/>
+                    <node refid="52" role="target"/>
+                </relation>
+                <relation id="60">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0041222</infon>
+                    <node refid="61" role="source"/>
+                    <node refid="51" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2163</offset>
+                <text>Callus formation was not exuberant, and healing appeared to proceed normally.</text>
+            </sentence>
+            <sentence>
+                <offset>2241</offset>
+                <text>A large number of Wormian bones were present in the occipital region of the skull (not shown).</text>
+                <annotation id="62">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002645</infon>
+                    <location length="13" offset="18"/>
+                    <text>Wormian bones</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2336</offset>
+                <text>There was no platyspondyly in the lumbar region, and only moderate platyspondyly in the thoracic region.</text>
+                <annotation id="63">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="67"/>
+                    <text>platyspondyly</text>
+                </annotation>
+                <annotation id="65">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="88"/>
+                    <text>thoracic region</text>
+                </annotation>
+                <relation id="64">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004592</infon>
+                    <node refid="65" role="source"/>
+                    <node refid="63" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2441</offset>
+                <text>There was a vertebra plana at T5, indicating a previous crush fracture.</text>
+                <annotation id="66">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="20" offset="12"/>
+                    <text>vertebra plana at T5</text>
+                </annotation>
+                <annotation id="67">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002953</infon>
+                    <location length="14" offset="56"/>
+                    <text>crush fracture</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2513</offset>
+                <text>There was a nodular thickening of ribs 4–9 on the left side, adjacent to the costovertebral joint; the lesions looked like healing fractures, but their paravertebral position was unusual and reminiscent of fractures caused by child abuse; it cannot be excluded that those fractures occurred during handling of the child, although there was no other evidence of abuse.</text>
+                <annotation id="68">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000900</infon>
+                    <location length="26" offset="12"/>
+                    <text>nodular thickening of ribs</text>
+                </annotation>
+                <annotation id="69">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="34"/>
+                    <text>ribs</text>
+                </annotation>
+                <annotation id="70">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="131"/>
+                    <text>fractures</text>
+                </annotation>
+                <relation id="71">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0041159</infon>
+                    <node refid="69" role="source"/>
+                    <node refid="70" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2881</offset>
+                <text>There was a healing fracture of rib 9 on the left side, positioned more laterally.</text>
+                <annotation id="72">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0041159</infon>
+                    <location length="15" offset="20"/>
+                    <text>fracture of rib</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2964</offset>
+                <text>The long bones showed multiple striations at more or less regular intervals as well as a mild impairment of metaphyseal modeling, characteristic for cyclic intravenous bisphosphonate treatment.</text>
+                <annotation id="73">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="4"/>
+                    <text>long bones</text>
+                </annotation>
+                <annotation id="74">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="19" offset="22"/>
+                    <text>multiple striations</text>
+                </annotation>
+                <annotation id="76">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="34" offset="94"/>
+                    <text>impairment of metaphyseal modeling</text>
+                </annotation>
+                <relation id="75">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031367</infon>
+                    <node refid="73" role="source"/>
+                    <node refid="74" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>3159</offset>
+                <text>When last examined at age 25 months (Fig. 1), his weight was 8,740 g (well below 3rd centile), length 84.5 cm (25th centile) measured going over the deformities, head circumference 46 cm (below 3rd centile).</text>
+            </sentence>
+            <sentence>
+                <offset>3367</offset>
+                <text>There were persisting pterygia at the left elbow and knee.</text>
+                <annotation id="77">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="22"/>
+                    <text>pterygia</text>
+                </annotation>
+                <annotation id="78">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="22"/>
+                    <text>pterygia</text>
+                </annotation>
+                <annotation id="80">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="43"/>
+                    <text>elbow</text>
+                </annotation>
+                <annotation id="82">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="53"/>
+                    <text>knee</text>
+                </annotation>
+                <relation id="79">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009760</infon>
+                    <node refid="80" role="source"/>
+                    <node refid="77" role="target"/>
+                </relation>
+                <relation id="81">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009756</infon>
+                    <node refid="82" role="source"/>
+                    <node refid="78" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>3426</offset>
+                <text>He had had no fracture in the last 7 months.</text>
+            </sentence>
+            <sentence>
+                <offset>3471</offset>
+                <text>His fine motor, language and social development were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>3532</offset>
+                <text>He could sit without support when feet were descended from the side of the examination table but standing and walking were impossible because of the joint contractures.</text>
+                <annotation id="83">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0034392</infon>
+                    <location length="18" offset="149"/>
+                    <text>joint contractures</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>3701</offset>
+                <text>He was still being treated with cyclic intravenous pamidronate</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

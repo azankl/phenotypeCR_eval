@@ -1,0 +1,70 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A male infant (case 2) of nonconsanguineous Caucasian parents was born at 37 weeks’ gestation with left-sided CDH, talipes equinovarus and swallowing difficulties.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000776</infon>
+                    <infon key="Comment">! Abbreviation</infon>
+                    <location length="3" offset="110"/>
+                    <text>CDH</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001762</infon>
+                    <location length="19" offset="115"/>
+                    <text>talipes equinovarus</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002015</infon>
+                    <location length="23" offset="139"/>
+                    <text>swallowing difficulties</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>164</offset>
+                <text>The CDH was repaired at age 3 days with a Gore-Tex patch, fundoplication and gastrostomy tube placement, with a good result.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000776</infon>
+                    <infon key="Comment">! Abbreviation</infon>
+                    <location length="3" offset="4"/>
+                    <text>CDH</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>289</offset>
+                <text>On examination at 2 years of age, he had telecanthus (inner canthal distance of 33 mm; more than +2 s.d. above the mean) but no other dysmorphic features (Figure 2a).</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000506</infon>
+                    <location length="11" offset="41"/>
+                    <text>telecanthus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>457</offset>
+                <text>A clinical diagnosis of male CFNS was made in the proband on the basis of the hypertelorism and family history.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="78"/>
+                    <text>hypertelorism</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>569</offset>
+                <text>Analysis of EFNB1 demonstrated a 3-nucleotide deletion in exon 2 (151_153delGTG, predicting V51del)</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

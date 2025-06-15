@@ -1,0 +1,52 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 18 is a 16-year-old female with mandibulofacial dysostosis (micrognathia, malar hypoplasia), congenital ptosis, congenital heart defects (atrial and ventricular septal defects, cleft mitral valve, bicuspid aortic valve, doming pulmonary valve, aortic and pulmonary artery dilation) and limb anomalies (small hands, single palmar creases, interlocked toes requiring surgery, reverse clubbed foot).</text>
+            </sentence>
+            <sentence>
+                <offset>408</offset>
+                <text>She also has congenital hypotonia, requiring physical and occupational therapies.</text>
+            </sentence>
+            <sentence>
+                <offset>490</offset>
+                <text>She had developmental delays and processing difficulty.</text>
+            </sentence>
+            <sentence>
+                <offset>546</offset>
+                <text>Micrognathia was treated with mandibular distraction at age 7, and her photograph in Figure 1 was taken after the distraction surgery.</text>
+            </sentence>
+            <sentence>
+                <offset>681</offset>
+                <text>Ascending aortic aneurysm required aortic replacement at age 13.</text>
+            </sentence>
+            <sentence>
+                <offset>746</offset>
+                <text>Septal defects and mitral valve also required surgical repair.</text>
+            </sentence>
+            <sentence>
+                <offset>809</offset>
+                <text>She had bilateral hip replacement at age 14 due to severe pain related to osteoarthritis and acetabular protrusion.</text>
+            </sentence>
+            <sentence>
+                <offset>925</offset>
+                <text>Clinical exome sequencing (GeneDx, Gaithersburg, MD) of individual 18 identified a POLR1A variant c.4913C&gt;T; p.</text>
+            </sentence>
+            <sentence>
+                <offset>1036</offset>
+                <text>(Pro1638Leu) which was not present in her mother.</text>
+            </sentence>
+            <sentence>
+                <offset>1086</offset>
+                <text>Paternal testing was not performed.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

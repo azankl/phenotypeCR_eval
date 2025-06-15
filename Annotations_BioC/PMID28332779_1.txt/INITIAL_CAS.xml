@@ -1,0 +1,148 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The proband is a Polish girl born as the second child of unrelated parents.</text>
+            </sentence>
+            <sentence>
+                <offset>76</offset>
+                <text>Pregnancy was complicated by polyhydramnios and the patient was born by cesarean delivery at 41 weeks of gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>192</offset>
+                <text>Her birth weight was 3,600 gm (50th centile), birth length 50 cm (25th centile), and birth OFC was 35 cm (50th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>313</offset>
+                <text>Apgar score was 8 at 1 min.</text>
+            </sentence>
+            <sentence>
+                <offset>341</offset>
+                <text>Developmental milestones were slightly delayed: she sat at 8 months and began walking independently at 15 months.</text>
+            </sentence>
+            <sentence>
+                <offset>458</offset>
+                <text>On her first consultation at the age of 15 months in the Clinical Genetics Unit of the Department of Medical Genetics, the Children's Memorial Health Institute (CMHI), her growth was only slightly retarded: weight and height were 8.9 kg (−1.5 SDS) and 76 cm (−0.8 SDS), respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>742</offset>
+                <text>She presented with dolichocephaly and distinctive facial features including high anterior hairline, broad and depressed nasal bridge, epicanthal folds and telecanthus, full cheeks, and rethrognathia (Fig. 1A–E).</text>
+            </sentence>
+            <sentence>
+                <offset>954</offset>
+                <text>Her thoracic cage was narrow and proximal limb shortening was evident (Fig. 1A).</text>
+            </sentence>
+            <sentence>
+                <offset>1035</offset>
+                <text>Short fingers with restricted flexion and a lack of interphalangeal distal creases and bilateral fifth finger clinodactyly was noted (Fig. 1G and H).</text>
+            </sentence>
+            <sentence>
+                <offset>1185</offset>
+                <text>An additional left thumb had been removed earlier.</text>
+            </sentence>
+            <sentence>
+                <offset>1236</offset>
+                <text>She also had signs of ectodermal dysplasia, such as joint and skin laxity, slow-growing, fine and sparse hair (Fig. 1A–C); her teeth were small, abnormally shaped, and widely spaced (Fig. 1F).</text>
+            </sentence>
+            <sentence>
+                <offset>1432</offset>
+                <text>A skeletal X-ray showed a narrow thorax with short, horizontal ribs, shortening of all the tubular bones and brachydactyly mostly marked in the middle and distal phalanges of the fingers (Supplemental Fig.</text>
+            </sentence>
+            <sentence>
+                <offset>1638</offset>
+                <text>S1A and B).</text>
+            </sentence>
+            <sentence>
+                <offset>1650</offset>
+                <text>A three-dimensional CT scan of the skull performed at the age of 15 months showed synostosis of the sagittal and right coronal sutures, resulting in dolichocephaly and plagiocephaly (Supplemental Fig.</text>
+            </sentence>
+            <sentence>
+                <offset>1851</offset>
+                <text>S2A and B).</text>
+            </sentence>
+            <sentence>
+                <offset>1863</offset>
+                <text>Taking all manifestations into account, CED was diagnosed in the proband.</text>
+            </sentence>
+            <sentence>
+                <offset>1940</offset>
+                <text>Regularly performed anthropometric measurements showed characteristic dynamics of the growth pattern features.</text>
+            </sentence>
+            <sentence>
+                <offset>2051</offset>
+                <text>A comparison of the measurements between age of 1.75 and 8.75 years, expressed in SDS, is presented (Supplemental Fig.</text>
+            </sentence>
+            <sentence>
+                <offset>2170</offset>
+                <text>S3).</text>
+            </sentence>
+            <sentence>
+                <offset>2175</offset>
+                <text>The deficiency of body height expanded with age from −1.84 to −2.55 SDS.</text>
+            </sentence>
+            <sentence>
+                <offset>2248</offset>
+                <text>Body weight remained close at the comparable level (−1.34 vs. −1.16 SDS) and the nutritional status assessed as BMI improved with age (−0.62 vs. −0.26 SDS).</text>
+            </sentence>
+            <sentence>
+                <offset>2405</offset>
+                <text>Changes in disproportionate head dimensions were even more pronounced with age, that is, progressive cephalic index decreased with age (dolichocephaly, objectively confirmed), head width (eu-eu) remained definitely below the normal range (−3.46 vs. −3,42 SDS), but a substantial increase in the head length (g-op) was noted (0.22 vs. 1.34 SDS).</text>
+            </sentence>
+            <sentence>
+                <offset>2750</offset>
+                <text>The patient presented characteristic for CED body proportion, that is, sizable shortening of both lower (−3.04 vs. −3.26 SDS) and upper extremities (−3.33 vs. −3.97 SDS), and normal trunk length (0.34 vs. −0.49 SDS).</text>
+            </sentence>
+            <sentence>
+                <offset>2967</offset>
+                <text>All chest measurements improved with age, that is, chest circumference (−2.44 vs. −1.22 SDS), chest depth (−1.95 vs. −1.33 SDS), and chest width (−4.03 vs. −2.03 SDS).</text>
+            </sentence>
+            <sentence>
+                <offset>3138</offset>
+                <text>Ophthalmological examination including visual field exam, electroretinography, visual evoked potentials and Angio-OCT was performed at the age of 9.5 years.</text>
+            </sentence>
+            <sentence>
+                <offset>3295</offset>
+                <text>Some abnormalities were found: hyperopy + 0.5 Dsph in right eye with normal vision and +4.75 Dsph in left, amblyopic eye.</text>
+            </sentence>
+            <sentence>
+                <offset>3417</offset>
+                <text>There was no evidence of retinal dystrophy.</text>
+            </sentence>
+            <sentence>
+                <offset>3464</offset>
+                <text>She attended regular school, but an enlarged tongue was associated with articulation problems and timidity in verbal communication.</text>
+            </sentence>
+            <sentence>
+                <offset>3599</offset>
+                <text>The clinical symptoms suggested chronic tubulointerstitial nephropathy with decreased renal function (glomerular filtration rate: 60 ml/min/1.73m2), albuminuria (217.2 mg/g creatinine), and tubular proteinuria (α2 microglobulin 49.6 mg/g creatinine**).</text>
+            </sentence>
+            <sentence>
+                <offset>3852</offset>
+                <text>Another renal finding was hypocalciuria (0.4–1.0 mg/kg/24 hr) and hypocitraturia (96.9–347.1 mg/g creatinine***), with normal serum concentrations of HCO3−, which suggested incomplete distal tubular acidosis.</text>
+            </sentence>
+            <sentence>
+                <offset>4061</offset>
+                <text>Ultrasound showed increased parenchymal echogenicity and decreased corticomedullary differentiation and the focal presence of small cysts.</text>
+            </sentence>
+            <sentence>
+                <offset>4200</offset>
+                <text>Overall, the renal pattern was regarded as nephronophthisis.</text>
+            </sentence>
+            <sentence>
+                <offset>4261</offset>
+                <text>Liver function was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>4288</offset>
+                <text>(*normal range 0.5–0.96 mg/L, **normal range &lt;14 mg/g creatinine, ***normal range 43 ± 12 μmol/kg/24 hr or &gt; 400 mg/g creatinine).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

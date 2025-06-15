@@ -1,0 +1,312 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Female, 22 years old, the first born to healthy, unrelated Dutch parents.</text>
+            </sentence>
+            <sentence>
+                <offset>74</offset>
+                <text>She has one healthy sibling.</text>
+            </sentence>
+            <sentence>
+                <offset>103</offset>
+                <text>At the age of 1 year she was evaluated because of growth failure, abnormal chest shape and limb shortness.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001510</infon>
+                    <location length="14" offset="50"/>
+                    <text>growth failure</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000765</infon>
+                    <location length="20" offset="66"/>
+                    <text>abnormal chest shape</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009826</infon>
+                    <location length="14" offset="91"/>
+                    <text>limb shortness</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>210</offset>
+                <text>Skeletal radiographs showed a small, narrow thorax, brachydactyly of the fingers, short and broad diaphyses, and wide metaphyses of the arms and legs, and short iliac bones with spiky protrusions.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="30"/>
+                    <text>small</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000774</infon>
+                    <location length="13" offset="37"/>
+                    <text>narrow thorax</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="44"/>
+                    <text>thorax</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001156</infon>
+                    <location length="13" offset="52"/>
+                    <text>brachydactyly</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="82"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006371</infon>
+                    <location length="15" offset="92"/>
+                    <text>broad diaphyses</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="98"/>
+                    <text>diaphyses</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003016</infon>
+                    <location length="15" offset="113"/>
+                    <text>wide metaphyses</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100866</infon>
+                    <location length="17" offset="155"/>
+                    <text>short iliac bones</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="161"/>
+                    <text>iliac bones</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="184"/>
+                    <text>protrusions</text>
+                </annotation>
+                <relation id="5">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005257</infon>
+                    <node refid="6" role="source"/>
+                    <node refid="4" role="target"/>
+                </relation>
+                <relation id="10">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000941</infon>
+                    <node refid="11" role="source"/>
+                    <node refid="9" role="target"/>
+                </relation>
+                <relation id="17">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003796</infon>
+                    <node refid="15" role="source"/>
+                    <node refid="16" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>407</offset>
+                <text>There was no history of respiratory difficulties.</text>
+            </sentence>
+            <sentence>
+                <offset>457</offset>
+                <text>At 3 years of age she was admitted because of a respiratory infection.</text>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011947</infon>
+                    <location length="21" offset="48"/>
+                    <text>respiratory infection</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>528</offset>
+                <text>Blood gas revealed a metabolic acidose, serum creatinine was elevated, urinalysis showed proteinuria and her blood pressure was 200/170 mmHg.</text>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001942</infon>
+                    <infon key="Comment">! Typo</infon>
+                    <location length="17" offset="21"/>
+                    <text>metabolic acidose</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="40"/>
+                    <text>serum creatinine</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="61"/>
+                    <text>elevated</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000093</infon>
+                    <location length="11" offset="89"/>
+                    <text>proteinuria</text>
+                </annotation>
+                <relation id="22">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003259</infon>
+                    <node refid="20" role="source"/>
+                    <node refid="21" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>670</offset>
+                <text>Her renal function deteriorated (serum creatinine 422 μmol/l, ureum 16.8 mmol/l) and at the age of 4 years CAPD was started.</text>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012211</infon>
+                    <location length="27" offset="4"/>
+                    <text>renal function deteriorated</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>795</offset>
+                <text>A renal transplant was performed when she was 5 years old and 5 weeks later bilateral nephrectomy was performed because of persistent hypertension.</text>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000822</infon>
+                    <location length="12" offset="134"/>
+                    <text>hypertension</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>943</offset>
+                <text>At the age of 12 years she developed progressive renal failure, as a result of chronic rejection, and she was transplanted for a second time.</text>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000083</infon>
+                    <location length="13" offset="49"/>
+                    <text>renal failure</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1085</offset>
+                <text>Until now, her renal function remained stable.</text>
+            </sentence>
+            <sentence>
+                <offset>1132</offset>
+                <text>Ophthalmic examination showed narrow blood vessels without clinical problems.</text>
+            </sentence>
+            <sentence>
+                <offset>1210</offset>
+                <text>At the age of 22 years she is living independently and working as a nurse with mildly impaired exercise tolerance.</text>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003546</infon>
+                    <location length="27" offset="86"/>
+                    <text>impaired exercise tolerance</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1325</offset>
+                <text>Physical examination at the age of 22 years showed a height below the third centile, a sitting height/height ratio above the 97th centile, a chest circumference below the third centile, a hand length below the third centile and a foot length below the third centile.</text>
+            </sentence>
+            <sentence>
+                <offset>1592</offset>
+                <text>The chest radiograph showed an abnormal position of both ribs and claviculae with a CTR of 0.53 (reference &lt; 0.50; [28]).</text>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="31"/>
+                    <text>abnormal position</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="31"/>
+                    <text>abnormal position</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="57"/>
+                    <text>ribs</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="66"/>
+                    <text>claviculae</text>
+                </annotation>
+                <relation id="30">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001547</infon>
+                    <node refid="31" role="source"/>
+                    <node refid="28" role="target"/>
+                </relation>
+                <relation id="32">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000889</infon>
+                    <node refid="33" role="source"/>
+                    <node refid="29" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1714</offset>
+                <text>Pathological examination of the native kidneys showed that most of the glomeruli were totally sclerotic and the remainder showed capillary collapse.</text>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="71"/>
+                    <text>glomeruli</text>
+                </annotation>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="94"/>
+                    <text>sclerotic</text>
+                </annotation>
+                <relation id="35">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000096</infon>
+                    <node refid="36" role="source"/>
+                    <node refid="34" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1863</offset>
+                <text>Periglomular fibrosis, tubular atrophy and dilatation with interstitial lymphocyte infiltration were seen.</text>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0032417</infon>
+                    <infon key="Comment">! Typo</infon>
+                    <location length="21" offset="0"/>
+                    <text>Periglomular fibrosis</text>
+                </annotation>
+                <annotation id="38">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000092</infon>
+                    <location length="15" offset="23"/>
+                    <text>tubular atrophy</text>
+                </annotation>
+                <annotation id="39">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="23"/>
+                    <text>tubular</text>
+                </annotation>
+                <annotation id="40">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="43"/>
+                    <text>dilatation</text>
+                </annotation>
+                <relation id="41">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0032622</infon>
+                    <node refid="39" role="source"/>
+                    <node refid="40" role="target"/>
+                </relation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

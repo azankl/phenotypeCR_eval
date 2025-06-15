@@ -1,0 +1,192 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Case 3 is a second cousin of the propositus.</text>
+            </sentence>
+            <sentence>
+                <offset>45</offset>
+                <text>He was born at 9 months of gestation by a normal delivery, with a birth weight of 2,920 g (10–25th centile) and a length of 43.2 cm (&lt;3rd centile).</text>
+            </sentence>
+            <sentence>
+                <offset>193</offset>
+                <text>He began walking at 15 months, had a waddling gait and cried frequently.</text>
+            </sentence>
+            <sentence>
+                <offset>266</offset>
+                <text>He gained weight poorly, had a poor appetite, and easy fatigability.</text>
+            </sentence>
+            <sentence>
+                <offset>338</offset>
+                <text>At age 6 years, he had lower limb pain and fatigue after walking half a block.</text>
+            </sentence>
+            <sentence>
+                <offset>417</offset>
+                <text>He was at the 35th centile for height and &lt;5th centile for weight.</text>
+            </sentence>
+            <sentence>
+                <offset>484</offset>
+                <text>He had frontal bossing, small teeth with thin enamel, mild hepatomegaly, markedly pronated, externally rotated feet, decreased muscle mass and tone, hypoactive reflexes and dry, scaly skin with poor turgor.</text>
+            </sentence>
+            <sentence>
+                <offset>691</offset>
+                <text>His ESR was 40 mm/h; serum calcium, phosphorus, and alkaline phosphatase were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>777</offset>
+                <text>Radiographs showed cortical thickening with irregular areas of density in the upper and lower limbs, especially the femora.</text>
+            </sentence>
+            <sentence>
+                <offset>901</offset>
+                <text>There was a slight increase in the density of the skull.</text>
+            </sentence>
+            <sentence>
+                <offset>958</offset>
+                <text>The spine, pelvis, and ribs were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>999</offset>
+                <text>The bone age was 3½ years at age 6 years.</text>
+            </sentence>
+            <sentence>
+                <offset>1041</offset>
+                <text>A biopsy of the right tibia by report showed no changes in the marrow with a thin layer of fibrous tissue along the inner surface of the dense, outer, cortical bone.</text>
+            </sentence>
+            <sentence>
+                <offset>1207</offset>
+                <text>He was diagnosed with Albers–Schönberg disease.</text>
+            </sentence>
+            <sentence>
+                <offset>1258</offset>
+                <text>By age 8 years he continued to have poor muscular development and marked weakness.</text>
+            </sentence>
+            <sentence>
+                <offset>1341</offset>
+                <text>He was at the 20th centile for height and &lt;5th centile for weight.</text>
+            </sentence>
+            <sentence>
+                <offset>1408</offset>
+                <text>His head circumference was 57 cm (&gt;98th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>1458</offset>
+                <text>He also had severe genua valga.</text>
+            </sentence>
+            <sentence>
+                <offset>1490</offset>
+                <text>At age 10 years he reported hearing loss.</text>
+            </sentence>
+            <sentence>
+                <offset>1532</offset>
+                <text>The skull had increased density along the floor of the anterior and middle fossa, there was increased sclerosis in the femora and both forearms were now affected.</text>
+            </sentence>
+            <sentence>
+                <offset>1695</offset>
+                <text>A diagnosis of osteopetrosis was suspected.</text>
+            </sentence>
+            <sentence>
+                <offset>1742</offset>
+                <text>At age 17½ years he had limited mobility of the shoulders, thoracolumbar scoliosis, and flexion contractures of both knees.</text>
+            </sentence>
+            <sentence>
+                <offset>1866</offset>
+                <text>He had hyperhidrosis of the hands and feet.</text>
+            </sentence>
+            <sentence>
+                <offset>1910</offset>
+                <text>He underwent bilateral tibial and fibular osteotomies followed by bilateral femoral supracondylar osteotomies to correct his lower limb deformities.</text>
+            </sentence>
+            <sentence>
+                <offset>2059</offset>
+                <text>Histologic examination of the bone by report showed a thickened periosteum without evidence of inflammation and thickened vessel walls.</text>
+            </sentence>
+            <sentence>
+                <offset>2195</offset>
+                <text>The cortex showed a dense compact structure, normal haversian systems, and minimal osteoblast and osteoclast activity.</text>
+            </sentence>
+            <sentence>
+                <offset>2317</offset>
+                <text>At age 20 years, he had normal peripheral nerve conduction and EMG.</text>
+            </sentence>
+            <sentence>
+                <offset>2385</offset>
+                <text>A biopsy of the right fibular epiphysis showed, by report, markedly osteoporotic bone and a normal epiphyseal plate with minimal proliferative activity.</text>
+            </sentence>
+            <sentence>
+                <offset>2538</offset>
+                <text>A muscle biopsy was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>2566</offset>
+                <text>He developed tinnitus, hearing impairment in the right ear, episodic vertigo, and right facial paresis.</text>
+            </sentence>
+            <sentence>
+                <offset>2670</offset>
+                <text>He was diagnosed with PDD at age 21 years, following the diagnosis of his second cousin.</text>
+            </sentence>
+            <sentence>
+                <offset>2759</offset>
+                <text>Five years later, he had right upper facial paralysis, right lower facial paresis, progressive hearing loss, and balance problems.</text>
+            </sentence>
+            <sentence>
+                <offset>2890</offset>
+                <text>Radiographs showed massive overgrowth of bone involving the petrous apex and mastoid bones partially obstructing both internal auditory canals.</text>
+            </sentence>
+            <sentence>
+                <offset>3034</offset>
+                <text>The entire skull base was markedly thickened with increased density of the inner and outer tables.</text>
+            </sentence>
+            <sentence>
+                <offset>3133</offset>
+                <text>Bilateral decompressions of the internal auditory canals and middle cranial fossa were performed.</text>
+            </sentence>
+            <sentence>
+                <offset>3231</offset>
+                <text>Hearing in the left ear improved slightly initially, then it gradually deteriorated.</text>
+            </sentence>
+            <sentence>
+                <offset>3316</offset>
+                <text>At age 47 years his internal auditory canals were nearly entirely obliterated by bone.</text>
+            </sentence>
+            <sentence>
+                <offset>3403</offset>
+                <text>At age 54 years, he had marked deviation of the nasal septum and nasal obstruction.</text>
+            </sentence>
+            <sentence>
+                <offset>3487</offset>
+                <text>He underwent septostomy.</text>
+            </sentence>
+            <sentence>
+                <offset>3512</offset>
+                <text>He was diagnosed with hyposmia suspected to be due to hyperostosis of the cribiform plate and olfactory region.</text>
+            </sentence>
+            <sentence>
+                <offset>3627</offset>
+                <text>At age 60 years, he had severe limb pain, prominence of the distal femora bilaterally, quadriceps wasting, weakness, tinnitus, and intermittent headache.</text>
+            </sentence>
+            <sentence>
+                <offset>3781</offset>
+                <text>He walked short distances with crutches.</text>
+            </sentence>
+            <sentence>
+                <offset>3822</offset>
+                <text>He had a prominent right mandible, right complete facial palsy, left upper facial palsy, deviation of the palate to the right, and deviation of tongue to the left.</text>
+            </sentence>
+            <sentence>
+                <offset>3986</offset>
+                <text>Radiographs of his limbs, skull, and pelvis showed severe hyperostosis of his skull and long bones (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>4095</offset>
+                <text>He declined steroid therapy secondary to the fear of side effects.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

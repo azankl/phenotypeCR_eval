@@ -1,0 +1,218 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 presented at 9 days with a mixed respiratory and metabolic acidosis.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005967</infon>
+                    <location length="34" offset="43"/>
+                    <text>respiratory and metabolic acidosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>79</offset>
+                <text>Clinical examination showed thick scalp hair, a low anterior hair line, generalized hypertrichosis, and hepatomegaly (liver edge palpable 4 cm below the costal margin).</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100874</infon>
+                    <location length="16" offset="28"/>
+                    <text>thick scalp hair</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000294</infon>
+                    <location length="22" offset="48"/>
+                    <text>low anterior hair line</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000998</infon>
+                    <location length="14" offset="84"/>
+                    <text>hypertrichosis</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002240</infon>
+                    <location length="12" offset="104"/>
+                    <text>hepatomegaly</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>248</offset>
+                <text>An echocardiogram confirmed a patent ductus arteriosus responsive to medical therapy.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001643</infon>
+                    <location length="24" offset="30"/>
+                    <text>patent ductus arteriosus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>334</offset>
+                <text>Barium studies showed gastro-esophageal reflux.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002020</infon>
+                    <location length="24" offset="22"/>
+                    <text>gastro-esophageal reflux</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>385</offset>
+                <text>At age 6 months her head circumference was 44 cm (90th centile), length 61.0 cm (10th centile), and weight 6.9 kg (50th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>515</offset>
+                <text>An echocardiogram showed hypertrophic cardiomyopathy.</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001639</infon>
+                    <location length="27" offset="25"/>
+                    <text>hypertrophic cardiomyopathy</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>569</offset>
+                <text>Hepatomegaly was still present, with no signs of heart failure.</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002240</infon>
+                    <location length="12" offset="0"/>
+                    <text>Hepatomegaly</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>633</offset>
+                <text>At age 2 years she was asymptomatic apart from frequent upper respiratory tract infections.</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002788</infon>
+                    <location length="34" offset="56"/>
+                    <text>upper respiratory tract infections</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>725</offset>
+                <text>At this time the inter-ventricular septum measured 10 mm and posterior left ventricular wall 8 mm (normal range 5.5–7.5 mm) and there was mild tricuspid regurgitation.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005180</infon>
+                    <location length="23" offset="143"/>
+                    <text>tricuspid regurgitation</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>896</offset>
+                <text>When she was reviewed age 7 years she was well with a fit and muscular appearance.</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="19" offset="62"/>
+                    <text>muscular appearance</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>979</offset>
+                <text>She had thick hair on her head and mild generalized hypertrichosis with hair whorls on her back.</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100874</infon>
+                    <location length="10" offset="8"/>
+                    <text>thick hair</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000998</infon>
+                    <location length="14" offset="52"/>
+                    <text>hypertrichosis</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="72"/>
+                    <text>hair whorls</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="91"/>
+                    <text>back</text>
+                </annotation>
+                <relation id="16">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010814</infon>
+                    <node refid="17" role="source"/>
+                    <node refid="15" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1076</offset>
+                <text>There was no hepatomegaly.</text>
+            </sentence>
+            <sentence>
+                <offset>1103</offset>
+                <text>She had a formal developmental assessment which showed that her IQ was above average (full scale IQ 129, verbal IQ 135) but that she experienced some difficulties with fine motor coordination.</text>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007010</infon>
+                    <location length="41" offset="150"/>
+                    <text>difficulties with fine motor coordination</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1296</offset>
+                <text>Aged 8 years she was admitted to hospital following an episode of hematemesis.</text>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002248</infon>
+                    <location length="11" offset="66"/>
+                    <text>hematemesis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1375</offset>
+                <text>Endoscopy showed mild esophagitis.</text>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100633</infon>
+                    <location length="11" offset="22"/>
+                    <text>esophagitis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1413</offset>
+                <text>She is now 19-year old.</text>
+            </sentence>
+            <sentence>
+                <offset>1437</offset>
+                <text>Her cardiomyopathy has remained stable and she does not have hepatomegaly.</text>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001638</infon>
+                    <location length="14" offset="4"/>
+                    <text>cardiomyopathy</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1512</offset>
+                <text>She has continued to have reflux esophagitis.</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100633</infon>
+                    <location length="11" offset="33"/>
+                    <text>esophagitis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1558</offset>
+                <text>She has done well in school and has gone on to tertiary education.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

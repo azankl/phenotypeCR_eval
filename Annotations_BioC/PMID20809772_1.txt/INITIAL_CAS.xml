@@ -1,0 +1,64 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The patient was born at 40 weeks gestational age by Cesarean section for oligohydramnios.</text>
+            </sentence>
+            <sentence>
+                <offset>90</offset>
+                <text>A diagnosis of Pfeiffer syndrome was made based on multiple congenital anomalies including bicoronal and lambdoid craniosynostosis, midface hypoplasia, proptosis, broad great toes and broad medially deviated thumbs (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>317</offset>
+                <text>She also had natal teeth and a complete cartilagenous tracheal sleeve with a normal caliber airway.</text>
+            </sentence>
+            <sentence>
+                <offset>417</offset>
+                <text>Bony abnormalities included radio-ulnar synostosis, humeral-radial synostosis, fused butterfly vertebrae and 11 pairs of ribs.</text>
+            </sentence>
+            <sentence>
+                <offset>544</offset>
+                <text>She had an anteriorly displaced anus, a right pelvic kidney, bilateral aural atresia and bilateral hearing loss from bilateral ear canal stenosis.</text>
+            </sentence>
+            <sentence>
+                <offset>691</offset>
+                <text>Cardiac anomalies included an atrial septal aneurysm.</text>
+            </sentence>
+            <sentence>
+                <offset>748</offset>
+                <text>Ophthalmic examination on day 21 of life showed aversion to light in each eye as well as an exotropia of 35 prism diopters by Krimsky light reflex.</text>
+            </sentence>
+            <sentence>
+                <offset>896</offset>
+                <text>External exam was significant for shallow orbits with moderate proptosis, however no lagophthalmos or exposure keratopathy were noted (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>1042</offset>
+                <text>Anterior segment was anomalous bilaterally, with microcornea (corneal diameters of 8.0 mm) of both eyes, scleralization of both corneas at the limbus, most prominent superiorly, and corectopia with minimally reactive, superiorly displaced pupils, approximately 2 mm in diameter (Figure 2).</text>
+            </sentence>
+            <sentence>
+                <offset>1332</offset>
+                <text>Dilated fundus exam showed increased cup to disc ratio of 0.7 with no optic nerve pallor or edema.</text>
+            </sentence>
+            <sentence>
+                <offset>1431</offset>
+                <text>Otherwise the retinal vessels, macula and periphery were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1496</offset>
+                <text>Intraocular pressures were 23 mm Hg in both eyes prompting concern for glaucoma secondary to anterior chamber anomalies.</text>
+            </sentence>
+            <sentence>
+                <offset>1617</offset>
+                <text>Cosopt was initiated, which lowered intraocular pressures to 15mmHg.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

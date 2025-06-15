@@ -1,0 +1,48 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 had a BW of 3.5 kg and BL of 50 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>46</offset>
+                <text>OFC was not recorded.</text>
+            </sentence>
+            <sentence>
+                <offset>68</offset>
+                <text>Clinical examination at 14 years: height 154 cm (10th centile), weight 40.2 kg (10–25th centile), OFC 53.5 cm (25th centile), inner canthal distance 28 mm (25th centile), outer canthal distance: 80 mm (3–25th centile), palpebral fissure length: 30 mm (50th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>335</offset>
+                <text>The boy (Fig. 1) had blepharoptosis, epicanthus, long eyelashes, synophrys, arched eyebrows with lateral flare, high nasal root, wide nasal tip, hypoplastic alae nasi, short philtrum, a repaired umbilical hernia but no periumbilical depression, unilateral cryptorchidism, and sacral appendage (Fig. 3).</text>
+            </sentence>
+            <sentence>
+                <offset>638</offset>
+                <text>There was no intellectual deficit.</text>
+            </sentence>
+            <sentence>
+                <offset>673</offset>
+                <text>Ophthalmological examination did not show an anterior chamber abnormality.</text>
+            </sentence>
+            <sentence>
+                <offset>748</offset>
+                <text>Audiological evaluation disclosed sensorineural hearing loss of moderate severity (41–70 dB) on the left at the frequencies of 500, 1,000, and 2,000 Hz.</text>
+            </sentence>
+            <sentence>
+                <offset>901</offset>
+                <text>Radiographs of the lumbosacral region showed no abnormalities.</text>
+            </sentence>
+            <sentence>
+                <offset>964</offset>
+                <text>G-banded karyotype gave a normal male karyotype.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

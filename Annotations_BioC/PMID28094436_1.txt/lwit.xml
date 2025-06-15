@@ -1,0 +1,197 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 1.</text>
+            </sentence>
+            <sentence>
+                <offset>11</offset>
+                <text>The index patient is presently a 19-year-old female born to healthy non-consanguineous Finnish parents from an uncomplicated pregnancy at term measuring 47.5 cm and 3450 g.</text>
+            </sentence>
+            <sentence>
+                <offset>184</offset>
+                <text>Early growth and development were normal; at 2 years height Z-score was −1.3.</text>
+            </sentence>
+            <sentence>
+                <offset>262</offset>
+                <text>Her hair was thin and sparse and nails were thin and brittle.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="4"/>
+                    <text>hair</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="4"/>
+                    <text>hair</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="13"/>
+                    <text>thin</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="22"/>
+                    <text>sparse</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="33"/>
+                    <text>nails</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="33"/>
+                    <text>nails</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="44"/>
+                    <text>thin</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="53"/>
+                    <text>brittle</text>
+                </annotation>
+                <relation id="4">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002213</infon>
+                    <node refid="1" role="source"/>
+                    <node refid="3" role="target"/>
+                </relation>
+                <relation id="6">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008070</infon>
+                    <node refid="2" role="source"/>
+                    <node refid="5" role="target"/>
+                </relation>
+                <relation id="10">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001816</infon>
+                    <node refid="7" role="source"/>
+                    <node refid="9" role="target"/>
+                </relation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001808</infon>
+                    <node refid="8" role="source"/>
+                    <node refid="11" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>324</offset>
+                <text>She had severe dental caries.</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000670</infon>
+                    <location length="13" offset="15"/>
+                    <text>dental caries</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>354</offset>
+                <text>She suffered from recurrent otitis media and underwent tympanostomy 11 times.</text>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000388</infon>
+                    <location length="12" offset="28"/>
+                    <text>otitis media</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>432</offset>
+                <text>Asthma was diagnosed at 3 years and treated with inhaled corticosteroids until age 7.</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002099</infon>
+                    <location length="6" offset="0"/>
+                    <text>Asthma</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>518</offset>
+                <text>She had no pneumonias or invasive infections but frequent upper respiratory tract infections (URTIs).</text>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002788</infon>
+                    <location length="34" offset="58"/>
+                    <text>upper respiratory tract infections</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002788</infon>
+                    <infon key="Comment">! Abbreviation</infon>
+                    <location length="5" offset="94"/>
+                    <text>URTIs</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>620</offset>
+                <text>Her immunoglobulin levels, complete blood counts and lymphocyte subclasses were repeatedly normal.</text>
+            </sentence>
+            <sentence>
+                <offset>719</offset>
+                <text>Pulmonary high-resolution computed tomography (HRCT) at 16 years showed no abnormalities.</text>
+            </sentence>
+            <sentence>
+                <offset>809</offset>
+                <text>Skeletal survey at 8 years was regarded normal (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>868</offset>
+                <text>Her height Z-score was at or above −2.0 until 12.5 years when she measured 140.4 cm (Figure 2).</text>
+            </sentence>
+            <sentence>
+                <offset>964</offset>
+                <text>Severe obesity developed after age 7 years.</text>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001513</infon>
+                    <location length="7" offset="7"/>
+                    <text>obesity</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1008</offset>
+                <text>Pubertal growth spurt was subnormal and clinical features of a skeletal dysplasia became evident by 14 years when CHH was suspected.</text>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="21" offset="0"/>
+                    <text>Pubertal growth spurt</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="26"/>
+                    <text>subnormal</text>
+                </annotation>
+                <relation id="21">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031087</infon>
+                    <node refid="19" role="source"/>
+                    <node refid="20" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1141</offset>
+                <text>RMRP mutation analysis revealed compound heterozygosity for g.70A&gt;G mutation and a 10-nucleotide duplication at position −13 (TACTCTGTGA), confirming the diagnosis of CHH.</text>
+            </sentence>
+            <sentence>
+                <offset>1313</offset>
+                <text>Parents were both heterozygous carriers of one of the mutations.</text>
+            </sentence>
+            <sentence>
+                <offset>1378</offset>
+                <text>The patient's adult height is 144.5 cm (−3.5 SDS) and weight 105 kg (body mass index 50.3 kg/m2).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

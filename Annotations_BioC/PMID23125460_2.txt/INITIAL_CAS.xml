@@ -1,0 +1,36 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Case 2 is a 2-year-old child who presented with facial dysmorphism with macrocephaly and frontal bossing at birth.</text>
+            </sentence>
+            <sentence>
+                <offset>116</offset>
+                <text>Parameters at birth were normal (weight 3100 g, height 49 cm, HC 35.5 cm); the child was hypotonic and able to sit unaided at 11 months of age.</text>
+            </sentence>
+            <sentence>
+                <offset>260</offset>
+                <text>Facial features included a tall forehead with frontal bossing, hypertelorism, strabismus, short nose, and protruding tongue.</text>
+            </sentence>
+            <sentence>
+                <offset>385</offset>
+                <text>Brain MRI showed a corpus callosum agenesis (figure 2C) as well as parallel and dilated lateral ventricles characteristic of complete callosal agenesis (figure 2F) and a vermis dysgenesis with an MTS (figure 2E) that suggested the diagnosis of ACLS, despite the absence of polydactyly.</text>
+            </sentence>
+            <sentence>
+                <offset>671</offset>
+                <text>Instead, bilateral 2–3 syndactyly was observed in the feet.</text>
+            </sentence>
+            <sentence>
+                <offset>731</offset>
+                <text>Direct sequencing of KIF7 revealed a single T insertion in exon 17, predicting a frameshift and a premature termination of the protein, c.1019dupT, p.Asn341GlnfsX122 inherited from his father and a maternally inherited nonsense mutation in exon 17: c.3331C&gt;T, p.Arg1111X.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

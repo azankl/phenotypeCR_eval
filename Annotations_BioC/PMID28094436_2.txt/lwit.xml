@@ -1,0 +1,80 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 was diagnosed with CHH at 3 years based on mild short stature (height Z-score −2.5 at age 1.0 year and −3.5 at 3 years), sparse hair, recurrent infections and radiographic findings of mild metaphyseal changes consistent with CHH (Figure 1).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004322</infon>
+                    <location length="13" offset="58"/>
+                    <text>short stature</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008070</infon>
+                    <location length="11" offset="131"/>
+                    <text>sparse hair</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002719</infon>
+                    <location length="20" offset="144"/>
+                    <text>recurrent infections</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000944</infon>
+                    <location length="19" offset="199"/>
+                    <text>metaphyseal changes</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>251</offset>
+                <text>Her adult height is 143.1 cm (−3.8 SDS).</text>
+            </sentence>
+            <sentence>
+                <offset>292</offset>
+                <text>She was diagnosed with asthma at 14 years.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002099</infon>
+                    <location length="6" offset="23"/>
+                    <text>asthma</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>335</offset>
+                <text>HRCT at 15 years revealed bronchiectasis in the right middle lobe, left lingula and both lower lobes; these showed progression at 20 years.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002110</infon>
+                    <location length="14" offset="26"/>
+                    <text>bronchiectasis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>475</offset>
+                <text>Immunoglobulin replacement therapy was commenced based on low IgG subclass levels and bronchiectasis.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0032135</infon>
+                    <location length="23" offset="58"/>
+                    <text>low IgG subclass levels</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002110</infon>
+                    <location length="14" offset="86"/>
+                    <text>bronchiectasis</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

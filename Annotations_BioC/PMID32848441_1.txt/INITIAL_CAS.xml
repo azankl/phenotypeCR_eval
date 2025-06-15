@@ -1,0 +1,68 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A 32-yeat old pregnant woman with no relevant past medical history underwent a routine ultrasound scan showing a foetus of 29 weeks of gestational age (WGA).</text>
+            </sentence>
+            <sentence>
+                <offset>158</offset>
+                <text>Findings included frontal prominence and a cloverleaf skull suggestive of craniosynostosis and hypoplastic nasal bone (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>288</offset>
+                <text>In this ultrasound scan, feet and hands had no abnormalities.</text>
+            </sentence>
+            <sentence>
+                <offset>350</offset>
+                <text>The woman was considered high-risk pregnancy and was referred to a tertiary care center for her weekly follow-up and the caesarean was scheduled at 38 WGA.</text>
+            </sentence>
+            <sentence>
+                <offset>506</offset>
+                <text>After delivery, the female newborn had APGAR scores of 8, 9 and 10 at minutes 1, 5 and 10, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>611</offset>
+                <text>Birth weight was 2862 grams, height was 48 cm and hear circumference was 33 centimeters.</text>
+            </sentence>
+            <sentence>
+                <offset>700</offset>
+                <text>The physical exam showed a cloverleaf skull, hypertelorism, facial hypoplasia, low ears, exophthalmos, sacral dimple, and wide, short and deviated thumbs and hallux (Figure 2).</text>
+            </sentence>
+            <sentence>
+                <offset>880</offset>
+                <text>The 3D CT head scan confirmed the cloverleaf skull, complete bilateral frontoparietal craniosynostosis, incomplete craniosynostosis of the sagittal and bilateral lambdoid suture, orbital alteration with bilateral proptosis secondary to hypertelorism and trans ependymal edema (Figure 2).</text>
+            </sentence>
+            <sentence>
+                <offset>1168</offset>
+                <text>The neonatal cranial sonography showed dysgenesis of corpus callosum with tentorium cerebelli high implantation.</text>
+            </sentence>
+            <sentence>
+                <offset>1281</offset>
+                <text>She also had persistent arterial ductus with bidirectional shunt without hemodynamic instability.</text>
+            </sentence>
+            <sentence>
+                <offset>1379</offset>
+                <text>There were no renal and ophthalmic malformations.</text>
+            </sentence>
+            <sentence>
+                <offset>1432</offset>
+                <text>At the time of the writing this report, the patient was 12 months and was diagnosed with psychomotor development retardation.</text>
+            </sentence>
+            <sentence>
+                <offset>1558</offset>
+                <text>A polysomnogram diagnosed sleep apnea-hypopnea syndrome.</text>
+            </sentence>
+            <sentence>
+                <offset>1615</offset>
+                <text>A nasolaryngoscopy showed multiple turbinoseptal synechiae and right choana atresia.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

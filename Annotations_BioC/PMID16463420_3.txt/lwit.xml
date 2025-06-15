@@ -1,0 +1,288 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Case 3 is a male infant born at 40 weeks' gestation to a healthy 32-year-old gravida 4, para 1–2 mother, with a birth weight of 7 lb. (3182 gm).</text>
+            </sentence>
+            <sentence>
+                <offset>145</offset>
+                <text>The mother reported smoking 10 cigarettes per day but did not use alcohol, other drugs, or medications during the pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>270</offset>
+                <text>A second-trimester ultrasound examination showed normal head growth, but all 4 limbs were short for gestational age.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="79"/>
+                    <text>limbs</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="90"/>
+                    <text>short</text>
+                </annotation>
+                <relation id="3">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009826</infon>
+                    <node refid="1" role="source"/>
+                    <node refid="2" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>387</offset>
+                <text>No other abnormalities were identified.</text>
+            </sentence>
+            <sentence>
+                <offset>427</offset>
+                <text>Delivery was induced and precipitous.</text>
+            </sentence>
+            <sentence>
+                <offset>465</offset>
+                <text>Apgar scores were 9 and 9 at 1 and 5 min, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>521</offset>
+                <text>Immediately following delivery, deficient calcification of the calvarium was noted, but the infant was clinically stable.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005474</infon>
+                    <location length="40" offset="32"/>
+                    <text>deficient calcification of the calvarium</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>643</offset>
+                <text>Screening test results for levels of alkaline phosphatase, T4, and TSH were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>727</offset>
+                <text>Shortly after discharge from the hospital (at 2 days of age), the infant became fussy and inconsolable and had decreased feeding.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000713</infon>
+                    <location length="5" offset="80"/>
+                    <text>fussy</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000713</infon>
+                    <location length="12" offset="90"/>
+                    <text>inconsolable</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011968</infon>
+                    <location length="17" offset="111"/>
+                    <text>decreased feeding</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>857</offset>
+                <text>Cranial imaging revealed multiple small areas of intraparenchymal hemorrhage.</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002170</infon>
+                    <location length="27" offset="49"/>
+                    <text>intraparenchymal hemorrhage</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>935</offset>
+                <text>Following admission to the hospital, his head shape was noted to change with positioning due to lack of calvarial ossification.</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005474</infon>
+                    <location length="30" offset="96"/>
+                    <text>lack of calvarial ossification</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1063</offset>
+                <text>In addition, he developed increased effort of breathing, leading to the diagnosis of glossoptosis and severe tracheomalacia.</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002094</infon>
+                    <location length="29" offset="26"/>
+                    <text>increased effort of breathing</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000162</infon>
+                    <location length="12" offset="85"/>
+                    <text>glossoptosis</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002779</infon>
+                    <location length="14" offset="109"/>
+                    <text>tracheomalacia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1188</offset>
+                <text>He required tracheostomy and bilevel positive airway pressure (BIPAP) to maintain normal oxygenation.</text>
+            </sentence>
+            <sentence>
+                <offset>1290</offset>
+                <text>A physical examination identified a flat nasal bridge, epicanthic folds, hypertelorism, down-slanting palpebral fissures, and micrognathia.</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005280</infon>
+                    <location length="17" offset="36"/>
+                    <text>flat nasal bridge</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000286</infon>
+                    <location length="16" offset="55"/>
+                    <text>epicanthic folds</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="73"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000494</infon>
+                    <location length="32" offset="88"/>
+                    <text>down-slanting palpebral fissures</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000347</infon>
+                    <location length="12" offset="126"/>
+                    <text>micrognathia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1430</offset>
+                <text>The skull was soft with very large fontanels, and all of the sutures were very widely spaced, giving the impression of a nearly absent calvarium.</text>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000239</infon>
+                    <location length="15" offset="29"/>
+                    <text>large fontanels</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="61"/>
+                    <text>sutures</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="79"/>
+                    <text>widely spaced</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005623</infon>
+                    <location length="16" offset="128"/>
+                    <text>absent calvarium</text>
+                </annotation>
+                <relation id="21">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010537</infon>
+                    <node refid="19" role="source"/>
+                    <node refid="20" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1576</offset>
+                <text>He was fitted with a helmet for protection and maintenance of a more normal head shape.</text>
+            </sentence>
+            <sentence>
+                <offset>1664</offset>
+                <text>A 3D CT scan at 40 days of age demonstrated brachycephaly with incomplete ossification of the parietal, occipital, and frontal bones and multiple Wormian bones in the parietal regions (Fig. 1).</text>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000248</infon>
+                    <location length="13" offset="44"/>
+                    <text>brachycephaly</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005474</infon>
+                    <location length="69" offset="63"/>
+                    <text>incomplete ossification of the parietal, occipital, and frontal bones</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002645</infon>
+                    <location length="13" offset="146"/>
+                    <text>Wormian bones</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1858</offset>
+                <text>A chest radiograph revealed absent clavicles and thin ribs.</text>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006710</infon>
+                    <location length="16" offset="28"/>
+                    <text>absent clavicles</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000883</infon>
+                    <location length="9" offset="49"/>
+                    <text>thin ribs</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1918</offset>
+                <text>There was delayed ossification of the pubic symphysis.</text>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008788</infon>
+                    <location length="43" offset="10"/>
+                    <text>delayed ossification of the pubic symphysis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1973</offset>
+                <text>At 12 months he had brachycephaly and a single large fontanel that measured 23 × 9 cm in greatest diameter, narrowing to 3 cm at the sagittal suture.</text>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000248</infon>
+                    <location length="13" offset="20"/>
+                    <text>brachycephaly</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000239</infon>
+                    <location length="14" offset="47"/>
+                    <text>large fontanel</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2123</offset>
+                <text>He continues to require BIPAP for tracheomalacia and has delayed gross motor skills.</text>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002779</infon>
+                    <location length="14" offset="34"/>
+                    <text>tracheomalacia</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002194</infon>
+                    <location length="26" offset="57"/>
+                    <text>delayed gross motor skills</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2208</offset>
+                <text>He is age-appropriate for fine motor, cognitive, and social skills</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

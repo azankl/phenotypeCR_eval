@@ -1,0 +1,100 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This 14-year-old American boy was admitted in 2014 to the Center for Metabolic Bone Disease and Molecular Research, Shriners Hospital for Children, St.</text>
+            </sentence>
+            <sentence>
+                <offset>152</offset>
+                <text>Louis, MO, USA.</text>
+            </sentence>
+            <sentence>
+                <offset>171</offset>
+                <text>He was born at term after an uncomplicated pregnancy for a 33-year-old, gravida 2, para 1–2 mother.</text>
+            </sentence>
+            <sentence>
+                <offset>271</offset>
+                <text>The father was 37 years old.</text>
+            </sentence>
+            <sentence>
+                <offset>300</offset>
+                <text>At birth, a unilateral nevus covered much of his right posterior scalp, neck, thorax, flank, and lumbar region, and extended to his right thumb.</text>
+            </sentence>
+            <sentence>
+                <offset>445</offset>
+                <text>At 6 months-of-age, the dermatosis was diagnosed as a LEN that respected the midline.</text>
+            </sentence>
+            <sentence>
+                <offset>534</offset>
+                <text>At 7 years-of-age, radiographs obtained after trauma reportedly showed a left tibial fracture and fibrous dysplasia.</text>
+            </sentence>
+            <sentence>
+                <offset>651</offset>
+                <text>Soon after, the findings were reinterpreted as MEL that was also found in his right rib cage and right femur.</text>
+            </sentence>
+            <sentence>
+                <offset>764</offset>
+                <text>At 14 years-of-age, the patient told us that he had chronic intermittent pain in his left tibia.</text>
+            </sentence>
+            <sentence>
+                <offset>861</offset>
+                <text>Physical examination revealed mild scoliosis, a two-centimeter leg-length discrepancy, and a shoe-size two greater on the right versus left in keeping with MEL (Figure 1).(1–4) A large LEN extended from his right scalp and posterior neck to his right thorax, flank, and lumbar region following Blaschko lines (Figure 2A,B).</text>
+            </sentence>
+            <sentence>
+                <offset>1185</offset>
+                <text>Additionally, a large SLS lesion consisting of an atrophic hyperpigmented plaque (Figure 2C) extended from his right lumbar region to his right lateral thigh overlying radiographic changes of MEL (see Radiological Findings).</text>
+            </sentence>
+            <sentence>
+                <offset>1410</offset>
+                <text>Routine laboratory studies showed no disturbance of mineral homeostasis, including in fasting serum a normal level of fibroblast growth factor 23 (FGF23), i.e., intact molecule and c-terminal fragment, of 158 RU/ml (Nl, 44–215: LabCorp; Burlington, NC, USA) and repeatedly normal phosphorus levels.</text>
+            </sentence>
+            <sentence>
+                <offset>1712</offset>
+                <text>The patient’s radiographic skeletal survey revealed bony changes most consistent with MEL in his right wrist, right ribs (#s 4, 6, 7, 9), right iliac bone, right proximal femur up to the femoral neck, both tibias (left worse than right), and left fibula (Figure 5).</text>
+            </sentence>
+            <sentence>
+                <offset>1978</offset>
+                <text>A few OPK densities were noted in his left wrist and right distal femoral epiphysis&#13;
+&#13;
+CT of his left leg showed a thickened cortex in the mid shaft of the tibia, including external cortical thickening and obliteration of the medullary cavity, consistent with MEL.</text>
+            </sentence>
+            <sentence>
+                <offset>2243</offset>
+                <text>Additionally, dilated vascular channels were noted in the tibial cortex&#13;
+&#13;
+The patient’s LEN, having classic appearance on inspection, was not studied histologically, and therefore we did not explore any potential impact on it from the subsequently discovered germline LEMD3 mutation.</text>
+            </sentence>
+            <sentence>
+                <offset>2528</offset>
+                <text>His scleroderma-like dermatosis showed a normal epidermis with intact rete ridges.</text>
+            </sentence>
+            <sentence>
+                <offset>2611</offset>
+                <text>The reticular dermis was expanded by collagen that extended into the subcutaneous fat with no involvement of adnexal structures (Figure 6).</text>
+            </sentence>
+            <sentence>
+                <offset>2751</offset>
+                <text>Collagen fibers appeared normal with no significant thickening or homogenization.</text>
+            </sentence>
+            <sentence>
+                <offset>2833</offset>
+                <text>Elastic tissue staining highlighted a slightly decreased number of normal-appearing elastic fibers within the dermis in areas where the collagen was expanded.</text>
+            </sentence>
+            <sentence>
+                <offset>2992</offset>
+                <text>Dermal mucin was not significantly increased with colloidal iron staining.</text>
+            </sentence>
+            <sentence>
+                <offset>3067</offset>
+                <text>The findings were consistent with reports of the SLS overlying MEL.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

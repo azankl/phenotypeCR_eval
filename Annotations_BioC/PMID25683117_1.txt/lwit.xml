@@ -1,0 +1,182 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 1 was born to unrelated healthy parents at term and sustained multiple fractures in the first few months of life.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002757</infon>
+                    <location length="18" offset="73"/>
+                    <text>multiple fractures</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>125</offset>
+                <text>Progressive proptosis and frontal bossing developed in the following months.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000520</infon>
+                    <location length="9" offset="12"/>
+                    <text>proptosis</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002007</infon>
+                    <location length="15" offset="26"/>
+                    <text>frontal bossing</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>202</offset>
+                <text>Craniosynostosis of the coronal and frontal sutures was diagnosed and frontal craniectomy was performed.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004440</infon>
+                    <location length="31" offset="0"/>
+                    <text>Craniosynostosis of the coronal</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="0"/>
+                    <text>Craniosynostosis</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="36"/>
+                    <text>frontal sutures</text>
+                </annotation>
+                <relation id="6">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011330</infon>
+                    <node refid="7" role="source"/>
+                    <node refid="5" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>307</offset>
+                <text>Communicating hydrocephalus was noted at 12 months of age requiring a ventriculo-peritoneal shunt.</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000238</infon>
+                    <location length="13" offset="14"/>
+                    <text>hydrocephalus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>406</offset>
+                <text>Teeth were small and had hypoplastic enamel.</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="0"/>
+                    <text>Teeth</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="11"/>
+                    <text>small</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006297</infon>
+                    <location length="18" offset="25"/>
+                    <text>hypoplastic enamel</text>
+                </annotation>
+                <relation id="11">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000691</infon>
+                    <node refid="9" role="source"/>
+                    <node refid="10" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>451</offset>
+                <text>When individual 1 was 3 years old, craniofacial surgery was performed in an attempt to reduce facial deformities.</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001999</infon>
+                    <location length="18" offset="94"/>
+                    <text>facial deformities</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>565</offset>
+                <text>At 4 years of age, he had normal cognitive development and, following intramedullary rodding surgery of the left femur, was able to stand.</text>
+            </sentence>
+            <sentence>
+                <offset>704</offset>
+                <text>We first evaluated individual 1 when he was 18 years old.</text>
+            </sentence>
+            <sentence>
+                <offset>762</offset>
+                <text>He was using a wheelchair for all mobility and had severe scoliosis and marked deformity of the upper and lower extremities.</text>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002650</infon>
+                    <location length="9" offset="58"/>
+                    <text>scoliosis</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="79"/>
+                    <text>deformity</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="79"/>
+                    <text>deformity</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="96"/>
+                    <text>upper</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="106"/>
+                    <text>lower extremities</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="112"/>
+                    <text>extremities</text>
+                </annotation>
+                <relation id="16">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002814</infon>
+                    <node refid="17" role="source"/>
+                    <node refid="15" role="target"/>
+                </relation>
+                <relation id="19">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002817</infon>
+                    <node refid="20" role="source"/>
+                    <node refid="18" role="target"/>
+                </relation>
+                <relation id="22">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="20" role="source"/>
+                    <node refid="21" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>887</offset>
+                <text>Height was 120 cm (Z score: −8.4) and lumbar spine areal bone mineral density was low (Z score: −3.9).</text>
+            </sentence>
+            <sentence>
+                <offset>990</offset>
+                <text>Serum levels of calcium, inorganic phosphorus, creatinine, alkaline phosphatase, and parathyroid hormone were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1108</offset>
+                <text>He received four cycles of intravenous pamidronate infusions over a 12-month period, with no obvious change in clinical status, even though lumbar spine areal bone mineral density Z score increased to −2.4.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

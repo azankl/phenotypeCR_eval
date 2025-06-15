@@ -1,0 +1,51 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿The fetus at 24th week of gestation to a 19-year-old woman was referred to us.</text>
+            </sentence>
+            <sentence>
+                <offset>80</offset>
+                <text>The ultrasound imaging revealed a biparietal diameter of 6.4 cm, an abdomen circumference of 19.22 cm and a head circumference of 22.6 cm, which were all at normal range for the gestational age.</text>
+            </sentence>
+            <sentence>
+                <offset>275</offset>
+                <text>However, the lengths of the long bones were below the fifth centile: humerus was 3.3 cm and femur was 3.5 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>385</offset>
+                <text>Fetal head was dysmorphic with frontal bossing and bilateral temporal bone depressing.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002007</infon>
+                    <location length="15" offset="31"/>
+                    <text>frontal bossing</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="24" offset="61"/>
+                    <text>temporal bone depressing</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>472</offset>
+                <text>Amniotic fluid, umbilical artery Doppler flow and fetal heart rate were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>552</offset>
+                <text>Spine curvature and vertebral alignment were also normal.</text>
+            </sentence>
+            <sentence>
+                <offset>610</offset>
+                <text>Karyotype and FGFR3 sequencing were performed and the results were both normal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

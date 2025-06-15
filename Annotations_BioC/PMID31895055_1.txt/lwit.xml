@@ -1,0 +1,356 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The first boy (patient 1) was delivered normally at 38 weeks 4 days gestation weighing 2.9 kg after an uneventful pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>125</offset>
+                <text>He had symmetrical malformations of all four limbs (Figs. 1 and 2).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="19"/>
+                    <text>malformations</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="45"/>
+                    <text>limbs</text>
+                </annotation>
+                <relation id="2">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002813</infon>
+                    <node refid="3" role="source"/>
+                    <node refid="1" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>193</offset>
+                <text>His forearms were shortened with an inability to supinate or pronate.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="4"/>
+                    <text>forearms</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="4"/>
+                    <text>forearms</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="18"/>
+                    <text>shortened</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="32" offset="36"/>
+                    <text>inability to supinate or pronate</text>
+                </annotation>
+                <relation id="7">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009821</infon>
+                    <node refid="4" role="source"/>
+                    <node refid="6" role="target"/>
+                </relation>
+                <relation id="9">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006394</infon>
+                    <node refid="5" role="source"/>
+                    <node refid="8" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>263</offset>
+                <text>His left forearm was held in an overpronated ‘palm outward’ position.</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="9"/>
+                    <text>forearm</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="32"/>
+                    <text>overpronated</text>
+                </annotation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0034391</infon>
+                    <node refid="10" role="source"/>
+                    <node refid="11" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>333</offset>
+                <text>His hands showed an almost symmetrical complicated overlapping syndactyly which included his adducted thumbs.</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="4"/>
+                    <text>hands</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="63"/>
+                    <text>syndactyly</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001181</infon>
+                    <location length="15" offset="93"/>
+                    <text>adducted thumbs</text>
+                </annotation>
+                <relation id="15">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006101</infon>
+                    <node refid="13" role="source"/>
+                    <node refid="14" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>443</offset>
+                <text>As a result, the rays of each hand were fused together into confluent masses each with a haphazard arrangement of synostosed metacarpals and phalanges.</text>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005880</infon>
+                    <location length="36" offset="114"/>
+                    <text>synostosed metacarpals and phalanges</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>595</offset>
+                <text>Rudimentary dysplastic fused nails were present on the dorsum of each hand.</text>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="12"/>
+                    <text>dysplastic</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="29"/>
+                    <text>nails</text>
+                </annotation>
+                <relation id="19">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002164</infon>
+                    <node refid="20" role="source"/>
+                    <node refid="18" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>671</offset>
+                <text>Similarly, his feet showed symmetrical complex syndactylies involving all the toes with nail fusions present on the right.</text>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="47"/>
+                    <text>syndactylies</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="70"/>
+                    <text>all the toes</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="78"/>
+                    <text>toes</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="88"/>
+                    <text>nail fusions</text>
+                </annotation>
+                <relation id="22">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010713</infon>
+                    <node refid="23" role="source"/>
+                    <node refid="21" role="target"/>
+                </relation>
+                <relation id="26">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008388</infon>
+                    <node refid="24" role="source"/>
+                    <node refid="25" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>794</offset>
+                <text>His right fourth toe was short and fifth toe laterally deviated.</text>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="10"/>
+                    <text>fourth toe</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="25"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100346</infon>
+                    <location length="28" offset="35"/>
+                    <text>fifth toe laterally deviated</text>
+                </annotation>
+                <relation id="29">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008093</infon>
+                    <node refid="27" role="source"/>
+                    <node refid="28" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>859</offset>
+                <text>Radiographs confirmed the presence of bilateral near total radioulnar synostoses and overlapping complex fusions of his metacarpals and phalanges.</text>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002974</infon>
+                    <location length="21" offset="59"/>
+                    <text>radioulnar synostoses</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005880</infon>
+                    <location length="40" offset="105"/>
+                    <text>fusions of his metacarpals and phalanges</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1006</offset>
+                <text>Three dimensional computed tomographic (CT) reconstructions were carried out preoperatively to better define potential planes for digital separation.</text>
+            </sentence>
+            <sentence>
+                <offset>1156</offset>
+                <text>Within his feet, radiographs showed only four abnormally modelled metatarsals bilaterally, with the fourth and fifth toes both arising from the same abnormally wide fourth metatarsal (Figs. 1 and 2).</text>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="41"/>
+                    <text>four</text>
+                </annotation>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001832</infon>
+                    <location length="31" offset="46"/>
+                    <text>abnormally modelled metatarsals</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="66"/>
+                    <text>metatarsals</text>
+                </annotation>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001783</infon>
+                    <location length="22" offset="160"/>
+                    <text>wide fourth metatarsal</text>
+                </annotation>
+                <relation id="34">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001964</infon>
+                    <node refid="35" role="source"/>
+                    <node refid="33" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1356</offset>
+                <text>A cranial ultrasound and renal ultrasound were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1414</offset>
+                <text>At 6 years of age, patient 1 is felt to have normal learning ability.</text>
+            </sentence>
+            <sentence>
+                <offset>1484</offset>
+                <text>His height has been following the ninth percentile.</text>
+            </sentence>
+            <sentence>
+                <offset>1536</offset>
+                <text>He has developed a mild thoracic scoliosis (Cobb angle less than 12°) and has been found to have a marked lordosis at the cervical-thoracic junction.</text>
+                <annotation id="38">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002943</infon>
+                    <location length="18" offset="24"/>
+                    <text>thoracic scoliosis</text>
+                </annotation>
+                <annotation id="39">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003307</infon>
+                    <location length="8" offset="106"/>
+                    <text>lordosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1686</offset>
+                <text>Radiographs have not shown any structural vertebral abnormalities and his hips appear normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1780</offset>
+                <text>He has downslanting palpebral fissures and a mild left eyelid ptosis.</text>
+                <annotation id="40">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000494</infon>
+                    <location length="31" offset="7"/>
+                    <text>downslanting palpebral fissures</text>
+                </annotation>
+                <annotation id="41">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000508</infon>
+                    <location length="6" offset="62"/>
+                    <text>ptosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1850</offset>
+                <text>The only other medical issue of note is recurrent mild but symptomatic hypoglycaemias, more often when he is unwell, and likely to be ketotic hypoglycaemia.</text>
+                <annotation id="42">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001943</infon>
+                    <location length="14" offset="71"/>
+                    <text>hypoglycaemias</text>
+                </annotation>
+                <annotation id="43">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001943</infon>
+                    <location length="13" offset="142"/>
+                    <text>hypoglycaemia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2007</offset>
+                <text>His baseline investigations for hypoglycaemia showed a normal glucose profile, baseline pituitary functions tests including normal cortisol and growth hormone concentrations (normal growth hormone and cortisol peaks on a glucagon provocation test).</text>
+                <annotation id="44">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001943</infon>
+                    <location length="13" offset="32"/>
+                    <text>hypoglycaemia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2256</offset>
+                <text>He also had normal baseline bloods and metabolic profile that included acylcarnitines, urine organic acids, plasma amino-acids, very long chain fatty acids, full blood count, urea, creatinine, electrolytes, and liver function tests.</text>
+            </sentence>
+            <sentence>
+                <offset>2489</offset>
+                <text>His fast tolerance is up to 15 hours with undetectable insulin levels and adequate generation of fatty acids and ketones which rules out hyperinsulinaemic hypoglycaemia.</text>
+            </sentence>
+            <sentence>
+                <offset>2659</offset>
+                <text>He also had normal glucose concentrations on a prolonged oral glucose tolerance test and protein load test.</text>
+            </sentence>
+            <sentence>
+                <offset>2767</offset>
+                <text>He has had a slightly low IGF1 of 36 ng/ml (normal range 47–231) with a normal IGFBP3 0f 1.81 mg/L (normal range 1.3–5.6 mg/L).</text>
+            </sentence>
+            <sentence>
+                <offset>2895</offset>
+                <text>His most recent height at 6.7 years of age was 113.3 cm (ninth centile), weight 17 kg (second centile) and his current growth velocity is 6 cm/year.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,56 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient information: a female term neonate was delivered on February 20, 2021, at Cape Coast Teaching Hospital Ghana via emergency caesarean section on account of poor progress of labour with acute fetal distress.</text>
+            </sentence>
+            <sentence>
+                <offset>214</offset>
+                <text>The birth weight was 3.8kg and Apgar scores were 2/10 and 5/10 at the first and fifth minute respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>321</offset>
+                <text>The baby was the 5th child of a couple, a 39-year-old man and a 34-year-old woman, in a non-consanguineous marriage and with no known family history of congenital anomalies.</text>
+            </sentence>
+            <sentence>
+                <offset>495</offset>
+                <text>From a family picture, no other nuclear family member was found to have similar physical features.</text>
+            </sentence>
+            <sentence>
+                <offset>594</offset>
+                <text>The neonate was discharged after spending a total of 20 days on admission at the Special Baby Care Unit of the Hospital.</text>
+            </sentence>
+            <sentence>
+                <offset>715</offset>
+                <text>The baby died 5 months later.</text>
+            </sentence>
+            <sentence>
+                <offset>748</offset>
+                <text>Clinical findings: the baby was noticed on the day of admission to the unit to have the following dysmorphic features; macrocephaly evidenced by an occipitofrontal circumference of 38.8cm (95th centile) with widely gaped sagittal sutures, proptosis with ocular hypertelorism (Figure 1), low set ears, protruding tongue, mandibular prognathism, ankylosed elbows, sacral dimple, wide sandal gap and medially deviated broad great toes (Figure 2 and Figure 3).</text>
+            </sentence>
+            <sentence>
+                <offset>1205</offset>
+                <text>The clinical problems identified on initial assessment were respiratory distress which was evidenced by deep laboured breathing with poor oxygen saturation of 55% on room air, seizures of the upper limbs, high-grade fever, and pallor.</text>
+            </sentence>
+            <sentence>
+                <offset>1440</offset>
+                <text>Other examination findings identified were bilaterally fused coronal sutures.</text>
+            </sentence>
+            <sentence>
+                <offset>1518</offset>
+                <text>The parents were counselled on the child´s condition.</text>
+            </sentence>
+            <sentence>
+                <offset>1572</offset>
+                <text>The child was later noticed to be drooling most of the time and on that note, ENT was consulted.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

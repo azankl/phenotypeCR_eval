@@ -1,0 +1,62 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This pregnancy was affected as well.</text>
+            </sentence>
+            <sentence>
+                <offset>37</offset>
+                <text>An ultrasound study at approximately 21 weeks of gestation showed hydrops, hepatomegaly, and polyhydramnios.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001789</infon>
+                    <location length="7" offset="66"/>
+                    <text>hydrops</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002240</infon>
+                    <location length="12" offset="75"/>
+                    <text>hepatomegaly</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001561</infon>
+                    <location length="14" offset="93"/>
+                    <text>polyhydramnios</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>146</offset>
+                <text>The ultrasound did not show any specific skeletal findings.</text>
+            </sentence>
+            <sentence>
+                <offset>206</offset>
+                <text>The pregnancy was subsequently terminated (II–III).</text>
+            </sentence>
+            <sentence>
+                <offset>258</offset>
+                <text>Postmortem skeletal examination showed clinodactyly of the 5th digits and a duplicated calcaneous</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004209</infon>
+                    <location length="30" offset="39"/>
+                    <text>clinodactyly of the 5th digits</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008127</infon>
+                    <location length="21" offset="76"/>
+                    <text>duplicated calcaneous</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

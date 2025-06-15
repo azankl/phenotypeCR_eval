@@ -1,0 +1,92 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 (a girl) was the third child of healthy, unrelated parents.</text>
+            </sentence>
+            <sentence>
+                <offset>70</offset>
+                <text>One sibling had Down syndrome.</text>
+            </sentence>
+            <sentence>
+                <offset>101</offset>
+                <text>Conventional ultrasound at 20 weeks’ gestation revealed a presumptive craniosynostosis.</text>
+            </sentence>
+            <sentence>
+                <offset>189</offset>
+                <text>Amniocentesis was carried out in the Erasmus Medical Centre in Rotterdam.</text>
+            </sentence>
+            <sentence>
+                <offset>263</offset>
+                <text>Initially, no mutations were found in the FGFR genes and the TWIST gene.</text>
+            </sentence>
+            <sentence>
+                <offset>336</offset>
+                <text>However, only hot spots associated with the well-delineated craniosynostosis syndromes were analyzed.</text>
+            </sentence>
+            <sentence>
+                <offset>438</offset>
+                <text>At 28 + 5 weeks’ gestation, the craniosynostosis was confirmed by 3D ultrasound.</text>
+            </sentence>
+            <sentence>
+                <offset>519</offset>
+                <text>The girl was born in breech position at term by primary caesarean section.</text>
+            </sentence>
+            <sentence>
+                <offset>594</offset>
+                <text>Her birth weight was 3,610 g.</text>
+            </sentence>
+            <sentence>
+                <offset>624</offset>
+                <text>The Apgar scores were 8 and 9 after 1 and 5 minutes, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>694</offset>
+                <text>Physical examination of the newborn revealed a cloverleaf-shaped skull, cutis gyrata on the forehead, ocular hypertelorism and marked proptosis, down-slanted palpebral fissures, prominent umbilical stump, and an anteriorly placed anus ( Fig 2 A ).</text>
+            </sentence>
+            <sentence>
+                <offset>942</offset>
+                <text>She also had a unilateral choanal atresia.</text>
+            </sentence>
+            <sentence>
+                <offset>985</offset>
+                <text>Skin on the arms was abundant, and acanthosis nigricans was lacking.</text>
+            </sentence>
+            <sentence>
+                <offset>1057</offset>
+                <text>Respiratory failure gradually developed, and, given the suspected diagnosis of BSS and expected poor prognosis, a multidisciplinary team of pediatricians and surgeons decided not to intubate or resuscitate.</text>
+            </sentence>
+            <sentence>
+                <offset>1264</offset>
+                <text>She died after 3 days.</text>
+            </sentence>
+            <sentence>
+                <offset>1287</offset>
+                <text>Postmortem cranial MRI revealed a simplified gyral pattern (gyral index 1.5; Fig 2 B), abnormal anatomy of the hippocampus on coronal MRI ( Fig 2 C), and obstructive hydrocephaly, but no tonsillar herniation ( Fig 2 D).</text>
+            </sentence>
+            <sentence>
+                <offset>1507</offset>
+                <text>The pons/brainstem was compressed at the level of the clivus ( Fig 2 D), which was possibly the cause of her respiratory failure and death.</text>
+            </sentence>
+            <sentence>
+                <offset>1647</offset>
+                <text>Postmortem MRI of the thorax revealed a butterfly shape of the seventh thoracic vertebra.</text>
+            </sentence>
+            <sentence>
+                <offset>1737</offset>
+                <text>Abdominal MRI was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1763</offset>
+                <text>Postnatally, a de novo Tyr375Cys mutation was found in the FGFR2 gene.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,28 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The 60-year-old brother of the paternal grandmother had mild brachycephaly, laterally sparse, “mephistophean” eyebrows, deep nasolabial folds, convex nasal ridge, mandibular prognathism, long ears with large lobules.</text>
+            </sentence>
+            <sentence>
+                <offset>217</offset>
+                <text>He had clinodactyly of his 2nd and 5th fingers, and clubbing of the distal phalanges.</text>
+            </sentence>
+            <sentence>
+                <offset>303</offset>
+                <text>Broad feet and great toes, apparently short metatarsal bones, short and irregularly placed toes, partial 2/3 syndactyly on the left foot were observed (Fig. 2M–P).</text>
+            </sentence>
+            <sentence>
+                <offset>467</offset>
+                <text>He has two daughters, the elder one has syndactylies on both feet, but she was not accessible for clinical examination.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

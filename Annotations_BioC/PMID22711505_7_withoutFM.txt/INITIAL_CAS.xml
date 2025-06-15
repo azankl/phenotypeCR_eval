@@ -1,0 +1,56 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 7 was the first pregnancy for his consanguineous (first cousin) 23-year-old short (145 cm) mother and 19-year-old father, both of Mexican ancestry.</text>
+            </sentence>
+            <sentence>
+                <offset>156</offset>
+                <text>He was born without complications at term in Mexico.</text>
+            </sentence>
+            <sentence>
+                <offset>209</offset>
+                <text>Short stature was noted at birth (see Fig. 1; Tables I and ​andII).II).</text>
+            </sentence>
+            <sentence>
+                <offset>281</offset>
+                <text>He had respiratory complications in the first 2 weeks of life.</text>
+            </sentence>
+            <sentence>
+                <offset>344</offset>
+                <text>He has had a delayed motor development, walked with 18 months and has always needed special education.</text>
+            </sentence>
+            <sentence>
+                <offset>447</offset>
+                <text>At present age, 13 years, he is unable to read or write, although receptive language skills are good.</text>
+            </sentence>
+            <sentence>
+                <offset>549</offset>
+                <text>His patellae are bilaterally dislocated.</text>
+            </sentence>
+            <sentence>
+                <offset>590</offset>
+                <text>Restriction of elbow motion, with incomplete extension and incomplete forearm supination are present.</text>
+            </sentence>
+            <sentence>
+                <offset>692</offset>
+                <text>He has a cauliflower ear deformity on the right and bilateral palmar transverse creases with a single finger flexion crease on 2nd and 5th fingers on the right and 2nd, 4th, and 5th fingers on the left.</text>
+            </sentence>
+            <sentence>
+                <offset>895</offset>
+                <text>Mild tibial bowing was present.</text>
+            </sentence>
+            <sentence>
+                <offset>927</offset>
+                <text>Chromosome analysis and CANT1 sequencing were normal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

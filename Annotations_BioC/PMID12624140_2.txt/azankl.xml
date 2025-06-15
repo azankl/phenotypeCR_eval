@@ -1,0 +1,116 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>azankl</key>
+    <document>
+        <id>azankl</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 2 is the oldest child of healthy parents and related to patient 1 through his father (fig 1A).</text>
+            </sentence>
+            <sentence>
+                <offset>104</offset>
+                <text>The family is of Belgian origin.</text>
+            </sentence>
+            <sentence>
+                <offset>137</offset>
+                <text>The father measures 172 cm and the mother 156 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>187</offset>
+                <text>He was born at term with a birth weight of 3000 g and length of 52 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>258</offset>
+                <text>The pregnancy and delivery were uncomplicated.</text>
+            </sentence>
+            <sentence>
+                <offset>305</offset>
+                <text>He had normal psychomotor development.</text>
+            </sentence>
+            <sentence>
+                <offset>344</offset>
+                <text>Because of complaints of easy fatigue after exercise, he was referred aged 9.5 years with the tentative diagnosis of multiple epiphyseal dysplasia.</text>
+            </sentence>
+            <sentence>
+                <offset>492</offset>
+                <text>Physical examination at the age of 9.5 years showed short stature with height 121.5 cm (−2.3 SD, height age 6 years 7 months), span 118.5 cm, upper segment/lower segment 1.19 (50th-75th centile), weight 26.5 kg (3th-25th centile), and head circumference 53.5 cm (50th-75th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>775</offset>
+                <text>There were no dysmorphic craniofacial features (fig 2B).</text>
+            </sentence>
+            <sentence>
+                <offset>832</offset>
+                <text>Lumbar hyperlordosis was noted.</text>
+            </sentence>
+            <sentence>
+                <offset>864</offset>
+                <text>The hands and fingers (especially the thumbs) were short with small and broad nails.</text>
+            </sentence>
+            <sentence>
+                <offset>949</offset>
+                <text>Restricted or increased mobility at the joints was not observed.</text>
+            </sentence>
+            <sentence>
+                <offset>1014</offset>
+                <text>The gait was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1035</offset>
+                <text>Skeletal survey at the age of 9.5 years showed similar abnormalities to those of patient 1.</text>
+            </sentence>
+            <sentence>
+                <offset>1127</offset>
+                <text>Hand radiographs were abnormal with very short middle phalanges.</text>
+            </sentence>
+            <sentence>
+                <offset>1192</offset>
+                <text>All middle phalanges showed cone shaped epiphyses with almost complete epimetaphyseal fusion.</text>
+            </sentence>
+            <sentence>
+                <offset>1286</offset>
+                <text>The distal phalanges II-V were also short with partially fused cone shaped epiphyses.</text>
+            </sentence>
+            <sentence>
+                <offset>1372</offset>
+                <text>The proximal phalanx and metacarpal of both thumbs were moderately shortened with cone shaped epiphyses.</text>
+            </sentence>
+            <sentence>
+                <offset>1477</offset>
+                <text>Shortening of the proximal phalanges and metacarpals II-V was very mild.</text>
+            </sentence>
+            <sentence>
+                <offset>1550</offset>
+                <text>The carpal bone age was 6 years.</text>
+            </sentence>
+            <sentence>
+                <offset>1583</offset>
+                <text>The hips were similar to patient 1 with coxa vara deformity, dysplastic (egg shaped) femoral heads, and severe hypoplasia of the femoral necks owing to premature epimetaphyseal fusion.</text>
+            </sentence>
+            <sentence>
+                <offset>1768</offset>
+                <text>The long tubular bones of the upper and lower limbs were only slightly shortened.</text>
+            </sentence>
+            <sentence>
+                <offset>1850</offset>
+                <text>At the knees, similar changes were observed to those in patient 1.</text>
+            </sentence>
+            <sentence>
+                <offset>1917</offset>
+                <text>The thorax was normal with mild metaphyseal cupping of the ribs.</text>
+            </sentence>
+            <sentence>
+                <offset>1982</offset>
+                <text>The vertebral bodies showed anterior notching.</text>
+            </sentence>
+            <sentence>
+                <offset>2029</offset>
+                <text>Premature closure of the tibial growth plate was observed at the ankles at the age of 11 years.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

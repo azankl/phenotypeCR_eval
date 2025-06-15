@@ -1,0 +1,88 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 was a 3375 g (90th centile) female infant born to a then 22-year-old G2P1à2 at 37 weeks gestation via spontaneous vaginal delivery.</text>
+            </sentence>
+            <sentence>
+                <offset>142</offset>
+                <text>The pregnancy was complicated by suspicion for holoprosencephaly and polyhydramnios.</text>
+            </sentence>
+            <sentence>
+                <offset>227</offset>
+                <text>APGAR scores were two at 1 min and five at 5 min.</text>
+            </sentence>
+            <sentence>
+                <offset>277</offset>
+                <text>The patient was intubated in the delivery room with initial concern for Crouzon syndrome.</text>
+            </sentence>
+            <sentence>
+                <offset>367</offset>
+                <text>Postnatal brain MRI did not demonstrate holoprosencephaly but rather severe hydrocephalus associated with cloverleaf skull resulting in placement of a ventriculoperitoneal shunt at 2 weeks of age.</text>
+            </sentence>
+            <sentence>
+                <offset>564</offset>
+                <text>The child failed extubation perhaps secondary to choanal stenosis/atresia.</text>
+            </sentence>
+            <sentence>
+                <offset>639</offset>
+                <text>The medical team was unable to pass an NG tube through the nares and the bony passageway appeared narrow on the CT scan.</text>
+            </sentence>
+            <sentence>
+                <offset>760</offset>
+                <text>They were not able to assess whether there was membranous atresia versus stenosis because of the copious secretions and insufficient visualization on CT.</text>
+            </sentence>
+            <sentence>
+                <offset>914</offset>
+                <text>Therefore, at least choanal stenosis was confirmed with possible choanal atresia.</text>
+            </sentence>
+            <sentence>
+                <offset>996</offset>
+                <text>She was transferred to a tertiary care center at 1 month of age following a significant aspiration event, where she was evaluated by clinical genetics consultants.</text>
+            </sentence>
+            <sentence>
+                <offset>1163</offset>
+                <text>Physical examination was concerning for pancraniosynostosis resulting in cloverleaf skull, hypertelorism (interpupillary distance &gt;97th centile for age) with shallow orbits and proptosis, cutis gyrata of the forehead and in the preauricular region (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>1421</offset>
+                <text>The hypertelorism was striking and similar to prior reported patients with cloverleaf skull, although its relative proportion to the head circumference was difficult to interpret because of the grossly abnormal head shape and size due to both craniosynostosis and hydrocephalus for which she had received VP shunt.</text>
+            </sentence>
+            <sentence>
+                <offset>1736</offset>
+                <text>In addition, the child had multiple hair whorls on her scalp and hypertrichosis, a skin tag on the left nipple, hemangioma on her back, an anteriorly placed anus, sacral dimple, rugated labia, and prominent clitoris.</text>
+            </sentence>
+            <sentence>
+                <offset>1953</offset>
+                <text>These findings were felt to be consistent with a diagnosis of BSS.</text>
+            </sentence>
+            <sentence>
+                <offset>2020</offset>
+                <text>A chest CT scan was performed and a TCS “could not be ruled out” and further evaluation was recommended.</text>
+            </sentence>
+            <sentence>
+                <offset>2125</offset>
+                <text>Unfortunately, her clinical status never permitted a bronchoscopy.</text>
+            </sentence>
+            <sentence>
+                <offset>2192</offset>
+                <text>Molecular testing was done, demonstrating c.1115C&gt;G resulting in p.Ser372Cys in FGFR2, which has been previously reported in BSS.</text>
+            </sentence>
+            <sentence>
+                <offset>2322</offset>
+                <text>Due to the poor prognosis related to BSS and clinical status related to her aspiration event, care was withdrawn at 5 weeks of age.</text>
+            </sentence>
+            <sentence>
+                <offset>2454</offset>
+                <text>Autopsy was declined so the presence of a TCS could not be confirmed.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

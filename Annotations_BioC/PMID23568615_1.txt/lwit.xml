@@ -1,0 +1,126 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 1 had macrostomia, a cleft palate, maxillar and mandibular hypoplasia, sparse lower eyelashes and was reported to have problems with tear production (Fig. 1a).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000154</infon>
+                    <location length="11" offset="14"/>
+                    <text>macrostomia</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <location length="12" offset="29"/>
+                    <text>cleft palate</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="43"/>
+                    <text>maxillar</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000347</infon>
+                    <location length="21" offset="56"/>
+                    <text>mandibular hypoplasia</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="67"/>
+                    <text>hypoplasia</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007776</infon>
+                    <location length="22" offset="79"/>
+                    <text>sparse lower eyelashes</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="127"/>
+                    <text>problems</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="141"/>
+                    <text>tear production</text>
+                </annotation>
+                <relation id="6">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000327</infon>
+                    <node refid="3" role="source"/>
+                    <node refid="5" role="target"/>
+                </relation>
+                <relation id="9">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000633</infon>
+                    <node refid="10" role="source"/>
+                    <node refid="8" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>168</offset>
+                <text>On the right hand, he had preaxial polydactyly (thumb duplication) with syndactyly (Fig. 2a), and on the left, he had thumb aplasia (Fig. 2b).</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="13"/>
+                    <text>hand</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="20" offset="26"/>
+                    <text>preaxial polydactyly</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009942</infon>
+                    <location length="17" offset="48"/>
+                    <text>thumb duplication</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001159</infon>
+                    <location length="10" offset="72"/>
+                    <text>syndactyly</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009601</infon>
+                    <location length="15" offset="118"/>
+                    <text>thumb aplasia (</text>
+                </annotation>
+                <relation id="13">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001177</infon>
+                    <node refid="11" role="source"/>
+                    <node refid="12" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>311</offset>
+                <text>In addition, overlapping toes and a low-positioned kidney discovered in the abdominal ultrasound were present.</text>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001845</infon>
+                    <location length="16" offset="13"/>
+                    <text>overlapping toes</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100542</infon>
+                    <location length="21" offset="36"/>
+                    <text>low-positioned kidney</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

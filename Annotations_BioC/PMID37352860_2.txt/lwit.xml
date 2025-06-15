@@ -1,0 +1,224 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 2
+
+The Individual was a male neonate who was admitted to the neonatal ICU after birth due to respiratory distress.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002098</infon>
+                    <location length="20" offset="104"/>
+                    <text>respiratory distress</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>126</offset>
+                <text>He was noted to have short limbs on prenatal ultrasound at 24 weeks.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009826</infon>
+                    <location length="11" offset="21"/>
+                    <text>short limbs</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>195</offset>
+                <text>An amniocentesis was performed and testing for mutations in FGFR3, COL1A1 and COL1A2 did not identify rare variants.</text>
+            </sentence>
+            <sentence>
+                <offset>313</offset>
+                <text>At birth he was noted to be short, with a birth length of 40cm (-5.17SD).</text>
+            </sentence>
+            <sentence>
+                <offset>387</offset>
+                <text>Additionally, he had several dysmorphic features: facial dysmorphic features included a prominent forehead, flat nasal bridge, micrognathia, large ears.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011220</infon>
+                    <location length="18" offset="88"/>
+                    <text>prominent forehead</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005280</infon>
+                    <location length="17" offset="108"/>
+                    <text>flat nasal bridge</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000347</infon>
+                    <location length="12" offset="127"/>
+                    <text>micrognathia</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000400</infon>
+                    <location length="10" offset="141"/>
+                    <text>large ears</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>540</offset>
+                <text>He also had bilateral complete cutaneous syndactyly of fingers 35 and toes 4-5, 5th finger clinodactyly and a narrow thorax.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term accepted, HP:6000503, https://github.com/obophenotype/human-phenotype-ontology/issues/10325</infon>
+                    <location length="20" offset="31"/>
+                    <text>cutaneous syndactyly</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term accepted, HP:6000505, https://github.com/obophenotype/human-phenotype-ontology/issues/10329</infon>
+                    <location length="20" offset="31"/>
+                    <text>cutaneous syndactyly</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="55"/>
+                    <text>fingers 35</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="70"/>
+                    <text>toes 4-5</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004209</infon>
+                    <location length="23" offset="80"/>
+                    <text>5th finger clinodactyly</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000774</infon>
+                    <location length="13" offset="110"/>
+                    <text>narrow thorax</text>
+                </annotation>
+                <relation id="10">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="8" role="source"/>
+                    <node refid="9" role="target"/>
+                </relation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="7" role="source"/>
+                    <node refid="11" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>665</offset>
+                <text>Further testing included a chromosomal microarray and FLNB gene sequencing, which were both normal.</text>
+            </sentence>
+            <sentence>
+                <offset>765</offset>
+                <text>No hematological abnormalities were noted.</text>
+            </sentence>
+            <sentence>
+                <offset>808</offset>
+                <text>Due to pulmonary hypertension and right heart failure, he passed away at age 5 months.</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002092</infon>
+                    <location length="22" offset="7"/>
+                    <text>pulmonary hypertension</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001708</infon>
+                    <location length="19" offset="34"/>
+                    <text>right heart failure</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>895</offset>
+                <text>On autopsy, giant chondrocytes were seen in the epiphyseal plates of the long bones.</text>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="18" offset="12"/>
+                    <text>giant chondrocytes</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="48"/>
+                    <text>epiphyseal plates</text>
+                </annotation>
+                <relation id="18">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030330</infon>
+                    <node refid="19" role="source"/>
+                    <node refid="17" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>980</offset>
+                <text>No other systemic or organ malformations were noted.</text>
+            </sentence>
+            <sentence>
+                <offset>1033</offset>
+                <text>Individual 3
+
+The boy was born to non-consanguineous Japanese parents at 39 weeks and 6 days of gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>1140</offset>
+                <text>His birth length was 41.7 cm (-4.3 SD) and weight 2,000 g (-3.3 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>1209</offset>
+                <text>He presented with tachypnea leading to a conventional respiratory support (nasal directional positive airway pressure).</text>
+            </sentence>
+            <sentence>
+                <offset>1329</offset>
+                <text>He showed oligosyndactyly of the right hand, proximally set left thumb, post-axial syndactyly of the feet, dislocation of the right elbow, and ulnar deviation of the left wrist.</text>
+            </sentence>
+            <sentence>
+                <offset>1507</offset>
+                <text>He was bottle-fed.</text>
+            </sentence>
+            <sentence>
+                <offset>1526</offset>
+                <text>His weight was 3,340 g at 3.5 months of age (&lt; -3 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>1581</offset>
+                <text>Respiratory support was weaned to nasal continuous positive airway pressure, and continued until hospital discharge at 4 months.</text>
+            </sentence>
+            <sentence>
+                <offset>1710</offset>
+                <text>Soon after then, he developed upper airway infection and subsequent respiratory failure, and came to an emergency room.</text>
+            </sentence>
+            <sentence>
+                <offset>1830</offset>
+                <text>Ultrasonography revealed pulmonary hypertension with severe tricuspid regurgitation.</text>
+            </sentence>
+            <sentence>
+                <offset>1915</offset>
+                <text>Despite ventilator support, he suddenly died the next day after hospital admission.</text>
+            </sentence>
+            <sentence>
+                <offset>2000</offset>
+                <text>His X-rays showed platyspondyly and metaphyseal dysplasias of the long tubular bones.</text>
+            </sentence>
+            <sentence>
+                <offset>2086</offset>
+                <text>The left hand showed type A1 brachydactyly, while the right hand showed oligosyndactyly.</text>
+            </sentence>
+            <sentence>
+                <offset>2175</offset>
+                <text>Both feet showed post-axial syndactyly.</text>
+            </sentence>
+            <sentence>
+                <offset>2215</offset>
+                <text>The test of blood cells showed macrocytic anemia and congenital neutropenia.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

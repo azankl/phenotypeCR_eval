@@ -1,0 +1,124 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 was the third pregnancy for his nonconsanguineous, average-statured, 30-year-old mother and 38-year-old father.</text>
+            </sentence>
+            <sentence>
+                <offset>122</offset>
+                <text>The family is from German/Polish/Irish/Dutch ancestry.</text>
+            </sentence>
+            <sentence>
+                <offset>177</offset>
+                <text>Pregnancy was complicated by polyhydramnios and shortened limbs on prenatal ultrasound examination.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001561</infon>
+                    <location length="14" offset="29"/>
+                    <text>polyhydramnios</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009826</infon>
+                    <location length="15" offset="48"/>
+                    <text>shortened limbs</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>277</offset>
+                <text>He was delivered vaginally at term with APGAR score of 8 and 9 (see Fig. 1; Tables I and ​andII).II).</text>
+            </sentence>
+            <sentence>
+                <offset>379</offset>
+                <text>He underwent PET placement for chronic otitis media at 17 months; a small soft palate cleft was diagnosed later in life and required surgical closure.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000388</infon>
+                    <location length="12" offset="39"/>
+                    <text>otitis media</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <location length="12" offset="79"/>
+                    <text>palate cleft</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>530</offset>
+                <text>All initial developmental milestones through the first 17 months were age appropriate, but speech delay was noted and therapy initiated at 27 months.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000750</infon>
+                    <location length="12" offset="91"/>
+                    <text>speech delay</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>680</offset>
+                <text>At eight years, the WISC-III full scale IQ was 49, verbal scale IQ 58, and performance scale IQ 47.</text>
+            </sentence>
+            <sentence>
+                <offset>780</offset>
+                <text>Right-sided patellofemoral tracking abnormality with internal tibial torsion, distal tibial valgus and in toeing prompted a lateral release, medial reefing and Roux-Goldthwait patellar procedure.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010499</infon>
+                    <location length="35" offset="12"/>
+                    <text>patellofemoral tracking abnormality</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100694</infon>
+                    <location length="14" offset="62"/>
+                    <text>tibial torsion</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002857</infon>
+                    <location length="13" offset="85"/>
+                    <text>tibial valgus</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="9" offset="103"/>
+                    <text>in toeing</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>976</offset>
+                <text>At 13 years, left patellar realignment with ilio-tibial band lengthening and biceps femoris lengthening was performed, as well as right lateral patellar release with ilio-tibial band lengthening and biceps femoris lengthening.</text>
+            </sentence>
+            <sentence>
+                <offset>1203</offset>
+                <text>Bilateral distal tibial and fibular realignment derotational osteotomies were also performed.</text>
+            </sentence>
+            <sentence>
+                <offset>1297</offset>
+                <text>Pubertal development onset was at 12 years of age and progressed normally.</text>
+            </sentence>
+            <sentence>
+                <offset>1372</offset>
+                <text>Class III malocclusion was present; formal ophthalmologic evaluations revealed no abnormalities.</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000689</infon>
+                    <location length="12" offset="10"/>
+                    <text>malocclusion</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1469</offset>
+                <text>Laboratory investigations, including chromosome analysis, 7-dehydrocholesterol, and CANT1 sequencing were normal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

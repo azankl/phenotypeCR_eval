@@ -1,0 +1,72 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 15 is a 5-year-old male who presented at birth with neurologic and craniofacial anomalies.</text>
+            </sentence>
+            <sentence>
+                <offset>102</offset>
+                <text>He was born at term to a 33-year-old gravida 1 mother.</text>
+            </sentence>
+            <sentence>
+                <offset>157</offset>
+                <text>Birth weight was 3.03 kg, length 52 cm (85th), HC 33 cm (15-50th).</text>
+            </sentence>
+            <sentence>
+                <offset>224</offset>
+                <text>High palate and poor suck were noted during newborn hospitalization.</text>
+            </sentence>
+            <sentence>
+                <offset>293</offset>
+                <text>Echocardiogram demonstrated patent ductus arteriosus and patent foramen ovale.</text>
+            </sentence>
+            <sentence>
+                <offset>372</offset>
+                <text>He was referred to genetics at 2 months of age for evaluation of hypotonia and craniofacial anomalies.</text>
+            </sentence>
+            <sentence>
+                <offset>475</offset>
+                <text>On exam he had hypertelorism and telecanthus, anteverted nares, midline pseudocleft of his upper lip, and high narrow palate.</text>
+            </sentence>
+            <sentence>
+                <offset>601</offset>
+                <text>He had low tone and low muscle bulk, and held his feet dorsiflexed and wrists hyperextended.</text>
+            </sentence>
+            <sentence>
+                <offset>694</offset>
+                <text>Failure to thrive and poor feeding with aspiration led to gastrostomy tube placement at 6 months of age.</text>
+            </sentence>
+            <sentence>
+                <offset>799</offset>
+                <text>He developed infantile spasms at 6 months of age which progressed to multi-drug resistant epilepsy.</text>
+            </sentence>
+            <sentence>
+                <offset>899</offset>
+                <text>Trio exome sequencing (GeneDx, Gaithersburg, MD) identified a de novo variant in POLR1A, c.4685G&gt;T; p.</text>
+            </sentence>
+            <sentence>
+                <offset>1001</offset>
+                <text>(Cys1562Phe).</text>
+            </sentence>
+            <sentence>
+                <offset>1015</offset>
+                <text>At age 5, he smiles and has partial head control.</text>
+            </sentence>
+            <sentence>
+                <offset>1065</offset>
+                <text>He is unable to roll and cannot sit independently.</text>
+            </sentence>
+            <sentence>
+                <offset>1116</offset>
+                <text>He is learning to communicate using eye gaze and non-verbal communication</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

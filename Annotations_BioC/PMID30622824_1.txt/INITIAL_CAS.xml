@@ -1,0 +1,68 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The patient presented at age 7 years for evaluation of short stature.</text>
+            </sentence>
+            <sentence>
+                <offset>70</offset>
+                <text>Review of her growth chart demonstrated prior stable linear growth below the 1.2nd percentile for age and sex (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>192</offset>
+                <text>She was born full term with a birth weight and length appropriate for gestational age.</text>
+            </sentence>
+            <sentence>
+                <offset>279</offset>
+                <text>Examination revealed a stocky-appearing girl with a height of 117.5 cm (height SDS -2.5).</text>
+            </sentence>
+            <sentence>
+                <offset>369</offset>
+                <text>Her arm span measured 118.4 cm, and arm span to height ratio was normal at 1.01.</text>
+            </sentence>
+            <sentence>
+                <offset>450</offset>
+                <text>Her sitting height was 66 cm with a sitting to standing height ratio of 0.56.</text>
+            </sentence>
+            <sentence>
+                <offset>528</offset>
+                <text>Her upper and lower segments were measured at 59.7 and 57.8 cm, respectively, giving her a normal upper to lower segment ratio of 1.03.</text>
+            </sentence>
+            <sentence>
+                <offset>664</offset>
+                <text>Bilateral 5th finger brachydactyly clinodactyly, bilateral short broad thumbs and first toes, and mild mesomelia of the upper limbs were noted.</text>
+            </sentence>
+            <sentence>
+                <offset>808</offset>
+                <text>She did not have clinical evidence of Madelung deformity.</text>
+            </sentence>
+            <sentence>
+                <offset>866</offset>
+                <text>Radiological imaging revealed shortened metacarpals of her left hand on a bone age X-ray (Figure 2).</text>
+            </sentence>
+            <sentence>
+                <offset>967</offset>
+                <text>She did not have radiological evidence of a Madelung deformity.</text>
+            </sentence>
+            <sentence>
+                <offset>1031</offset>
+                <text>The mild mesomelia noted clinically was not appreciated on imaging.</text>
+            </sentence>
+            <sentence>
+                <offset>1099</offset>
+                <text>Her bone age was 7 years 10 months.</text>
+            </sentence>
+            <sentence>
+                <offset>1135</offset>
+                <text>Eleven rib pairs were also identified in both the patient and her mother</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

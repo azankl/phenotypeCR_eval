@@ -1,0 +1,255 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 3
+
+The boy was born to non-consanguineous Japanese parents at 39 weeks and 6 days of gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>107</offset>
+                <text>His birth length was 41.7 cm (-4.3 SD) and weight 2,000 g (-3.3 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>176</offset>
+                <text>He presented with tachypnea leading to a conventional respiratory support (nasal directional positive airway pressure).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002789</infon>
+                    <location length="9" offset="18"/>
+                    <text>tachypnea</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>296</offset>
+                <text>He showed oligosyndactyly of the right hand, proximally set left thumb, post-axial syndactyly of the feet, dislocation of the right elbow, and ulnar deviation of the left wrist.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">add term denied</infon>
+                    <location length="15" offset="10"/>
+                    <text>oligosyndactyly</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001159</infon>
+                    <location length="15" offset="10"/>
+                    <text>oligosyndactyly</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="39"/>
+                    <text>hand</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009623</infon>
+                    <location length="25" offset="45"/>
+                    <text>proximally set left thumb</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="21" offset="72"/>
+                    <text>post-axial syndactyly</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="101"/>
+                    <text>feet</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="107"/>
+                    <text>dislocation</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="132"/>
+                    <text>elbow</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="143"/>
+                    <text>ulnar deviation</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="171"/>
+                    <text>wrist</text>
+                </annotation>
+                <relation id="3">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009380</infon>
+                    <node refid="4" role="source"/>
+                    <node refid="2" role="target"/>
+                </relation>
+                <relation id="8">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004692</infon>
+                    <node refid="9" role="source"/>
+                    <node refid="7" role="target"/>
+                </relation>
+                <relation id="11">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003042</infon>
+                    <node refid="12" role="source"/>
+                    <node refid="10" role="target"/>
+                </relation>
+                <relation id="14">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003049</infon>
+                    <node refid="15" role="source"/>
+                    <node refid="13" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>474</offset>
+                <text>He was bottle-fed.</text>
+            </sentence>
+            <sentence>
+                <offset>493</offset>
+                <text>His weight was 3,340 g at 3.5 months of age (&lt; -3 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>548</offset>
+                <text>Respiratory support was weaned to nasal continuous positive airway pressure, and continued until hospital discharge at 4 months.</text>
+            </sentence>
+            <sentence>
+                <offset>677</offset>
+                <text>Soon after then, he developed upper airway infection and subsequent respiratory failure, and came to an emergency room.</text>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011947</infon>
+                    <location length="22" offset="30"/>
+                    <text>upper airway infection</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002878</infon>
+                    <location length="19" offset="68"/>
+                    <text>respiratory failure</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>797</offset>
+                <text>Ultrasonography revealed pulmonary hypertension with severe tricuspid regurgitation.</text>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002092</infon>
+                    <location length="22" offset="25"/>
+                    <text>pulmonary hypertension</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005180</infon>
+                    <location length="23" offset="60"/>
+                    <text>tricuspid regurgitation</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>882</offset>
+                <text>Despite ventilator support, he suddenly died the next day after hospital admission.</text>
+            </sentence>
+            <sentence>
+                <offset>966</offset>
+                <text>His X-rays showed platyspondyly and metaphyseal dysplasias of the long tubular bones.</text>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000926</infon>
+                    <location length="13" offset="18"/>
+                    <text>platyspondyly</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="22" offset="36"/>
+                    <text>metaphyseal dysplasias</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="18" offset="66"/>
+                    <text>long tubular bones</text>
+                </annotation>
+                <relation id="23">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100255</infon>
+                    <node refid="21" role="source"/>
+                    <node refid="22" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1052</offset>
+                <text>The left hand showed type A1 brachydactyly, while the right hand showed oligosyndactyly.</text>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009371</infon>
+                    <location length="21" offset="21"/>
+                    <text>type A1 brachydactyly</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="60"/>
+                    <text>hand</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001159</infon>
+                    <location length="15" offset="72"/>
+                    <text>oligosyndactyly</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="72"/>
+                    <text>oligosyndactyly</text>
+                </annotation>
+                <relation id="26">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009380</infon>
+                    <node refid="27" role="source"/>
+                    <node refid="25" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1141</offset>
+                <text>Both feet showed post-axial syndactyly.</text>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="5"/>
+                    <text>feet</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="21" offset="17"/>
+                    <text>post-axial syndactyly</text>
+                </annotation>
+                <relation id="31">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004692</infon>
+                    <node refid="29" role="source"/>
+                    <node refid="30" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1181</offset>
+                <text>The test of blood cells showed macrocytic anemia and congenital neutropenia.</text>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001972</infon>
+                    <location length="17" offset="31"/>
+                    <text>macrocytic anemia</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001875</infon>
+                    <location length="11" offset="64"/>
+                    <text>neutropenia</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

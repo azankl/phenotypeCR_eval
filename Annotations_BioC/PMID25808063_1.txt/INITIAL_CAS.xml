@@ -1,0 +1,48 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This girl is the first child of healthy non-consanguineous Korean parents.</text>
+            </sentence>
+            <sentence>
+                <offset>75</offset>
+                <text>She was noted to have a flat face, grooved nasal tip, and crumpled ears with forward facing lobes at birth.</text>
+            </sentence>
+            <sentence>
+                <offset>183</offset>
+                <text>At the age of 2 months, she was diagnosed with bilateral cataracts that were promptly surgically corrected.</text>
+            </sentence>
+            <sentence>
+                <offset>291</offset>
+                <text>She had no dental anomalies, either in shape or timing of eruption.</text>
+            </sentence>
+            <sentence>
+                <offset>359</offset>
+                <text>She had a developmental delay especially important in motor milestones exacerbated by cerebellar ataxia.</text>
+            </sentence>
+            <sentence>
+                <offset>464</offset>
+                <text>At 5 years of age, she is still unable to ambulate independently but can stand with assistance.</text>
+            </sentence>
+            <sentence>
+                <offset>560</offset>
+                <text>Radiographic examination revealed a generalized severe epiphyseal disorder with almost absent ossification of the capital femoral epiphyses and micro-epiphyses of the long bones.</text>
+            </sentence>
+            <sentence>
+                <offset>739</offset>
+                <text>There were no coronal clefts (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>778</offset>
+                <text>MRI of the brain at 3 years of age showed prominent cerebellar folae, shrunken vermis, and dilated cisterns surrounding the cerebellum indicative of marked cerebellar atrophy.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

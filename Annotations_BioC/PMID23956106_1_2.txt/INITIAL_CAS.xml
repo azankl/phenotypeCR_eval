@@ -1,0 +1,104 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patients 1 and 2 were dizygotic twins (male and female) from the first pregnancy of a healthy consanguineous couple (first cousins once removed, e.g., fourth degree of consanguinity).</text>
+            </sentence>
+            <sentence>
+                <offset>185</offset>
+                <text>The couple had conceived following in vitro fertilization.</text>
+            </sentence>
+            <sentence>
+                <offset>244</offset>
+                <text>Early pregnancy was uneventful and the results of ultrasound (US) examination at gestational age (GA) of 14 weeks had been reported to be a normal twin pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>407</offset>
+                <text>US at our hospital at GA 20 + 6 demonstrated a dichorionic diamniotic twin pregnancy with different gender and signs of skeletal dysplasia in both fetuses including short stature, micromelia, absent ossification of skull and of vertebral bodies, a narrow thorax with a circumference corresponding to 2.5th centile for GA.</text>
+            </sentence>
+            <sentence>
+                <offset>729</offset>
+                <text>Fetal and postnatal measurements are summarized in Table I.</text>
+            </sentence>
+            <sentence>
+                <offset>789</offset>
+                <text>Three-dimensional US demonstrated mid-facial hypoplasia, micromelia, brachydactyly, and a virtually non-mineralized spine (Fig. 1A).</text>
+            </sentence>
+            <sentence>
+                <offset>922</offset>
+                <text>A diagnosis of lethal skeletal dysplasia, possibly achondrogenesis type 1, was suggested.</text>
+            </sentence>
+            <sentence>
+                <offset>1012</offset>
+                <text>The mother decided to continue the pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>1058</offset>
+                <text>At GA 27 + 3, she developed respiratory difficulties and abdominal pain due to polyhydramnios.</text>
+            </sentence>
+            <sentence>
+                <offset>1153</offset>
+                <text>The delivery was induced, and both fetuses were stillborn at GA 27 + 3.</text>
+            </sentence>
+            <sentence>
+                <offset>1225</offset>
+                <text>Postpartum examination in both demonstrated flat faces, protruding eyes, small noses with anteverted nares, tilted mouths, protruding tongues, and short stature with a short trunk and neck, short limbs with abundant soft tissue, abnormally positioned feet, and short fingers and toes (Fig. 2A–C).</text>
+            </sentence>
+            <sentence>
+                <offset>1522</offset>
+                <text>The autopsy was denied.</text>
+            </sentence>
+            <sentence>
+                <offset>1546</offset>
+                <text>Postnatal radiography showed brachycephaly with deficient mineralization of the calvaria.</text>
+            </sentence>
+            <sentence>
+                <offset>1636</offset>
+                <text>The vertebral bodies and sacrum were unossified.</text>
+            </sentence>
+            <sentence>
+                <offset>1685</offset>
+                <text>In contrast, the pedicles were ossified in the cervical, thoracic and upper lumbar spine.</text>
+            </sentence>
+            <sentence>
+                <offset>1775</offset>
+                <text>The thorax was hypoplastic.</text>
+            </sentence>
+            <sentence>
+                <offset>1803</offset>
+                <text>Thirteen pairs of markedly short and beaded ribs with flared and spurred ends were noted.</text>
+            </sentence>
+            <sentence>
+                <offset>1893</offset>
+                <text>The scapulae had a stellate appearance.</text>
+            </sentence>
+            <sentence>
+                <offset>1933</offset>
+                <text>The iliac bones were small with reduced height resulting in a crescent shape.</text>
+            </sentence>
+            <sentence>
+                <offset>2011</offset>
+                <text>The femora lacked longitudinal orientation and had a stellate configuration.</text>
+            </sentence>
+            <sentence>
+                <offset>2088</offset>
+                <text>The other long bones were short and bowed with metaphyseal spurs.</text>
+            </sentence>
+            <sentence>
+                <offset>2154</offset>
+                <text>Very short and broad metacarpals and the proximal and distal phalanges were noted.</text>
+            </sentence>
+            <sentence>
+                <offset>2237</offset>
+                <text>The skeletal changes were almost identical in both fetuses; except for some differences with regard to the degree of mineralization of ribs, pelvis and vertebrae (Fig. 3A,B).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,86 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This patient was the 2nd of 2 children.</text>
+            </sentence>
+            <sentence>
+                <offset>40</offset>
+                <text>The pregnancy was uncomplicated and she was delivered&#13;
+by a normal spontaneous vaginal delivery.</text>
+            </sentence>
+            <sentence>
+                <offset>137</offset>
+                <text>Her father is of Portuguese ancestry and her mother&#13;
+is Portuguese and Northern European ancestry.</text>
+            </sentence>
+            <sentence>
+                <offset>236</offset>
+                <text>Facial features of RS were recognized at birth.</text>
+            </sentence>
+            <sentence>
+                <offset>285</offset>
+                <text>Since that diagnosis, she has had several surgeries including a facial reconstruction to reduce her&#13;
+prominent chin and midface hypoplasia by replacing bone in her face and jaw with that from a&#13;
+rib around age 10 years.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000303</infon>
+                    <location length="14" offset="101"/>
+                    <text>prominent chin</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011800</infon>
+                    <location length="18" offset="120"/>
+                    <text>midface hypoplasia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>505</offset>
+                <text>Even with this surgery, she still has many of the features recognizable&#13;
+to RS, including frontal bossing, short nose and hypertelorism.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002007</infon>
+                    <location length="15" offset="90"/>
+                    <text>frontal bossing</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003196</infon>
+                    <location length="10" offset="107"/>
+                    <text>short nose</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="122"/>
+                    <text>hypertelorism</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>642</offset>
+                <text>Currently, she displays mild&#13;
+short stature of 150 cm (&lt;3%), an arm (wing) span of 138 cm and an OFC of 65.5 cm (&gt;+6 SD).</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004322</infon>
+                    <location length="13" offset="30"/>
+                    <text>short stature</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>765</offset>
+                <text>She showed normal cognitive development and has 3 unaffected children.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

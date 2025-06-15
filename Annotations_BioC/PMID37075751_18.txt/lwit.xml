@@ -1,0 +1,258 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 18 is a 16-year-old female with mandibulofacial dysostosis (micrognathia, malar hypoplasia), congenital ptosis, congenital heart defects (atrial and ventricular septal defects, cleft mitral valve, bicuspid aortic valve, doming pulmonary valve, aortic and pulmonary artery dilation) and limb anomalies (small hands, single palmar creases, interlocked toes requiring surgery, reverse clubbed foot).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005321</infon>
+                    <location length="26" offset="43"/>
+                    <text>mandibulofacial dysostosis</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000347</infon>
+                    <location length="12" offset="71"/>
+                    <text>micrognathia</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000272</infon>
+                    <location length="16" offset="85"/>
+                    <text>malar hypoplasia</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000508</infon>
+                    <location length="6" offset="115"/>
+                    <text>ptosis</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001627</infon>
+                    <location length="13" offset="134"/>
+                    <text>heart defects</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="149"/>
+                    <text>atrial</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001629</infon>
+                    <location length="26" offset="160"/>
+                    <text>ventricular septal defects</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="172"/>
+                    <text>septal defects</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011569</infon>
+                    <location length="18" offset="188"/>
+                    <text>cleft mitral valve</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001647</infon>
+                    <location length="21" offset="208"/>
+                    <text>bicuspid aortic valve</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001642</infon>
+                    <location length="22" offset="231"/>
+                    <text>doming pulmonary valve</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="255"/>
+                    <text>aortic</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004927</infon>
+                    <location length="25" offset="266"/>
+                    <text>pulmonary artery dilation</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="276"/>
+                    <text>artery dilation</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0040064</infon>
+                    <location length="14" offset="297"/>
+                    <text>limb anomalies</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0200055</infon>
+                    <location length="11" offset="313"/>
+                    <text>small hands</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000954</infon>
+                    <location length="21" offset="326"/>
+                    <text>single palmar creases</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001845</infon>
+                    <location length="16" offset="349"/>
+                    <text>interlocked toes</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001884</infon>
+                    <location length="20" offset="385"/>
+                    <text>reverse clubbed foot</text>
+                </annotation>
+                <relation id="7">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001631</infon>
+                    <node refid="8" role="source"/>
+                    <node refid="6" role="target"/>
+                </relation>
+                <relation id="16">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004942</infon>
+                    <node refid="13" role="source"/>
+                    <node refid="15" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>408</offset>
+                <text>She also has congenital hypotonia, requiring physical and occupational therapies.</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001252</infon>
+                    <location length="9" offset="24"/>
+                    <text>hypotonia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>490</offset>
+                <text>She had developmental delays and processing difficulty.</text>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001263</infon>
+                    <location length="20" offset="8"/>
+                    <text>developmental delays</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>546</offset>
+                <text>Micrognathia was treated with mandibular distraction at age 7, and her photograph in Figure 1 was taken after the distraction surgery.</text>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000347</infon>
+                    <location length="12" offset="0"/>
+                    <text>Micrognathia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>681</offset>
+                <text>Ascending aortic aneurysm required aortic replacement at age 13.</text>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004970</infon>
+                    <location length="25" offset="0"/>
+                    <text>Ascending aortic aneurysm</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>746</offset>
+                <text>Septal defects and mitral valve also required surgical repair.</text>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001671</infon>
+                    <location length="14" offset="0"/>
+                    <text>Septal defects</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="7"/>
+                    <text>defects</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="19"/>
+                    <text>mitral valve</text>
+                </annotation>
+                <relation id="28">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001633</infon>
+                    <node refid="29" role="source"/>
+                    <node refid="27" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>809</offset>
+                <text>She had bilateral hip replacement at age 14 due to severe pain related to osteoarthritis and acetabular protrusion.</text>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="3" offset="18"/>
+                    <text>hip</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="3" offset="18"/>
+                    <text>hip</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="58"/>
+                    <text>pain</text>
+                </annotation>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="74"/>
+                    <text>osteoarthritis</text>
+                </annotation>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003179</infon>
+                    <location length="21" offset="93"/>
+                    <text>acetabular protrusion</text>
+                </annotation>
+                <relation id="33">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030838</infon>
+                    <node refid="30" role="source"/>
+                    <node refid="32" role="target"/>
+                </relation>
+                <relation id="35">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008843</infon>
+                    <node refid="31" role="source"/>
+                    <node refid="34" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>925</offset>
+                <text>Clinical exome sequencing (GeneDx, Gaithersburg, MD) of individual 18 identified a POLR1A variant c.4913C&gt;T; p.</text>
+            </sentence>
+            <sentence>
+                <offset>1036</offset>
+                <text>(Pro1638Leu) which was not present in her mother.</text>
+            </sentence>
+            <sentence>
+                <offset>1086</offset>
+                <text>Paternal testing was not performed.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

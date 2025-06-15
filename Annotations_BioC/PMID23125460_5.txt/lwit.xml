@@ -1,0 +1,178 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Case 5 was a 29-week-old fetus from unrelated parents.</text>
+            </sentence>
+            <sentence>
+                <offset>56</offset>
+                <text>The pregnancy was terminated because of corpus callosum agenesis and wide ventricles (8–10 mm) on prenatal MRI.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001274</infon>
+                    <location length="24" offset="40"/>
+                    <text>corpus callosum agenesis</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002119</infon>
+                    <location length="15" offset="69"/>
+                    <text>wide ventricles</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>168</offset>
+                <text>Examination of this fetus revealed facial dysmorphism (figure 1F) with macrocrania, hypertelorism, low set and posteriorly rotated ears with small lobules, and a large mouth with down-turned corners.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001999</infon>
+                    <location length="18" offset="35"/>
+                    <text>facial dysmorphism</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000256</infon>
+                    <location length="11" offset="71"/>
+                    <text>macrocrania</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="84"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="99"/>
+                    <text>low set</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000358</infon>
+                    <location length="24" offset="111"/>
+                    <text>posteriorly rotated ears</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="131"/>
+                    <text>ears</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000385</infon>
+                    <location length="13" offset="141"/>
+                    <text>small lobules</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000154</infon>
+                    <location length="11" offset="162"/>
+                    <text>large mouth</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002714</infon>
+                    <location length="19" offset="179"/>
+                    <text>down-turned corners</text>
+                </annotation>
+                <relation id="7">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000369</infon>
+                    <node refid="8" role="source"/>
+                    <node refid="6" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>368</offset>
+                <text>She also presented post-axial polydactyly of the four limbs (figure 1G,H).</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100259</infon>
+                    <location length="22" offset="19"/>
+                    <text>post-axial polydactyly</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>443</offset>
+                <text>Neuropathological examination confirmed the absence of corpus callosum (figure 1I), and enlarged third and lateral ventricles.</text>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001274</infon>
+                    <location length="26" offset="44"/>
+                    <text>absence of corpus callosum</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="88"/>
+                    <text>enlarged third</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="88"/>
+                    <text>enlarged</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="18" offset="107"/>
+                    <text>lateral ventricles</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="115"/>
+                    <text>ventricles</text>
+                </annotation>
+                <relation id="16">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007082</infon>
+                    <node refid="17" role="source"/>
+                    <node refid="15" role="target"/>
+                </relation>
+                <relation id="19">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006956</infon>
+                    <node refid="20" role="source"/>
+                    <node refid="18" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>570</offset>
+                <text>At the infratentorial level, brainstem and cerebellar anomalies were suggestive of an MTS (vermian hypoplasia and dysmorphic fourth ventricle with enlarged cerebellar peduncles containing fragmented dentate nuclei).</text>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006817</infon>
+                    <location length="18" offset="91"/>
+                    <text>vermian hypoplasia</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010950</infon>
+                    <location length="27" offset="114"/>
+                    <text>dysmorphic fourth ventricle</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002404</infon>
+                    <location length="29" offset="147"/>
+                    <text>enlarged cerebellar peduncles</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007047</infon>
+                    <location length="25" offset="188"/>
+                    <text>fragmented dentate nuclei</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>786</offset>
+                <text>We identified two KIF7 heterozygous mutations: an eight base pair deletion (c.1054_1061del, p.Arg352GlyfsX108) and a 38 base pair deletion (c.1167_1204del, p.Arg390HisfsX60), both located in exon 5 and shown to be in trans by specific allele amplification.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

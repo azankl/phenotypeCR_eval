@@ -1,0 +1,670 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Prenatal ultrasonography at 18 weeks showed body wall and scalp edema, cystic hygroma, echogenic kidneys, hepatomegaly, and polyhydramnios.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="44"/>
+                    <text>body wall</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025672</infon>
+                    <location length="11" offset="58"/>
+                    <text>scalp edema</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="64"/>
+                    <text>edema</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000476</infon>
+                    <location length="14" offset="71"/>
+                    <text>cystic hygroma</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0033130</infon>
+                    <location length="17" offset="87"/>
+                    <text>echogenic kidneys</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002240</infon>
+                    <location length="12" offset="106"/>
+                    <text>hepatomegaly</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001561</infon>
+                    <location length="14" offset="124"/>
+                    <text>polyhydramnios</text>
+                </annotation>
+                <relation id="4">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025672</infon>
+                    <node refid="1" role="source"/>
+                    <node refid="3" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>140</offset>
+                <text>At 25 weeks of gestation there was hydrops and polyhydramnios suggesting non-immune hydrops.</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001789</infon>
+                    <location length="7" offset="35"/>
+                    <text>hydrops</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001561</infon>
+                    <location length="14" offset="47"/>
+                    <text>polyhydramnios</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001789</infon>
+                    <location length="7" offset="84"/>
+                    <text>hydrops</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>233</offset>
+                <text>Results of analysis of chromosomes from amniocytes, rapid FISH and viral PCR were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>323</offset>
+                <text>Follow-up ultrasound study at 36 weeks showed resolution of hydrops.</text>
+            </sentence>
+            <sentence>
+                <offset>392</offset>
+                <text>At birth this male was noted to have multiple anomalies and growth restriction (II-I).</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001511</infon>
+                    <location length="18" offset="60"/>
+                    <text>growth restriction</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>479</offset>
+                <text>He was born at 41 weeks of gestation, and had a birth weight of 2,579 g.</text>
+            </sentence>
+            <sentence>
+                <offset>552</offset>
+                <text>He had a poor respiratory effort aggravated by a posteriorly placed tongue and microretrognathia.</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002094</infon>
+                    <location length="23" offset="9"/>
+                    <text>poor respiratory effort</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009087</infon>
+                    <location length="25" offset="49"/>
+                    <text>posteriorly placed tongue</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000308</infon>
+                    <location length="17" offset="79"/>
+                    <text>microretrognathia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>650</offset>
+                <text>He was also noted to have a small chest.</text>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005257</infon>
+                    <location length="11" offset="28"/>
+                    <text>small chest</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>691</offset>
+                <text>Apgar scores were 5 and 8 at 1 and 5 min, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>747</offset>
+                <text>His OFC was 37 cm (75th centile), and length 47 cm (10th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>814</offset>
+                <text>He had a tall forehead, an occiput prominent superiorly and flattened inferiorly, overlapping sutures, low-set ears, micrognathia, high palate, multiple neck skin folds, narrow chest, brachydactyly, post-axial polydactyly in the left foot, and single transverse palmar creases.</text>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002003</infon>
+                    <location length="13" offset="9"/>
+                    <text>tall forehead</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000269</infon>
+                    <location length="17" offset="27"/>
+                    <text>occiput prominent</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="27"/>
+                    <text>occiput</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="60"/>
+                    <text>flattened</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010823</infon>
+                    <location length="19" offset="82"/>
+                    <text>overlapping sutures</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000369</infon>
+                    <location length="12" offset="103"/>
+                    <text>low-set ears</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000347</infon>
+                    <location length="12" offset="117"/>
+                    <text>micrognathia</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000218</infon>
+                    <location length="11" offset="131"/>
+                    <text>high palate</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005989</infon>
+                    <location length="15" offset="153"/>
+                    <text>neck skin folds</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000774</infon>
+                    <location length="12" offset="170"/>
+                    <text>narrow chest</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001156</infon>
+                    <location length="13" offset="184"/>
+                    <text>brachydactyly</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="22" offset="199"/>
+                    <text>post-axial polydactyly</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="234"/>
+                    <text>foot</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000954</infon>
+                    <location length="32" offset="244"/>
+                    <text>single transverse palmar creases</text>
+                </annotation>
+                <relation id="21">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005469</infon>
+                    <node refid="19" role="source"/>
+                    <node refid="20" role="target"/>
+                </relation>
+                <relation id="30">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001830</infon>
+                    <node refid="31" role="source"/>
+                    <node refid="29" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1092</offset>
+                <text>He required mechanical ventilation and any efforts to wean off or switch to CPAP were unsuccessful (Fig. 2).He had a seizure possibly due to a hypoxic episode and metabolic decompensation.</text>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001250</infon>
+                    <location length="7" offset="117"/>
+                    <text>seizure</text>
+                </annotation>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012418</infon>
+                    <location length="15" offset="143"/>
+                    <text>hypoxic episode</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001942</infon>
+                    <location length="24" offset="163"/>
+                    <text>metabolic decompensation</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1281</offset>
+                <text>An eye examination showed congenital nystagmus.</text>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000639</infon>
+                    <location length="9" offset="37"/>
+                    <text>nystagmus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1329</offset>
+                <text>Placement of a G-button was required for feeding and growth purposes.</text>
+            </sentence>
+            <sentence>
+                <offset>1399</offset>
+                <text>At age 2 months he developed acute renal failure.</text>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000083</infon>
+                    <location length="13" offset="35"/>
+                    <text>renal failure</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1449</offset>
+                <text>He had persistent nonunion gap acidosis and was diagnosed with type 1 distal renal tubular acidosis (RTA), which was treated with a citric acid and sodium citrate mix to alkalinize the urine.</text>
+                <annotation id="38">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004918</infon>
+                    <infon key="Comment">! Typo</infon>
+                    <location length="21" offset="18"/>
+                    <text>nonunion gap acidosis</text>
+                </annotation>
+                <annotation id="39">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001947</infon>
+                    <location length="22" offset="77"/>
+                    <text>renal tubular acidosis</text>
+                </annotation>
+                <annotation id="40">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001947</infon>
+                    <infon key="Comment">! Abbreviation</infon>
+                    <location length="3" offset="101"/>
+                    <text>RTA</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1641</offset>
+                <text>He had elevated liver enzymes.</text>
+                <annotation id="41">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002910</infon>
+                    <location length="22" offset="7"/>
+                    <text>elevated liver enzymes</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1672</offset>
+                <text>Limited X-ray studies showed shortened tibia and fibula on the left side, and a bell-shaped chest.</text>
+                <annotation id="42">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005736</infon>
+                    <location length="15" offset="29"/>
+                    <text>shortened tibia</text>
+                </annotation>
+                <annotation id="43">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="29"/>
+                    <text>shortened</text>
+                </annotation>
+                <annotation id="45">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="49"/>
+                    <text>fibula</text>
+                </annotation>
+                <annotation id="46">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001591</infon>
+                    <location length="17" offset="80"/>
+                    <text>bell-shaped chest</text>
+                </annotation>
+                <relation id="44">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003038</infon>
+                    <node refid="45" role="source"/>
+                    <node refid="43" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1771</offset>
+                <text>Head CT scan at 2 months showed increased AP diameter, closed sagittal suture with patency of coronal and lambdoid sutures.</text>
+                <annotation id="47">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000256</infon>
+                    <location length="21" offset="32"/>
+                    <text>increased AP diameter</text>
+                </annotation>
+                <annotation id="48">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004442</infon>
+                    <location length="22" offset="55"/>
+                    <text>closed sagittal suture</text>
+                </annotation>
+                <annotation id="49">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="83"/>
+                    <text>patency</text>
+                </annotation>
+                <annotation id="50">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="83"/>
+                    <text>patency</text>
+                </annotation>
+                <annotation id="55">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="94"/>
+                    <text>coronal</text>
+                </annotation>
+                <annotation id="54">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="106"/>
+                    <text>lambdoid sutures</text>
+                </annotation>
+                <annotation id="52">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="115"/>
+                    <text>sutures</text>
+                </annotation>
+                <relation id="51">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005442</infon>
+                    <node refid="52" role="source"/>
+                    <node refid="50" role="target"/>
+                </relation>
+                <relation id="53">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004492</infon>
+                    <node refid="54" role="source"/>
+                    <node refid="49" role="target"/>
+                </relation>
+                <relation id="56">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="52" role="source"/>
+                    <node refid="55" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1895</offset>
+                <text>Echocardiography showed mild thickening of mitral and tricuspid valves, a patent foramen ovale (PFO) and a small aortic isthmus.A liver biopsy at 3months showed early biliary cirrhosis, severe cholestasis with extensive bile duct proliferation and acute cholangitis.</text>
+                <annotation id="57">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="10" offset="29"/>
+                    <text>thickening</text>
+                </annotation>
+                <annotation id="58">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Thickened mitral valve cusp HP:6000342</infon>
+                    <location length="10" offset="29"/>
+                    <text>thickening</text>
+                </annotation>
+                <annotation id="60">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="43"/>
+                    <text>mitral</text>
+                </annotation>
+                <annotation id="62">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="54"/>
+                    <text>tricuspid valves</text>
+                </annotation>
+                <annotation id="63">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="64"/>
+                    <text>valves</text>
+                </annotation>
+                <annotation id="65">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001655</infon>
+                    <location length="20" offset="74"/>
+                    <text>patent foramen ovale</text>
+                </annotation>
+                <annotation id="66">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001655</infon>
+                    <infon key="Comment">! Abbreviation</infon>
+                    <location length="3" offset="96"/>
+                    <text>PFO</text>
+                </annotation>
+                <annotation id="67">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0034227</infon>
+                    <infon key="Comment">! Typo</infon>
+                    <location length="22" offset="107"/>
+                    <text>small aortic isthmus.A</text>
+                </annotation>
+                <annotation id="68">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002613</infon>
+                    <location length="17" offset="167"/>
+                    <text>biliary cirrhosis</text>
+                </annotation>
+                <annotation id="69">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001396</infon>
+                    <location length="11" offset="193"/>
+                    <text>cholestasis</text>
+                </annotation>
+                <annotation id="70">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001408</infon>
+                    <location length="23" offset="220"/>
+                    <text>bile duct proliferation</text>
+                </annotation>
+                <annotation id="71">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030151</infon>
+                    <location length="11" offset="254"/>
+                    <text>cholangitis</text>
+                </annotation>
+                <relation id="59">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="60" role="source"/>
+                    <node refid="58" role="target"/>
+                </relation>
+                <relation id="61">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="62" role="source"/>
+                    <node refid="57" role="target"/>
+                </relation>
+                <relation id="64">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="60" role="source"/>
+                    <node refid="63" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2162</offset>
+                <text>The portal tracts were extensively widened by a complex proliferative pattern of bile ducts and an increase in fibrotic tissue and inflammatory infiltrates.</text>
+                <annotation id="72">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="4"/>
+                    <text>portal tracts</text>
+                </annotation>
+                <annotation id="73">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="4"/>
+                    <text>portal tracts</text>
+                </annotation>
+                <annotation id="74">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [GE]</infon>
+                    <location length="7" offset="35"/>
+                    <text>widened</text>
+                </annotation>
+                <annotation id="76">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="81"/>
+                    <text>bile ducts</text>
+                </annotation>
+                <annotation id="77">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="111"/>
+                    <text>fibrotic</text>
+                </annotation>
+                <annotation id="79">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="131"/>
+                    <text>inflammatory</text>
+                </annotation>
+                <relation id="75">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="72" role="source"/>
+                    <node refid="74" role="target"/>
+                </relation>
+                <relation id="78">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006580</infon>
+                    <node refid="73" role="source"/>
+                    <node refid="77" role="target"/>
+                </relation>
+                <relation id="80">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030151</infon>
+                    <node refid="76" role="source"/>
+                    <node refid="79" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2319</offset>
+                <text>The architectural pattern of the epithelium was described as markedly bizarre due to complex infolding and branching.</text>
+            </sentence>
+            <sentence>
+                <offset>2437</offset>
+                <text>Trichrome stain showed increased collagen in the portal tracts and around the bile ducts.</text>
+                <annotation id="81">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [GE]</infon>
+                    <location length="18" offset="23"/>
+                    <text>increased collagen</text>
+                </annotation>
+                <annotation id="84">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [GE]</infon>
+                    <location length="18" offset="23"/>
+                    <text>increased collagen</text>
+                </annotation>
+                <annotation id="83">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="49"/>
+                    <text>portal tracts</text>
+                </annotation>
+                <annotation id="86">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="78"/>
+                    <text>bile ducts</text>
+                </annotation>
+                <relation id="82">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="83" role="source"/>
+                    <node refid="81" role="target"/>
+                </relation>
+                <relation id="85">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="86" role="source"/>
+                    <node refid="84" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2527</offset>
+                <text>At age 4 months a rib cartilage biopsy was performed that showed no architectural cartilage abnormalities and normal appearing chondrocytes.</text>
+            </sentence>
+            <sentence>
+                <offset>2668</offset>
+                <text>The only abnormalities seen included mild dilatation of the rough endoplasmic reticulum with mild to moderate accumulation of lipids in the chondrocytes.</text>
+                <annotation id="87">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="45" offset="42"/>
+                    <text>dilatation of the rough endoplasmic reticulum</text>
+                </annotation>
+                <annotation id="90">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0032929</infon>
+                    <location length="42" offset="110"/>
+                    <text>accumulation of lipids in the chondrocytes</text>
+                </annotation>
+                <annotation id="89">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="140"/>
+                    <text>chondrocytes</text>
+                </annotation>
+                <relation id="88">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0032929</infon>
+                    <node refid="89" role="source"/>
+                    <node refid="87" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2822</offset>
+                <text>At age 5 months he underwent surgery to correct sagittal synostosis.</text>
+                <annotation id="91">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004442</infon>
+                    <location length="19" offset="48"/>
+                    <text>sagittal synostosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2891</offset>
+                <text>He never left the hospital.</text>
+            </sentence>
+            <sentence>
+                <offset>2919</offset>
+                <text>At 9 months he developed severe desaturations and bradycardias that escalated into multiple asystoles and apneic episodes.</text>
+                <annotation id="92">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012418</infon>
+                    <location length="13" offset="32"/>
+                    <text>desaturations</text>
+                </annotation>
+                <annotation id="93">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001662</infon>
+                    <location length="12" offset="50"/>
+                    <text>bradycardias</text>
+                </annotation>
+                <annotation id="94">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001695</infon>
+                    <location length="9" offset="92"/>
+                    <text>asystoles</text>
+                </annotation>
+                <annotation id="95">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002104</infon>
+                    <location length="15" offset="106"/>
+                    <text>apneic episodes</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>3042</offset>
+                <text>He did not respond to resuscitation.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

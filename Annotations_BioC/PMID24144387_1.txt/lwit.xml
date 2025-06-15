@@ -1,0 +1,498 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿This was a 15 4/7 week fetus delivered to a 29-year-old gravida 2 para 1 mother with a history of gestational diabetes, asthma, smoking, and prior cesarean section.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002099</infon>
+                    <location length="6" offset="121"/>
+                    <text>asthma</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>166</offset>
+                <text>There was no relevant family history.</text>
+            </sentence>
+            <sentence>
+                <offset>204</offset>
+                <text>Prenatal ultrasound revealed a cystic hygroma, possible facial clefting, an abnormal 4-chamber heart, a small chest, upper limb shortening, and an unspecified lower limb deformity.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000476</infon>
+                    <location length="14" offset="31"/>
+                    <text>cystic hygroma</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002006</infon>
+                    <location length="15" offset="56"/>
+                    <text>facial clefting</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001627</infon>
+                    <location length="24" offset="76"/>
+                    <text>abnormal 4-chamber heart</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005257</infon>
+                    <location length="11" offset="104"/>
+                    <text>small chest</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009824</infon>
+                    <location length="21" offset="117"/>
+                    <text>upper limb shortening</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0040069</infon>
+                    <location length="20" offset="159"/>
+                    <text>lower limb deformity</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>385</offset>
+                <text>Elective termination by D&amp;E was performed.</text>
+            </sentence>
+            <sentence>
+                <offset>428</offset>
+                <text>Tissue for cytogenetic analysis was sent from the operating room and revealed a normal female karyotype (46, XX).</text>
+            </sentence>
+            <sentence>
+                <offset>542</offset>
+                <text>A full autopsy was requested.</text>
+            </sentence>
+            <sentence>
+                <offset>573</offset>
+                <text>Postmortem examination revealed markedly fragmented fetal remains.</text>
+            </sentence>
+            <sentence>
+                <offset>640</offset>
+                <text>Toe–heel length was small for gestational age (1.4 cm, expected for 13–14 weeks gestation) [11].</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001518</infon>
+                    <location length="25" offset="20"/>
+                    <text>small for gestational age</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>737</offset>
+                <text>The head and skull bones were markedly disrupted, precluding determination of head circumference.</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="4"/>
+                    <text>head</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="13"/>
+                    <text>skull bones</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="9" offset="39"/>
+                    <text>disrupted</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="9" offset="39"/>
+                    <text>disrupted</text>
+                </annotation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="10" role="source"/>
+                    <node refid="11" role="target"/>
+                </relation>
+                <relation id="14">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="9" role="source"/>
+                    <node refid="13" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>835</offset>
+                <text>The right eye was disrupted, but the left eye was intact and appeared normal.</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="3" offset="10"/>
+                    <text>eye</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="9" offset="18"/>
+                    <text>disrupted</text>
+                </annotation>
+                <relation id="17">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="15" role="source"/>
+                    <node refid="16" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>913</offset>
+                <text>The left ear appeared posteriorly rotated.</text>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="3" offset="9"/>
+                    <text>ear</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="19" offset="22"/>
+                    <text>posteriorly rotated</text>
+                </annotation>
+                <relation id="20">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000358</infon>
+                    <node refid="18" role="source"/>
+                    <node refid="19" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>956</offset>
+                <text>The nasal choanae were patent.</text>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="4"/>
+                    <text>nasal choanae</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="23"/>
+                    <text>patent</text>
+                </annotation>
+                <relation id="23">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000453</infon>
+                    <node refid="21" role="source"/>
+                    <node refid="22" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>987</offset>
+                <text>The upper lip and palate were both intact.</text>
+            </sentence>
+            <sentence>
+                <offset>1030</offset>
+                <text>A midline uvula was identified.</text>
+            </sentence>
+            <sentence>
+                <offset>1062</offset>
+                <text>The external genitalia were female, but the internal genitalia were disrupted.</text>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="18" offset="44"/>
+                    <text>internal genitalia</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="9" offset="68"/>
+                    <text>disrupted</text>
+                </annotation>
+                <relation id="26">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="24" role="source"/>
+                    <node refid="25" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1141</offset>
+                <text>Although the extremities were partially disrupted, all 4 extremities were markedly shortened.</text>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="57"/>
+                    <text>extremities</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="83"/>
+                    <text>shortened</text>
+                </annotation>
+                <relation id="29">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009815</infon>
+                    <node refid="27" role="source"/>
+                    <node refid="28" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1235</offset>
+                <text>Five toes were seen on each foot.</text>
+            </sentence>
+            <sentence>
+                <offset>1269</offset>
+                <text>The right foot exhibited talipes equinovarus.</text>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001762</infon>
+                    <location length="19" offset="25"/>
+                    <text>talipes equinovarus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1315</offset>
+                <text>The right hand was intact and showed mild clinodactyly of the 5th finger but no polydactyly or syndactyly.</text>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="42"/>
+                    <text>clinodactyly</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="62"/>
+                    <text>5th finger</text>
+                </annotation>
+                <relation id="32">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004209</infon>
+                    <node refid="33" role="source"/>
+                    <node refid="31" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1422</offset>
+                <text>The left hand was partially disrupted.</text>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="9"/>
+                    <text>hand</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="9" offset="28"/>
+                    <text>disrupted</text>
+                </annotation>
+                <relation id="36">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="34" role="source"/>
+                    <node refid="35" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1461</offset>
+                <text>The anus could not be identified.</text>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="4"/>
+                    <text>anus</text>
+                </annotation>
+                <annotation id="38">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="15"/>
+                    <text>not be identified</text>
+                </annotation>
+                <relation id="39">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002023</infon>
+                    <node refid="37" role="source"/>
+                    <node refid="38" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1495</offset>
+                <text>The spinal column was partially disrupted, but the thoracic spine remained attached to the right ribs.</text>
+                <annotation id="40">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="4"/>
+                    <text>spinal column</text>
+                </annotation>
+                <annotation id="41">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="9" offset="32"/>
+                    <text>disrupted</text>
+                </annotation>
+                <relation id="42">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="40" role="source"/>
+                    <node refid="41" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1599</offset>
+                <text>The thoracic cavity, diaphragm, pericardial cavity, and abdominal cavity were severely disrupted, and some of the organs were not identified among the many loose fragments.</text>
+            </sentence>
+            <sentence>
+                <offset>1772</offset>
+                <text>However, the adrenal glands, right kidney, and spleen were identified and found to be grossly unremarkable.</text>
+            </sentence>
+            <sentence>
+                <offset>1880</offset>
+                <text>The liver, pancreas, heart, and intestines were also identified but partially disrupted; where intact, they appeared grossly unremarkable.</text>
+            </sentence>
+            <sentence>
+                <offset>2019</offset>
+                <text>The placenta was fragmented.</text>
+            </sentence>
+            <sentence>
+                <offset>2049</offset>
+                <text>Radiologic examination was performed on the fetal remains (Figs. 1,2) and revealed ossified but markedly shortened long bones with no fractures [femora = 6 mm in length (expected 12.5–27 mm); humeri = 7 mm in length (expected 12.5–26 mm)] [12].</text>
+                <annotation id="43">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003026</infon>
+                    <location length="20" offset="105"/>
+                    <text>shortened long bones</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2294</offset>
+                <text>In addition, metaphyseal cupping of both femora and humeri was seen.</text>
+                <annotation id="44">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003021</infon>
+                    <location length="19" offset="13"/>
+                    <text>metaphyseal cupping</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2363</offset>
+                <text>Vertebral body ossification was completely absent.</text>
+                <annotation id="45">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="27" offset="0"/>
+                    <text>Vertebral body ossification</text>
+                </annotation>
+                <annotation id="46">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="43"/>
+                    <text>absent</text>
+                </annotation>
+                <relation id="47">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004599</infon>
+                    <node refid="45" role="source"/>
+                    <node refid="46" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2414</offset>
+                <text>Rib ossification was present without fractures.</text>
+            </sentence>
+            <sentence>
+                <offset>2462</offset>
+                <text>Skull ossification was present.</text>
+            </sentence>
+            <sentence>
+                <offset>2494</offset>
+                <text>The pelvic bones were markedly disrupted.</text>
+                <annotation id="48">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="4"/>
+                    <text>pelvic bones</text>
+                </annotation>
+                <annotation id="49">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="9" offset="31"/>
+                    <text>disrupted</text>
+                </annotation>
+                <relation id="50">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="48" role="source"/>
+                    <node refid="49" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2536</offset>
+                <text>The hands showed faint ossification of all phalanges.</text>
+            </sentence>
+            <sentence>
+                <offset>2590</offset>
+                <text>The distal femoral epiphysis and proximal tibial epiphysis were not ossified.</text>
+                <annotation id="51">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="24" offset="4"/>
+                    <text>distal femoral epiphysis</text>
+                </annotation>
+                <annotation id="52">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="25" offset="33"/>
+                    <text>proximal tibial epiphysis</text>
+                </annotation>
+                <annotation id="53">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="64"/>
+                    <text>not ossified</text>
+                </annotation>
+                <annotation id="54">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="64"/>
+                    <text>not ossified</text>
+                </annotation>
+                <relation id="55">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="52" role="source"/>
+                    <node refid="53" role="target"/>
+                </relation>
+                <relation id="56">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="51" role="source"/>
+                    <node refid="54" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2669</offset>
+                <text>Histologically, there was a markedly disordered physis with advanced periosteal ossification, deficient chondroid matrix, markedly enlarged chondrocyte lacunae, and increased cartilage vascularity with perivascular fibrosis (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>2903</offset>
+                <text>Periodic acid–Schiff special staining showed no chondrocyte inclusions.</text>
+            </sentence>
+            <sentence>
+                <offset>2975</offset>
+                <text>The lack of vertebral body ossification was confirmed histologically (Fig. 2).</text>
+                <annotation id="57">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="4"/>
+                    <text>lack</text>
+                </annotation>
+                <annotation id="59">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="27" offset="12"/>
+                    <text>vertebral body ossification</text>
+                </annotation>
+                <relation id="58">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004599</infon>
+                    <node refid="59" role="source"/>
+                    <node refid="57" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>3054</offset>
+                <text>Other histologic observations in visceral organs included pseudofollicular change in the definitive adrenal cortex and focal dystrophic calcification in the liver.</text>
+            </sentence>
+            <sentence>
+                <offset>3219</offset>
+                <text>The gross, radiologic, and histologic findings at autopsy were highly suggestive of ACG-2, and further genetic testing was suggested.</text>
+            </sentence>
+            <sentence>
+                <offset>3353</offset>
+                <text>Fresh frozen fetal tissue was sent for COL2A1 mutational analysis.</text>
+            </sentence>
+            <sentence>
+                <offset>3420</offset>
+                <text>Polymerase chain reaction analysis revealed a heterozygous mutation in the COL2A1 gene [c.1358G&gt;A transition (Gly453Asp) in exon 19].</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

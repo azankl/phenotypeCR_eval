@@ -1,0 +1,32 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>patient 3, was also born with short stature, micrognathia with a median posterior palatal cleft, and bilateral subluxation of her knees.</text>
+            </sentence>
+            <sentence>
+                <offset>137</offset>
+                <text>Both of her fifth toes were laterally deviated.</text>
+            </sentence>
+            <sentence>
+                <offset>185</offset>
+                <text>Although her facial appearance resembles that of her affected sister, with a high forehead and a flat face, she has no signs of craniosynostosis.</text>
+            </sentence>
+            <sentence>
+                <offset>331</offset>
+                <text>At follow-up examination at the age 2 years, her psychomotor development was within the normal range but her stature was markedly below the third percentile.</text>
+            </sentence>
+            <sentence>
+                <offset>489</offset>
+                <text>Radiographic findings were similar to those of her older sister, including brachydactyly, irregular metacarpal epiphyses, and reduction of intervertebral spaces but no vertebral clefting.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

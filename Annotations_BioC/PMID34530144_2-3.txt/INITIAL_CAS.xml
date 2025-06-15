@@ -1,0 +1,32 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient II.3, the sister of the index 32-year-old woman, had similar symptoms and social restrictions.</text>
+            </sentence>
+            <sentence>
+                <offset>104</offset>
+                <text>In her clinical examination, her height was 120 cm (−7.3 SD), head circumference was 54.5 cm (−1.6 SD), normal facial features, and normal psychomotor development.</text>
+            </sentence>
+            <sentence>
+                <offset>268</offset>
+                <text>Her skeletal deformities were almost similar to the index patient.</text>
+            </sentence>
+            <sentence>
+                <offset>335</offset>
+                <text>A skeletal survey revealed short limbs, radial bowing, and a very short femoral neck with an osteoporotic appearance, similar to the index patient.</text>
+            </sentence>
+            <sentence>
+                <offset>483</offset>
+                <text>In her hands and feet, short and broad metacarpal and metatarsal bones and brachydactyly were observed.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

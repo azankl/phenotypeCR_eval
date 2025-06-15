@@ -1,0 +1,44 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 17 is a 7-year-old female with craniofacial anomalies, aqueductal stenosis (requiring a shunt), multiple vertebral anomalies, and developmental delay.</text>
+            </sentence>
+            <sentence>
+                <offset>162</offset>
+                <text>Craniofacial anomalies include cleft palate, bilateral preauricular tags, cleft tragus, cleft eyelids, epibulbar dermoids, right ear canal atresia, and cupshaped ears.</text>
+            </sentence>
+            <sentence>
+                <offset>330</offset>
+                <text>She also had hearing loss, primarily in the left ear with conductive loss on right due to canal atresia.</text>
+            </sentence>
+            <sentence>
+                <offset>435</offset>
+                <text>She has generalized epilepsy well controlled on lamotrigine.</text>
+            </sentence>
+            <sentence>
+                <offset>496</offset>
+                <text>She required a gastrostomy tube for poor feeding.</text>
+            </sentence>
+            <sentence>
+                <offset>546</offset>
+                <text>Exome sequencing (GeneDx, Gaithersburg, MD) of individual 14 identified a POLR1A variant c.4891G&gt;A; p.</text>
+            </sentence>
+            <sentence>
+                <offset>648</offset>
+                <text>(Val1631Met) which was not maternally inherited.</text>
+            </sentence>
+            <sentence>
+                <offset>697</offset>
+                <text>Paternal testing was not performed.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

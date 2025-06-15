@@ -1,0 +1,92 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 4 (V-9; Fig. 1A) was born in Anjouan Island (Comoros Islands).</text>
+            </sentence>
+            <sentence>
+                <offset>72</offset>
+                <text>This male patient had been referred to Mayotte Island at the age of 7 years.</text>
+            </sentence>
+            <sentence>
+                <offset>149</offset>
+                <text>His past medical history and birth parameters were unknown.</text>
+            </sentence>
+            <sentence>
+                <offset>209</offset>
+                <text>He presented craniosynostosis and a kyphoscoliosis measured at 100°.</text>
+            </sentence>
+            <sentence>
+                <offset>278</offset>
+                <text>He was hospitalized at 12 years of age.</text>
+            </sentence>
+            <sentence>
+                <offset>318</offset>
+                <text>His weight was 44 kg (75th centile) and his height was 130 cm (3rd centile).</text>
+            </sentence>
+            <sentence>
+                <offset>395</offset>
+                <text>He presented severe craniosynostosis with a trilobular cloverleaf-shaped skull and marked scaphocephaly.</text>
+            </sentence>
+            <sentence>
+                <offset>500</offset>
+                <text>Facial features included midface hypoplasia, a flat nasal bridge, epicanthic folds, hypertelorism, and low-set ears (Fig. 2A).</text>
+            </sentence>
+            <sentence>
+                <offset>627</offset>
+                <text>There were bilateral camptodactyly of the fourth and fifth fingers, and bilateral ulnar deviation of third, fourth, and fifth fingers (Fig. 2A).</text>
+            </sentence>
+            <sentence>
+                <offset>772</offset>
+                <text>He had a bilateral genu valgum and enlarged distal femoral and proximal tibial metaphyses, left hip dislocation, and a major kyphoscoliosis (Fig. 2C).</text>
+            </sentence>
+            <sentence>
+                <offset>923</offset>
+                <text>The testes were not palpable.</text>
+            </sentence>
+            <sentence>
+                <offset>953</offset>
+                <text>Walking was possible, but he most often used a wheelchair.</text>
+            </sentence>
+            <sentence>
+                <offset>1012</offset>
+                <text>Mental development was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1043</offset>
+                <text>Skull X-ray demonstrated synostosis of the coronal and sagittal sutures.</text>
+            </sentence>
+            <sentence>
+                <offset>1116</offset>
+                <text>Radiographs of the hands revealed bilateral agenesis of the middle phalanges of the second fingers, bilateral hypoplastic middle phalanges of the third, fourth, and fifth fingers, and enlarged thumbs (Fig. 2B).</text>
+            </sentence>
+            <sentence>
+                <offset>1327</offset>
+                <text>Radiographs of feet showed bilateral agenesis of the middle phalanges of the second to the fifth toes, a broad first metatarsal bone, broad phalanges of the halluces, a synostosis of the first tarsometatarsal joint, and an extra epiphyseal bone lying to the distal side of the first metatarsal bone (Fig. 2B).</text>
+            </sentence>
+            <sentence>
+                <offset>1637</offset>
+                <text>Radiographs of the spine showed severe kyphoscoliosis measured at 130° (Fig. 2C).</text>
+            </sentence>
+            <sentence>
+                <offset>1719</offset>
+                <text>Routine laboratory blood tests and cytogenetic study of peripheral lymphocytes were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1811</offset>
+                <text>Extra digits were removed and surgical reduction of the scoliosis was performed.</text>
+            </sentence>
+            <sentence>
+                <offset>1892</offset>
+                <text>Cranioplasty was not performed because of delayed neurosurgical consultation, absence of hydrocephaly, and refusal of specialized care by the family.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

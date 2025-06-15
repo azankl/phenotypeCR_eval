@@ -1,0 +1,72 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Case 2 was the first child of a healthy consanguineous couple.</text>
+            </sentence>
+            <sentence>
+                <offset>64</offset>
+                <text>He was born at 39 weeks of gestation, and birth weight was 2,350 g (−3.00 SDS), and height was 43 cm (3.44 SDS).</text>
+            </sentence>
+            <sentence>
+                <offset>177</offset>
+                <text>He was considered to have achondroplasia and tested for FGFR3 at the age of 3 months.</text>
+            </sentence>
+            <sentence>
+                <offset>263</offset>
+                <text>FGFR3 sequencing revealed no variants.</text>
+            </sentence>
+            <sentence>
+                <offset>303</offset>
+                <text>On physical examination, at the age of 3 and a half years, his weight, height, and head circumference were 12.7 cm (−1.85 SDS), 84 cm (−4.07 SDS), and 52 cm (0.77 SDS), respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>486</offset>
+                <text>Rhizomelic short stature, relative macrocephaly, triangular face, frontal bossing, depressed nasal bridge, fleshy and upturned nose, pointed and prominent chin, and oligodontia were observed.</text>
+            </sentence>
+            <sentence>
+                <offset>678</offset>
+                <text>He had also hyperlordosis, broad and fleshy hands and feet, prominent heels, and joint laxity.</text>
+            </sentence>
+            <sentence>
+                <offset>773</offset>
+                <text>External genitalia examination was found to be normal.</text>
+            </sentence>
+            <sentence>
+                <offset>828</offset>
+                <text>His neuromotor development was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>867</offset>
+                <text>Skeletal survey revealed tall vertebral bodies and long, slender tubular bones (Figure 2).</text>
+            </sentence>
+            <sentence>
+                <offset>959</offset>
+                <text>At the age of 6 years and 5 months, his height and annual growth rate were 99.7 cm (−3.87 SDS) and 4.78 cm/year (−1.52 SDS), respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>1098</offset>
+                <text>Serum basal GH levels and peak GH responses to GH stimulation test were found to be low.</text>
+            </sentence>
+            <sentence>
+                <offset>1187</offset>
+                <text>An rhGH therapy (45 μg/kg/day) was administered due to low GH levels and decreased growth velocity.</text>
+            </sentence>
+            <sentence>
+                <offset>1287</offset>
+                <text>Treatment is still ongoing, and his recent annual growth velocity was 5.95 cm/year (0.65 SDS).</text>
+            </sentence>
+            <sentence>
+                <offset>1382</offset>
+                <text>Following treatment period, his height SDS was decreased to −2.76.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

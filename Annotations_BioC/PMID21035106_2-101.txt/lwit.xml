@@ -1,0 +1,203 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The patient in family 2 (individual 2-101; IV-1 in Figure 1C) is a female aged 9 years, the only affected child of first-cousin parents.</text>
+            </sentence>
+            <sentence>
+                <offset>137</offset>
+                <text>She was born at term with a birth weight of 2800 g.</text>
+            </sentence>
+            <sentence>
+                <offset>189</offset>
+                <text>Her initial developmental skills were within the normal limits, with walking and starting to talk at around 15 months of age.</text>
+            </sentence>
+            <sentence>
+                <offset>315</offset>
+                <text>Her height, weight, and head circumference at 9 years of age were 124.5 cm (10th centile), 25 kg (25th centile), and 51 cm (25th centile), respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>468</offset>
+                <text>Her interpupillar, outer, and inner canthal distances and palpebral fissure lengths were 55 mm (75th centile) and 10 cm (&gt;97th centile) and 41 mm (&gt;95th centile) and 29 mm (between the 50th and 75th centiles), respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>692</offset>
+                <text>The clinical phenotype included highly arched eyebrows, telecanthus, high nasal bridge, blepharoptosis, epicanthus inversus, limited upward gaze, downslanting palpebral fissures, ectropion of lateral third of lower eyelids, synophyris, downturned corners of the mouth, slightly bifid nasal tip, supraumbilical depression, short and tapering fingers with fifth finger clinodactyly, coccygeal skin appendage with a deep groove (Figure 1A), and syndactyly between the second and third toes in the right side.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002553</infon>
+                    <location length="22" offset="32"/>
+                    <text>highly arched eyebrows</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000506</infon>
+                    <location length="11" offset="56"/>
+                    <text>telecanthus</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000426</infon>
+                    <location length="17" offset="69"/>
+                    <text>high nasal bridge</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000508</infon>
+                    <location length="14" offset="88"/>
+                    <text>blepharoptosis</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000537</infon>
+                    <location length="19" offset="104"/>
+                    <text>epicanthus inversus</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000496</infon>
+                    <location length="19" offset="125"/>
+                    <text>limited upward gaze</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000494</infon>
+                    <location length="31" offset="146"/>
+                    <text>downslanting palpebral fissures</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000656</infon>
+                    <location length="9" offset="179"/>
+                    <text>ectropion</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000664</infon>
+                    <infon key="Comment">! Typo</infon>
+                    <location length="10" offset="224"/>
+                    <text>synophyris</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002714</infon>
+                    <location length="31" offset="236"/>
+                    <text>downturned corners of the mouth</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000456</infon>
+                    <location length="15" offset="278"/>
+                    <text>bifid nasal tip</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="25" offset="295"/>
+                    <text>supraumbilical depression</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="322"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001182</infon>
+                    <location length="16" offset="332"/>
+                    <text>tapering fingers</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="341"/>
+                    <text>fingers</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004209</infon>
+                    <location length="25" offset="354"/>
+                    <text>fifth finger clinodactyly</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002825</infon>
+                    <location length="24" offset="381"/>
+                    <text>coccygeal skin appendage</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="442"/>
+                    <text>syndactyly</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="21" offset="465"/>
+                    <text>second and third toes</text>
+                </annotation>
+                <relation id="14">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009381</infon>
+                    <node refid="15" role="source"/>
+                    <node refid="13" role="target"/>
+                </relation>
+                <relation id="20">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004691</infon>
+                    <node refid="21" role="source"/>
+                    <node refid="19" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1198</offset>
+                <text>She was found to have mild mental retardation (full-scale IQ was 54).</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001249</infon>
+                    <location length="18" offset="27"/>
+                    <text>mental retardation</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1268</offset>
+                <text>Pure tone audiogram was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1300</offset>
+                <text>Abdominal ultrasound showed fused cross ectopia of the left kidney.</text>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="19" offset="28"/>
+                    <text>fused cross ectopia</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="60"/>
+                    <text>kidney</text>
+                </annotation>
+                <relation id="24">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004736</infon>
+                    <node refid="25" role="source"/>
+                    <node refid="23" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1368</offset>
+                <text>Echocardiography showed small patent ductus arteriosus at 9 years of age.</text>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001643</infon>
+                    <location length="24" offset="30"/>
+                    <text>patent ductus arteriosus</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

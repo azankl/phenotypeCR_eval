@@ -1,0 +1,44 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The elder sister came to our attention at 8.4 years of age with short stature: her height was 92 cm (−6 SD) with markedly short upper and lower extremities.</text>
+            </sentence>
+            <sentence>
+                <offset>157</offset>
+                <text>The proband was born after a normal, full-term pregnancy of healthy Vietnamese parents with the length of 50 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>270</offset>
+                <text>She exhibits extremely short and broad fingers and toes, and both great toes were larger than her other toes.</text>
+            </sentence>
+            <sentence>
+                <offset>380</offset>
+                <text>Her facial appearance and cognitive function are normal (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>448</offset>
+                <text>Radiographic results demonstrated short tubular bones of arms and legs without any missing or fused bones.</text>
+            </sentence>
+            <sentence>
+                <offset>555</offset>
+                <text>Arm X-ray revealed bowing pattern of the radius, comparably equal length of the ulna and radius and no dislocation of the radial head.</text>
+            </sentence>
+            <sentence>
+                <offset>690</offset>
+                <text>The metacarpals and phalanges of the hands were short and broad with cone-shaped epiphyses, especially in the proximal phalanges.</text>
+            </sentence>
+            <sentence>
+                <offset>820</offset>
+                <text>Similar patterns were observed in the metatarsals and phalanges of toes, especially in the bones of the great toes which were notably larger than other toes (Figure 2).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

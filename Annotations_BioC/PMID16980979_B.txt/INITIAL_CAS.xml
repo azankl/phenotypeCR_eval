@@ -1,0 +1,64 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This male patient had an unremarkable family history and was diagnosed with CMD at the age of 24 years.</text>
+            </sentence>
+            <sentence>
+                <offset>104</offset>
+                <text>Unilateral facial palsy was detected at age 2 months.</text>
+            </sentence>
+            <sentence>
+                <offset>158</offset>
+                <text>During childhood, he came to medical attention because of macrocephaly.</text>
+            </sentence>
+            <sentence>
+                <offset>230</offset>
+                <text>He had orthodontic braces because of crowding of teeth, with suboptimal effect.</text>
+            </sentence>
+            <sentence>
+                <offset>310</offset>
+                <text>At the age of 23 years, he presented with a progressive conductive and sensorineural hearing loss, mainly of the high tones and more pronounced on the left side.</text>
+            </sentence>
+            <sentence>
+                <offset>472</offset>
+                <text>He had no nasal obstruction and he stated that his smell sensation was intact.</text>
+            </sentence>
+            <sentence>
+                <offset>551</offset>
+                <text>Fundoscopy showed no signs of optic nerve atrophy.</text>
+            </sentence>
+            <sentence>
+                <offset>602</offset>
+                <text>A CT scan of the os petrosum showed reduced pneumatization of the mastoid and diffuse hyperostosis and sclerosis of the skull base (Fig. 2d).</text>
+            </sentence>
+            <sentence>
+                <offset>744</offset>
+                <text>In contrast, plain radiography showed only mild cranial involvement, but did show tubular remodeling and widened metaphyses of the long bones (Fig. 1d–f).</text>
+            </sentence>
+            <sentence>
+                <offset>899</offset>
+                <text>Paranasal bossing, apparent hypertelorism, and prognathism were evident.</text>
+            </sentence>
+            <sentence>
+                <offset>972</offset>
+                <text>His height was 185 cm (75th–90th centile) (father: 176 cm (25th–50th centile); mother: 172 cm (75th–90th centile)) and skull circumference 62 cm (&gt;97th centile) (father: 60.5 cm (90th–97th centile); mother: 57 cm (75th–90th centile)).</text>
+            </sentence>
+            <sentence>
+                <offset>1207</offset>
+                <text>Lateral deviation of the distal phalanges of his third fingers and medial deviation of the distal phalanges of his fourth fingers were noted.</text>
+            </sentence>
+            <sentence>
+                <offset>1349</offset>
+                <text>He graduated from university in mathematics and chemistry.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

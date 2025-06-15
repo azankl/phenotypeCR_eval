@@ -1,0 +1,92 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This 19-month-old male patient was born at term to an 18-year-old primigravida and is the only child of nonconsanguineous parents.</text>
+            </sentence>
+            <sentence>
+                <offset>131</offset>
+                <text>The pregnancy was complicated by lack of prenatal care.</text>
+            </sentence>
+            <sentence>
+                <offset>187</offset>
+                <text>He was born full term by C-section due to failure to progress.</text>
+            </sentence>
+            <sentence>
+                <offset>250</offset>
+                <text>Birth weight was 2.86 kg (8th percentile) and birth length was unknown.</text>
+            </sentence>
+            <sentence>
+                <offset>322</offset>
+                <text>He presented at age two months with concerns for metopic craniosynostosis and growth failure with chronic constipation.</text>
+            </sentence>
+            <sentence>
+                <offset>442</offset>
+                <text>Physical exam revealed length of 54.2 cm (&lt;1.0 percentile), weight of 4.385 kg (&lt;1.0 percentile) and a head circumference of 38.5 cm (12th percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>594</offset>
+                <text>He was noted to have trigonoencephaly and scaphencephaly with a right lateral hair whorl.</text>
+            </sentence>
+            <sentence>
+                <offset>684</offset>
+                <text>Facial findings included midfacial retrusion with prominence of the lower face, prominent eyes with shallow orbits, epicanthal folds with possible epicanthus inversus, low set and posteriorly rotated ears, depressed nasal bridge, short and upturned nose and full lips with eversion of the lower lip (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>995</offset>
+                <text>Hands and fingers appeared normal, with exception of bilaterally short thumbs.</text>
+            </sentence>
+            <sentence>
+                <offset>1074</offset>
+                <text>Two small (&lt;5.0 mm) café au lait macules were noted on the abdomen.</text>
+            </sentence>
+            <sentence>
+                <offset>1142</offset>
+                <text>Hypotonia was present.</text>
+            </sentence>
+            <sentence>
+                <offset>1169</offset>
+                <text>At 11 months, he underwent cranial vault remodeling given metopic craniosynostosis confirmed by computerized tomography.</text>
+            </sentence>
+            <sentence>
+                <offset>1290</offset>
+                <text>He presented for follow up evaluation at age 19 months of age, when developmental delay was noted.</text>
+            </sentence>
+            <sentence>
+                <offset>1389</offset>
+                <text>He sat unassisted at age 7.5 months, pulled to stand at 17 months, and was not yet walking at 19 months.</text>
+            </sentence>
+            <sentence>
+                <offset>1494</offset>
+                <text>His first words were at 12 months of age.</text>
+            </sentence>
+            <sentence>
+                <offset>1536</offset>
+                <text>At 19 months of age, he had approximately 10 words and a few signs.</text>
+            </sentence>
+            <sentence>
+                <offset>1604</offset>
+                <text>He was receiving physical and occupational therapies.</text>
+            </sentence>
+            <sentence>
+                <offset>1658</offset>
+                <text>Physical exam showed mild residual trigonocephaly with bitemporal narrowing, coarse hair texture and slightly coarse facial features with midfacial retrusion, hooded eyelids with continued epicanthus inversus, arched eyebrows with periorbital fullness, and a flattened nasal bridge with wide nasal base.</text>
+            </sentence>
+            <sentence>
+                <offset>1962</offset>
+                <text>His hands were noted to be small, with mild brachydactyly with especially short terminal phalanges.</text>
+            </sentence>
+            <sentence>
+                <offset>2062</offset>
+                <text>His toenails appeared small.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

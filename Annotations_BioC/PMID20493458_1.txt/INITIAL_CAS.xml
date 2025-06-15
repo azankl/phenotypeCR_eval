@@ -1,0 +1,56 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 1, an 8-year-old girl, was the first child of healthy parents who were distantly related.</text>
+            </sentence>
+            <sentence>
+                <offset>98</offset>
+                <text>She was born at term after an uncomplicated pregnancy with a birth weight of 3.6 kg (50th centile), body length of 57 cm (97th centile), head circumference (OFC) of 35 cm (50th centile), and chest circumference of 34 cm (50th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>334</offset>
+                <text>Dysmorphic signs noticed at birth comprised short limbs, protuberant abdomen, brachydactyly, dolichcephaly, high forehead, prominent auricles, full cheeks, telecanthus, broad nasal bridge, and low-set prominent ears.</text>
+            </sentence>
+            <sentence>
+                <offset>551</offset>
+                <text>Clinical examinations revealed additional ectodermal abnormalities such as small and abnormally shaped teeth, sparse hair, skin laxity, and abnormal nails, and she had bilateral inguinal hernias (Figure 1A and Table 1).</text>
+            </sentence>
+            <sentence>
+                <offset>771</offset>
+                <text>In the first year of life she had frequent respiratory infections.</text>
+            </sentence>
+            <sentence>
+                <offset>838</offset>
+                <text>Signs of renal insufficiency (diminished glomerular filtration rate) were detected for the first time at the age of 4 years.</text>
+            </sentence>
+            <sentence>
+                <offset>963</offset>
+                <text>A renal ultrasound scan showed normal size of both kidneys with decreased corticomedullary differentiation.</text>
+            </sentence>
+            <sentence>
+                <offset>1071</offset>
+                <text>Stage 1 chronic kidney disease due to tubulo-interstitial nephropathy without liver abnormalities was diagnosed.</text>
+            </sentence>
+            <sentence>
+                <offset>1184</offset>
+                <text>At the age of 5 years, she had a weight of 14.5 kg (5th centile), a height of 104 cm (25th centile), and a head circumference of 49.5 cm (50th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>1337</offset>
+                <text>Psychomotor development was normal and ophthalmological analysis revealed no evidence of retinal dystrophy.</text>
+            </sentence>
+            <sentence>
+                <offset>1445</offset>
+                <text>Chromosome analysis showed a normal female karyotype (46, XX).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

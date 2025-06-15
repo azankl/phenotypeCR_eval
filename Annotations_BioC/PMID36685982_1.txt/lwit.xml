@@ -1,0 +1,296 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This three-year-old boy was born at term (38 + 5 weeks) with a birth weight of 3.75 kg to healthy Han-Chinese parents (29 years) of non-consanguineous marriage.</text>
+            </sentence>
+            <sentence>
+                <offset>161</offset>
+                <text>Neither parent has a family history of genetic disease.</text>
+            </sentence>
+            <sentence>
+                <offset>217</offset>
+                <text>At the age of 2 months, his parents found he did not make eye contact.</text>
+            </sentence>
+            <sentence>
+                <offset>288</offset>
+                <text>Subsequently, the boy was diagnosed with cataracts (Figure 1A), nystagmus and undergo binocular lens extraction.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000518</infon>
+                    <location length="9" offset="41"/>
+                    <text>cataracts</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000639</infon>
+                    <location length="9" offset="64"/>
+                    <text>nystagmus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>401</offset>
+                <text>His teeth began to grow at 9 months, and caries developed at 2 years old (Figure 1B).</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000670</infon>
+                    <location length="6" offset="41"/>
+                    <text>caries</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>487</offset>
+                <text>The auricles of both ears were small, and the contour was abnormally folded (Figure 1C), but the hearing was normal.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="4"/>
+                    <text>auricles</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="21"/>
+                    <text>ears</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="31"/>
+                    <text>small</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="58"/>
+                    <text>abnormally folded</text>
+                </annotation>
+                <relation id="7">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008551</infon>
+                    <node refid="4" role="source"/>
+                    <node refid="6" role="target"/>
+                </relation>
+                <relation id="9">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009901</infon>
+                    <node refid="5" role="source"/>
+                    <node refid="8" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>604</offset>
+                <text>He also had mild speech delay and dysarthria.</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000750</infon>
+                    <location length="12" offset="17"/>
+                    <text>speech delay</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001260</infon>
+                    <location length="10" offset="34"/>
+                    <text>dysarthria</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>650</offset>
+                <text>His intelligence and athletic ability were clearly behind his peers.</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="4"/>
+                    <text>intelligence</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="21"/>
+                    <text>athletic ability</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="51"/>
+                    <text>behind</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="51"/>
+                    <text>behind</text>
+                </annotation>
+                <relation id="15">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100543</infon>
+                    <node refid="12" role="source"/>
+                    <node refid="14" role="target"/>
+                </relation>
+                <relation id="17">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001270</infon>
+                    <node refid="13" role="source"/>
+                    <node refid="16" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>719</offset>
+                <text>He had problems with cognitive functioning, such as attention and learning.</text>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="7"/>
+                    <text>problems</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="7"/>
+                    <text>problems</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="52"/>
+                    <text>attention</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="66"/>
+                    <text>learning</text>
+                </annotation>
+                <relation id="20">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_5200044</infon>
+                    <node refid="21" role="source"/>
+                    <node refid="19" role="target"/>
+                </relation>
+                <relation id="22">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001328</infon>
+                    <node refid="23" role="source"/>
+                    <node refid="18" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>795</offset>
+                <text>But the Magnetic resonance imaging (MRI) at aged 2 years did not find any impairment.</text>
+            </sentence>
+            <sentence>
+                <offset>881</offset>
+                <text>He started to stand without support at 15 months and walked without assistance at 18 months.</text>
+            </sentence>
+            <sentence>
+                <offset>974</offset>
+                <text>His balance function and posture stability were also not good.</text>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="4"/>
+                    <text>balance function</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="25"/>
+                    <text>posture stability</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="53"/>
+                    <text>not good</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="53"/>
+                    <text>not good</text>
+                </annotation>
+                <relation id="28">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002172</infon>
+                    <node refid="25" role="source"/>
+                    <node refid="26" role="target"/>
+                </relation>
+                <relation id="29">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002172</infon>
+                    <node refid="24" role="source"/>
+                    <node refid="27" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1037</offset>
+                <text>The X-ray at 2 years suggested knee valgus (Figure 1D), small, irregular and cracked femoral epiphyseal ossification center (Figure 1E).</text>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002857</infon>
+                    <location length="11" offset="31"/>
+                    <text>knee valgus</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="56"/>
+                    <text>small</text>
+                </annotation>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="63"/>
+                    <text>irregular</text>
+                </annotation>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="38" offset="85"/>
+                    <text>femoral epiphyseal ossification center</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="38" offset="85"/>
+                    <text>femoral epiphyseal ossification center</text>
+                </annotation>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0041189</infon>
+                    <location length="38" offset="85"/>
+                    <text>femoral epiphyseal ossification center</text>
+                </annotation>
+                <relation id="32">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003090</infon>
+                    <node refid="33" role="source"/>
+                    <node refid="31" role="target"/>
+                </relation>
+                <relation id="35">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006361</infon>
+                    <node refid="36" role="source"/>
+                    <node refid="34" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1174</offset>
+                <text>Routine hematologic and biochemical tests were within the normal range except the high levels of total cholesterol (7.97 mmol/L) and low-density lipoprotein (4.94 mmol/L).</text>
+                <annotation id="38">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="32" offset="82"/>
+                    <text>high levels of total cholesterol</text>
+                </annotation>
+                <annotation id="41">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003124</infon>
+                    <location length="11" offset="82"/>
+                    <text>high levels</text>
+                </annotation>
+                <annotation id="40">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="23" offset="133"/>
+                    <text>low-density lipoprotein</text>
+                </annotation>
+                <relation id="39">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003141</infon>
+                    <node refid="40" role="source"/>
+                    <node refid="38" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1346</offset>
+                <text>At present, he started to receive comprehensive rehabilitation–physical, occupational, and speech-language therapies.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

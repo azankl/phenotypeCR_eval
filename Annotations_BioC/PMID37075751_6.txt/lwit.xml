@@ -1,0 +1,78 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 6 is a 10-year-old female with multiple congenital anomalies: choanal atresia requiring surgical repair, hydrocephalus with C0/C1 stenosis treated with ventriculocisternostomy, and cleft palate.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000453</infon>
+                    <location length="15" offset="73"/>
+                    <text>choanal atresia</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000238</infon>
+                    <location length="13" offset="116"/>
+                    <text>hydrocephalus</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008445</infon>
+                    <location length="14" offset="135"/>
+                    <text>C0/C1 stenosis</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <location length="12" offset="192"/>
+                    <text>cleft palate</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>206</offset>
+                <text>She was noted to have hypertelorism, low-set ears, and micrognathia.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="22"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000369</infon>
+                    <location length="12" offset="37"/>
+                    <text>low-set ears</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000347</infon>
+                    <location length="12" offset="55"/>
+                    <text>micrognathia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>275</offset>
+                <text>She had a normal echocardiogram.</text>
+            </sentence>
+            <sentence>
+                <offset>308</offset>
+                <text>At age 10.3 years, her head circumference is 55.5 cm (+2 SD), height is 134 cm (-0.6 SD), and weight is 31 kg (-0.31 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>430</offset>
+                <text>Clinical exome sequencing identified a maternally inherited missense variant in POLR1A c.1442G&gt;A; p.</text>
+            </sentence>
+            <sentence>
+                <offset>530</offset>
+                <text>(Arg481Lys).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,162 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 61 was a 21-year-old man with clinically unaffected parents and sister.</text>
+            </sentence>
+            <sentence>
+                <offset>81</offset>
+                <text>He was born at term, but pregnancy was complicated by oligohydramnios.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001562</infon>
+                    <location length="15" offset="54"/>
+                    <text>oligohydramnios</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>152</offset>
+                <text>His birth weight and length medical records were not available.</text>
+            </sentence>
+            <sentence>
+                <offset>216</offset>
+                <text>The diagnosis of AAS was made on a clinical basis in childhood as he revealed a dysmorphic facial appearance, shawl scrotum and short stature.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001999</infon>
+                    <location length="28" offset="80"/>
+                    <text>dysmorphic facial appearance</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000049</infon>
+                    <location length="13" offset="110"/>
+                    <text>shawl scrotum</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004322</infon>
+                    <location length="13" offset="128"/>
+                    <text>short stature</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>359</offset>
+                <text>His adult height was 163 cm (3rd percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>405</offset>
+                <text>He presented hypertelorism (inner canthal distance 3.9 cm; &gt;97th percentile – outer canthal distance 11.5 cm; &gt;97th percentile), left palpebral ptosis and strabismus, a short neck, camptodactyly and brachydactyly.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="13"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000508</infon>
+                    <location length="16" offset="134"/>
+                    <text>palpebral ptosis</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000486</infon>
+                    <location length="10" offset="155"/>
+                    <text>strabismus</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000470</infon>
+                    <location length="10" offset="169"/>
+                    <text>short neck</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012385</infon>
+                    <location length="13" offset="181"/>
+                    <text>camptodactyly</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001156</infon>
+                    <location length="13" offset="199"/>
+                    <text>brachydactyly</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>619</offset>
+                <text>Attention and behavioural difficulties were reported during school age, while difficulties with organisational skills and social interaction became evident in adulthood.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="0"/>
+                    <text>Attention</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000708</infon>
+                    <location length="24" offset="14"/>
+                    <text>behavioural difficulties</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="26"/>
+                    <text>difficulties</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="78"/>
+                    <text>difficulties</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="78"/>
+                    <text>difficulties</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="21" offset="96"/>
+                    <text>organisational skills</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="18" offset="122"/>
+                    <text>social interaction</text>
+                </annotation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_5200044</infon>
+                    <node refid="13" role="source"/>
+                    <node refid="11" role="target"/>
+                </relation>
+                <relation id="17">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0033056</infon>
+                    <node refid="18" role="source"/>
+                    <node refid="15" role="target"/>
+                </relation>
+                <relation id="19">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000735</infon>
+                    <node refid="20" role="source"/>
+                    <node refid="16" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>789</offset>
+                <text>Molecular investigation revealed a 32 bp deletion mutation (944–975del32; exon 4) that resulted in a frameshift after codon 314 and a predicted premature termination at the codon 325.</text>
+            </sentence>
+            <sentence>
+                <offset>973</offset>
+                <text>Also, this mutation most probably arose de novo as it was not present in his mother and sister.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,64 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Case 2 is a male infant born at 37 weeks' gestation via normal spontaneous vaginal delivery following an uncomplicated pregnancy to a 33-year-old gravida 4, para 3, aborta 1 mother and a 32-year-old father.</text>
+            </sentence>
+            <sentence>
+                <offset>207</offset>
+                <text>The mother worked in a factory during pregnancy but reported avoidance of chemical exposure.</text>
+            </sentence>
+            <sentence>
+                <offset>300</offset>
+                <text>The baby's birth weight was 7 lb. 3 oz (3267 gm), and at delivery the apparent absence of clavicles and bony calvarium was noted.</text>
+            </sentence>
+            <sentence>
+                <offset>430</offset>
+                <text>There was moderate micrognathia and a high palatal vault.</text>
+            </sentence>
+            <sentence>
+                <offset>488</offset>
+                <text>Upper airway obstruction and retractions occurred when the infant was placed supine, and oxygen supplementation was necessary.</text>
+            </sentence>
+            <sentence>
+                <offset>615</offset>
+                <text>Skull radiographs at 3 days of age showed a lack of parietal bone ossification.</text>
+            </sentence>
+            <sentence>
+                <offset>695</offset>
+                <text>Radiographs showed complete aplasia of the clavicles bilaterally, decreased ossification of the pubic bones, and shortened 11th and absent 12th ribs.</text>
+            </sentence>
+            <sentence>
+                <offset>845</offset>
+                <text>At 6 weeks of age he required a tracheostomy for increasing airway obstruction due to micrognathia and glossoptosis, and at 3 months of age tracheomalacia with persistent respiratory distress required treatment with continuous positive airway pressure (CPAP).</text>
+            </sentence>
+            <sentence>
+                <offset>1105</offset>
+                <text>A Nissen fundoplication was done and a gastrostomy tube was inserted for treatment of gastroesophageal reflux and aspiration of oral feedings.</text>
+            </sentence>
+            <sentence>
+                <offset>1248</offset>
+                <text>His respiratory status gradually improved, allowing decannulation at age 18 months, but he has continued to have poor oral motor skills and requires nutritional supplementation by gastrostomy tube at age 3½ years.</text>
+            </sentence>
+            <sentence>
+                <offset>1462</offset>
+                <text>His growth parameters are normal, with weight in the 25th percentile, and height and head circumference in the 50th percentiles.</text>
+            </sentence>
+            <sentence>
+                <offset>1591</offset>
+                <text>Developmental milestones have been normal, and at age 3 years normal language and cognitive development have been documented.</text>
+            </sentence>
+            <sentence>
+                <offset>1717</offset>
+                <text>A 3D CT scan at age 3 years demonstrated widened sutures and Wormian bones in the position of the right parietal bone (Fig. 1).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

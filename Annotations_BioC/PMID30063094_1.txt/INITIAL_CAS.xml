@@ -1,0 +1,56 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>She is the first child of non-consanguineous healthy Thai parents.</text>
+            </sentence>
+            <sentence>
+                <offset>67</offset>
+                <text>The pregnancy was unremarkable and she was born without complications at 38 weeks of gestation with a birth weight of 3,260 g (50th centile) and Apgar scores of 10 and 10.</text>
+            </sentence>
+            <sentence>
+                <offset>239</offset>
+                <text>At eight months of age, she was referred due to deformities of her extremities, difficulty sitting up, and gross motor delay (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>376</offset>
+                <text>Her weight was 5,900 g (&lt; 3rd centile); length 59 cm (&lt; 3rd centile); and head circumference 41 cm (10–25th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>494</offset>
+                <text>On physical exam, she had marked limb deformities, bluish sclerae, depressed nasal bridge, broad face, angulated ankles, broad fingers and toes, and relatively long fingers.</text>
+            </sentence>
+            <sentence>
+                <offset>668</offset>
+                <text>The deformed limbs were not tender or swollen.</text>
+            </sentence>
+            <sentence>
+                <offset>715</offset>
+                <text>Dentinogenesis imperfecta was absent (Figure 1f).</text>
+            </sentence>
+            <sentence>
+                <offset>765</offset>
+                <text>On skeletal survey, she had generalized osteopenia, numerous deformities of the long bones with flaring, sclerosis, and irregularity of metaphyses, popcorn epiphyses, and significant angulation at the junction of metaphyses and diaphyses of the forearm and leg bones including ulnae, radii, tibiae, and fibulae (Figure 2a–g).</text>
+            </sentence>
+            <sentence>
+                <offset>1091</offset>
+                <text>She had fractures with callus formation at the metadiaphyseal junctions of the ulnae and right humerus and vertebral compression fractures (Figure 2h, i).</text>
+            </sentence>
+            <sentence>
+                <offset>1246</offset>
+                <text>She had an open anterior fontanelle (2 × 3 cm) and a closed posterior fontanelle.</text>
+            </sentence>
+            <sentence>
+                <offset>1328</offset>
+                <text>Wormian bones and hydrocephalus were not detected via radiological studies</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

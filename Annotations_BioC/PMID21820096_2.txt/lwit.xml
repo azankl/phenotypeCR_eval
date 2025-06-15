@@ -1,0 +1,284 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 2 is a 3.5-year-old girl, the second child to healthy first-cousin Arab parents (Figure 1C).</text>
+            </sentence>
+            <sentence>
+                <offset>104</offset>
+                <text>She was referred for evaluation of congenital deformity of the hands and feet.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005922</infon>
+                    <location length="22" offset="46"/>
+                    <text>deformity of the hands</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="46"/>
+                    <text>deformity</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="73"/>
+                    <text>feet</text>
+                </annotation>
+                <relation id="3">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001760</infon>
+                    <node refid="4" role="source"/>
+                    <node refid="2" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>183</offset>
+                <text>Family history is negative.</text>
+            </sentence>
+            <sentence>
+                <offset>211</offset>
+                <text>There was history of oligohydramnios and decreased fetal movement during pregnancy.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001562</infon>
+                    <location length="15" offset="21"/>
+                    <text>oligohydramnios</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>295</offset>
+                <text>At birth, she was noted to have terminal-reduction defects of her hands and feet and cutis aplasia of the scalp.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="26" offset="32"/>
+                    <text>terminal-reduction defects</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="26" offset="32"/>
+                    <text>terminal-reduction defects</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="66"/>
+                    <text>hands</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="76"/>
+                    <text>feet</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007385</infon>
+                    <location length="26" offset="85"/>
+                    <text>cutis aplasia of the scalp</text>
+                </annotation>
+                <relation id="9">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="6" role="source"/>
+                    <node refid="8" role="target"/>
+                </relation>
+                <relation id="11">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="7" role="source"/>
+                    <node refid="10" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>408</offset>
+                <text>Her development appeared appropriate except for speech delay.</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000750</infon>
+                    <location length="12" offset="48"/>
+                    <text>speech delay</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>470</offset>
+                <text>Her physical examination at 3.5 years revealed microcephaly but normal height and weight.</text>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000252</infon>
+                    <location length="12" offset="47"/>
+                    <text>microcephaly</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>560</offset>
+                <text>There was an area of alopecia with an underlying scar in the scalp.</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001596</infon>
+                    <location length="8" offset="21"/>
+                    <text>alopecia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>628</offset>
+                <text>Finger and toe nails were either absent or severely hypoplastic, as were the distal phalanges, and her hands appeared stubby with distorted creases (Figure 1D).</text>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="15"/>
+                    <text>nails</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="15"/>
+                    <text>nails</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="33"/>
+                    <text>absent</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="33"/>
+                    <text>absent</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="52"/>
+                    <text>hypoplastic</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="52"/>
+                    <text>hypoplastic</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="77"/>
+                    <text>distal phalanges</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="103"/>
+                    <text>hands</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="6" offset="118"/>
+                    <text>stubby</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007477</infon>
+                    <location length="17" offset="130"/>
+                    <text>distorted creases</text>
+                </annotation>
+                <relation id="19">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008386</infon>
+                    <node refid="16" role="source"/>
+                    <node refid="18" role="target"/>
+                </relation>
+                <relation id="22">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008386</infon>
+                    <node refid="17" role="source"/>
+                    <node refid="21" role="target"/>
+                </relation>
+                <relation id="24">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009835</infon>
+                    <node refid="25" role="source"/>
+                    <node refid="23" role="target"/>
+                </relation>
+                <relation id="26">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="20" role="source"/>
+                    <node refid="23" role="target"/>
+                </relation>
+                <relation id="28">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="29" role="source"/>
+                    <node refid="27" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>789</offset>
+                <text>X-rays of the hands and feet revealed hypoplastic middle phalanges and absent distal phalanges.</text>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="14"/>
+                    <text>hands</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="14"/>
+                    <text>hands</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="24"/>
+                    <text>feet</text>
+                </annotation>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="24"/>
+                    <text>feet</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="28" offset="38"/>
+                    <text>hypoplastic middle phalanges</text>
+                </annotation>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="28" offset="38"/>
+                    <text>hypoplastic middle phalanges</text>
+                </annotation>
+                <annotation id="39">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="23" offset="71"/>
+                    <text>absent distal phalanges</text>
+                </annotation>
+                <annotation id="40">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="23" offset="71"/>
+                    <text>absent distal phalanges</text>
+                </annotation>
+                <relation id="37">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010194</infon>
+                    <node refid="33" role="source"/>
+                    <node refid="35" role="target"/>
+                </relation>
+                <relation id="38">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009843</infon>
+                    <node refid="31" role="source"/>
+                    <node refid="36" role="target"/>
+                </relation>
+                <relation id="41">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010185</infon>
+                    <node refid="34" role="source"/>
+                    <node refid="39" role="target"/>
+                </relation>
+                <relation id="42">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009835</infon>
+                    <node refid="32" role="source"/>
+                    <node refid="40" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>885</offset>
+                <text>Echocardiography, EEG, and eye examination were all within normal limits.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

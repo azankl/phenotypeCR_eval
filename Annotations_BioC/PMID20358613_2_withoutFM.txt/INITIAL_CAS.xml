@@ -1,0 +1,72 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 2 (V-3) is a relative of Patient 1 (Fig. 1A) and is the second child of healthy consanguineous parents from Mayotte Island.</text>
+            </sentence>
+            <sentence>
+                <offset>133</offset>
+                <text>The birth parameters of Patient 2 were unknown.</text>
+            </sentence>
+            <sentence>
+                <offset>181</offset>
+                <text>At 8 months of age, his weight was 7.3 kg (25th centile), his height was 68 cm (10th centile), and head circumference was 43 cm (25th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>325</offset>
+                <text>He presented turricephaly with craniosynostosis of all sutures.</text>
+            </sentence>
+            <sentence>
+                <offset>389</offset>
+                <text>Dysmorphic features included a prominent metopic ridge, a flat nasal bridge, epicanthic folds, hypertelorism, ocular proptosis, low set ears, mandibular hypoplasia, high palate, polysyndactyly of hands and feet (Fig. 2A), and genu valgum.</text>
+            </sentence>
+            <sentence>
+                <offset>628</offset>
+                <text>Bilateral microcornea and corneal opacities were noted.</text>
+            </sentence>
+            <sentence>
+                <offset>684</offset>
+                <text>Neurologic development was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>719</offset>
+                <text>Radiographs of the hands showed brachydactyly with hypoplasia of the middle phalanges of the fingers (Fig. 2B).</text>
+            </sentence>
+            <sentence>
+                <offset>831</offset>
+                <text>Radiographs of the feet showed broad phalanges of both halluces with bifid distal phalanges, and hypoplasia of the middle phalanges of the second to the fifth toes.</text>
+            </sentence>
+            <sentence>
+                <offset>996</offset>
+                <text>Abdominal ultrasound and computed tomography (CT) were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1059</offset>
+                <text>Cranial CT revealed bilateral ventriculomegaly.</text>
+            </sentence>
+            <sentence>
+                <offset>1107</offset>
+                <text>Cytogenetic study of peripheral lymphocytes was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1163</offset>
+                <text>He had a patent ductus arteriosus which was closed percutaneously at 11 months of age and at 1 year of age, cranioplasty was performed.</text>
+            </sentence>
+            <sentence>
+                <offset>1299</offset>
+                <text>At 13 months of age, surgery was performed on each hand to remove the extra postaxial digits and to correct the syndactyly.</text>
+            </sentence>
+            <sentence>
+                <offset>1423</offset>
+                <text>At 4 years of age, weight and height were in the normal range and his head circumference was 47 cm (10th centile).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

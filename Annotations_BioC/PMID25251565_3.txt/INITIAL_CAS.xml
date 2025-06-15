@@ -1,0 +1,28 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The 34-year-old paternal uncle of the index patient had a mild acrocephaly, long philtrum, long ears with prominence of the upper one-third of the lobes.</text>
+            </sentence>
+            <sentence>
+                <offset>154</offset>
+                <text>No abnormalities of the upper limbs were seen.</text>
+            </sentence>
+            <sentence>
+                <offset>201</offset>
+                <text>His feet and the great toes were broad, and bilateral, partial 2/3 cutaneous syndactyly was observed (Fig. 2E–H).</text>
+            </sentence>
+            <sentence>
+                <offset>315</offset>
+                <text>He has one healthy daughter.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

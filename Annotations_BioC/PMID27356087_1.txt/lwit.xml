@@ -1,0 +1,238 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 1 (Fig. 2A) is an 18-year-old woman from Pakistan who was born with a bilateral cleft lip and palate deformity and a less severe form of the deformity in relationship to her younger sister.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0410030</infon>
+                    <location length="9" offset="88"/>
+                    <text>cleft lip</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="88"/>
+                    <text>cleft</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="102"/>
+                    <text>palate</text>
+                </annotation>
+                <relation id="3">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <node refid="4" role="source"/>
+                    <node refid="2" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>198</offset>
+                <text>The bilateral cleft lip and palate was repaired before she was 1 year old, and she received an alveolar bone graft at the age of 12.5 years.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0410030</infon>
+                    <location length="9" offset="14"/>
+                    <text>cleft lip</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="14"/>
+                    <text>cleft</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="28"/>
+                    <text>palate</text>
+                </annotation>
+                <relation id="7">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <node refid="8" role="source"/>
+                    <node refid="6" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>339</offset>
+                <text>She is hyperteloric and has narrow palpebral fissures, epicanthal folds, and high arched and flared eyebrows.</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="12" offset="7"/>
+                    <text>hyperteloric</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0045025</infon>
+                    <location length="25" offset="28"/>
+                    <text>narrow palpebral fissures</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000286</infon>
+                    <location length="16" offset="55"/>
+                    <text>epicanthal folds</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="77"/>
+                    <text>high arched</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011229</infon>
+                    <location length="15" offset="93"/>
+                    <text>flared eyebrows</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="100"/>
+                    <text>eyebrows</text>
+                </annotation>
+                <relation id="13">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002553</infon>
+                    <node refid="14" role="source"/>
+                    <node refid="12" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>449</offset>
+                <text>She wears glasses and is near sighted.</text>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000545</infon>
+                    <location length="12" offset="25"/>
+                    <text>near sighted</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>488</offset>
+                <text>She has a scarred prolabial segment with a tightly adherent upper lip and a central notch of the upper lip.</text>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000288</infon>
+                    <location length="25" offset="10"/>
+                    <text>scarred prolabial segment</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="26" offset="43"/>
+                    <text>tightly adherent upper lip</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="30" offset="76"/>
+                    <text>central notch of the upper lip</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>596</offset>
+                <text>There is a residual stepoff with a wide philtrum.</text>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000289</infon>
+                    <location length="13" offset="35"/>
+                    <text>wide philtrum</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>646</offset>
+                <text>She also has a mild beaking deformity of her nose but is otherwise fairly symmetric.</text>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="20"/>
+                    <text>beaking</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="45"/>
+                    <text>nose</text>
+                </annotation>
+                <relation id="22">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000444</infon>
+                    <node refid="23" role="source"/>
+                    <node refid="21" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>731</offset>
+                <text>She has had revision performed of the nasal deformity whereby the columella was lengthened.</text>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005105</infon>
+                    <location length="15" offset="38"/>
+                    <text>nasal deformity</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>823</offset>
+                <text>Her maxillary arch is collapsed, and a crossbite is present.</text>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="4"/>
+                    <text>maxillary arch</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="22"/>
+                    <text>collapsed</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000689</infon>
+                    <location length="9" offset="39"/>
+                    <text>crossbite</text>
+                </annotation>
+                <relation id="27">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000326</infon>
+                    <node refid="25" role="source"/>
+                    <node refid="26" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>884</offset>
+                <text>She has braces in place for dental crowding.</text>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000678</infon>
+                    <location length="15" offset="28"/>
+                    <text>dental crowding</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>929</offset>
+                <text>Her palate is now repaired and rises symmetrically in the midline, and she has excellent speech.</text>
+            </sentence>
+            <sentence>
+                <offset>1026</offset>
+                <text>She does have cleft alveoli.</text>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010289</infon>
+                    <location length="13" offset="14"/>
+                    <text>cleft alveoli</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1055</offset>
+                <text>The patient is in the 12th grade in general education and earns A grades.</text>
+            </sentence>
+            <sentence>
+                <offset>1129</offset>
+                <text>She has passed the state high school exit exam and plans to attend college.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

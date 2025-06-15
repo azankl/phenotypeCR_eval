@@ -1,0 +1,112 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 4 was a 23-month-old boy.</text>
+            </sentence>
+            <sentence>
+                <offset>35</offset>
+                <text>Intrauterine growth retardation was noticed during pregnancy.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001511</infon>
+                    <location length="31" offset="0"/>
+                    <text>Intrauterine growth retardation</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>97</offset>
+                <text>He had asphyxia neonatorum after birth, and his birth length was 43 cm and birth weight 3100 g.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012768</infon>
+                    <location length="19" offset="7"/>
+                    <text>asphyxia neonatorum</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>193</offset>
+                <text>Gesell Developmental Test revealed a severe developmental delay (Motor: moderate; Language: low normal; Adaptive: severe; Personal-social: severe).</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001263</infon>
+                    <location length="19" offset="44"/>
+                    <text>developmental delay</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>341</offset>
+                <text>Distinctive facial features included macrocephaly (HC = 52 cm, + 3SD), Triangular face, presence of lower eyelid fat pads, pointed chin, wide palpebral fissures, upturned nose and low nasal bridge.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000256</infon>
+                    <location length="12" offset="37"/>
+                    <text>macrocephaly</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000325</infon>
+                    <location length="15" offset="71"/>
+                    <text>Triangular face</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001114</infon>
+                    <location length="21" offset="100"/>
+                    <text>lower eyelid fat pads</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000307</infon>
+                    <location length="12" offset="123"/>
+                    <text>pointed chin</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000637</infon>
+                    <location length="23" offset="137"/>
+                    <text>wide palpebral fissures</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000463</infon>
+                    <location length="13" offset="162"/>
+                    <text>upturned nose</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005280</infon>
+                    <location length="16" offset="180"/>
+                    <text>low nasal bridge</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>539</offset>
+                <text>Skeletal finding included pectus carinatum and pes planus.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000768</infon>
+                    <location length="16" offset="26"/>
+                    <text>pectus carinatum</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001763</infon>
+                    <location length="10" offset="47"/>
+                    <text>pes planus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>598</offset>
+                <text>His results of intelligence and endocrine evaluation were normal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

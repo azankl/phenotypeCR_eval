@@ -1,0 +1,36 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 3 is presently a 39-year-old male with an adult height of 156.7 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>76</offset>
+                <text>He was first evaluated for mild short stature (height Z-score −2.5 to −2.7) at 6.3 years.</text>
+            </sentence>
+            <sentence>
+                <offset>166</offset>
+                <text>Bone age was delayed (5 years) and the very mild metaphyseal irregularities were regarded normal.</text>
+            </sentence>
+            <sentence>
+                <offset>264</offset>
+                <text>At 14 years, his height Z-score was −1.6 but pubertal growth spurt was subnormal resulting in short stature by adulthood (Z-score −3.3).</text>
+            </sentence>
+            <sentence>
+                <offset>401</offset>
+                <text>The diagnosis of CHH was made at 8 years.</text>
+            </sentence>
+            <sentence>
+                <offset>443</offset>
+                <text>During the first years of life, he had recurrent otitis media but no other infections since then except for rare mild URTIs.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

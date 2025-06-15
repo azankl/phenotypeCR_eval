@@ -1,0 +1,68 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 1 (Fig. 2A) is an 18-year-old woman from Pakistan who was born with a bilateral cleft lip and palate deformity and a less severe form of the deformity in relationship to her younger sister.</text>
+            </sentence>
+            <sentence>
+                <offset>198</offset>
+                <text>The bilateral cleft lip and palate was repaired before she was 1 year old, and she received an alveolar bone graft at the age of 12.5 years.</text>
+            </sentence>
+            <sentence>
+                <offset>339</offset>
+                <text>She is hyperteloric and has narrow palpebral fissures, epicanthal folds, and high arched and flared eyebrows.</text>
+            </sentence>
+            <sentence>
+                <offset>449</offset>
+                <text>She wears glasses and is near sighted.</text>
+            </sentence>
+            <sentence>
+                <offset>488</offset>
+                <text>She has a scarred prolabial segment with a tightly adherent upper lip and a central notch of the upper lip.</text>
+            </sentence>
+            <sentence>
+                <offset>596</offset>
+                <text>There is a residual stepoff with a wide philtrum.</text>
+            </sentence>
+            <sentence>
+                <offset>646</offset>
+                <text>She also has a mild beaking deformity of her nose but is otherwise fairly symmetric.</text>
+            </sentence>
+            <sentence>
+                <offset>731</offset>
+                <text>She has had revision performed of the nasal deformity whereby the columella was lengthened.</text>
+            </sentence>
+            <sentence>
+                <offset>823</offset>
+                <text>Her maxillary arch is collapsed, and a crossbite is present.</text>
+            </sentence>
+            <sentence>
+                <offset>884</offset>
+                <text>She has braces in place for dental crowding.</text>
+            </sentence>
+            <sentence>
+                <offset>929</offset>
+                <text>Her palate is now repaired and rises symmetrically in the midline, and she has excellent speech.</text>
+            </sentence>
+            <sentence>
+                <offset>1026</offset>
+                <text>She does have cleft alveoli.</text>
+            </sentence>
+            <sentence>
+                <offset>1055</offset>
+                <text>The patient is in the 12th grade in general education and earns A grades.</text>
+            </sentence>
+            <sentence>
+                <offset>1129</offset>
+                <text>She has passed the state high school exit exam and plans to attend college.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,36 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>BAB5264 is a male born by vaginal delivery at 34 weeks gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>66</offset>
+                <text>Pregnancy was notable for a&#13;
+low-lying placenta and polyhydramnios.</text>
+            </sentence>
+            <sentence>
+                <offset>134</offset>
+                <text>Physical examination at age 2 years and 4 months&#13;
+revealed: Weight: 10.9 kg (3%), Length: 76 cm (-4 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>239</offset>
+                <text>The mother reported the use of ear tubes&#13;
+and hearing aids but we did not have access to any audiologic tests.</text>
+            </sentence>
+            <sentence>
+                <offset>350</offset>
+                <text>He has astigmatism, reflux,&#13;
+and was considered hyperactive.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

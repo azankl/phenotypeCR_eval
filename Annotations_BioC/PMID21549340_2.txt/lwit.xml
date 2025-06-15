@@ -1,0 +1,250 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 was born with short stature, micrognathia and posterior cleft palate (the Pierre Robin sequence), bilateral knee dislocation, and marked lateral deviation of her fifth toes.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004322</infon>
+                    <location length="13" offset="24"/>
+                    <text>short stature</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000347</infon>
+                    <location length="12" offset="39"/>
+                    <text>micrognathia</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <location length="12" offset="66"/>
+                    <text>cleft palate</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000201</infon>
+                    <location length="21" offset="84"/>
+                    <text>Pierre Robin sequence</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004976</infon>
+                    <location length="16" offset="118"/>
+                    <text>knee dislocation</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100346</infon>
+                    <location length="35" offset="147"/>
+                    <text>lateral deviation of her fifth toes</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>184</offset>
+                <text>Her forehead was high, her eyes were prominent, her nose and mouth were small, and her mandible was small (Figures 1A and 1C).</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="4"/>
+                    <text>forehead</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="17"/>
+                    <text>high</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="27"/>
+                    <text>eyes</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="37"/>
+                    <text>prominent</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="52"/>
+                    <text>nose</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="61"/>
+                    <text>mouth</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="72"/>
+                    <text>small</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="72"/>
+                    <text>small</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="87"/>
+                    <text>mandible</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="100"/>
+                    <text>small</text>
+                </annotation>
+                <relation id="9">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000348</infon>
+                    <node refid="7" role="source"/>
+                    <node refid="8" role="target"/>
+                </relation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000520</infon>
+                    <node refid="10" role="source"/>
+                    <node refid="11" role="target"/>
+                </relation>
+                <relation id="17">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000160</infon>
+                    <node refid="14" role="source"/>
+                    <node refid="15" role="target"/>
+                </relation>
+                <relation id="18">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003196</infon>
+                    <node refid="13" role="source"/>
+                    <node refid="16" role="target"/>
+                </relation>
+                <relation id="21">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000347</infon>
+                    <node refid="19" role="source"/>
+                    <node refid="20" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>311</offset>
+                <text>Coronal craniosynostosis was diagnosed at 1 year of age.</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004440</infon>
+                    <location length="24" offset="0"/>
+                    <text>Coronal craniosynostosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>368</offset>
+                <text>Both craniosynostosis and knee dislocations were surgically repaired with various procedures at different ages.</text>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001363</infon>
+                    <location length="16" offset="5"/>
+                    <text>craniosynostosis</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004976</infon>
+                    <location length="17" offset="26"/>
+                    <text>knee dislocations</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>480</offset>
+                <text>There was mild hypoacusis, but speech development was normal.</text>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000365</infon>
+                    <location length="10" offset="15"/>
+                    <text>hypoacusis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>542</offset>
+                <text>Her intellectual development was moderately delayed.</text>
+            </sentence>
+            <sentence>
+                <offset>595</offset>
+                <text>Radiographic findings are shown in Figure 2.</text>
+            </sentence>
+            <sentence>
+                <offset>640</offset>
+                <text>The most significant findings were short metacarpals, irregular size of the metacarpal epiphyses, hamate-capitate fusion, and supernumerary carpal ossification centers (Figure 2B); however, carpal age at birth and in the first two years of life was not accelerated.</text>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010049</infon>
+                    <location length="17" offset="35"/>
+                    <text>short metacarpals</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005913</infon>
+                    <location length="42" offset="54"/>
+                    <text>irregular size of the metacarpal epiphyses</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001241</infon>
+                    <location length="22" offset="98"/>
+                    <text>hamate-capitate fusion</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004288</infon>
+                    <location length="41" offset="126"/>
+                    <text>supernumerary carpal ossification centers</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>906</offset>
+                <text>There was dysplasia of the hip acetabulum and the proximal femoral epiphyses, as well as dislocation of the knees (Figure 2E).</text>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008807</infon>
+                    <location length="31" offset="10"/>
+                    <text>dysplasia of the hip acetabulum</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="10"/>
+                    <text>dysplasia</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="26" offset="50"/>
+                    <text>proximal femoral epiphyses</text>
+                </annotation>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004976</infon>
+                    <location length="24" offset="89"/>
+                    <text>dislocation of the knees</text>
+                </annotation>
+                <relation id="32">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010574</infon>
+                    <node refid="33" role="source"/>
+                    <node refid="31" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1033</offset>
+                <text>A moderate reduction of the intervertebral spaces was observed, but unlike in Desbusquois dysplasia or recessive Larsen syndrome, vertebral clefts were not observed.</text>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002945</infon>
+                    <location length="38" offset="11"/>
+                    <text>reduction of the intervertebral spaces</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

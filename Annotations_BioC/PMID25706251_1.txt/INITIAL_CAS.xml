@@ -1,0 +1,68 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 1 was a 3310 g (90th centile) female infant born to a then 36-year-old G4P2á3 at 37 2/7 weeks gestation via cesarean for breech presentation.</text>
+            </sentence>
+            <sentence>
+                <offset>150</offset>
+                <text>The pregnancy was complicated by prenatal ultrasound demonstrating craniosynostosis and polyhydramnios leading to suspicion for Crouzon syndrome.</text>
+            </sentence>
+            <sentence>
+                <offset>296</offset>
+                <text>At birth, she required immediate intubation.</text>
+            </sentence>
+            <sentence>
+                <offset>341</offset>
+                <text>Physical exam and imaging confirmed pansynostosis resulting in a cloverleaf skull as well as proptosis and shallow orbits.</text>
+            </sentence>
+            <sentence>
+                <offset>464</offset>
+                <text>Cutis gyrata was appreciated on her forehead and in the preauciular regjon (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>549</offset>
+                <text>Postnatal retrospective examination of the prenatal 3D ultrasound images revealed irregularities of the scalp which were similar in appearance to the rugations of her cutis gyrata.</text>
+            </sentence>
+            <sentence>
+                <offset>730</offset>
+                <text>There was also a paucity of scalp hair.</text>
+            </sentence>
+            <sentence>
+                <offset>770</offset>
+                <text>A hemangiomatous skin tag was noted on her chest, as well as, a prominent umbilical stump.</text>
+            </sentence>
+            <sentence>
+                <offset>861</offset>
+                <text>In addition, she had a sacral dimple, rugated labia majora and prominent clitoris.</text>
+            </sentence>
+            <sentence>
+                <offset>944</offset>
+                <text>Based on the physical exam, molecular testing for BSS was sent and otolaryngology, neurosurgery, and plastic surgery consults were requested.</text>
+            </sentence>
+            <sentence>
+                <offset>1086</offset>
+                <text>She received a ventricuoperitoneal shunt on the first day of life due to hydrocephalus.</text>
+            </sentence>
+            <sentence>
+                <offset>1174</offset>
+                <text>Her hospital course was complicated by choanal stenosis and identification of a TCS on direct laryngoscopy/bronchoscopy.</text>
+            </sentence>
+            <sentence>
+                <offset>1295</offset>
+                <text>Based on her poor clinical status with unlikely recovery, care was withdrawn at 8 days of age.</text>
+            </sentence>
+            <sentence>
+                <offset>1390</offset>
+                <text>Thereafter, she was found to have c.1707C&gt;G, resulting in p.Tyr375Cys mutation in FGFR2, which has been previously-reported in BSS.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

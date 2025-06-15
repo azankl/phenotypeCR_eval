@@ -1,0 +1,40 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 16 is a 3-year-old male with hypertelorism, hypotonia, and feeding difficulties requiring gastrostomy tube.</text>
+            </sentence>
+            <sentence>
+                <offset>119</offset>
+                <text>Infantile spasms began at 3 months of age and progressed to multi-drug resistant epilepsy (absence, myoclonic, and generalized tonic-clonic seizures).</text>
+            </sentence>
+            <sentence>
+                <offset>270</offset>
+                <text>Trio exome sequencing identified a de novo variant in POLR1A, c.4685G&gt;T; p.</text>
+            </sentence>
+            <sentence>
+                <offset>345</offset>
+                <text>(Cys1562Phe).</text>
+            </sentence>
+            <sentence>
+                <offset>359</offset>
+                <text>At age 3, he is non-verbal and is unable to sit independently.</text>
+            </sentence>
+            <sentence>
+                <offset>422</offset>
+                <text>His height is 86.7 cm (-2.28 SD) and his head circumference is 46.1 cm (&lt;-2 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>503</offset>
+                <text>He had an MRI which demonstrated peritrigonal high signal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

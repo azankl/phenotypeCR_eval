@@ -1,0 +1,24 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The proband's father (P2) was tall 201 cm (+3.96 SD), he had camptodactyly and hypoplasia of the left second finger, and bilateral clinodactyly of second and third right fingers, with prominent interphalangeal epiphyses (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>232</offset>
+                <text>He had thoracic scoliosis that required spinal surgery at the age of 23.</text>
+            </sentence>
+            <sentence>
+                <offset>305</offset>
+                <text>During childhood he also showed progressive bilateral pantonal sensorineural hearing loss, and he did not have dental anomalies.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

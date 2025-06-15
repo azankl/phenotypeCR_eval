@@ -1,0 +1,614 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿The patient was born at the 38th week of gestation after a scheduled caesarean section.</text>
+            </sentence>
+            <sentence>
+                <offset>89</offset>
+                <text>He had a birth weight of 2930 g, a birth length of 48 cm and a head circumference of 36 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>181</offset>
+                <text>Apgar Scores were 7 and 10 at 1 and 5 min, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>238</offset>
+                <text>At birth, the hands were flexed, and congenital talipes equinovarus and ectopic testis were present.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="14"/>
+                    <text>hands</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="25"/>
+                    <text>flexed</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001762</infon>
+                    <location length="19" offset="48"/>
+                    <text>talipes equinovarus</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term accepted, HP:6000460, https://github.com/obophenotype/human-phenotype-ontology/issues/10352</infon>
+                    <location length="14" offset="72"/>
+                    <text>ectopic testis</text>
+                </annotation>
+                <relation id="3">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001371</infon>
+                    <node refid="1" role="source"/>
+                    <node refid="2" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>339</offset>
+                <text>Treatment for talipes equinovarus was performed by the Ponseti method with good results, and at the age of 9 months, the ectopic testis was surgically corrected.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001762</infon>
+                    <location length="19" offset="14"/>
+                    <text>talipes equinovarus</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term accepted, HP:6000460, https://github.com/obophenotype/human-phenotype-ontology/issues/10352</infon>
+                    <location length="14" offset="121"/>
+                    <text>ectopic testis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>501</offset>
+                <text>All development milestones were reached within a normal range, but growth (ie, weight and length) was poor.</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="67"/>
+                    <text>growth</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="102"/>
+                    <text>poor</text>
+                </annotation>
+                <relation id="9">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001510</infon>
+                    <node refid="10" role="source"/>
+                    <node refid="8" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>610</offset>
+                <text>At the first admission, the patient showed fairly good conditions, with normal social interaction.</text>
+            </sentence>
+            <sentence>
+                <offset>709</offset>
+                <text>At 16 months, his weight was 8.5 kg (3rd percentile), height was 72 cm (&lt;3 SDs) and head circumference was 49 cm (75th percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>841</offset>
+                <text>At 20 months, the patient was 8.6 kg (&lt;3 SDs), 75 cm tall (&lt;3 SDS) and with a head circumference of 49 cm (50th–75th percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>971</offset>
+                <text>At 23 months, his weight was 8.8 kg (&lt;3 SDs), height 80 cm (3rd percentile) and head circumference 49.5 cm (50th percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>1097</offset>
+                <text>At 31 months, his weight was 9 kg (&lt;3 SDs), height 88 cm (25th percentile) and head circumference 50 cm (50th–75th percentile) (figures 3 and 4).</text>
+            </sentence>
+            <sentence>
+                <offset>1244</offset>
+                <text>The craniofacial anomalies were various and appreciable but not defacing and consisted of thin hair, widow’s peak, rounded face, high forehead, con’s lick, chubby cheeks, telecanthus, hypertelorism, ptosis (prevalent in the right eye), downward slanting palpebral fissures, short nose with anteverted nostrils, broad nasal bridge, wide long philtrum, normal palate and small teeth, small mouth with thin lips, underdeveloped maxilla, crease below the lower lip and a low jaw (figure 3).</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000929</infon>
+                    <location length="22" offset="4"/>
+                    <text>craniofacial anomalies</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002213</infon>
+                    <location length="9" offset="90"/>
+                    <text>thin hair</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000349</infon>
+                    <location length="12" offset="101"/>
+                    <text>widow’s peak</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000311</infon>
+                    <location length="12" offset="115"/>
+                    <text>rounded face</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000348</infon>
+                    <location length="13" offset="129"/>
+                    <text>high forehead</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002236</infon>
+                    <infon key="Comment">! Typo</infon>
+                    <location length="10" offset="144"/>
+                    <text>con’s lick</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000293</infon>
+                    <location length="13" offset="156"/>
+                    <text>chubby cheeks</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000506</infon>
+                    <location length="11" offset="171"/>
+                    <text>telecanthus</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="184"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000508</infon>
+                    <location length="6" offset="199"/>
+                    <text>ptosis</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000494</infon>
+                    <location length="36" offset="236"/>
+                    <text>downward slanting palpebral fissures</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003196</infon>
+                    <location length="10" offset="274"/>
+                    <text>short nose</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000463</infon>
+                    <location length="19" offset="290"/>
+                    <text>anteverted nostrils</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000431</infon>
+                    <location length="18" offset="311"/>
+                    <text>broad nasal bridge</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="331"/>
+                    <text>wide</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000343</infon>
+                    <location length="13" offset="336"/>
+                    <text>long philtrum</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="341"/>
+                    <text>philtrum</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000691</infon>
+                    <location length="11" offset="369"/>
+                    <text>small teeth</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000160</infon>
+                    <location length="11" offset="382"/>
+                    <text>small mouth</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000233</infon>
+                    <location length="9" offset="399"/>
+                    <text>thin lips</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000327</infon>
+                    <location length="22" offset="410"/>
+                    <text>underdeveloped maxilla</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="26" offset="434"/>
+                    <text>crease below the lower lip</text>
+                </annotation>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="7" offset="467"/>
+                    <text>low jaw</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="467"/>
+                    <text>low jaw</text>
+                </annotation>
+                <relation id="26">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000289</infon>
+                    <node refid="27" role="source"/>
+                    <node refid="25" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1731</offset>
+                <text>The ears were low set, with a bifid right lobe and a thick left lobe.</text>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="4"/>
+                    <text>ears</text>
+                </annotation>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="14"/>
+                    <text>low set</text>
+                </annotation>
+                <annotation id="39">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="30"/>
+                    <text>bifid</text>
+                </annotation>
+                <annotation id="41">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="42"/>
+                    <text>lobe</text>
+                </annotation>
+                <annotation id="42">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="53"/>
+                    <text>thick</text>
+                </annotation>
+                <annotation id="44">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="64"/>
+                    <text>lobe</text>
+                </annotation>
+                <relation id="38">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000369</infon>
+                    <node refid="36" role="source"/>
+                    <node refid="37" role="target"/>
+                </relation>
+                <relation id="40">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011265</infon>
+                    <node refid="41" role="source"/>
+                    <node refid="39" role="target"/>
+                </relation>
+                <relation id="43">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009748</infon>
+                    <node refid="44" role="source"/>
+                    <node refid="42" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1801</offset>
+                <text>The hands were short, broad and flexible (figure 5); the fifth finger was short and demonstrated clinodactyly, there was partial syndactyly of the second, third and fourth fingers, and all fingers showed interphalangeal joint contractures, bilateral simian creases, with dyschromic and hypoplastic nails.</text>
+                <annotation id="45">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="4"/>
+                    <text>hands</text>
+                </annotation>
+                <annotation id="46">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="4"/>
+                    <text>hands</text>
+                </annotation>
+                <annotation id="47">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="4"/>
+                    <text>hands</text>
+                </annotation>
+                <annotation id="48">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="15"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="50">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="22"/>
+                    <text>broad</text>
+                </annotation>
+                <annotation id="52">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="32"/>
+                    <text>flexible</text>
+                </annotation>
+                <annotation id="54">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="57"/>
+                    <text>fifth finger</text>
+                </annotation>
+                <annotation id="55">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="57"/>
+                    <text>fifth finger</text>
+                </annotation>
+                <annotation id="56">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="74"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="58">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="97"/>
+                    <text>clinodactyly</text>
+                </annotation>
+                <annotation id="60">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010709</infon>
+                    <location length="50" offset="129"/>
+                    <text>syndactyly of the second, third and fourth fingers</text>
+                </annotation>
+                <annotation id="61">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001220</infon>
+                    <location length="34" offset="204"/>
+                    <text>interphalangeal joint contractures</text>
+                </annotation>
+                <annotation id="62">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000954</infon>
+                    <location length="14" offset="250"/>
+                    <text>simian creases</text>
+                </annotation>
+                <annotation id="63">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="271"/>
+                    <text>dyschromic</text>
+                </annotation>
+                <annotation id="66">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008386</infon>
+                    <location length="17" offset="286"/>
+                    <text>hypoplastic nails</text>
+                </annotation>
+                <annotation id="65">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="298"/>
+                    <text>nails</text>
+                </annotation>
+                <relation id="49">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004279</infon>
+                    <node refid="45" role="source"/>
+                    <node refid="48" role="target"/>
+                </relation>
+                <relation id="51">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001169</infon>
+                    <node refid="47" role="source"/>
+                    <node refid="50" role="target"/>
+                </relation>
+                <relation id="53">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001382</infon>
+                    <node refid="46" role="source"/>
+                    <node refid="52" role="target"/>
+                </relation>
+                <relation id="57">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009237</infon>
+                    <node refid="54" role="source"/>
+                    <node refid="56" role="target"/>
+                </relation>
+                <relation id="59">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004209</infon>
+                    <node refid="55" role="source"/>
+                    <node refid="58" role="target"/>
+                </relation>
+                <relation id="64">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100643</infon>
+                    <node refid="65" role="source"/>
+                    <node refid="63" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2106</offset>
+                <text>The feet were short and broad, with enlarged toes.</text>
+                <annotation id="67">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="4"/>
+                    <text>feet</text>
+                </annotation>
+                <annotation id="68">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="4"/>
+                    <text>feet</text>
+                </annotation>
+                <annotation id="69">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="14"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="71">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="24"/>
+                    <text>broad</text>
+                </annotation>
+                <annotation id="73">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100747</infon>
+                    <location length="13" offset="36"/>
+                    <text>enlarged toes</text>
+                </annotation>
+                <relation id="70">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001773</infon>
+                    <node refid="67" role="source"/>
+                    <node refid="69" role="target"/>
+                </relation>
+                <relation id="72">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001769</infon>
+                    <node refid="68" role="source"/>
+                    <node refid="71" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2157</offset>
+                <text>Pectus excavatum was present.</text>
+                <annotation id="74">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000767</infon>
+                    <location length="16" offset="0"/>
+                    <text>Pectus excavatum</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2187</offset>
+                <text>Examination of the genital organs revealed that cryptorchidism had been corrected; inguinal hernia and shawl scrotum were noticed (figure 6).</text>
+                <annotation id="75">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000028</infon>
+                    <location length="14" offset="48"/>
+                    <text>cryptorchidism</text>
+                </annotation>
+                <annotation id="76">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000023</infon>
+                    <location length="15" offset="83"/>
+                    <text>inguinal hernia</text>
+                </annotation>
+                <annotation id="77">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000049</infon>
+                    <location length="13" offset="103"/>
+                    <text>shawl scrotum</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2330</offset>
+                <text>During several admissions to the hospital, the patient was submitted to laboratory investigations.</text>
+            </sentence>
+            <sentence>
+                <offset>2429</offset>
+                <text>Routine analysis including blood count, coagulation tests, blood lactate, pyruvate, glucose and ketones, creatine phosphokinases, copper, ceruloplasmin, plasmatic and urinary amino acids, urinary organic acids, purine and pyrimidine, thyroid tests, insuline-like growth factor (IGF1); all tests were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>2737</offset>
+                <text>ECG and echocardiography were normal, as well as Cox’s femoral and abdominal ultrasounds.</text>
+            </sentence>
+            <sentence>
+                <offset>2827</offset>
+                <text>Skeletal X-ray showed a hand with short and broad metacarpal nuclei, mild dysmorphism, with the pointed aspect of the distal phalanges.</text>
+                <annotation id="78">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="34"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="81">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001230</infon>
+                    <location length="23" offset="44"/>
+                    <text>broad metacarpal nuclei</text>
+                </annotation>
+                <annotation id="80">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="50"/>
+                    <text>metacarpal nuclei</text>
+                </annotation>
+                <annotation id="82">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="96"/>
+                    <text>pointed aspect</text>
+                </annotation>
+                <annotation id="84">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="118"/>
+                    <text>distal phalanges</text>
+                </annotation>
+                <relation id="79">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010049</infon>
+                    <node refid="80" role="source"/>
+                    <node refid="78" role="target"/>
+                </relation>
+                <relation id="83">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006224</infon>
+                    <node refid="84" role="source"/>
+                    <node refid="82" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2963</offset>
+                <text>The ossification of the nuclei of the carpus was regular.</text>
+            </sentence>
+            <sentence>
+                <offset>3022</offset>
+                <text>Brain MRI was normal, as well as awake and asleep Electroencephalography (EEG) (sleep deprived).</text>
+            </sentence>
+            <sentence>
+                <offset>3119</offset>
+                <text>No neurological signs were present.</text>
+            </sentence>
+            <sentence>
+                <offset>3155</offset>
+                <text>A neuropsychiatric evaluation performed at 6 months and 2 years of age showed mild motor and language delay, with Griffith Mental Developmental Scale Scores of 62.6 (locomotor 82.6, personal–social 58.7, hearing and language 28.3, hand–eye coordination 58.7, performance 84.8 and practice reasoning 62).</text>
+                <annotation id="85">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="83"/>
+                    <text>motor</text>
+                </annotation>
+                <annotation id="86">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000750</infon>
+                    <location length="14" offset="93"/>
+                    <text>language delay</text>
+                </annotation>
+                <annotation id="87">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="102"/>
+                    <text>delay</text>
+                </annotation>
+                <relation id="88">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001270</infon>
+                    <node refid="85" role="source"/>
+                    <node refid="87" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>3460</offset>
+                <text>An FGD1 gene screening for mutations showed the presence of the variant c.1828C&gt;T, in the exon 10 (RefSeq: NM_004463.2), predicted to result in premature protein termination (p.</text>
+            </sentence>
+            <sentence>
+                <offset>3638</offset>
+                <text>Arg610*), while a Array - Comparative Genomic Hybridization (CGH-array) documented a 16p13.11-p12.3 microduplication of 2.5 Mb: both the genetic variations were of maternal origin.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

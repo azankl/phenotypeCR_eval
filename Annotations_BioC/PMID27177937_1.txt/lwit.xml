@@ -1,0 +1,232 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The proband, a woman, was evaluated at 27 years for facial dysmorphism and short stature.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001999</infon>
+                    <location length="18" offset="52"/>
+                    <text>facial dysmorphism</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004322</infon>
+                    <location length="13" offset="75"/>
+                    <text>short stature</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>90</offset>
+                <text>There were multiple similarly affected members in the family, depicting an autosomal dominant mode of inheritance (figure 1I).</text>
+            </sentence>
+            <sentence>
+                <offset>217</offset>
+                <text>On examination, she had short stature (148 cm, 3 SDs below the mean), brachycephaly, patent anterior fontanelle, metopic depression, downslanting palpebral fissure, telecanthus and midface hypoplasia.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004322</infon>
+                    <location length="13" offset="24"/>
+                    <text>short stature</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000248</infon>
+                    <location length="13" offset="70"/>
+                    <text>brachycephaly</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004474</infon>
+                    <location length="26" offset="85"/>
+                    <text>patent anterior fontanelle</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011223</infon>
+                    <location length="18" offset="113"/>
+                    <text>metopic depression</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000494</infon>
+                    <location length="30" offset="133"/>
+                    <text>downslanting palpebral fissure</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000506</infon>
+                    <location length="11" offset="165"/>
+                    <text>telecanthus</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011800</infon>
+                    <location length="18" offset="181"/>
+                    <text>midface hypoplasia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>418</offset>
+                <text>Narrow and drooping shoulders that could be approximated anteriorly (figure 1A, B) were noted.</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="0"/>
+                    <text>Narrow</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0200021</infon>
+                    <location length="18" offset="11"/>
+                    <text>drooping shoulders</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="20"/>
+                    <text>shoulders</text>
+                </annotation>
+                <relation id="11">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000774</infon>
+                    <node refid="12" role="source"/>
+                    <node refid="10" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>513</offset>
+                <text>She had small hands with brachydactyly and tapering fingers.</text>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="11" offset="8"/>
+                    <text>small hands</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001156</infon>
+                    <location length="13" offset="25"/>
+                    <text>brachydactyly</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001182</infon>
+                    <location length="16" offset="43"/>
+                    <text>tapering fingers</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>574</offset>
+                <text>Clinodactyly of the fifth finger was noted.</text>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004209</infon>
+                    <location length="32" offset="0"/>
+                    <text>Clinodactyly of the fifth finger</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>618</offset>
+                <text>Thumbs and great toes were broad.</text>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="0"/>
+                    <text>Thumbs</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="11"/>
+                    <text>great toes</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="27"/>
+                    <text>broad</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="27"/>
+                    <text>broad</text>
+                </annotation>
+                <relation id="22">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010055</infon>
+                    <node refid="19" role="source"/>
+                    <node refid="20" role="target"/>
+                </relation>
+                <relation id="23">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011304</infon>
+                    <node refid="18" role="source"/>
+                    <node refid="21" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>652</offset>
+                <text>There was partial cutaneous syndactyly of the second and third toes and a proximally placed fourth toe (figure 1C–E).</text>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005709</infon>
+                    <location length="49" offset="18"/>
+                    <text>cutaneous syndactyly of the second and third toes</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="28" offset="74"/>
+                    <text>proximally placed fourth toe</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>770</offset>
+                <text>She had normal intelligence.</text>
+            </sentence>
+            <sentence>
+                <offset>800</offset>
+                <text>Radiograph of the skull showed wide and patent anterior fontanelle (figure 1F).</text>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="31"/>
+                    <text>wide</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001476</infon>
+                    <location length="26" offset="40"/>
+                    <text>patent anterior fontanelle</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="19" offset="47"/>
+                    <text>anterior fontanelle</text>
+                </annotation>
+                <relation id="27">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000260</infon>
+                    <node refid="28" role="source"/>
+                    <node refid="26" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>880</offset>
+                <text>Chest radiograph revealed hypoplasia of clavicles (figure 1G).</text>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006710</infon>
+                    <location length="23" offset="26"/>
+                    <text>hypoplasia of clavicles</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>943</offset>
+                <text>Sanger sequencing of the RUNX2 gene revealed a novel heterozygous pathogenic variation, c.470dupT (p.M157Ifs*4, NM_001024630), in exon 3 in the proband (figure 1H).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

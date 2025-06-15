@@ -1,0 +1,252 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 1 was 27 years old when first evaluated in medical genetics clinic.</text>
+            </sentence>
+            <sentence>
+                <offset>76</offset>
+                <text>He had received a clinical diagnosis of Crouzon syndrome in childhood at a craniofacial clinic.</text>
+            </sentence>
+            <sentence>
+                <offset>172</offset>
+                <text>Sagittal synostosis was treated with cranioplasty at age 2.5 years.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004442</infon>
+                    <location length="19" offset="0"/>
+                    <text>Sagittal synostosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>240</offset>
+                <text>Postoperatively, the craniofacial shape was described as a tall forehead with frontal bossing and further surgical treatment included fronto-orbital advancement.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000348</infon>
+                    <location length="13" offset="59"/>
+                    <text>tall forehead</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002007</infon>
+                    <location length="15" offset="78"/>
+                    <text>frontal bossing</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>402</offset>
+                <text>There was no documentation of other cranial suture synostosis.</text>
+            </sentence>
+            <sentence>
+                <offset>465</offset>
+                <text>The craniofacial phenotype evolved and at age 7 years he was reported to have brachycephaly with significant vertical and horizontal maxillary hypoplasia and retrusion (Class III malocclusion).</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000248</infon>
+                    <location length="13" offset="78"/>
+                    <text>brachycephaly</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000327</infon>
+                    <location length="20" offset="133"/>
+                    <text>maxillary hypoplasia</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="133"/>
+                    <text>maxillary</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="158"/>
+                    <text>retrusion</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000689</infon>
+                    <location length="12" offset="179"/>
+                    <text>malocclusion</text>
+                </annotation>
+                <relation id="8">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000327</infon>
+                    <node refid="6" role="source"/>
+                    <node refid="7" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>659</offset>
+                <text>Inner canthal and interpupillary distances were normal at age 7 years.</text>
+            </sentence>
+            <sentence>
+                <offset>730</offset>
+                <text>Serial photographs show progressive midface hypoplasia and retrusion, prognathism and down slanting palpebral fissures (Figure 1).</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011800</infon>
+                    <location length="18" offset="36"/>
+                    <text>midface hypoplasia</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="36"/>
+                    <text>midface</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="59"/>
+                    <text>retrusion</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000303</infon>
+                    <location length="11" offset="70"/>
+                    <text>prognathism</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000494</infon>
+                    <location length="32" offset="86"/>
+                    <text>down slanting palpebral fissures</text>
+                </annotation>
+                <relation id="13">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011800</infon>
+                    <node refid="11" role="source"/>
+                    <node refid="12" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>861</offset>
+                <text>No primary dental records are available.</text>
+            </sentence>
+            <sentence>
+                <offset>902</offset>
+                <text>The family reports that he had delayed shedding of multiple primary teeth which were then extracted at age 11 years to allow eruption of secondary dentition and facilitate orthodontic treatment.</text>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="31"/>
+                    <text>delayed shedding</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="60"/>
+                    <text>primary teeth</text>
+                </annotation>
+                <relation id="17">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006335</infon>
+                    <node refid="18" role="source"/>
+                    <node refid="16" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1097</offset>
+                <text>He had crowding of teeth in the maxillary arch but not mandibular arch.</text>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000678</infon>
+                    <location length="17" offset="7"/>
+                    <text>crowding of teeth</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1169</offset>
+                <text>Normal hearing was documented at age 16 years.</text>
+            </sentence>
+            <sentence>
+                <offset>1216</offset>
+                <text>He was treated with orthodontics and LeFort I maxillary osteotomy advancement with iliac crest bone graft and rhinoplasty.</text>
+            </sentence>
+            <sentence>
+                <offset>1342</offset>
+                <text>At time of examination, height was 169.5 cm and weight 57.2 kg.</text>
+            </sentence>
+            <sentence>
+                <offset>1406</offset>
+                <text>Occipitofrontal circumference (OFC) was 52.4 cm (Z = −3.72) with mild brachycephaly.</text>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000248</infon>
+                    <location length="13" offset="70"/>
+                    <text>brachycephaly</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1491</offset>
+                <text>There was no proptosis or ptosis.</text>
+            </sentence>
+            <sentence>
+                <offset>1525</offset>
+                <text>There were shallow depressions in the lateral forehead above the orbits bilaterally.</text>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025386</infon>
+                    <location length="43" offset="11"/>
+                    <text>shallow depressions in the lateral forehead</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1610</offset>
+                <text>There was no significant prognathism.</text>
+            </sentence>
+            <sentence>
+                <offset>1648</offset>
+                <text>Hands and thumbs were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1678</offset>
+                <text>The halluces were mildly broad at the proximal interphalangeal joint with mild lateral deviation.</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="4"/>
+                    <text>halluces</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="4"/>
+                    <text>halluces</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="25"/>
+                    <text>broad</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="79"/>
+                    <text>lateral deviation</text>
+                </annotation>
+                <relation id="23">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010055</infon>
+                    <node refid="24" role="source"/>
+                    <node refid="22" role="target"/>
+                </relation>
+                <relation id="27">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001822</infon>
+                    <node refid="25" role="source"/>
+                    <node refid="26" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1776</offset>
+                <text>Intelligence is normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1800</offset>
+                <text>The remainder of his examination was unremarkable.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

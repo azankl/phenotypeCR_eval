@@ -1,0 +1,214 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A 35-year-old female patient was referred to us.</text>
+            </sentence>
+            <sentence>
+                <offset>49</offset>
+                <text>She had a 15-year history of left shoulder joint pain, bone pain, progressive enlargement of bones in the arms and legs and waddling gait, associated with general body weakness.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030834</infon>
+                    <location length="19" offset="34"/>
+                    <text>shoulder joint pain</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002653</infon>
+                    <location length="9" offset="55"/>
+                    <text>bone pain</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005789</infon>
+                    <location length="20" offset="78"/>
+                    <text>enlargement of bones</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002515</infon>
+                    <location length="13" offset="124"/>
+                    <text>waddling gait</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>227</offset>
+                <text>Also protrusion of both eyes was reported.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="5"/>
+                    <text>protrusion</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="24"/>
+                    <text>eyes</text>
+                </annotation>
+                <relation id="6">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000520</infon>
+                    <node refid="7" role="source"/>
+                    <node refid="5" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>270</offset>
+                <text>There were no associated hearing and visual problems.</text>
+            </sentence>
+            <sentence>
+                <offset>324</offset>
+                <text>Her cognitive and motor development was normal, though from the age of 10 years she could not keep pace with her peers in sports activities.</text>
+            </sentence>
+            <sentence>
+                <offset>465</offset>
+                <text>No close relative had the same or similar symptoms; she has a 3 years old healthy daughter.</text>
+            </sentence>
+            <sentence>
+                <offset>560</offset>
+                <text>On physical examination she had prominent forehead, proptosis and blepharoptosis (Fig. 1).</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011220</infon>
+                    <location length="18" offset="32"/>
+                    <text>prominent forehead</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000520</infon>
+                    <location length="9" offset="52"/>
+                    <text>proptosis</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000508</infon>
+                    <location length="14" offset="66"/>
+                    <text>blepharoptosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>651</offset>
+                <text>Prominent palpable bones in upper limbs, humerus, ulna and radius (Fig. 2) and lower limbs (Fig. 3) were noted with muscle wasting and pseudo-atrophy of skin above affected bones.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="0"/>
+                    <text>Prominent</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="19"/>
+                    <text>bones</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003202</infon>
+                    <location length="14" offset="116"/>
+                    <text>muscle wasting</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004334</infon>
+                    <location length="22" offset="135"/>
+                    <text>pseudo-atrophy of skin</text>
+                </annotation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005789</infon>
+                    <node refid="13" role="source"/>
+                    <node refid="11" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>831</offset>
+                <text>The left shoulder joint was tender, but not swollen.</text>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="9"/>
+                    <text>shoulder joint</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="28"/>
+                    <text>tender</text>
+                </annotation>
+                <relation id="18">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030834</infon>
+                    <node refid="16" role="source"/>
+                    <node refid="17" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>884</offset>
+                <text>There were good passive and active joint movements.</text>
+            </sentence>
+            <sentence>
+                <offset>936</offset>
+                <text>Cranial nerve examination was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>977</offset>
+                <text>She had elevated alkaline phosphatase of 256 μmol/L (normal range50-150 μmol/L) and low calcium of 2.01 mmol/L (normal range 2.15–2.65 mmol/L).</text>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003155</infon>
+                    <location length="29" offset="8"/>
+                    <text>elevated alkaline phosphatase</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002901</infon>
+                    <location length="11" offset="84"/>
+                    <text>low calcium</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1121</offset>
+                <text>Full blood count, creatinine, thyroid function test and uric acid were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1200</offset>
+                <text>ECG and chest radiography were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1239</offset>
+                <text>Radiographs of left and right upper limbs (Fig. 4) showed bilateral, dense cortices of diaphyses, sparing metaphyses and epiphyses.</text>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005791</infon>
+                    <location length="27" offset="69"/>
+                    <text>dense cortices of diaphyses</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003016</infon>
+                    <location length="18" offset="98"/>
+                    <text>sparing metaphyses</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="98"/>
+                    <text>sparing</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="121"/>
+                    <text>epiphyses</text>
+                </annotation>
+                <relation id="24">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010580</infon>
+                    <node refid="25" role="source"/>
+                    <node refid="23" role="target"/>
+                </relation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

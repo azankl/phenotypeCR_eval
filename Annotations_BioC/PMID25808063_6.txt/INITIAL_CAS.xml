@@ -1,0 +1,80 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This girl was the first child of healthy apparently non-consanguineous Brazilian parents.</text>
+            </sentence>
+            <sentence>
+                <offset>90</offset>
+                <text>Prenatal ultrasound revealed club foot and congenital heart defect.</text>
+            </sentence>
+            <sentence>
+                <offset>158</offset>
+                <text>She was born at term with a weight of 2.8 kg and length of 44 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>224</offset>
+                <text>She had a flat midface, grooved nasal tip, and crumpled ears (Fig. 2A).</text>
+            </sentence>
+            <sentence>
+                <offset>296</offset>
+                <text>Cardiac ultrasound showed that the congenital heart defect consisted of atrial and ventricular septal defects.</text>
+            </sentence>
+            <sentence>
+                <offset>407</offset>
+                <text>Congenital bilateral cataracts were detected at day 2 of age.</text>
+            </sentence>
+            <sentence>
+                <offset>469</offset>
+                <text>The left leg was shorter than the right as a consequence of hip dysplasia/luxation and tibial hemi-melia (left tibia was truncated at the midshaft level) (Fig. 2B).</text>
+            </sentence>
+            <sentence>
+                <offset>634</offset>
+                <text>Abdominal ultrasound, audiological evaluation, and karyotype were all normal.</text>
+            </sentence>
+            <sentence>
+                <offset>712</offset>
+                <text>Tracheostomy was performed at one month of age because of laryngomalacia and gastrostomy because of gastroesophageal reflux.</text>
+            </sentence>
+            <sentence>
+                <offset>837</offset>
+                <text>An umbilical hernia was corrected at 2.5 years of age and the gastrostomy tube was removed at that time.</text>
+            </sentence>
+            <sentence>
+                <offset>942</offset>
+                <text>Her motor development was delayed but intelligence was within normal limits.</text>
+            </sentence>
+            <sentence>
+                <offset>1019</offset>
+                <text>At age 2 years and 3 months, her growth parameters were weight 8.8 kg (&lt;5th centile), height (&lt;5th centile), and head circumference 46.5 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>1160</offset>
+                <text>Radiographs taken at 2 months of age, showed coronal clefts in all lumbar vertebrae and epiphyseal delay (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>1275</offset>
+                <text>The repeat radiographs at 2 years and 3 months showed resolution of the coronal clefts leaving only an indentation.</text>
+            </sentence>
+            <sentence>
+                <offset>1391</offset>
+                <text>There was persistent epiphyseal delay with no visible ossification of the capital femoral epiphyses and microepiphyses at both knees.</text>
+            </sentence>
+            <sentence>
+                <offset>1525</offset>
+                <text>A chevron deformity was present at both distal femurs.</text>
+            </sentence>
+            <sentence>
+                <offset>1580</offset>
+                <text>There was also a delay in carpal bone ossification.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,60 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The affected individual had only four metacarpal bones in both hands.</text>
+            </sentence>
+            <sentence>
+                <offset>70</offset>
+                <text>The distal end of the first metacarpal bone on the right was relatively slender.</text>
+            </sentence>
+            <sentence>
+                <offset>151</offset>
+                <text>The distal phalanx was absent, and the structure of the remaining phalanges was disordered.</text>
+            </sentence>
+            <sentence>
+                <offset>243</offset>
+                <text>The hands were asymmetrical syndactyly and had missing fingers.</text>
+            </sentence>
+            <sentence>
+                <offset>307</offset>
+                <text>Many phalanges and some soft tissues were fused (Figure 2a,b).</text>
+            </sentence>
+            <sentence>
+                <offset>370</offset>
+                <text>Syndactyly was present in the second and third toes of the right foot (Figure 2c).</text>
+            </sentence>
+            <sentence>
+                <offset>453</offset>
+                <text>Upper extremity deformity was more severe than lower extremity, consistent with CLSS.</text>
+            </sentence>
+            <sentence>
+                <offset>539</offset>
+                <text>Ultrasound of the abdomen showed normal kidneys.</text>
+            </sentence>
+            <sentence>
+                <offset>588</offset>
+                <text>The affected individual had no obvious facial deformities or cognitive impairment.</text>
+            </sentence>
+            <sentence>
+                <offset>671</offset>
+                <text>None of the parents or sister had a correlated phenotype.</text>
+            </sentence>
+            <sentence>
+                <offset>729</offset>
+                <text>Exome sequencing revealed a novel homozygous c.282C &gt; A variant in the LRP4 (OMIM 604270; NM_002334.4) causing p.</text>
+            </sentence>
+            <sentence>
+                <offset>843</offset>
+                <text>(Asn94Lys) change in the encoded protein.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

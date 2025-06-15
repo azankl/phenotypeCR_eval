@@ -1,0 +1,299 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿A 4 years old Egyptian male patient presented to LMSDC, NRC with multiple congenital anomalies, delayed walking, delayed speech and a patent ductus arteriosus (PDA), which surgically corrected at the age of one and half years.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031936</infon>
+                    <location length="15" offset="97"/>
+                    <text>delayed walking</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000750</infon>
+                    <location length="14" offset="114"/>
+                    <text>delayed speech</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001643</infon>
+                    <location length="24" offset="135"/>
+                    <text>patent ductus arteriosus</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001643</infon>
+                    <infon key="Comment">! Abbreviation</infon>
+                    <location length="3" offset="161"/>
+                    <text>PDA</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>228</offset>
+                <text>He was born to first cousin parents.</text>
+            </sentence>
+            <sentence>
+                <offset>265</offset>
+                <text>There was history of maternal gestational diabetes mellitus which was diagnosed in the 4th month of pregnancy, and was controlled with subcutaneous insulin untill the end of pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>450</offset>
+                <text>Prenatal ultrasound revealed congenital heart disease at 16 weeks of pregnancy, bilateral talipes, and abnormal skull shape.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001627</infon>
+                    <location length="13" offset="40"/>
+                    <text>heart disease</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001883</infon>
+                    <location length="7" offset="90"/>
+                    <text>talipes</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000929</infon>
+                    <location length="20" offset="103"/>
+                    <text>abnormal skull shape</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>576</offset>
+                <text>On physical examination, the patient had brachycephaly, trigonocephaly, dysmorphic features in the form of epicanthic folds, bilateral squint, broad nasal bridge, long philtrum, thick lips, and low set ears.</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000248</infon>
+                    <location length="13" offset="41"/>
+                    <text>brachycephaly</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000243</infon>
+                    <location length="14" offset="56"/>
+                    <text>trigonocephaly</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000286</infon>
+                    <location length="16" offset="107"/>
+                    <text>epicanthic folds</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000486</infon>
+                    <location length="6" offset="135"/>
+                    <text>squint</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000431</infon>
+                    <location length="18" offset="143"/>
+                    <text>broad nasal bridge</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000343</infon>
+                    <location length="13" offset="163"/>
+                    <text>long philtrum</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012471</infon>
+                    <location length="10" offset="178"/>
+                    <text>thick lips</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000369</infon>
+                    <location length="12" offset="194"/>
+                    <text>low set ears</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>784</offset>
+                <text>Both hands had brachydactyly and soft tissue syndactyly of 3rd and 4th fingers with medially deviated thumbs.</text>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001156</infon>
+                    <location length="13" offset="15"/>
+                    <text>brachydactyly</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011939</infon>
+                    <location length="45" offset="33"/>
+                    <text>soft tissue syndactyly of 3rd and 4th fingers</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009603</infon>
+                    <location length="24" offset="84"/>
+                    <text>medially deviated thumbs</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>894</offset>
+                <text>Bilateral genu valgum and talipes deformity with medially and posteriorly rotated feet were noted.</text>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002857</infon>
+                    <location length="11" offset="10"/>
+                    <text>genu valgum</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001883</infon>
+                    <location length="7" offset="26"/>
+                    <text>talipes</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="8" offset="49"/>
+                    <text>medially</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="24" offset="62"/>
+                    <text>posteriorly rotated feet</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="74"/>
+                    <text>rotated feet</text>
+                </annotation>
+                <relation id="22">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="23" role="source"/>
+                    <node refid="21" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>993</offset>
+                <text>Both feet had preaxial polydactyly, soft tissue syndacyly and brachydactyly of all toes (Fig. 2B–G).</text>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="5"/>
+                    <text>feet</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="20" offset="14"/>
+                    <text>preaxial polydactyly</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="21" offset="36"/>
+                    <text>soft tissue syndacyly</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001156</infon>
+                    <location length="13" offset="62"/>
+                    <text>brachydactyly</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="83"/>
+                    <text>toes</text>
+                </annotation>
+                <relation id="27">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001841</infon>
+                    <node refid="25" role="source"/>
+                    <node refid="26" role="target"/>
+                </relation>
+                <relation id="29">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010621</infon>
+                    <node refid="30" role="source"/>
+                    <node refid="28" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1094</offset>
+                <text>Orodental evaluation showed long philtrum, everted lower lip open bite and high arched palate.</text>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000343</infon>
+                    <location length="13" offset="28"/>
+                    <text>long philtrum</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000232</infon>
+                    <location length="17" offset="43"/>
+                    <text>everted lower lip</text>
+                </annotation>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010807</infon>
+                    <location length="9" offset="61"/>
+                    <text>open bite</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000218</infon>
+                    <location length="18" offset="75"/>
+                    <text>high arched palate</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1189</offset>
+                <text>Vineland scale revealed an IQ score of 75.</text>
+            </sentence>
+            <sentence>
+                <offset>1233</offset>
+                <text>Anthropometric measurements showed height of 94.1 cm (−1.74 SD), weight of 18Kgm (+0.74 SD) and head circumference of 50.6 cm (−0.38 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>1372</offset>
+                <text>Echocardiography revealed a closed PDA.</text>
+            </sentence>
+            <sentence>
+                <offset>1412</offset>
+                <text>Scrotal ultrasound examination showed bilateral undescended testes.</text>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000028</infon>
+                    <location length="18" offset="48"/>
+                    <text>undescended testes</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1480</offset>
+                <text>Brain CT showed premature closure of metopic suture and brain MRI showed mild atrophic brain changes.</text>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011330</infon>
+                    <location length="35" offset="16"/>
+                    <text>premature closure of metopic suture</text>
+                </annotation>
+                <annotation id="38">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001272</infon>
+                    <location length="22" offset="78"/>
+                    <text>atrophic brain changes</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1582</offset>
+                <text>Hearing test was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1607</offset>
+                <text>Chromosomal studies by conventional G-banded karyotype showed a normal male karyotype (46, XY).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

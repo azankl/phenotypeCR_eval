@@ -1,0 +1,104 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient S, a 7 -month-old male infant, was referred for evaluation of excessive crying and bilateral painful, non-progressive shin swellings noted since the 3rd month of life.</text>
+            </sentence>
+            <sentence>
+                <offset>176</offset>
+                <text>There was no history of associated fever or rashes, swollen joints or swellings elsewhere in the body.</text>
+            </sentence>
+            <sentence>
+                <offset>279</offset>
+                <text>No cardiovascular, respiratory or gastrointestinal symptoms were present.</text>
+            </sentence>
+            <sentence>
+                <offset>353</offset>
+                <text>The antenatal, perinatal and neonatal periods had been uneventful and all developmental milestones had been attained normally.</text>
+            </sentence>
+            <sentence>
+                <offset>480</offset>
+                <text>There was no history suggestive of preceding trauma, drug intake or physical abuse.</text>
+            </sentence>
+            <sentence>
+                <offset>564</offset>
+                <text>This child was the first offspring of non-consanguineous parents.</text>
+            </sentence>
+            <sentence>
+                <offset>630</offset>
+                <text>There was no history of either parent or any other family member having had similar problems during his/her childhood.</text>
+            </sentence>
+            <sentence>
+                <offset>752</offset>
+                <text>The growth parameters were appropriate for age, with the anthropometric measurements corresponding to 25th–50th centile values for 7 months and the nutritional status was good.</text>
+            </sentence>
+            <sentence>
+                <offset>929</offset>
+                <text>Examination revealed tender, diffuse, immobile swellings over the anterior aspect of both the legs, which were hard in consistency (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>1070</offset>
+                <text>The neighboring knee and ankle joints appeared to be normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1131</offset>
+                <text>There were no swellings over the jaw, clavicles or ribs or elsewhere on the body.</text>
+            </sentence>
+            <sentence>
+                <offset>1213</offset>
+                <text>There was no evidence of joint laxity or skin hyper extensibility.</text>
+            </sentence>
+            <sentence>
+                <offset>1280</offset>
+                <text>The rest of the general and systemic examination findings were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1351</offset>
+                <text>There were no clinical signs suggestive of physical abuse.</text>
+            </sentence>
+            <sentence>
+                <offset>1410</offset>
+                <text>On developmental assessment, the psychomotor development was found to be appropriate for age.</text>
+            </sentence>
+            <sentence>
+                <offset>1508</offset>
+                <text>Skeletal survey radiographs showed evidence of significant periosteal elevation, new bone formation and cortical thickening involving the diaphyses of the tibial bones bilaterally, along with a milder degree of cortical hyperostosis involving both the femoral bones (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>1784</offset>
+                <text>The knee and ankle joints were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1823</offset>
+                <text>The other long bones of the limbs, the ribs and the mandible did not show any significant periosteal changes.</text>
+            </sentence>
+            <sentence>
+                <offset>1933</offset>
+                <text>The serum alkaline phosphatase level was elevated (630 U/L; normal range 145–420 U/L); but the serum calcium (9.5 mg/dL) and phosphorus (5.5 mg/dL) levels were within the normal range.</text>
+            </sentence>
+            <sentence>
+                <offset>2118</offset>
+                <text>VDRL serology was negative.</text>
+            </sentence>
+            <sentence>
+                <offset>2146</offset>
+                <text>The hemogram, erythrocyte sedimentation rate, random blood sugar, serum creatinine, liver function tests and urine examination findings were all within the normal reference range.</text>
+            </sentence>
+            <sentence>
+                <offset>2329</offset>
+                <text>As the clinical and radiological findings suggested the diagnosis of infantile cortical hyperostosis, genetic screening of COL1A1 was performed.</text>
+            </sentence>
+            <sentence>
+                <offset>2474</offset>
+                <text>The sequencing of exon 41 of COL1A1, as described by Gensure et al., confirmed the heterozygous mutation c.3040 C&gt;T (p.R1014C) in the proband</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,131 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A fifty-two-day-old boy was referred to our&#13;
+hospital, with a complaint of restlessness and&#13;
+swelling over his shins noticed by the mother&#13;
+one week before.</text>
+            </sentence>
+            <sentence>
+                <offset>157</offset>
+                <text>He was born after a normal&#13;
+pregnancy period, full term by normal vaginal&#13;
+delivery and his birth weight was 2.8 kg.</text>
+            </sentence>
+            <sentence>
+                <offset>275</offset>
+                <text>Routine prenatal follow-up and ultrasounds&#13;
+were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>332</offset>
+                <text>There was no history of child&#13;
+abuse, trauma and fever.</text>
+            </sentence>
+            <sentence>
+                <offset>388</offset>
+                <text>He was only breast&#13;
+fed and was having vitamin-D supplement 400&#13;
+U/day.</text>
+            </sentence>
+            <sentence>
+                <offset>460</offset>
+                <text>The mother and father was the first&#13;
+cousin once removed.</text>
+            </sentence>
+            <sentence>
+                <offset>522</offset>
+                <text>On physical examination of the patient, he was&#13;
+irritable, crying when lower limbs were touched.</text>
+            </sentence>
+            <sentence>
+                <offset>620</offset>
+                <text>All vital signs were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>649</offset>
+                <text>His weight, length&#13;
+and head circumference percentiles were 50-&#13;
+75p, 10-25p and 10-25 p, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>753</offset>
+                <text>There&#13;
+was bilateral swelling and tenderness over his&#13;
+shins, without any erythema or ecchymosis.</text>
+            </sentence>
+            <sentence>
+                <offset>851</offset>
+                <text>He&#13;
+kept his lower limbs at flexion posture.</text>
+            </sentence>
+            <sentence>
+                <offset>896</offset>
+                <text>The&#13;
+remaining systemic examinations were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>947</offset>
+                <text>Laboratory investigations showed elevated levels&#13;
+of erythrocyte sedimentation rate (ESR, 60&#13;
+mm/hr) and alkaline phosphatase (537 IU/L),&#13;
+and a mild thrombocytosis (572.000 /mm3).</text>
+            </sentence>
+            <sentence>
+                <offset>1129</offset>
+                <text>Peripheral blood smear showed hypo chromic&#13;
+red cells, target cells and thrombocytosis with&#13;
+no other abnormality.</text>
+            </sentence>
+            <sentence>
+                <offset>1244</offset>
+                <text>Serum C-reactive protein&#13;
+(CRP), calcium, amylase, parathormone, 25-OH&#13;
+vitamin-D levels and the other biochemical and&#13;
+hematological evaluations were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1403</offset>
+                <text>Patient’s&#13;
+and the mother’s serology for syphilis (VDRL)&#13;
+was nonreactive.</text>
+            </sentence>
+            <sentence>
+                <offset>1478</offset>
+                <text>Serum immunoglobulin and&#13;
+urine analyses were normal, and serology for&#13;
+viral infections was negative.</text>
+            </sentence>
+            <sentence>
+                <offset>1581</offset>
+                <text>Radiological&#13;
+examination showed cortical thickening, sub&#13;
+periosteal reaction and new bone formation&#13;
+in the mandible, bilateral clavicles and long&#13;
+bones (Fig. 1a and b).</text>
+            </sentence>
+            <sentence>
+                <offset>1755</offset>
+                <text>With all of these clinical, physical examination,&#13;
+laboratory, and radiological findings, the patient&#13;
+was diagnosed with Caffey disease.</text>
+            </sentence>
+            <sentence>
+                <offset>1893</offset>
+                <text>In genetic&#13;
+investigation, heterozygous missense mutation&#13;
+(c.3040C&gt;T) in COL1A1 gene was detected&#13;
+in our patient with sequence analyzes method&#13;
+(Fig. 2).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

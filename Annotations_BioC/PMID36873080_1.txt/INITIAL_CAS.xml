@@ -1,0 +1,80 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A 7‐year‐old Caucasian girl was referred due to the presence of diffuse congenital hypertrichosis.</text>
+            </sentence>
+            <sentence>
+                <offset>99</offset>
+                <text>Hypertrichosis at the time of visit was diffuse with abundant terminal hair in the face, trunk and limbs (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>216</offset>
+                <text>The excessive hair growth slightly improved over the years but was still present; the facial appearance was coarse with epicanthal folds, flat broad nasal bridge, flared nares, long and flat philtrum, large mouth with thick lips (Figure 2).</text>
+            </sentence>
+            <sentence>
+                <offset>460</offset>
+                <text>She was the third‐born child of non‐consanguineous parents.</text>
+            </sentence>
+            <sentence>
+                <offset>520</offset>
+                <text>She was born at 40 weeks' gestation by Cesarean Section.</text>
+            </sentence>
+            <sentence>
+                <offset>577</offset>
+                <text>At birth, macrosomia (birth weight 5720 g) and generalized hypertrichosis were observed (Figure 3).</text>
+            </sentence>
+            <sentence>
+                <offset>677</offset>
+                <text>She was of muscular build with length and weight at the 90th and &gt; 97th centile, respectively, and head circumference (37 cm) at &gt;97th centile.</text>
+            </sentence>
+            <sentence>
+                <offset>824</offset>
+                <text>Few hours after birth she developed cyanosis and respiratory distress not attributable to infective sources.</text>
+            </sentence>
+            <sentence>
+                <offset>933</offset>
+                <text>An echocardiogram showed a patent ductus arteriosus (PDA) and an atrial septal defect, ostium secundum type complicated with pulmonary hypertension.</text>
+            </sentence>
+            <sentence>
+                <offset>1082</offset>
+                <text>At 10 days of life, she has been transferred to the Pediatric Intensive Care Unit in order to proceed with ligation of PDA at 14 days and reduce pulmonary hypertension with sildenafil treatment which have been carried out for 2 months.</text>
+            </sentence>
+            <sentence>
+                <offset>1318</offset>
+                <text>The patient had mild, axial and pelvic girdle muscle hypotonia that had resolved at the neurological follow‐up 1 year later, without any consequent motor delay.</text>
+            </sentence>
+            <sentence>
+                <offset>1479</offset>
+                <text>She had right sensorineural retrocochlear hypoacusia.</text>
+            </sentence>
+            <sentence>
+                <offset>1533</offset>
+                <text>When patient was 8‐month‐old underwent an MR imaging of the brain that reported dilated carotid siphon and basilar artery, this one was also elongated and scoliotic.</text>
+            </sentence>
+            <sentence>
+                <offset>1702</offset>
+                <text>At the age of 5 years the patient went through an extensive endocrinological assessment to detect the cause of hypertrichosis (Vitamin D, ACTH, DHEAS, cortisol, TSH, FT4, FT3, and ACTH stimulation test) that did not detect any alterations.</text>
+            </sentence>
+            <sentence>
+                <offset>1942</offset>
+                <text>She had recurrent episodes of tonsillitis and she underwent tonsillectomy at the age of 6.</text>
+            </sentence>
+            <sentence>
+                <offset>2036</offset>
+                <text>Clinical presentation and medical history raised the suspicion of CS and sequencing of ABCC9 gene detected a de novo c.3461G &gt; A p.</text>
+            </sentence>
+            <sentence>
+                <offset>2167</offset>
+                <text>(Arg1154Gln) heterozygous pathogenic variant</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

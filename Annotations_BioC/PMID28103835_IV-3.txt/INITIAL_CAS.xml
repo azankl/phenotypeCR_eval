@@ -1,0 +1,72 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿The proband (IV-3) was a 3-year-old boy referred to the genetic clinic with developmental delay, speech delay and dysmorphic features.</text>
+            </sentence>
+            <sentence>
+                <offset>136</offset>
+                <text>He was born at term via Ceasarian section due to fetal distress with a birth weight of 2.5 Kg (&lt;10th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>247</offset>
+                <text>Physical examination revealed an aggressive and hyperactive boy.</text>
+            </sentence>
+            <sentence>
+                <offset>312</offset>
+                <text>Height at 89.5 cm was at the 3rd centile, while weight and head circumference at 13.6 Kg and 48.5 cm, respectively, were at the 25th centile.</text>
+            </sentence>
+            <sentence>
+                <offset>454</offset>
+                <text>Dysmorphic facial features that were recorded included a broad forehead with a widow’s peak, bilateral partial ptosis, blepharophimosis, hypertelorism, epicanthic folds, down slanting palpebral fissures, broad nasal bridge, anteverted nostrils, short columella, everted lips, low set malformed ears with thickened helix, short philtrum, micrognathia, short neck, and a high arched palate (Fig. 1a).</text>
+            </sentence>
+            <sentence>
+                <offset>853</offset>
+                <text>Nipples were low set bilaterally, and widely spaced.</text>
+            </sentence>
+            <sentence>
+                <offset>906</offset>
+                <text>Pectus carinatum with excavatum was noticed, along with brachydactyly, bilateral fifth finger clinodactyly, bilateral partial syndactyly of the second and third toes, interdigital webbing, and single palmar creases (Fig. 1b and c).</text>
+            </sentence>
+            <sentence>
+                <offset>1138</offset>
+                <text>Sleep disturbance was reported.</text>
+            </sentence>
+            <sentence>
+                <offset>1170</offset>
+                <text>All other investigations were normal, and karyotype analysis revealed a 46, XY karyotype.</text>
+            </sentence>
+            <sentence>
+                <offset>1260</offset>
+                <text>At follow-up examination at 7 years, he was found to have proportionate borderline short stature (height 100 cm; 2nd-50th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>1392</offset>
+                <text>He was obese with a Body Mass Index of 21.8 Kg/m2 (98th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>1458</offset>
+                <text>Developmental delay was noticed in that he was unable to throw a ball or button his clothes, did not know his birthday, and needed help to maintain self-hygiene.</text>
+            </sentence>
+            <sentence>
+                <offset>1620</offset>
+                <text>He was found to have a left undescended testis, for which orchidopexy was scheduled.</text>
+            </sentence>
+            <sentence>
+                <offset>1705</offset>
+                <text>He continued to be hyperactive and had poor control on his attention.</text>
+            </sentence>
+            <sentence>
+                <offset>1775</offset>
+                <text>He was attending normal stream school with acceptable performance.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

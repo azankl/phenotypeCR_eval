@@ -1,0 +1,40 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Clinical examination of patient 2 at age 23 years showed height 152.5 cm (below 3rd centile), weight 48.5 kg (10th centile), OFC 55 cm (25–50th centiles), ICD 37 mm (above 97th centile), OCD 85 mm (25–50th centile), PFL 22 mm (well below the 3rd centile).</text>
+            </sentence>
+            <sentence>
+                <offset>256</offset>
+                <text>He had blepharophimosis with telecanthus, blepharoptosis, epicanthus inversus, arched eyebrows, unilateral repaired cleft lip and palate (Fig. 1), periumbilical depression, undescended testes at left, and bilateral limited supination-pronation of the forearms.</text>
+            </sentence>
+            <sentence>
+                <offset>517</offset>
+                <text>Ophthalmological examination revealed small nystagmus (no fixation), mild retinal pigment epithelial rarefaction located on the macula, hypermetropy, and astigmatism in both eyes.</text>
+            </sentence>
+            <sentence>
+                <offset>697</offset>
+                <text>Audiological evaluation disclosed moderate bilateral mixed hearing loss.</text>
+            </sentence>
+            <sentence>
+                <offset>770</offset>
+                <text>There was no intellectual deficit.</text>
+            </sentence>
+            <sentence>
+                <offset>805</offset>
+                <text>Roentgenograms demonstrated bilateral radioulnar synostosis.</text>
+            </sentence>
+            <sentence>
+                <offset>866</offset>
+                <text>Ultrasound studies showed hydrocele with normal testis at right and a normal left testis in the inguinal canal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

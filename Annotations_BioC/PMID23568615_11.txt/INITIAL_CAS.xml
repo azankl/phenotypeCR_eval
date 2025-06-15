@@ -1,0 +1,40 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 11 was the child of a first cousin marriage.</text>
+            </sentence>
+            <sentence>
+                <offset>53</offset>
+                <text>He had facial asymmetry and downslanting palpebral fissures, but no midface or mandibular malformations (Fig. 1h).</text>
+            </sentence>
+            <sentence>
+                <offset>168</offset>
+                <text>Ears were prominent, low set and posteriorly rotated.</text>
+            </sentence>
+            <sentence>
+                <offset>222</offset>
+                <text>On the right hand, he had a thumb hypoplasia with thenar atrophy; the X-ray showed hypoplasia of the first metatarsal and phalanges (Fig. 2s, t).</text>
+            </sentence>
+            <sentence>
+                <offset>368</offset>
+                <text>In addition, there was a bilateral fifth finger clinodactyly.</text>
+            </sentence>
+            <sentence>
+                <offset>430</offset>
+                <text>On the left side, he had a mild equinovarus foot malformation (Fig. 3f).</text>
+            </sentence>
+            <sentence>
+                <offset>503</offset>
+                <text>He only had a single kidney on the left side.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

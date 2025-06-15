@@ -1,0 +1,160 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The father of the index patient was 37 years old at the time of examination.</text>
+            </sentence>
+            <sentence>
+                <offset>77</offset>
+                <text>He showed some dysmorphic signs and limb abnormalities as follows: asymmetry of the skull and face (apparent plagiocephaly), mild ptosis of the left upper eyelid, laterally flared eyebrows, prominent nose with a bulbous tip, long philtrum, downturned corners of the mouth.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002678</infon>
+                    <location length="22" offset="67"/>
+                    <text>asymmetry of the skull</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="67"/>
+                    <text>asymmetry</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="94"/>
+                    <text>face</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001357</infon>
+                    <location length="13" offset="109"/>
+                    <text>plagiocephaly</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000508</infon>
+                    <location length="6" offset="130"/>
+                    <text>ptosis</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007733</infon>
+                    <location length="25" offset="163"/>
+                    <text>laterally flared eyebrows</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000448</infon>
+                    <location length="14" offset="190"/>
+                    <text>prominent nose</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000414</infon>
+                    <location length="11" offset="212"/>
+                    <text>bulbous tip</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000343</infon>
+                    <location length="13" offset="225"/>
+                    <text>long philtrum</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002714</infon>
+                    <location length="31" offset="240"/>
+                    <text>downturned corners of the mouth</text>
+                </annotation>
+                <relation id="3">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000324</infon>
+                    <node refid="4" role="source"/>
+                    <node refid="2" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>350</offset>
+                <text>His fingers were apparently normal, only mild clinodactyly of the second fingers could be observed.</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="46"/>
+                    <text>clinodactyly</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="66"/>
+                    <text>second fingers</text>
+                </annotation>
+                <relation id="13">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0040022</infon>
+                    <node refid="14" role="source"/>
+                    <node refid="12" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>450</offset>
+                <text>The great toes were broad with triangular-shaped nails, while the nails on other toes were apparently round.</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="4"/>
+                    <text>great toes</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="20"/>
+                    <text>broad</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term accepted, HP:6000649, https://github.com/obophenotype/human-phenotype-ontology/issues/10407</infon>
+                    <location length="23" offset="31"/>
+                    <text>triangular-shaped nails</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="66"/>
+                    <text>nails</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="81"/>
+                    <text>toes</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="102"/>
+                    <text>round</text>
+                </annotation>
+                <relation id="17">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010055</infon>
+                    <node refid="15" role="source"/>
+                    <node refid="16" role="target"/>
+                </relation>
+                <relation id="20">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="21" role="source"/>
+                    <node refid="19" role="target"/>
+                </relation>
+                <relation id="23">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008388</infon>
+                    <node refid="19" role="source"/>
+                    <node refid="22" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>559</offset>
+                <text>Syndactyly was not present (Fig. 2A–D).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

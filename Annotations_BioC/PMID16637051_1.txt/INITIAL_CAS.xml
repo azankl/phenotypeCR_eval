@@ -1,0 +1,100 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This Egyptian 5-year-old boy (III.1) was the first child to this family.</text>
+            </sentence>
+            <sentence>
+                <offset>73</offset>
+                <text>A younger sister (Patient 2) was similarly affected (Fig. 1), and another younger brother was healthy.</text>
+            </sentence>
+            <sentence>
+                <offset>176</offset>
+                <text>He was born at term after an uneventful pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>227</offset>
+                <text>His birth weight is reported as low but was not recorded.</text>
+            </sentence>
+            <sentence>
+                <offset>285</offset>
+                <text>His motor development was delayed (he was walking at 2.5-year old).</text>
+            </sentence>
+            <sentence>
+                <offset>353</offset>
+                <text>His language development was significantly retarded and hearing test at the age of 3 showed moderate sensorineural hearing loss.</text>
+            </sentence>
+            <sentence>
+                <offset>482</offset>
+                <text>On examination at that age, his weight, height, and head circumference were 15 kg (−1.6 SD), 97.2 cm (−2.4 SD), and 51.3 cm (mean), respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>628</offset>
+                <text>Upper/lower segment ratio was 1.5 and arm span was 89 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>686</offset>
+                <text>The boy (Fig. 2) had small short nose with upturned nostrils, hypertelorism, midface hypoplasia, long philtrum, bow-shaped mouth, high arched palate, relatively small ears, hypoplastic nipples, and abnormal wide ends of long bones.</text>
+            </sentence>
+            <sentence>
+                <offset>918</offset>
+                <text>In addition, the clinical features included a prominent occiput, mild parietal and frontal bossing, mild generalized brachydactyly, and bilateral clinodactyly of the little fingers.</text>
+            </sentence>
+            <sentence>
+                <offset>1100</offset>
+                <text>Because of the sensorineural deafness, he is wearing a hearing aid.</text>
+            </sentence>
+            <sentence>
+                <offset>1168</offset>
+                <text>Non-verbal IQ test was 76.</text>
+            </sentence>
+            <sentence>
+                <offset>1195</offset>
+                <text>Ophthalmologic evaluation (using indirect ophthalmoscope and slit lamp) showed normal lens, vitreous and fundus and normal visual acuity.</text>
+            </sentence>
+            <sentence>
+                <offset>1333</offset>
+                <text>No abnormalities were found during the routine laboratory investigations (complete blood picture, thyroid hormone profile).</text>
+            </sentence>
+            <sentence>
+                <offset>1457</offset>
+                <text>Metabolic screening and chromosomal examination from peripheral blood lymphocytes were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1552</offset>
+                <text>Skeletal radiographs (Fig. 3) demonstrated short long bones (humerus, radius, ulna, femur, tibia, and fibula).</text>
+            </sentence>
+            <sentence>
+                <offset>1663</offset>
+                <text>All had large epiphyses and flared metaphyses.</text>
+            </sentence>
+            <sentence>
+                <offset>1710</offset>
+                <text>Carpal bones were large and the phalanges and metacarpals were short.</text>
+            </sentence>
+            <sentence>
+                <offset>1780</offset>
+                <text>These features were associated with platyspondyly and coronal clefting.</text>
+            </sentence>
+            <sentence>
+                <offset>1852</offset>
+                <text>Atlanto-axial and occipital bones showed no abnormalities.</text>
+            </sentence>
+            <sentence>
+                <offset>1911</offset>
+                <text>Radiograph of pelvis and hips showed short and broad basilar portions of the ilia and relatively horizontal acetabular roofs, as well as coxa vara were seen.</text>
+            </sentence>
+            <sentence>
+                <offset>2069</offset>
+                <text>There was no history of osteoarthritis until now.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

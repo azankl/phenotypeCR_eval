@@ -1,0 +1,160 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Clinical examination of patient 3 at age 17 years: height 132 cm (well below 3rd centile), weight 30.3 kg (below 3rd centile), OFC 53 cm (2nd centile), ICD 37 mm (above 97th centile), OCD 85 mm (25–50th centile), PFL 22 mm (well below 3rd centile).</text>
+            </sentence>
+            <sentence>
+                <offset>249</offset>
+                <text>He had blepharophimosis, telecanthus, blepharoptosis, epicanthus inversus, arched eyebrows, a repaired bilateral cleft lip and palate (Fig. 1), periumbilical depression, and sexual infantilism (Tanner's scale: G1, P1).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000581</infon>
+                    <location length="16" offset="7"/>
+                    <text>blepharophimosis</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000506</infon>
+                    <location length="11" offset="25"/>
+                    <text>telecanthus</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000508</infon>
+                    <location length="14" offset="38"/>
+                    <text>blepharoptosis</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000537</infon>
+                    <location length="19" offset="54"/>
+                    <text>epicanthus inversus</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002553</infon>
+                    <location length="15" offset="75"/>
+                    <text>arched eyebrows</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0410030</infon>
+                    <location length="9" offset="113"/>
+                    <text>cleft lip</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="113"/>
+                    <text>cleft</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="127"/>
+                    <text>palate</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="24" offset="144"/>
+                    <text>periumbilical depression</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000133</infon>
+                    <location length="18" offset="174"/>
+                    <text>sexual infantilism</text>
+                </annotation>
+                <relation id="8">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <node refid="9" role="source"/>
+                    <node refid="7" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>468</offset>
+                <text>Ophthalmological examination showed exotropia and amblyopia on the left eye and astigmatism in both eyes.</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000577</infon>
+                    <location length="9" offset="36"/>
+                    <text>exotropia</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000646</infon>
+                    <location length="9" offset="50"/>
+                    <text>amblyopia</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000483</infon>
+                    <location length="11" offset="80"/>
+                    <text>astigmatism</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>574</offset>
+                <text>Audiological evaluation disclosed moderate bilateral conductive hearing loss.</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000405</infon>
+                    <location length="23" offset="53"/>
+                    <text>conductive hearing loss</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>652</offset>
+                <text>Intelligence was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>677</offset>
+                <text>Ultrasound studies showed a crossed-fused renal ectopy and true left cryptorchidism.</text>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004736</infon>
+                    <location length="26" offset="28"/>
+                    <text>crossed-fused renal ectopy</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000028</infon>
+                    <location length="14" offset="69"/>
+                    <text>cryptorchidism</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>762</offset>
+                <text>Endocrinologic evaluation revealed growth hormone deficiency (absence of growth hormone response to insulin-induced hypoglycaemia) and secondary hypogonadism (decreased testosterone, FSH and LH levels).</text>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000824</infon>
+                    <location length="25" offset="35"/>
+                    <text>growth hormone deficiency</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000044</infon>
+                    <location length="22" offset="135"/>
+                    <text>secondary hypogonadism</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>965</offset>
+                <text>Serum insulin-like growth factor (IGF-1) and IGF binding protein 3 (IGFBP-3) concentrations were low and normal respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>1091</offset>
+                <text>Brain MRI was normal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

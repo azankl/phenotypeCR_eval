@@ -1,0 +1,238 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 4 is the second child of nonconsanguineous Caucasian parents.</text>
+            </sentence>
+            <sentence>
+                <offset>70</offset>
+                <text>He was born at term following a pregnancy complicated by polyhydramnios.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001561</infon>
+                    <location length="14" offset="57"/>
+                    <text>polyhydramnios</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>143</offset>
+                <text>At birth he had a full head of thick hair and hypertrichosis over back and limbs.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100874</infon>
+                    <location length="10" offset="31"/>
+                    <text>thick hair</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000998</infon>
+                    <location length="14" offset="46"/>
+                    <text>hypertrichosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>225</offset>
+                <text>He presented at 8 weeks with failure to thrive and heart failure.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001508</infon>
+                    <location length="17" offset="29"/>
+                    <text>failure to thrive</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001635</infon>
+                    <location length="13" offset="51"/>
+                    <text>heart failure</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>291</offset>
+                <text>A patent ductus arteriosus was ligated at age 10 weeks.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001643</infon>
+                    <location length="24" offset="2"/>
+                    <text>patent ductus arteriosus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>347</offset>
+                <text>Following surgery he developed severe gastroesophageal reflux, refusing oral intake, and becoming exclusively tube fed.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002020</infon>
+                    <location length="23" offset="38"/>
+                    <text>gastroesophageal reflux</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>467</offset>
+                <text>His reflux was difficult to treat and he remained tube-fed until age 18 months.</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002020</infon>
+                    <location length="6" offset="4"/>
+                    <text>reflux</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>550</offset>
+                <text>His motor development was delayed; he started rolling at 8 months, sat independently at 12 months and walked at 17 months.</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="4"/>
+                    <text>motor development</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="26"/>
+                    <text>delayed</text>
+                </annotation>
+                <relation id="11">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001270</infon>
+                    <node refid="9" role="source"/>
+                    <node refid="10" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>673</offset>
+                <text>Age 19 months he has a few single words.</text>
+            </sentence>
+            <sentence>
+                <offset>714</offset>
+                <text>His facial appearance at 13 months of age is shown in Figure 2b.</text>
+            </sentence>
+            <sentence>
+                <offset>779</offset>
+                <text>He has a muscular build, with a narrow thorax and marked pectus carinatum.</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="14" offset="9"/>
+                    <text>muscular build</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000774</infon>
+                    <location length="13" offset="32"/>
+                    <text>narrow thorax</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000768</infon>
+                    <location length="16" offset="57"/>
+                    <text>pectus carinatum</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>854</offset>
+                <text>His digits are broad, with deep set nails and fetal finger pads (Fig. 4a,b).</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="4"/>
+                    <text>digits</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="4"/>
+                    <text>digits</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="15"/>
+                    <text>broad</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="15"/>
+                    <text>broad</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001814</infon>
+                    <location length="14" offset="27"/>
+                    <text>deep set nails</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001212</infon>
+                    <location length="11" offset="52"/>
+                    <text>finger pads</text>
+                </annotation>
+                <relation id="18">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001500</infon>
+                    <node refid="15" role="source"/>
+                    <node refid="17" role="target"/>
+                </relation>
+                <relation id="20">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001837</infon>
+                    <node refid="16" role="source"/>
+                    <node refid="19" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>931</offset>
+                <text>His great toe nails had to be removed age 19 months due to recurrent infections.</text>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002719</infon>
+                    <location length="10" offset="69"/>
+                    <text>infections</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1012</offset>
+                <text>He has also had recurrent chest infections for which he has been started on prophylactic antibiotics.</text>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002783</infon>
+                    <location length="16" offset="26"/>
+                    <text>chest infections</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1114</offset>
+                <text>His IgG and IgM levels were normal with slightly low IgA levels (&lt;0/2 g/L), immunoglobulin sub-classes and T-cell studies were not performed.</text>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002720</infon>
+                    <location length="14" offset="49"/>
+                    <text>low IgA levels</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1256</offset>
+                <text>He has a hoarse voice and stridor thought to be due to laryngomalacia.</text>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001609</infon>
+                    <location length="12" offset="9"/>
+                    <text>hoarse voice</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010307</infon>
+                    <location length="7" offset="26"/>
+                    <text>stridor</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001601</infon>
+                    <location length="14" offset="55"/>
+                    <text>laryngomalacia</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

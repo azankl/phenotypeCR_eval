@@ -1,0 +1,68 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿The couple, who are nonconsanguineous, has six healthy term gestations, and also a spontaneous first-trimester loss.</text>
+            </sentence>
+            <sentence>
+                <offset>118</offset>
+                <text>In the first affected pregnancy, a second-trimester sonogram demonstrated marked shortness of all long bones, thoracic dystrophy with thin short ribs, cystic hygroma with multiple septations, and normal calvarial ossification, suspicious for some form of achondrogenesis.</text>
+            </sentence>
+            <sentence>
+                <offset>390</offset>
+                <text>Cytogenetic studies performed on amniocentesis fluid showed an apparently normal female karyotype (46,XX).</text>
+            </sentence>
+            <sentence>
+                <offset>497</offset>
+                <text>The patient developed polyhydramnios and underwent spontaneous rupture of membranes at weeks of gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>604</offset>
+                <text>She had a spontaneous vaginal delivery; the infant lived for approximately 40 min.</text>
+            </sentence>
+            <sentence>
+                <offset>687</offset>
+                <text>Measurements at autopsy included 25.0 cm crown-to-heel length, 23.0 cm crown-to-rump length, 1,560 g body weight, and 33.0 cm head circumference.</text>
+            </sentence>
+            <sentence>
+                <offset>833</offset>
+                <text>Radiographic examination showed marked shortness of the long bones with flared femoral and humeral metaphyses, short ribs, and decreased vertebral body calcification.</text>
+            </sentence>
+            <sentence>
+                <offset>1000</offset>
+                <text>External examination (Fig. 1A) showed severe symmetric micromelia, small chest, short neck with large head, protuberant abdomen, and hydrops.</text>
+            </sentence>
+            <sentence>
+                <offset>1142</offset>
+                <text>The forehead was prominent, and there was a depressed nose with flare of nasal alae.</text>
+            </sentence>
+            <sentence>
+                <offset>1227</offset>
+                <text>A cleft palate was also present.</text>
+            </sentence>
+            <sentence>
+                <offset>1260</offset>
+                <text>Lungs were hypoplastic.</text>
+            </sentence>
+            <sentence>
+                <offset>1284</offset>
+                <text>Microscopic examination showed a severe disturbance of enchondral ossification with disordered chondrocytes that had abundant clear cytoplasm and were present within large lacunae.</text>
+            </sentence>
+            <sentence>
+                <offset>1465</offset>
+                <text>The lungs were immature for gestational age.</text>
+            </sentence>
+            <sentence>
+                <offset>1510</offset>
+                <text>These findings were considered consistent with ACG2.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

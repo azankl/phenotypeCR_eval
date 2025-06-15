@@ -1,0 +1,58 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This boy was the second child of healthy consanguineous Turkish parents.</text>
+            </sentence>
+            <sentence>
+                <offset>73</offset>
+                <text>The prenatal history was unremarkable but congenital cataracts were noted at birth.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000518</infon>
+                    <location length="9" offset="53"/>
+                    <text>cataracts</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>157</offset>
+                <text>At the time of last examination (3 years), the growth parameters were normal: height 99 cm (25th centile), weight 14 kg (10th–25th centile) and head circumference 48.5 cm (3rd–10th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>348</offset>
+                <text>The only dysmorphic feature was forward facing ear lobes and no dental anomalies were noted.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011263</infon>
+                    <location length="24" offset="32"/>
+                    <text>forward facing ear lobes</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>441</offset>
+                <text>There was bilateral genu valgum (Fig. 1).</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002857</infon>
+                    <location length="11" offset="20"/>
+                    <text>genu valgum</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>483</offset>
+                <text>Intelligence was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>508</offset>
+                <text>Abdominal and heart ultrasounds were normal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

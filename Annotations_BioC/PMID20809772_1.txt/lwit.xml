@@ -1,0 +1,307 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The patient was born at 40 weeks gestational age by Cesarean section for oligohydramnios.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001562</infon>
+                    <location length="15" offset="73"/>
+                    <text>oligohydramnios</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>90</offset>
+                <text>A diagnosis of Pfeiffer syndrome was made based on multiple congenital anomalies including bicoronal and lambdoid craniosynostosis, midface hypoplasia, proptosis, broad great toes and broad medially deviated thumbs (Figure 1).</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="91"/>
+                    <text>bicoronal</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004443</infon>
+                    <location length="25" offset="105"/>
+                    <text>lambdoid craniosynostosis</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="114"/>
+                    <text>craniosynostosis</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011800</infon>
+                    <location length="18" offset="132"/>
+                    <text>midface hypoplasia</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000520</infon>
+                    <location length="9" offset="152"/>
+                    <text>proptosis</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010055</infon>
+                    <location length="16" offset="163"/>
+                    <text>broad great toes</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="184"/>
+                    <text>broad</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009603</infon>
+                    <location length="24" offset="190"/>
+                    <text>medially deviated thumbs</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011304</infon>
+                    <location length="6" offset="208"/>
+                    <text>thumbs</text>
+                </annotation>
+                <relation id="5">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011318</infon>
+                    <node refid="2" role="source"/>
+                    <node refid="4" role="target"/>
+                </relation>
+                <relation id="10">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011304</infon>
+                    <node refid="11" role="source"/>
+                    <node refid="9" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>317</offset>
+                <text>She also had natal teeth and a complete cartilagenous tracheal sleeve with a normal caliber airway.</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000695</infon>
+                    <location length="11" offset="13"/>
+                    <text>natal teeth</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005347</infon>
+                    <location length="29" offset="40"/>
+                    <text>cartilagenous tracheal sleeve</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>417</offset>
+                <text>Bony abnormalities included radio-ulnar synostosis, humeral-radial synostosis, fused butterfly vertebrae and 11 pairs of ribs.</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005037</infon>
+                    <location length="22" offset="28"/>
+                    <text>radio-ulnar synostosis</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003041</infon>
+                    <location length="25" offset="52"/>
+                    <text>humeral-radial synostosis</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="79"/>
+                    <text>fused</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003316</infon>
+                    <location length="19" offset="85"/>
+                    <text>butterfly vertebrae</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="95"/>
+                    <text>vertebrae</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000878</infon>
+                    <location length="16" offset="109"/>
+                    <text>11 pairs of ribs</text>
+                </annotation>
+                <relation id="18">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002948</infon>
+                    <node refid="19" role="source"/>
+                    <node refid="17" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>544</offset>
+                <text>She had an anteriorly displaced anus, a right pelvic kidney, bilateral aural atresia and bilateral hearing loss from bilateral ear canal stenosis.</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001545</infon>
+                    <location length="25" offset="11"/>
+                    <text>anteriorly displaced anus</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000125</infon>
+                    <location length="13" offset="46"/>
+                    <text>pelvic kidney</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000413</infon>
+                    <location length="13" offset="71"/>
+                    <text>aural atresia</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000365</infon>
+                    <location length="12" offset="99"/>
+                    <text>hearing loss</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000402</infon>
+                    <location length="18" offset="127"/>
+                    <text>ear canal stenosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>691</offset>
+                <text>Cardiac anomalies included an atrial septal aneurysm.</text>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011995</infon>
+                    <location length="22" offset="30"/>
+                    <text>atrial septal aneurysm</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>748</offset>
+                <text>Ophthalmic examination on day 21 of life showed aversion to light in each eye as well as an exotropia of 35 prism diopters by Krimsky light reflex.</text>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000613</infon>
+                    <location length="17" offset="48"/>
+                    <text>aversion to light</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000577</infon>
+                    <location length="9" offset="92"/>
+                    <text>exotropia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>896</offset>
+                <text>External exam was significant for shallow orbits with moderate proptosis, however no lagophthalmos or exposure keratopathy were noted (Figure 1).</text>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000586</infon>
+                    <location length="14" offset="34"/>
+                    <text>shallow orbits</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000520</infon>
+                    <location length="9" offset="63"/>
+                    <text>proptosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1042</offset>
+                <text>Anterior segment was anomalous bilaterally, with microcornea (corneal diameters of 8.0 mm) of both eyes, scleralization of both corneas at the limbus, most prominent superiorly, and corectopia with minimally reactive, superiorly displaced pupils, approximately 2 mm in diameter (Figure 2).</text>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="0"/>
+                    <text>Anterior segment</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="21"/>
+                    <text>anomalous</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000482</infon>
+                    <location length="11" offset="49"/>
+                    <text>microcornea</text>
+                </annotation>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="105"/>
+                    <text>scleralization</text>
+                </annotation>
+                <annotation id="38">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="128"/>
+                    <text>corneas</text>
+                </annotation>
+                <annotation id="39">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009918</infon>
+                    <location length="10" offset="182"/>
+                    <text>corectopia</text>
+                </annotation>
+                <annotation id="40">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009918</infon>
+                    <location length="16" offset="229"/>
+                    <text>displaced pupils</text>
+                </annotation>
+                <relation id="34">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000593</infon>
+                    <node refid="32" role="source"/>
+                    <node refid="33" role="target"/>
+                </relation>
+                <relation id="37">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000647</infon>
+                    <node refid="38" role="source"/>
+                    <node refid="36" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1332</offset>
+                <text>Dilated fundus exam showed increased cup to disc ratio of 0.7 with no optic nerve pallor or edema.</text>
+            </sentence>
+            <sentence>
+                <offset>1431</offset>
+                <text>Otherwise the retinal vessels, macula and periphery were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1496</offset>
+                <text>Intraocular pressures were 23 mm Hg in both eyes prompting concern for glaucoma secondary to anterior chamber anomalies.</text>
+                <annotation id="41">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000501</infon>
+                    <location length="8" offset="71"/>
+                    <text>glaucoma</text>
+                </annotation>
+                <annotation id="42">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000593</infon>
+                    <location length="27" offset="93"/>
+                    <text>anterior chamber anomalies.</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1617</offset>
+                <text>Cosopt was initiated, which lowered intraocular pressures to 15mmHg.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,114 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 6 is the first child of nonconsanguineous parents.</text>
+            </sentence>
+            <sentence>
+                <offset>59</offset>
+                <text>He was born at 31 weeks of gestation weighing 2.336 kg (&gt;97th centile) with a head circumference of 30.6 cm (90th centile), following a pregnancy complicated by pre-eclampsia.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Preeclampsia HP:0100602</infon>
+                    <location length="13" offset="161"/>
+                    <text>pre-eclampsia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>235</offset>
+                <text>He has two younger sibs who are well and both of these pregnancies were also complicated by pre-eclampsia.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Preeclampsia HP:0100602</infon>
+                    <location length="13" offset="92"/>
+                    <text>pre-eclampsia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>342</offset>
+                <text>He was initially noted to have a patent ductus arteriosus but this closed spontaneously.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001643</infon>
+                    <location length="24" offset="33"/>
+                    <text>patent ductus arteriosus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>431</offset>
+                <text>His cranial ultrasound images showed a right choroid plexus cyst and a very small resolving left germinal matrix hemorrhage.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002190</infon>
+                    <location length="19" offset="45"/>
+                    <text>choroid plexus cyst</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030748</infon>
+                    <location length="26" offset="97"/>
+                    <text>germinal matrix hemorrhage</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>559</offset>
+                <text>Motor and speech development were delayed, he crawled at 16 months, and walked at 2 years.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="0"/>
+                    <text>Motor</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="18" offset="10"/>
+                    <text>speech development</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="34"/>
+                    <text>delayed</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="34"/>
+                    <text>delayed</text>
+                </annotation>
+                <relation id="10">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000750</infon>
+                    <node refid="7" role="source"/>
+                    <node refid="8" role="target"/>
+                </relation>
+                <relation id="11">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001270</infon>
+                    <node refid="6" role="source"/>
+                    <node refid="9" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>650</offset>
+                <text>However, on review at age 4 years he had made considerable developmental progress and following his pre-school assessment it was decided that he did not need a statement of educational needs.</text>
+            </sentence>
+            <sentence>
+                <offset>842</offset>
+                <text>His clinical findings are illustrated in Figures 3c,d, 4c,d, and 5c.</text>
+            </sentence>
+            <sentence>
+                <offset>911</offset>
+                <text>Age 4 years his head circumference is &gt;97th centile with his height and weight on 75th and 98th centiles, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>1031</offset>
+                <text>His mother's head circumference is also &gt;97th centile with no other features of Cantú syndrome.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

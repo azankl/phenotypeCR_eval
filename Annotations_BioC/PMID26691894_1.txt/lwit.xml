@@ -1,0 +1,281 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The patient, now 15 years of age, was initially referred for medical genetics consultation at age 10 regarding short stature, renal cysts, and dental anomalies.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004322</infon>
+                    <location length="13" offset="111"/>
+                    <text>short stature</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000107</infon>
+                    <location length="11" offset="126"/>
+                    <text>renal cysts</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000164</infon>
+                    <location length="16" offset="143"/>
+                    <text>dental anomalies</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>161</offset>
+                <text>He was born after an uneventful pregnancy in Pakistan, but birth records are not available.</text>
+            </sentence>
+            <sentence>
+                <offset>253</offset>
+                <text>He had one early hospitalization for a febrile illness, but otherwise his early childhood, including achievement of developmental milestones, was completely normal.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001945</infon>
+                    <location length="15" offset="39"/>
+                    <text>febrile illness</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>418</offset>
+                <text>His parents are both originally from Pakistan and are fourth cousins.</text>
+            </sentence>
+            <sentence>
+                <offset>488</offset>
+                <text>He has two healthy younger siblings and there is no family history of dental or renal anomalies.</text>
+            </sentence>
+            <sentence>
+                <offset>588</offset>
+                <text>He was evaluated by nephrology and urology after initially presenting with enuresis.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000805</infon>
+                    <location length="8" offset="75"/>
+                    <text>enuresis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>673</offset>
+                <text>Investigations revealed multiple small renal cysts, chronic renal failure, and hypertension.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000107</infon>
+                    <location length="11" offset="39"/>
+                    <text>renal cysts</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000083</infon>
+                    <location length="13" offset="60"/>
+                    <text>renal failure</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000822</infon>
+                    <location length="12" offset="79"/>
+                    <text>hypertension</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>766</offset>
+                <text>On presentation at age 12, a 24 hr urine analysis showed a creatinine clearance of 86 ml/min/1.73m2 with a urine output of 1264 ml/m2/d.</text>
+            </sentence>
+            <sentence>
+                <offset>903</offset>
+                <text>Further, testing showed that his kidney function is declining at a rate of approximately 7 ml/min/1.73m2/year and he will be expected to require renal replacement therapy at the age of 23 years with this rate of decline.</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="33"/>
+                    <text>kidney function</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="52"/>
+                    <text>declining</text>
+                </annotation>
+                <relation id="11">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012213</infon>
+                    <node refid="9" role="source"/>
+                    <node refid="10" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1124</offset>
+                <text>His urinalysis has been normal with a normal protein: creatinine ratio of 15 mg:mmol.</text>
+            </sentence>
+            <sentence>
+                <offset>1210</offset>
+                <text>Serial imaging of his liver has identified multiple regions of abnormal echogenicity, but despite that, liver function tests have been repeatedly normal.</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="22"/>
+                    <text>liver</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="21" offset="63"/>
+                    <text>abnormal echogenicity</text>
+                </annotation>
+                <relation id="14">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031142</infon>
+                    <node refid="12" role="source"/>
+                    <node refid="13" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1364</offset>
+                <text>He is also missing several permanent teeth.</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="11"/>
+                    <text>missing</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="27"/>
+                    <text>permanent teeth</text>
+                </annotation>
+                <relation id="16">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006349</infon>
+                    <node refid="17" role="source"/>
+                    <node refid="15" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1408</offset>
+                <text>An ophthalmology examination by a retinal specialist at age 15 revealed normal eyes, normal vision, and no clinical evidence of retinal disease.</text>
+            </sentence>
+            <sentence>
+                <offset>1553</offset>
+                <text>On initial presentation at age 12 his height was 110 cm (−5 SD), weight was 20 kg (−3 SD), and head circumference was 51.5 cm (25th percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>1698</offset>
+                <text>On examination at age 15 he has short stature (height of 126 cm (−6 SD).</text>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="32"/>
+                    <text>short stature</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1771</offset>
+                <text>Head shape is normal, as is hair texture and distribution.</text>
+            </sentence>
+            <sentence>
+                <offset>1830</offset>
+                <text>He has epicanthal folds and multiple missing teeth but no other craniofacial differences.</text>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000286</infon>
+                    <location length="16" offset="7"/>
+                    <text>epicanthal folds</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006349</infon>
+                    <location length="13" offset="37"/>
+                    <text>missing teeth</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1920</offset>
+                <text>He has a narrow chest (Fig. 1), with chest circumference 58.8 cm (&lt;3 percentile) and inter-nipple distance 12 cm (&lt;3rd percentile).</text>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000774</infon>
+                    <location length="12" offset="9"/>
+                    <text>narrow chest</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2052</offset>
+                <text>He has small hands (hand length 13.8 cm and palm length of 8 cm, both well below 3rd centile) and feet (foot length 17 cm) and a muscular build.</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="11" offset="7"/>
+                    <text>small hands</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="5" offset="7"/>
+                    <text>small</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="98"/>
+                    <text>feet</text>
+                </annotation>
+                <relation id="24">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="25" role="source"/>
+                    <node refid="23" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2197</offset>
+                <text>Further, investigations reveal a delayed bone age and a number of non-specific findings on skeletal survey including short ribs, fusion of L4, and L5 vertebral bodies, relative shortening of the tubular bones and distal phalanges of the feet (Fig. 2).</text>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002750</infon>
+                    <location length="16" offset="33"/>
+                    <text>delayed bone age</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000773</infon>
+                    <location length="10" offset="117"/>
+                    <text>short ribs</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030040</infon>
+                    <location length="37" offset="129"/>
+                    <text>fusion of L4, and L5 vertebral bodies</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003026</infon>
+                    <location length="31" offset="177"/>
+                    <text>shortening of the tubular bones</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="177"/>
+                    <text>shortening</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="28" offset="213"/>
+                    <text>distal phalanges of the feet</text>
+                </annotation>
+                <relation id="31">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001857</infon>
+                    <node refid="32" role="source"/>
+                    <node refid="30" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2449</offset>
+                <text>Despite, his small size he is active and a remarkable athlete, and participates in competitive sports.</text>
+            </sentence>
+            <sentence>
+                <offset>2552</offset>
+                <text>He has no major issues with school performance.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,68 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 is the first child of healthy non-consanguineous Korean parents.</text>
+            </sentence>
+            <sentence>
+                <offset>75</offset>
+                <text>He was diagnosed with bilateral cataract and strabismus at six months of age.</text>
+            </sentence>
+            <sentence>
+                <offset>153</offset>
+                <text>He had normal dentition.</text>
+            </sentence>
+            <sentence>
+                <offset>178</offset>
+                <text>He had a grooved nasal tip.</text>
+            </sentence>
+            <sentence>
+                <offset>206</offset>
+                <text>He has some developmental delay, particularly in the domain of motor skills.</text>
+            </sentence>
+            <sentence>
+                <offset>283</offset>
+                <text>A developmental assessment at age 2 years was consistent with a child of 7 to 8 months.</text>
+            </sentence>
+            <sentence>
+                <offset>371</offset>
+                <text>He began walking at 18 months of age but developed progressive genu valgum and patellar dislocation and has limited ambulation.</text>
+            </sentence>
+            <sentence>
+                <offset>499</offset>
+                <text>Surgery was only partially corrective.</text>
+            </sentence>
+            <sentence>
+                <offset>538</offset>
+                <text>Thyroid function testing and ultrasound examinations of the heart and abdomen were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>629</offset>
+                <text>A brain MRI at 3 years of age showed cerebellar atrophy.</text>
+            </sentence>
+            <sentence>
+                <offset>686</offset>
+                <text>Radiographic examination showed generalized epiphyseal dysplasia with ossification of the capital femoral epiphyses at age 4 and very small distal femoral and proximal tibial epiphyses.</text>
+            </sentence>
+            <sentence>
+                <offset>872</offset>
+                <text>The distal femoral metaphyses have a chevron deformity (inverted V shape defect) and there was bilateral severe genu valgum deformity (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>1016</offset>
+                <text>There was mild platyspondyly but no evidence of coronal clefts (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>1089</offset>
+                <text>His height and weight were both at the 50th centile.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

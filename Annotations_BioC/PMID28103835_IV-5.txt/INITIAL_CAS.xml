@@ -1,0 +1,52 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿His younger brother (IV-5) presented at 3 years of age with similar features of short stature, hyperactivity, developmental delay, and dysmorphic features.</text>
+            </sentence>
+            <sentence>
+                <offset>157</offset>
+                <text>His weight stayed below the 3rd centile since his birth, and weight was below the 10th centile.</text>
+            </sentence>
+            <sentence>
+                <offset>253</offset>
+                <text>Like his brother, he had a broad forehead with a widow’s peak, bilateral partial ptosis, blepharophimosis, telecanthus, hypertelorism, epicanthic folds, down slanting palpebral fissures, broad nasal bridge, short nose, anteverted nostrils, short philtrum, malformed ears with thickened helix, and a short neck (Fig. 2a).</text>
+            </sentence>
+            <sentence>
+                <offset>574</offset>
+                <text>Detailed ophthalmologic examination revealed overacting frontalis muscle, bilaterally poor levator muscle function, and poor Bells phenomenon.</text>
+            </sentence>
+            <sentence>
+                <offset>717</offset>
+                <text>He was investigated at the ENT clinic for snoring, and found to have mild right eardrum retraction and a long uvula.</text>
+            </sentence>
+            <sentence>
+                <offset>834</offset>
+                <text>At the age of 2 ¾ years, he was unable to throw a ball, walk backwards or to the sides, tiptoe, perform a tandem gait, stand on one leg, draw a line, or bead a thread.</text>
+            </sentence>
+            <sentence>
+                <offset>1002</offset>
+                <text>He could not differentiate between night and day.</text>
+            </sentence>
+            <sentence>
+                <offset>1052</offset>
+                <text>He was aggressive and hyperactive.</text>
+            </sentence>
+            <sentence>
+                <offset>1087</offset>
+                <text>His hands were broad and short, with brachydactyly, and bilateral fifth finger clinodactyly (Fig. 2b).</text>
+            </sentence>
+            <sentence>
+                <offset>1190</offset>
+                <text>Like his brother, he had low set, widely spaced nipples (Fig. 2c).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

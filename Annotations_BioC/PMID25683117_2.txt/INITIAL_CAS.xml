@@ -1,0 +1,48 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 2 was the only son of healthy and non-consanguineous parents.</text>
+            </sentence>
+            <sentence>
+                <offset>73</offset>
+                <text>He was brought to medical attention at 2 months of age, when the presence of several fractures, micrognathia, frontal bossing, and ocular proptosis were noted.</text>
+            </sentence>
+            <sentence>
+                <offset>233</offset>
+                <text>The anterior fontanel was very large and contiguous with the posterior fontanel.</text>
+            </sentence>
+            <sentence>
+                <offset>314</offset>
+                <text>He developed communicating hydrocephalus in the first 18 months of life.</text>
+            </sentence>
+            <sentence>
+                <offset>387</offset>
+                <text>He first presented at our institution at 18 years of age, with severe scoliosis and marked deformity of the upper and lower extremities with “popcorn epiphyses” in the distal femur and proximal tibia (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>599</offset>
+                <text>He used a wheelchair for all mobility.</text>
+            </sentence>
+            <sentence>
+                <offset>638</offset>
+                <text>Height was 97 cm (Z score: −11.7) and lumbar spine areal bone mineral density Z score was −5.1.</text>
+            </sentence>
+            <sentence>
+                <offset>734</offset>
+                <text>Serum levels of calcium, inorganic phosphorus, creatinine, alkaline phosphatase, and parathyroid hormone were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>852</offset>
+                <text>Intravenous pamidronate treatment, given for 3 years, was associated with an increase in lumbar spine areal bone mineral density Z score to −4.2, and otherwise unchanged clinical status.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

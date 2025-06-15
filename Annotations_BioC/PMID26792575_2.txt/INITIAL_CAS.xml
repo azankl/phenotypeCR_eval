@@ -1,0 +1,64 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 is a 3-year-old girl and the first child to healthy, non-consanguineous Argentinian parents.</text>
+            </sentence>
+            <sentence>
+                <offset>103</offset>
+                <text>She was born as term following an uncomplicated pregnancy with a birth weight of 3.15 kg (50th centile), birth length of 49 cm (50th centile), and a head circumference of 37 cm (+ 2SD).</text>
+            </sentence>
+            <sentence>
+                <offset>289</offset>
+                <text>She had a mild persistent ductus arteriosus.</text>
+            </sentence>
+            <sentence>
+                <offset>334</offset>
+                <text>A complex, multi-sutural craniosynostosis was diagnosed during the second month of life.</text>
+            </sentence>
+            <sentence>
+                <offset>423</offset>
+                <text>Surgical intervention was undertaken in two stages, namely, at 2 and 15 months, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>517</offset>
+                <text>She has macrocephaly, dolichocephaly, a high forehead, telecanthus, epicanthic folds, broad nasal bridge, a long philtrum, full cheeks, and an everted lower lip.</text>
+            </sentence>
+            <sentence>
+                <offset>679</offset>
+                <text>She has small teeth with enamel dysplasia.</text>
+            </sentence>
+            <sentence>
+                <offset>722</offset>
+                <text>Like Patient 1, her hair is fine and sparse hair, a short neck with excess skin folds, and brachysyndactyly with fifth finger clinodactyly bilaterally (Fig. 2).</text>
+            </sentence>
+            <sentence>
+                <offset>883</offset>
+                <text>In the first year of life she also developed frequent respiratory infections, and testing for cystic fibrosis was negative.</text>
+            </sentence>
+            <sentence>
+                <offset>1007</offset>
+                <text>Her renal function was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1038</offset>
+                <text>Renal ultrasound scan showed normal size of both kidneys.</text>
+            </sentence>
+            <sentence>
+                <offset>1099</offset>
+                <text>At the age of 2 years and 5 months, she remains macrocephalic with normal weight and height.</text>
+            </sentence>
+            <sentence>
+                <offset>1192</offset>
+                <text>Her psychomotor development is normal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

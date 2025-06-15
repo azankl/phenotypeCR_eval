@@ -1,0 +1,154 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>We present a firstborn female infant of a non-consanguineous couple.</text>
+            </sentence>
+            <sentence>
+                <offset>69</offset>
+                <text>During routine ultrasound examination in the second trimester, incomplete mineralisation of the skull was found.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="25" offset="63"/>
+                    <text>incomplete mineralisation</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="96"/>
+                    <text>skull</text>
+                </annotation>
+                <relation id="2">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005474</infon>
+                    <node refid="3" role="source"/>
+                    <node refid="1" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>182</offset>
+                <text>This finding could not be confirmed during subsequent ultrasonographic examinations.</text>
+            </sentence>
+            <sentence>
+                <offset>267</offset>
+                <text>She was born by vaginal delivery at 39+6 weeks of gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>328</offset>
+                <text>Upon examination during labour, a soft presenting body was palpated and a breech presentation was suspected.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001623</infon>
+                    <location length="19" offset="74"/>
+                    <text>breech presentation</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>437</offset>
+                <text>Her Apgar scores at 1, 5 and 10 min were 9, 10 and 10, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>506</offset>
+                <text>Birth weight was 3240 g.</text>
+            </sentence>
+            <sentence>
+                <offset>531</offset>
+                <text>After birth, the skull had a normal outer appearance with an intact skin but felt soft when palpated.</text>
+            </sentence>
+            <sentence>
+                <offset>633</offset>
+                <text>A skull ultrasound revealed no definite abnormalities.</text>
+            </sentence>
+            <sentence>
+                <offset>688</offset>
+                <text>Subsequently, a low-dose three-dimensional CT scan of the skull was performed and complete absence of ossification of both parietal bones was found (figure 1).</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="23" offset="91"/>
+                    <text>absence of ossification</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="123"/>
+                    <text>parietal bones</text>
+                </annotation>
+                <relation id="6">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005623</infon>
+                    <node refid="7" role="source"/>
+                    <node refid="5" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>848</offset>
+                <text>This finding prompted the fitting of a protective helmet.</text>
+            </sentence>
+            <sentence>
+                <offset>906</offset>
+                <text>CCD was suspected by the clinical geneticist.</text>
+            </sentence>
+            <sentence>
+                <offset>952</offset>
+                <text>The family history identified no other members with bone abnormalities, delayed ossification or short stature.</text>
+            </sentence>
+            <sentence>
+                <offset>1064</offset>
+                <text>Additional radiographic investigations showed complete aplasia of the right clavicle, a hypoplastic left clavicle, decreased/delayed ossification of the pubic bones and wide sacroiliac joints.</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="55"/>
+                    <text>aplasia</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="76"/>
+                    <text>clavicle</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="88"/>
+                    <text>hypoplastic</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="105"/>
+                    <text>clavicle</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008788</infon>
+                    <location length="39" offset="125"/>
+                    <text>delayed ossification of the pubic bones</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="22" offset="169"/>
+                    <text>wide sacroiliac joints</text>
+                </annotation>
+                <relation id="9">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006710</infon>
+                    <node refid="10" role="source"/>
+                    <node refid="8" role="target"/>
+                </relation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006710</infon>
+                    <node refid="13" role="source"/>
+                    <node refid="11" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1257</offset>
+                <text>DNA investigation of the RUNX2 gene identified a heterozygous nonsense mutation at nucleotide 1113 in exon 7.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

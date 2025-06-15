@@ -1,0 +1,192 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 is the first child of healthy non-consanguineous Korean parents.</text>
+            </sentence>
+            <sentence>
+                <offset>75</offset>
+                <text>He was diagnosed with bilateral cataract and strabismus at six months of age.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000518</infon>
+                    <location length="8" offset="32"/>
+                    <text>cataract</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000486</infon>
+                    <location length="10" offset="45"/>
+                    <text>strabismus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>153</offset>
+                <text>He had normal dentition.</text>
+            </sentence>
+            <sentence>
+                <offset>178</offset>
+                <text>He had a grooved nasal tip.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004112</infon>
+                    <location length="17" offset="9"/>
+                    <text>grooved nasal tip</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>206</offset>
+                <text>He has some developmental delay, particularly in the domain of motor skills.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="19" offset="12"/>
+                    <text>developmental delay</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="63"/>
+                    <text>motor skills</text>
+                </annotation>
+                <relation id="5">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001270</infon>
+                    <node refid="6" role="source"/>
+                    <node refid="4" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>283</offset>
+                <text>A developmental assessment at age 2 years was consistent with a child of 7 to 8 months.</text>
+            </sentence>
+            <sentence>
+                <offset>371</offset>
+                <text>He began walking at 18 months of age but developed progressive genu valgum and patellar dislocation and has limited ambulation.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002857</infon>
+                    <location length="11" offset="63"/>
+                    <text>genu valgum</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002999</infon>
+                    <location length="20" offset="79"/>
+                    <text>patellar dislocation</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002355</infon>
+                    <location length="18" offset="108"/>
+                    <text>limited ambulation</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>499</offset>
+                <text>Surgery was only partially corrective.</text>
+            </sentence>
+            <sentence>
+                <offset>538</offset>
+                <text>Thyroid function testing and ultrasound examinations of the heart and abdomen were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>629</offset>
+                <text>A brain MRI at 3 years of age showed cerebellar atrophy.</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001272</infon>
+                    <location length="18" offset="37"/>
+                    <text>cerebellar atrophy</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>686</offset>
+                <text>Radiographic examination showed generalized epiphyseal dysplasia with ossification of the capital femoral epiphyses at age 4 and very small distal femoral and proximal tibial epiphyses.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002656</infon>
+                    <location length="20" offset="44"/>
+                    <text>epiphyseal dysplasia</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="20" offset="134"/>
+                    <text>small distal femoral</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="134"/>
+                    <text>small</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="25" offset="159"/>
+                    <text>proximal tibial epiphyses</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="175"/>
+                    <text>epiphyses</text>
+                </annotation>
+                <relation id="13">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012283</infon>
+                    <node refid="14" role="source"/>
+                    <node refid="12" role="target"/>
+                </relation>
+                <relation id="16">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012284</infon>
+                    <node refid="17" role="source"/>
+                    <node refid="15" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>872</offset>
+                <text>The distal femoral metaphyses have a chevron deformity (inverted V shape defect) and there was bilateral severe genu valgum deformity (Fig. 1).</text>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="25" offset="4"/>
+                    <text>distal femoral metaphyses</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="17" offset="37"/>
+                    <text>chevron deformity</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002857</infon>
+                    <location length="11" offset="112"/>
+                    <text>genu valgum</text>
+                </annotation>
+                <relation id="20">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="18" role="source"/>
+                    <node refid="19" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1016</offset>
+                <text>There was mild platyspondyly but no evidence of coronal clefts (Fig. 1).</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000926</infon>
+                    <location length="13" offset="15"/>
+                    <text>platyspondyly</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1089</offset>
+                <text>His height and weight were both at the 50th centile.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

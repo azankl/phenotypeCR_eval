@@ -1,0 +1,32 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The 58-year-old paternal grandmother of the index patient had mild brachycephaly, laterally flared eyebrows, mild ptosis of the left upper lid, convergent strabism, prominent nose with a bulbous tip, mandibular prognathism and long, posteriorly rotated ears.</text>
+            </sentence>
+            <sentence>
+                <offset>259</offset>
+                <text>Clinodactyly of the 2nd fingers were more obvious than in the proband's father.</text>
+            </sentence>
+            <sentence>
+                <offset>339</offset>
+                <text>She had triangular-shaped nails on the broad 1st toes and had apparently short metatarsal bones.</text>
+            </sentence>
+            <sentence>
+                <offset>436</offset>
+                <text>Syndactyly was not present (Fig. 2I–L).</text>
+            </sentence>
+            <sentence>
+                <offset>476</offset>
+                <text>She told us that her mother had syndactyly of her toes, as well, but she was not accessible for clinical examination.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

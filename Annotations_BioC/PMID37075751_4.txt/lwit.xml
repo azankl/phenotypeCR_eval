@@ -1,0 +1,239 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 4 is an 18-month-old male who presented to genetics for evaluation of bilateral vocal cord paralysis, feeding difficulties, and hypotonia.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001605</infon>
+                    <location length="20" offset="91"/>
+                    <text>vocal cord paralysis</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011968</infon>
+                    <location length="20" offset="113"/>
+                    <text>feeding difficulties</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001252</infon>
+                    <location length="9" offset="139"/>
+                    <text>hypotonia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>150</offset>
+                <text>He was born at term with birth weight 2.7 kg, length 49.5 cm, and HC 35 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>226</offset>
+                <text>Vocal cord paralysis and a glottic web were diagnosed during an evaluation for inspiratory stridor.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001605</infon>
+                    <location length="20" offset="0"/>
+                    <text>Vocal cord paralysis</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005950</infon>
+                    <location length="11" offset="27"/>
+                    <text>glottic web</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005348</infon>
+                    <location length="19" offset="79"/>
+                    <text>inspiratory stridor</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>326</offset>
+                <text>He required gastrostomy tube placement due to aspiration, and ultimately required tracheostomy for airway management.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002835</infon>
+                    <location length="10" offset="46"/>
+                    <text>aspiration</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>444</offset>
+                <text>His physical exam was notable for long tapered fingers with bilateral fifth finger clinodactyly and single palmar crease on the right, mild toenail hypoplasia, and nevus flammeus on his forehead.</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="34"/>
+                    <text>long</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="39"/>
+                    <text>tapered fingers</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="47"/>
+                    <text>fingers</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004209</infon>
+                    <location length="25" offset="70"/>
+                    <text>fifth finger clinodactyly</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000954</infon>
+                    <location length="20" offset="100"/>
+                    <text>single palmar crease</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008386</infon>
+                    <location length="18" offset="140"/>
+                    <text>toenail hypoplasia</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="164"/>
+                    <text>nevus flammeus</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="186"/>
+                    <text>forehead</text>
+                </annotation>
+                <relation id="9">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100807</infon>
+                    <node refid="10" role="source"/>
+                    <node refid="8" role="target"/>
+                </relation>
+                <relation id="16">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007413</infon>
+                    <node refid="17" role="source"/>
+                    <node refid="15" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>640</offset>
+                <text>He had tall and wide palpebral fissures, a short nose with upturned tip, and small slightly low-set ears.</text>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="7"/>
+                    <text>tall</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000637</infon>
+                    <location length="23" offset="16"/>
+                    <text>wide palpebral fissures</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="18" offset="21"/>
+                    <text>palpebral fissures</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003196</infon>
+                    <location length="10" offset="43"/>
+                    <text>short nose</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="49"/>
+                    <text>nose</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="59"/>
+                    <text>upturned tip</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="77"/>
+                    <text>small</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000369</infon>
+                    <location length="12" offset="92"/>
+                    <text>low-set ears</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="100"/>
+                    <text>ears</text>
+                </annotation>
+                <relation id="19">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000637</infon>
+                    <node refid="20" role="source"/>
+                    <node refid="18" role="target"/>
+                </relation>
+                <relation id="25">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000463</infon>
+                    <node refid="23" role="source"/>
+                    <node refid="24" role="target"/>
+                </relation>
+                <relation id="27">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008551</infon>
+                    <node refid="28" role="source"/>
+                    <node refid="26" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>746</offset>
+                <text>Echocardiogram demonstrated anomalous origin of the right coronary artery from the left cusp.</text>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="28"/>
+                    <text>anomalous origin</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="21" offset="52"/>
+                    <text>right coronary artery</text>
+                </annotation>
+                <relation id="31">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025503</infon>
+                    <node refid="32" role="source"/>
+                    <node refid="30" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>840</offset>
+                <text>Clinical trio exome sequencing (GeneDx, Gaithersburg, MD) identified a maternally inherited variant in POLR1A c.1178G&gt;A; p.</text>
+            </sentence>
+            <sentence>
+                <offset>963</offset>
+                <text>(Arg393His) and a maternally inherited variant in PHEX c.160T&gt;C; p.</text>
+            </sentence>
+            <sentence>
+                <offset>1030</offset>
+                <text>(Cys54Arg) (NM_000444.6, GRCH 38), both variants of uncertain significance.</text>
+            </sentence>
+            <sentence>
+                <offset>1106</offset>
+                <text>Clinical SNP microarray was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1142</offset>
+                <text>Pathogenic variants in PHEX are associated with X-linked dominant hypophosphatemic rickets and the referring clinician for Individual 4 and his mother (Individual 5) felt that this did not fit their phenotype</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

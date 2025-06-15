@@ -1,0 +1,28 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 6 had a zygomatic bone aplasia and mandibular hypoplasia.</text>
+            </sentence>
+            <sentence>
+                <offset>66</offset>
+                <text>Ears were low set with a missing anthelix.</text>
+            </sentence>
+            <sentence>
+                <offset>109</offset>
+                <text>The left arm had a hypoplastic radius (Fig. 2l), on the right arm there was aplasia of the radius and thumb (Fig. 2k).</text>
+            </sentence>
+            <sentence>
+                <offset>228</offset>
+                <text>He had a congenital diaphragmatic hernia, resulting in lung hypoplasia, and died on the day of his birth.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

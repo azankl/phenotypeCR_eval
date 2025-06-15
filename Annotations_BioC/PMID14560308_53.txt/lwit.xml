@@ -1,0 +1,172 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 53 was born by a full-term spontaneous vaginal delivery with uneventful perinatal history.</text>
+            </sentence>
+            <sentence>
+                <offset>100</offset>
+                <text>Family history was negative.</text>
+            </sentence>
+            <sentence>
+                <offset>129</offset>
+                <text>Birth weight was 3350 g.</text>
+            </sentence>
+            <sentence>
+                <offset>154</offset>
+                <text>At the age of 1.3 years, the child presented an unusual facial appearance and short stature.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001999</infon>
+                    <location length="25" offset="48"/>
+                    <text>unusual facial appearance</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004322</infon>
+                    <location length="13" offset="78"/>
+                    <text>short stature</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>247</offset>
+                <text>Weight was 10.10 kg (25th percentile), height 76 cm (10th percentile) and head circumference was 45.5 cm (5th percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>370</offset>
+                <text>He presented with hypertelorism (inner canthal distance 3.9 cm; &gt;97th percentile – outer canthal distance 11.5 cm; &gt;97th percentile), antimongoloid slant of palpebral fissures, widow's peak, small nose with anteverted nares, long philtrum, cutaneous syndactyly with brachydactyly and clinodactyly of the Vth fingers, transverse palmar crease (Figure 1).</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="18"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000494</infon>
+                    <location length="41" offset="134"/>
+                    <text>antimongoloid slant of palpebral fissures</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000349</infon>
+                    <location length="12" offset="177"/>
+                    <text>widow's peak</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003196</infon>
+                    <location length="10" offset="191"/>
+                    <text>small nose</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000463</infon>
+                    <location length="16" offset="207"/>
+                    <text>anteverted nares</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000343</infon>
+                    <location length="13" offset="225"/>
+                    <text>long philtrum</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012725</infon>
+                    <location length="20" offset="240"/>
+                    <text>cutaneous syndactyly</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="266"/>
+                    <text>brachydactyly</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="284"/>
+                    <text>clinodactyly</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="304"/>
+                    <text>Vth fingers</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="304"/>
+                    <text>Vth fingers</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000954</infon>
+                    <location length="24" offset="317"/>
+                    <text>transverse palmar crease</text>
+                </annotation>
+                <relation id="11">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009237</infon>
+                    <node refid="12" role="source"/>
+                    <node refid="10" role="target"/>
+                </relation>
+                <relation id="14">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004209</infon>
+                    <node refid="15" role="source"/>
+                    <node refid="13" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>724</offset>
+                <text>The child also had a shawl scrotum, right cryptorchidism, a small right inguinal hernia and an umbilical hernia.</text>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000049</infon>
+                    <location length="13" offset="21"/>
+                    <text>shawl scrotum</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000028</infon>
+                    <location length="14" offset="42"/>
+                    <text>cryptorchidism</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000023</infon>
+                    <location length="15" offset="72"/>
+                    <text>inguinal hernia</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001537</infon>
+                    <location length="16" offset="95"/>
+                    <text>umbilical hernia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>842</offset>
+                <text>Molecular analysis revealed a single nucleotide deletion (982delC; exon 4).</text>
+            </sentence>
+            <sentence>
+                <offset>918</offset>
+                <text>This mutation resulted in a frameshift after codon 327 and a predicted premature termination at the codon 359.</text>
+            </sentence>
+            <sentence>
+                <offset>1029</offset>
+                <text>The 982delC mutation was not present in his phenotypically normal mother.</text>
+            </sentence>
+            <sentence>
+                <offset>1103</offset>
+                <text>As he is the only affected member in his family, the mutation possibly arose de novo or from a maternal germline mosaicism.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,150 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 1B
+
+Antenatally diagnosed hydronephrosis.</text>
+            </sentence>
+            <sentence>
+                <offset>53</offset>
+                <text>Term delivery His birth weight was 4 pounds and his length was 14 ¾ inches.</text>
+            </sentence>
+            <sentence>
+                <offset>129</offset>
+                <text>He is known for bilateral severe vesicoureteral reflux causing severe hydronephrosis, impaired renal function and hypertension.</text>
+            </sentence>
+            <sentence>
+                <offset>257</offset>
+                <text>Bilateral reimplantation of ureteras at age 3.</text>
+            </sentence>
+            <sentence>
+                <offset>304</offset>
+                <text>He also has velopharyngeal insufficiency, a submucous cleft palate, mild conductive hearing loss, asthma, 2 febrile seizures, congenital right hip dislocation which was repaired at 3 years of age.</text>
+            </sentence>
+            <sentence>
+                <offset>501</offset>
+                <text>History of transient neutropenia, but otherwise no hematological anomalies.</text>
+            </sentence>
+            <sentence>
+                <offset>577</offset>
+                <text>Bilaterally dislocatable patellae, operated at age 20.</text>
+            </sentence>
+            <sentence>
+                <offset>632</offset>
+                <text>Some neck pain and ankle rigidity.</text>
+            </sentence>
+            <sentence>
+                <offset>667</offset>
+                <text>Normal development and intelligence.</text>
+            </sentence>
+            <sentence>
+                <offset>705</offset>
+                <text>Physical examination.</text>
+            </sentence>
+            <sentence>
+                <offset>727</offset>
+                <text>Height 128 cm (-7 SD), Weight 26 kg (-5 SD) Head circumference 53 cm (10th centile), Hands 15 cm (-3 SD), feet 17.5 cm (-5 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>855</offset>
+                <text>There is bitemporal narrowing.</text>
+            </sentence>
+            <sentence>
+                <offset>886</offset>
+                <text>Proptosis with slightly upslanting palpebral fissures and full eyebrows.</text>
+            </sentence>
+            <sentence>
+                <offset>959</offset>
+                <text>The chin is small but there are prominent alveolar processes of the maxilla and mandibule.</text>
+            </sentence>
+            <sentence>
+                <offset>1050</offset>
+                <text>The facial features are somewhat coarse.</text>
+            </sentence>
+            <sentence>
+                <offset>1091</offset>
+                <text>Zygomatic hypoplasia.</text>
+            </sentence>
+            <sentence>
+                <offset>1113</offset>
+                <text>The speech is hypernasal and the palate is high.</text>
+            </sentence>
+            <sentence>
+                <offset>1162</offset>
+                <text>The ears are lowset with prominauris.</text>
+            </sentence>
+            <sentence>
+                <offset>1200</offset>
+                <text>The chest is wide with mild pectus excavatum.</text>
+            </sentence>
+            <sentence>
+                <offset>1246</offset>
+                <text>The muscle mass is decreased.</text>
+            </sentence>
+            <sentence>
+                <offset>1276</offset>
+                <text>The elbows can’t be extended beyond 150 degrees but there is wrist hypermobility.</text>
+            </sentence>
+            <sentence>
+                <offset>1358</offset>
+                <text>Beighton score of 5/9, with points for hypermobility at the level of the hands and back.</text>
+            </sentence>
+            <sentence>
+                <offset>1447</offset>
+                <text>There is extendable camptodactyly of the 2nd-5th fingers.</text>
+            </sentence>
+            <sentence>
+                <offset>1505</offset>
+                <text>Tapering fingers.</text>
+            </sentence>
+            <sentence>
+                <offset>1523</offset>
+                <text>Pes planus with prominent heels.</text>
+            </sentence>
+            <sentence>
+                <offset>1556</offset>
+                <text>There were no abnormalities on the neurological exam except for bilateraly brisk deep tendon reflexes.</text>
+            </sentence>
+            <sentence>
+                <offset>1659</offset>
+                <text>There is normal neck range of motion.</text>
+            </sentence>
+            <sentence>
+                <offset>1697</offset>
+                <text>Feet: left 4-5 cutaneous syndactyly.</text>
+            </sentence>
+            <sentence>
+                <offset>1735</offset>
+                <text>Radiology: slight scoliosis with vertebral bodies of increased height, decreased anterio-posterior diameter, and irregular vertebral plates.</text>
+            </sentence>
+            <sentence>
+                <offset>1876</offset>
+                <text>The pelvis is dysplastic with right coxa vara and left coxa valga.</text>
+            </sentence>
+            <sentence>
+                <offset>1943</offset>
+                <text>The diaphyses are thin and the medullary space is narrow for multiple bones.</text>
+            </sentence>
+            <sentence>
+                <offset>2020</offset>
+                <text>There is hypoplasia of the olecranon process, the distal radial and ulnar epiphyses, the proximal radius and the carpal bones.</text>
+            </sentence>
+            <sentence>
+                <offset>2147</offset>
+                <text>There was bilateral dislocation of radio-ulnar joints and patellae.</text>
+            </sentence>
+            <sentence>
+                <offset>2215</offset>
+                <text>Narrow metacarpal bones with narrow medullary space.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

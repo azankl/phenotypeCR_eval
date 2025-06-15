@@ -1,0 +1,212 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The patient was first seen in our orthopaedic clinic at the age of 22 months.</text>
+            </sentence>
+            <sentence>
+                <offset>78</offset>
+                <text>We performed an extensive pedigree analysis, which revealed no other cases of Larsen syndrome or other heritable orthopaedic anomalies in the family.</text>
+            </sentence>
+            <sentence>
+                <offset>228</offset>
+                <text>Abnormal findings on physical examination included hypertelorism and a flat nasal profile with a flat nasal bridge (Fig. 1).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="51"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000437</infon>
+                    <location length="10" offset="71"/>
+                    <text>flat nasal</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005280</infon>
+                    <location length="17" offset="97"/>
+                    <text>flat nasal bridge</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>353</offset>
+                <text>The philtrum measured 1.5 cm (&gt; 2 SD above the mean) [20].</text>
+            </sentence>
+            <sentence>
+                <offset>412</offset>
+                <text>Specific facial feature measurements performed included the outer canthal distance [9.1 cm, &gt; 3 SD above the mean] [20], the inner canthal distance [3.5 cm, &gt; 3 SD above the mean] [15], the interpupillary distance [5.4 cm, &gt; 2 SD above the mean] [8], and the palpebral fissure lengths [2.8 cm, &gt; 2 SD above the mean] [15].</text>
+            </sentence>
+            <sentence>
+                <offset>735</offset>
+                <text>No evidence of cleft palate was found.</text>
+            </sentence>
+            <sentence>
+                <offset>774</offset>
+                <text>The legs were extended with the feet over the shoulders at rest.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="4"/>
+                    <text>legs</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="14"/>
+                    <text>extended</text>
+                </annotation>
+                <relation id="6">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002533</infon>
+                    <node refid="4" role="source"/>
+                    <node refid="5" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>839</offset>
+                <text>The hips and knees could not be passively manipulated into normal position.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="4"/>
+                    <text>hips</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="13"/>
+                    <text>knees</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="28" offset="25"/>
+                    <text>not be passively manipulated</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="28" offset="25"/>
+                    <text>not be passively manipulated</text>
+                </annotation>
+                <relation id="10">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0034671</infon>
+                    <node refid="8" role="source"/>
+                    <node refid="9" role="target"/>
+                </relation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003273</infon>
+                    <node refid="7" role="source"/>
+                    <node refid="11" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>915</offset>
+                <text>The feet had mild equinovalgus deformities that were passively correctable.</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001772</infon>
+                    <location length="12" offset="18"/>
+                    <text>equinovalgus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>991</offset>
+                <text>The hands were clinically normal, but the elbows had fixed 20° flexion contractures.</text>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="42"/>
+                    <text>elbows</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="20" offset="63"/>
+                    <text>flexion contractures</text>
+                </annotation>
+                <relation id="16">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002987</infon>
+                    <node refid="14" role="source"/>
+                    <node refid="15" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1076</offset>
+                <text>Skeletal survey confirmed bilateral knee and hip dislocations.</text>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="36"/>
+                    <text>knee</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002827</infon>
+                    <location length="16" offset="45"/>
+                    <text>hip dislocations</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="49"/>
+                    <text>dislocations</text>
+                </annotation>
+                <relation id="20">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004976</infon>
+                    <node refid="17" role="source"/>
+                    <node refid="19" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1139</offset>
+                <text>Accessory calcaneal ossification centers were present on radiographs taken at 18 months of age (Fig. 2).</text>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008127</infon>
+                    <location length="40" offset="0"/>
+                    <text>Accessory calcaneal ossification centers</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1244</offset>
+                <text>Typical findings of shortened metacarpals and wide distal phalanges were not present.</text>
+            </sentence>
+            <sentence>
+                <offset>1330</offset>
+                <text>Dysraphism involving the cervical and upper thoracic vertebral bodies were present with mild cervical kyphosis and scoliosis.</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="0"/>
+                    <text>Dysraphism</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="53"/>
+                    <text>vertebral bodies</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002947</infon>
+                    <location length="17" offset="93"/>
+                    <text>cervical kyphosis</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002650</infon>
+                    <location length="9" offset="115"/>
+                    <text>scoliosis</text>
+                </annotation>
+                <relation id="23">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010301</infon>
+                    <node refid="24" role="source"/>
+                    <node refid="22" role="target"/>
+                </relation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

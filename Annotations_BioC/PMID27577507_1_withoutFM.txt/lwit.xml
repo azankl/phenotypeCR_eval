@@ -1,0 +1,656 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>V-6 (25 years) had height of 90 cm, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>50</offset>
+                <text>Arm span of 30–36 cm was noted.</text>
+            </sentence>
+            <sentence>
+                <offset>82</offset>
+                <text>They exhibited short, bowed and deformed radius and ulna.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="15"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="15"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="22"/>
+                    <text>bowed</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="22"/>
+                    <text>bowed</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003977</infon>
+                    <location length="15" offset="32"/>
+                    <text>deformed radius</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="32"/>
+                    <text>deformed</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="41"/>
+                    <text>radius</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="41"/>
+                    <text>radius</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="52"/>
+                    <text>ulna</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="52"/>
+                    <text>ulna</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="52"/>
+                    <text>ulna</text>
+                </annotation>
+                <relation id="3">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003022</infon>
+                    <node refid="4" role="source"/>
+                    <node refid="2" role="target"/>
+                </relation>
+                <relation id="5">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002984</infon>
+                    <node refid="6" role="source"/>
+                    <node refid="1" role="target"/>
+                </relation>
+                <relation id="9">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003031</infon>
+                    <node refid="10" role="source"/>
+                    <node refid="8" role="target"/>
+                </relation>
+                <relation id="11">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002986</infon>
+                    <node refid="12" role="source"/>
+                    <node refid="7" role="target"/>
+                </relation>
+                <relation id="15">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0040071</infon>
+                    <node refid="16" role="source"/>
+                    <node refid="14" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>140</offset>
+                <text>The ulnae being shorter with mildly dislocated radii.</text>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="4"/>
+                    <text>ulnae</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="16"/>
+                    <text>shorter</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003083</infon>
+                    <location length="16" offset="36"/>
+                    <text>dislocated radii</text>
+                </annotation>
+                <relation id="19">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003022</infon>
+                    <node refid="17" role="source"/>
+                    <node refid="18" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>194</offset>
+                <text>Carpals, metacarpals, tarsals, metatarsals and phalangeal bones were very poorly ossified and underdeveloped.</text>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="0"/>
+                    <text>Carpals</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="0"/>
+                    <text>Carpals</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term accepted, HP:6000651, https://github.com/obophenotype/human-phenotype-ontology/issues/10413</infon>
+                    <location length="11" offset="9"/>
+                    <text>metacarpals</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="9"/>
+                    <text>metacarpals</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="22"/>
+                    <text>tarsals</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="22"/>
+                    <text>tarsals</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="31"/>
+                    <text>metatarsals</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="31"/>
+                    <text>metatarsals</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="16" offset="47"/>
+                    <text>phalangeal bones</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="47"/>
+                    <text>phalangeal bones</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="74"/>
+                    <text>poorly ossified</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="74"/>
+                    <text>poorly ossified</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="74"/>
+                    <text>poorly ossified</text>
+                </annotation>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="74"/>
+                    <text>poorly ossified</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="74"/>
+                    <text>poorly ossified</text>
+                </annotation>
+                <annotation id="41">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="94"/>
+                    <text>underdeveloped</text>
+                </annotation>
+                <annotation id="42">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="94"/>
+                    <text>underdeveloped</text>
+                </annotation>
+                <annotation id="43">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="94"/>
+                    <text>underdeveloped</text>
+                </annotation>
+                <annotation id="44">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="94"/>
+                    <text>underdeveloped</text>
+                </annotation>
+                <annotation id="45">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="94"/>
+                    <text>underdeveloped</text>
+                </annotation>
+                <relation id="36">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="29" role="source"/>
+                    <node refid="31" role="target"/>
+                </relation>
+                <relation id="37">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008371</infon>
+                    <node refid="27" role="source"/>
+                    <node refid="35" role="target"/>
+                </relation>
+                <relation id="38">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008369</infon>
+                    <node refid="25" role="source"/>
+                    <node refid="34" role="target"/>
+                </relation>
+                <relation id="39">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="23" role="source"/>
+                    <node refid="33" role="target"/>
+                </relation>
+                <relation id="40">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006257</infon>
+                    <node refid="22" role="source"/>
+                    <node refid="32" role="target"/>
+                </relation>
+                <relation id="46">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001498</infon>
+                    <node refid="21" role="source"/>
+                    <node refid="45" role="target"/>
+                </relation>
+                <relation id="47">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010049</infon>
+                    <node refid="24" role="source"/>
+                    <node refid="44" role="target"/>
+                </relation>
+                <relation id="48">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008363</infon>
+                    <node refid="26" role="source"/>
+                    <node refid="43" role="target"/>
+                </relation>
+                <relation id="49">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001964</infon>
+                    <node refid="28" role="source"/>
+                    <node refid="42" role="target"/>
+                </relation>
+                <relation id="50">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009803</infon>
+                    <node refid="30" role="source"/>
+                    <node refid="41" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>304</offset>
+                <text>Carpals and metacarpals were hypo-plastic, distorted and had no connections with the phalanges (Fig. 2k).</text>
+                <annotation id="51">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="0"/>
+                    <text>Carpals</text>
+                </annotation>
+                <annotation id="52">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="0"/>
+                    <text>Carpals</text>
+                </annotation>
+                <annotation id="53">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="12"/>
+                    <text>metacarpals</text>
+                </annotation>
+                <annotation id="54">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="12"/>
+                    <text>metacarpals</text>
+                </annotation>
+                <annotation id="55">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="29"/>
+                    <text>hypo-plastic</text>
+                </annotation>
+                <annotation id="56">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="29"/>
+                    <text>hypo-plastic</text>
+                </annotation>
+                <annotation id="59">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="43"/>
+                    <text>distorted</text>
+                </annotation>
+                <annotation id="60">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="43"/>
+                    <text>distorted</text>
+                </annotation>
+                <relation id="57">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010049</infon>
+                    <node refid="53" role="source"/>
+                    <node refid="55" role="target"/>
+                </relation>
+                <relation id="58">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001498</infon>
+                    <node refid="52" role="source"/>
+                    <node refid="56" role="target"/>
+                </relation>
+                <relation id="61">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005916</infon>
+                    <node refid="54" role="source"/>
+                    <node refid="60" role="target"/>
+                </relation>
+                <relation id="62">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001191</infon>
+                    <node refid="51" role="source"/>
+                    <node refid="59" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>410</offset>
+                <text>Radiographic examination of carpals, metacarpals and phalanges showed complete agenesis.</text>
+                <annotation id="63">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="28"/>
+                    <text>carpals</text>
+                </annotation>
+                <annotation id="64">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="37"/>
+                    <text>metacarpals</text>
+                </annotation>
+                <annotation id="65">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="53"/>
+                    <text>phalanges</text>
+                </annotation>
+                <annotation id="66">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="79"/>
+                    <text>agenesis</text>
+                </annotation>
+                <annotation id="67">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="79"/>
+                    <text>agenesis</text>
+                </annotation>
+                <annotation id="68">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="79"/>
+                    <text>agenesis</text>
+                </annotation>
+                <relation id="69">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009802</infon>
+                    <node refid="65" role="source"/>
+                    <node refid="66" role="target"/>
+                </relation>
+                <relation id="70">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010048</infon>
+                    <node refid="64" role="source"/>
+                    <node refid="68" role="target"/>
+                </relation>
+                <relation id="71">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004231</infon>
+                    <node refid="63" role="source"/>
+                    <node refid="67" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>499</offset>
+                <text>All five distal phalanges with intact nails were present; however, proximal and middle phalanges were completely missing (Fig. 2c–k).</text>
+                <annotation id="72">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="67"/>
+                    <text>proximal</text>
+                </annotation>
+                <annotation id="73">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="80"/>
+                    <text>middle phalanges</text>
+                </annotation>
+                <annotation id="74">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="87"/>
+                    <text>phalanges</text>
+                </annotation>
+                <annotation id="76">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="113"/>
+                    <text>missing</text>
+                </annotation>
+                <annotation id="78">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="113"/>
+                    <text>missing</text>
+                </annotation>
+                <relation id="75">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="72" role="source"/>
+                    <node refid="74" role="target"/>
+                </relation>
+                <relation id="77">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009843</infon>
+                    <node refid="74" role="source"/>
+                    <node refid="76" role="target"/>
+                </relation>
+                <relation id="79">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009851</infon>
+                    <node refid="73" role="source"/>
+                    <node refid="78" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>633</offset>
+                <text>Knee joints showed cubitus valgus deformity (Fig. 2j).</text>
+                <annotation id="80">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002967</infon>
+                    <location length="24" offset="19"/>
+                    <text>cubitus valgus deformity</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>688</offset>
+                <text>Angle of acetabulofemoral joint was marked as coxa valga (Fig. 2i).</text>
+                <annotation id="81">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002673</infon>
+                    <location length="10" offset="46"/>
+                    <text>coxa valga</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>756</offset>
+                <text>Both the femurs were short, with broad distal metaphyses, and twisted left femur.</text>
+                <annotation id="82">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="9"/>
+                    <text>femurs</text>
+                </annotation>
+                <annotation id="83">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="9"/>
+                    <text>femurs</text>
+                </annotation>
+                <annotation id="84">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="21"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="86">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="23" offset="33"/>
+                    <text>broad distal metaphyses</text>
+                </annotation>
+                <annotation id="88">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="62"/>
+                    <text>twisted</text>
+                </annotation>
+                <annotation id="90">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="75"/>
+                    <text>femur</text>
+                </annotation>
+                <relation id="85">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003097</infon>
+                    <node refid="82" role="source"/>
+                    <node refid="84" role="target"/>
+                </relation>
+                <relation id="87">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006387</infon>
+                    <node refid="83" role="source"/>
+                    <node refid="86" role="target"/>
+                </relation>
+                <relation id="89">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031069</infon>
+                    <node refid="90" role="source"/>
+                    <node refid="88" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>838</offset>
+                <text>The tibiae and fibulae were bowed, twisted and extremely short.</text>
+                <annotation id="91">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="4"/>
+                    <text>tibiae</text>
+                </annotation>
+                <annotation id="92">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="4"/>
+                    <text>tibiae</text>
+                </annotation>
+                <annotation id="93">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="4"/>
+                    <text>tibiae</text>
+                </annotation>
+                <annotation id="94">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="15"/>
+                    <text>fibulae</text>
+                </annotation>
+                <annotation id="95">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="15"/>
+                    <text>fibulae</text>
+                </annotation>
+                <annotation id="96">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="15"/>
+                    <text>fibulae</text>
+                </annotation>
+                <annotation id="97">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="28"/>
+                    <text>bowed</text>
+                </annotation>
+                <annotation id="98">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="28"/>
+                    <text>bowed</text>
+                </annotation>
+                <annotation id="101">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="7" offset="35"/>
+                    <text>twisted</text>
+                </annotation>
+                <annotation id="102">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="35"/>
+                    <text>twisted</text>
+                </annotation>
+                <annotation id="105">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="57"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="106">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="57"/>
+                    <text>short</text>
+                </annotation>
+                <relation id="99">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002982</infon>
+                    <node refid="91" role="source"/>
+                    <node refid="97" role="target"/>
+                </relation>
+                <relation id="100">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010502</infon>
+                    <node refid="96" role="source"/>
+                    <node refid="98" role="target"/>
+                </relation>
+                <relation id="103">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100694</infon>
+                    <node refid="93" role="source"/>
+                    <node refid="102" role="target"/>
+                </relation>
+                <relation id="104">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="95" role="source"/>
+                    <node refid="101" role="target"/>
+                </relation>
+                <relation id="107">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005736</infon>
+                    <node refid="92" role="source"/>
+                    <node refid="106" role="target"/>
+                </relation>
+                <relation id="108">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003038</infon>
+                    <node refid="94" role="source"/>
+                    <node refid="105" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>902</offset>
+                <text>Ankle joints showed severe valgus instability (Fig. 2j).</text>
+                <annotation id="109">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008081</infon>
+                    <location length="18" offset="27"/>
+                    <text>valgus instability</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>962</offset>
+                <text>Polydactyly and vertebral deformity was not observed in any affected members.</text>
+            </sentence>
+            <sentence>
+                <offset>1040</offset>
+                <text>Intelligence, facial appearance, trunk, skull, spinal cord, and ribs were normal</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

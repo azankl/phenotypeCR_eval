@@ -1,0 +1,184 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 13 is a 24-year-old male with intellectual disability (non-verbal), autism, global developmental delay, hypotonia, ataxic gait, and generalized epilepsy (multi-drug resistant).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001249</infon>
+                    <location length="23" offset="41"/>
+                    <text>intellectual disability</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001344</infon>
+                    <location length="10" offset="66"/>
+                    <text>non-verbal</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000717</infon>
+                    <location length="6" offset="79"/>
+                    <text>autism</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001263</infon>
+                    <location length="19" offset="94"/>
+                    <text>developmental delay</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001252</infon>
+                    <location length="9" offset="115"/>
+                    <text>hypotonia</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002066</infon>
+                    <location length="11" offset="126"/>
+                    <text>ataxic gait</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002197</infon>
+                    <location length="20" offset="143"/>
+                    <text>generalized epilepsy</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>188</offset>
+                <text>Epilepsy began at age 6.</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001250</infon>
+                    <location length="8" offset="0"/>
+                    <text>Epilepsy</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>213</offset>
+                <text>Height is 162.6 cm (-1.98 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>244</offset>
+                <text>He struggles to maintain his weight, which is 49 kg (-2.69 SD) (body mass index 18.5).</text>
+            </sentence>
+            <sentence>
+                <offset>331</offset>
+                <text>Physical exam was notable for ptosis, low-set ears, small feet with high arches and hammertoes, asymmetric thumb nailbeds with left wider than right, hypotonia, and poor coordination.</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000508</infon>
+                    <location length="6" offset="30"/>
+                    <text>ptosis</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000369</infon>
+                    <location length="12" offset="38"/>
+                    <text>low-set ears</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001773</infon>
+                    <location length="10" offset="52"/>
+                    <text>small feet</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="58"/>
+                    <text>feet</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="68"/>
+                    <text>high arches</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001765</infon>
+                    <location length="10" offset="84"/>
+                    <text>hammertoes</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="107"/>
+                    <text>thumb nailbeds</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="132"/>
+                    <text>wider</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001252</infon>
+                    <location length="9" offset="150"/>
+                    <text>hypotonia</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002370</infon>
+                    <location length="17" offset="165"/>
+                    <text>poor coordination</text>
+                </annotation>
+                <relation id="14">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001761</infon>
+                    <node refid="12" role="source"/>
+                    <node refid="13" role="target"/>
+                </relation>
+                <relation id="17">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001821</infon>
+                    <node refid="18" role="source"/>
+                    <node refid="16" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>515</offset>
+                <text>Brain MRI was reportedly normal.</text>
+            </sentence>
+            <sentence>
+                <offset>548</offset>
+                <text>Trio exome sequencing (GeneDx, Gaithersburg, MD) identified a de novo variant in POLR1A c.3988_3990delGAG; p.</text>
+            </sentence>
+            <sentence>
+                <offset>658</offset>
+                <text>(Glu1330del) as well as a de novo variant in ATP1A1 c.2769C&gt;A; p.</text>
+            </sentence>
+            <sentence>
+                <offset>723</offset>
+                <text>(Phe923Leu) (NM_000701.8, GRCH38).</text>
+            </sentence>
+            <sentence>
+                <offset>758</offset>
+                <text>Both are classified as likely pathogenic.</text>
+            </sentence>
+            <sentence>
+                <offset>800</offset>
+                <text>Heterozygous variants in ATP1A1 have recently been associated with a small number of cases of variable neurologic phenotypes ranging from Charcot-Marie-Tooth (peripheral neuropathy) to seizures and intellectual disability4-6 .</text>
+            </sentence>
+            <sentence>
+                <offset>1027</offset>
+                <text>Thus, it is possible that both de novo variants contribute to this individual’s phenotype (ATP1A1 and POLR1A to neurodevelopmental abnormalities, ATP1A1 to hammer toes and high arches, POLR1A to craniofacial features and wide left thumb nailbed).</text>
+            </sentence>
+            <sentence>
+                <offset>1274</offset>
+                <text>Of note, an individual with a missense variant in ATP1A1 at the same codon c.2768T&gt;A, encoding p.</text>
+            </sentence>
+            <sentence>
+                <offset>1371</offset>
+                <text>(Phe923Tyr) and reported by Dohrn et al (2022), did not have epilepsy.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

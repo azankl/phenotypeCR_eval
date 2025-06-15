@@ -1,0 +1,76 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 4 is the second child of nonconsanguineous Caucasian parents.</text>
+            </sentence>
+            <sentence>
+                <offset>70</offset>
+                <text>He was born at term following a pregnancy complicated by polyhydramnios.</text>
+            </sentence>
+            <sentence>
+                <offset>143</offset>
+                <text>At birth he had a full head of thick hair and hypertrichosis over back and limbs.</text>
+            </sentence>
+            <sentence>
+                <offset>225</offset>
+                <text>He presented at 8 weeks with failure to thrive and heart failure.</text>
+            </sentence>
+            <sentence>
+                <offset>291</offset>
+                <text>A patent ductus arteriosus was ligated at age 10 weeks.</text>
+            </sentence>
+            <sentence>
+                <offset>347</offset>
+                <text>Following surgery he developed severe gastroesophageal reflux, refusing oral intake, and becoming exclusively tube fed.</text>
+            </sentence>
+            <sentence>
+                <offset>467</offset>
+                <text>His reflux was difficult to treat and he remained tube-fed until age 18 months.</text>
+            </sentence>
+            <sentence>
+                <offset>550</offset>
+                <text>His motor development was delayed; he started rolling at 8 months, sat independently at 12 months and walked at 17 months.</text>
+            </sentence>
+            <sentence>
+                <offset>673</offset>
+                <text>Age 19 months he has a few single words.</text>
+            </sentence>
+            <sentence>
+                <offset>714</offset>
+                <text>His facial appearance at 13 months of age is shown in Figure 2b.</text>
+            </sentence>
+            <sentence>
+                <offset>779</offset>
+                <text>He has a muscular build, with a narrow thorax and marked pectus carinatum.</text>
+            </sentence>
+            <sentence>
+                <offset>854</offset>
+                <text>His digits are broad, with deep set nails and fetal finger pads (Fig. 4a,b).</text>
+            </sentence>
+            <sentence>
+                <offset>931</offset>
+                <text>His great toe nails had to be removed age 19 months due to recurrent infections.</text>
+            </sentence>
+            <sentence>
+                <offset>1012</offset>
+                <text>He has also had recurrent chest infections for which he has been started on prophylactic antibiotics.</text>
+            </sentence>
+            <sentence>
+                <offset>1114</offset>
+                <text>His IgG and IgM levels were normal with slightly low IgA levels (&lt;0/2 g/L), immunoglobulin sub-classes and T-cell studies were not performed.</text>
+            </sentence>
+            <sentence>
+                <offset>1256</offset>
+                <text>He has a hoarse voice and stridor thought to be due to laryngomalacia.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,32 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This pregnancy was affected as well.</text>
+            </sentence>
+            <sentence>
+                <offset>37</offset>
+                <text>An ultrasound study at approximately 21 weeks of gestation showed hydrops, hepatomegaly, and polyhydramnios.</text>
+            </sentence>
+            <sentence>
+                <offset>146</offset>
+                <text>The ultrasound did not show any specific skeletal findings.</text>
+            </sentence>
+            <sentence>
+                <offset>206</offset>
+                <text>The pregnancy was subsequently terminated (II–III).</text>
+            </sentence>
+            <sentence>
+                <offset>258</offset>
+                <text>Postmortem skeletal examination showed clinodactyly of the 5th digits and a duplicated calcaneous</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

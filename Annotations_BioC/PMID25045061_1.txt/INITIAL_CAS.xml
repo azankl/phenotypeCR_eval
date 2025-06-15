@@ -1,0 +1,132 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This patient, a female, was born at term to unaffected nonconsanguineous parents after an unremarkable pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>114</offset>
+                <text>The maternal and paternal ages at birth were 31 and 42 years. respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>190</offset>
+                <text>Her birth weight was 3.2 kg.</text>
+            </sentence>
+            <sentence>
+                <offset>219</offset>
+                <text>It was noted at delivery that the tongue was bilobed and hypomobile, the uvula was hypoplastic, the nose short, and the mouth wide.</text>
+            </sentence>
+            <sentence>
+                <offset>351</offset>
+                <text>Camptodactyly, clinodactyly, and brachydactyly were also observed.</text>
+            </sentence>
+            <sentence>
+                <offset>418</offset>
+                <text>Recurrent chest infections resulted in frequent admissions to hospital throughout childhood.</text>
+            </sentence>
+            <sentence>
+                <offset>511</offset>
+                <text>Chronic otitis media was treated twice with grommets.</text>
+            </sentence>
+            <sentence>
+                <offset>565</offset>
+                <text>Bilateral mixed conductive and sensorineural hearing loss was diagnosed.</text>
+            </sentence>
+            <sentence>
+                <offset>638</offset>
+                <text>There was an unsuccessful surgical attempt to correct her camptodactyly.</text>
+            </sentence>
+            <sentence>
+                <offset>711</offset>
+                <text>All primary teeth failed to exfoliate, and consequently were removed surgically.</text>
+            </sentence>
+            <sentence>
+                <offset>792</offset>
+                <text>Subsequently the patient was found to be oligodontic, with agenesis of 12 secondary teeth.</text>
+            </sentence>
+            <sentence>
+                <offset>886</offset>
+                <text>On examination at age 13 years the patient weighed 40 kg (10th centile), had a height of 147.8 cm (&lt;10th centile), and a head circumference of 60 cm (&gt;97th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>1052</offset>
+                <text>She had down-slanting palpebral fissures with hypertelorism (IC distance 4 cm, &gt;97th centile), mid-face hypoplasia, a wide and depressed nasal bridge, a short nose, narrow nares, and excessive anterior lower facial height (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>1284</offset>
+                <text>Oral examination revealed moderate tooth crowding, severe mesial rotation of the upper left incisor, the absence of 12 permanent teeth, and marked gingival exposure on smile with hypertrophy, especially around the lower teeth (Fig. 2).</text>
+            </sentence>
+            <sentence>
+                <offset>1520</offset>
+                <text>Brachydactyly (middle finger: hand length ratio &lt;3rd centile), camptodactyly, and pectus carinatum were observed.</text>
+            </sentence>
+            <sentence>
+                <offset>1634</offset>
+                <text>There was no evidence of scoliosis and limb proportions were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1703</offset>
+                <text>Intellectual functioning was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1743</offset>
+                <text>Radiographs (Fig. 3) revealed marked generalized osteosclerosis affecting the skull, axial and appendicular skeleton.</text>
+            </sentence>
+            <sentence>
+                <offset>1861</offset>
+                <text>The calvaria were thickened and sclerotic with the skull base most affected.</text>
+            </sentence>
+            <sentence>
+                <offset>1938</offset>
+                <text>The frontal sinuses were hypoplastic.</text>
+            </sentence>
+            <sentence>
+                <offset>1976</offset>
+                <text>There was undertubulation of the long bones with pronounced cortical thickening.</text>
+            </sentence>
+            <sentence>
+                <offset>2057</offset>
+                <text>The ulnae were bowed bilaterally.</text>
+            </sentence>
+            <sentence>
+                <offset>2091</offset>
+                <text>Vertebral morphology was unremarkable, but the bone substance was again sclerotic.</text>
+            </sentence>
+            <sentence>
+                <offset>2174</offset>
+                <text>No hemivertebrae or rib fusions were observed.</text>
+            </sentence>
+            <sentence>
+                <offset>2221</offset>
+                <text>There was hypoplasia of the distal phalanges of the hands and feet, and the tips of the distal phalanx of both the thumb and great toe were bifid bilaterally.</text>
+            </sentence>
+            <sentence>
+                <offset>2380</offset>
+                <text>A dual-energy X-ray absorptiometry (DEXA) scan measured a total bone density of 1.584 g/cm3 (Z-score + 5.7), and a lumbar vertebral density of 1.960 g/cm3 (Z-score + 5.9).</text>
+            </sentence>
+            <sentence>
+                <offset>2552</offset>
+                <text>Her plasma alkaline phosphatase was raised at 341 (normal 40–110 IU/L).</text>
+            </sentence>
+            <sentence>
+                <offset>2624</offset>
+                <text>Array comparative genomic hybridization (60k oligonucleotide array) demonstrated no chromosomal imbalance.</text>
+            </sentence>
+            <sentence>
+                <offset>2731</offset>
+                <text>No mutations were found on direct sequencing of WNT5A.</text>
+            </sentence>
+            <sentence>
+                <offset>2786</offset>
+                <text>The absence of severe mesomelia, vertebral abnormalities, or rib fusions makes recessive RS unlikely, so mutations in ROR2 were not sought.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,294 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This is a male child of unaffected, unrelated parents.</text>
+            </sentence>
+            <sentence>
+                <offset>55</offset>
+                <text>He was born at full term with normal birth parameters of OFC 35 cm, weight 2,750 g, and length 48 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>157</offset>
+                <text>Apparent hypertelorism was evident at birth, together with a rigid neck, and wide alveolar ridges.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="9"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025258</infon>
+                    <location length="10" offset="61"/>
+                    <text>rigid neck</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000187</infon>
+                    <location length="20" offset="77"/>
+                    <text>wide alveolar ridges</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>256</offset>
+                <text>Bilateral facial palsy was diagnosed soon after birth and respiratory problems with nasal obstruction and feeding difficulties manifested during the first months of life.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010628</infon>
+                    <location length="12" offset="10"/>
+                    <text>facial palsy</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002094</infon>
+                    <location length="20" offset="58"/>
+                    <text>respiratory problems</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001742</infon>
+                    <location length="17" offset="84"/>
+                    <text>nasal obstruction</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011968</infon>
+                    <location length="20" offset="106"/>
+                    <text>feeding difficulties</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>427</offset>
+                <text>Skull hyperostosis and modeling defects of the femora were noted at the age of 1 year (Figs. 1a–c and 2a,b).</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004437</infon>
+                    <location length="18" offset="0"/>
+                    <text>Skull hyperostosis</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002823</infon>
+                    <location length="21" offset="32"/>
+                    <text>defects of the femora</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>536</offset>
+                <text>Cranial MRI showed a structurally normal CNS, but evoked potentials showed impairment of cranial nerves IX, X, XI, and XII (Fig. 2a,b).</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [Neurology]</infon>
+                    <location length="31" offset="75"/>
+                    <text>impairment of cranial nerves IX</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [Neurology]</infon>
+                    <location length="28" offset="75"/>
+                    <text>impairment of cranial nerves</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [Neurology]</infon>
+                    <location length="28" offset="75"/>
+                    <text>impairment of cranial nerves</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [Neurology]</infon>
+                    <location length="28" offset="75"/>
+                    <text>impairment of cranial nerves</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="1" offset="108"/>
+                    <text>X</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="2" offset="111"/>
+                    <text>XI</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="3" offset="119"/>
+                    <text>XII</text>
+                </annotation>
+                <relation id="14">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="15" role="source"/>
+                    <node refid="13" role="target"/>
+                </relation>
+                <relation id="16">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="17" role="source"/>
+                    <node refid="12" role="target"/>
+                </relation>
+                <relation id="18">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="19" role="source"/>
+                    <node refid="11" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>672</offset>
+                <text>A moderate conductive hearing loss was noted at the age of 30 months.</text>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000405</infon>
+                    <location length="23" offset="11"/>
+                    <text>conductive hearing loss</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>742</offset>
+                <text>At this age, radiographs of the long bones showed modifications of the metaphyseal shape (Fig. 1c).</text>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000944</infon>
+                    <location length="38" offset="50"/>
+                    <text>modifications of the metaphyseal shape</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>842</offset>
+                <text>At the age of 6 years, his height was 115 cm (∼50th centile) and skull circumference was 54 cm (&gt;97th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>954</offset>
+                <text>Although the facial palsy resolved with age, the hearing loss worsened and at the age of 12 years he required a hearing aid.</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010628</infon>
+                    <location length="12" offset="13"/>
+                    <text>facial palsy</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000365</infon>
+                    <location length="12" offset="49"/>
+                    <text>hearing loss</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1079</offset>
+                <text>An altered shape of the middle ear cavity and the ossicles was noted on CT scans (images not available).</text>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008609</infon>
+                    <location length="38" offset="3"/>
+                    <text>altered shape of the middle ear cavity</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="3"/>
+                    <text>altered shape</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="50"/>
+                    <text>ossicles</text>
+                </annotation>
+                <relation id="26">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004452</infon>
+                    <node refid="27" role="source"/>
+                    <node refid="25" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1184</offset>
+                <text>He had malocclusion and crowding of the teeth.</text>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000689</infon>
+                    <location length="12" offset="7"/>
+                    <text>malocclusion</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000678</infon>
+                    <location length="21" offset="24"/>
+                    <text>crowding of the teeth</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1231</offset>
+                <text>The parathyroid hormone (14 pg/ml, reference range 10–65 pg/ml) and vitamin D3 (11 pg/ml, reference range 10–30 pg/ml) levels were normal, while osteocalcin (82 ng/ml, reference range &lt;70 ng/ml) and alkaline phosphatase levels (533 IU/L, reference range 125–410 IU/L) were high suggesting increased bone formation.</text>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="145"/>
+                    <text>osteocalcin</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="27" offset="199"/>
+                    <text>alkaline phosphatase levels</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="273"/>
+                    <text>high</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="273"/>
+                    <text>high</text>
+                </annotation>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031485</infon>
+                    <location length="24" offset="289"/>
+                    <text>increased bone formation</text>
+                </annotation>
+                <relation id="34">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031428</infon>
+                    <node refid="30" role="source"/>
+                    <node refid="33" role="target"/>
+                </relation>
+                <relation id="35">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003155</infon>
+                    <node refid="31" role="source"/>
+                    <node refid="32" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1546</offset>
+                <text>Although the patient manifested behavioral and language difficulties, he met normal developmental milestones.</text>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="32"/>
+                    <text>behavioral</text>
+                </annotation>
+                <annotation id="38">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000750</infon>
+                    <location length="21" offset="47"/>
+                    <text>language difficulties</text>
+                </annotation>
+                <annotation id="39">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="56"/>
+                    <text>difficulties</text>
+                </annotation>
+                <relation id="40">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000708</infon>
+                    <node refid="37" role="source"/>
+                    <node refid="39" role="target"/>
+                </relation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

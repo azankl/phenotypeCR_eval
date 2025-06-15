@@ -1,0 +1,110 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿The second affected fetus was delivered 10 years later.</text>
+            </sentence>
+            <sentence>
+                <offset>57</offset>
+                <text>Ultrasound examination at 28 weeks of gestation demonstrated findings similar to those observed in the prior affected pregnancy, with micromelia, thoracic dystrophy, cystic hygroma, and polyhydramnios.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002983</infon>
+                    <location length="10" offset="134"/>
+                    <text>micromelia</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006644</infon>
+                    <location length="18" offset="146"/>
+                    <text>thoracic dystrophy</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000476</infon>
+                    <location length="14" offset="166"/>
+                    <text>cystic hygroma</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001561</infon>
+                    <location length="14" offset="186"/>
+                    <text>polyhydramnios</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>259</offset>
+                <text>At 34.3 weeks gestation, the patient was admitted in spontaneous labor.</text>
+            </sentence>
+            <sentence>
+                <offset>331</offset>
+                <text>This infant was also born by spontaneous vaginal delivery, and lived for approximately 60 min.</text>
+            </sentence>
+            <sentence>
+                <offset>426</offset>
+                <text>Measurements at autopsy included 28.5 cm crown-to-heel length, 24.5 cm crown-to-rump length, 1,737 g body weight, and 34.2 cm head circumference.</text>
+            </sentence>
+            <sentence>
+                <offset>572</offset>
+                <text>Radiographic, external, and microscopic examinations showed findings identical to those of the prior affected infant (Figs. 1B, 2 and 3).</text>
+            </sentence>
+            <sentence>
+                <offset>711</offset>
+                <text>Radiographic examination of the second fetus shows typical features of ACG2 including proportionately large skull, severe micromelia, flat acetabular roofs, wide sacrosciatic notches, tiny thorax, and minimal vertebral body ossification.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000256</infon>
+                    <location length="11" offset="102"/>
+                    <text>large skull</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002983</infon>
+                    <location length="10" offset="122"/>
+                    <text>micromelia</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003180</infon>
+                    <location length="21" offset="134"/>
+                    <text>flat acetabular roofs</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008798</infon>
+                    <location length="25" offset="157"/>
+                    <text>wide sacrosciatic notches</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005257</infon>
+                    <location length="11" offset="184"/>
+                    <text>tiny thorax</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031096</infon>
+                    <location length="35" offset="201"/>
+                    <text>minimal vertebral body ossification</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>950</offset>
+                <text>Histologic exam of the humerus shows an abnormal costochondral junction lacking the typical ossification zone, with haphazard arrangement of enlarged resting zone chondrocytes within stellate-shaped lacunae (inset).</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000919</infon>
+                    <location length="31" offset="40"/>
+                    <text>abnormal costochondral junction</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

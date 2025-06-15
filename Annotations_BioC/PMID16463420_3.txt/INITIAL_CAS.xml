@@ -1,0 +1,100 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Case 3 is a male infant born at 40 weeks' gestation to a healthy 32-year-old gravida 4, para 1–2 mother, with a birth weight of 7 lb. (3182 gm).</text>
+            </sentence>
+            <sentence>
+                <offset>145</offset>
+                <text>The mother reported smoking 10 cigarettes per day but did not use alcohol, other drugs, or medications during the pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>270</offset>
+                <text>A second-trimester ultrasound examination showed normal head growth, but all 4 limbs were short for gestational age.</text>
+            </sentence>
+            <sentence>
+                <offset>387</offset>
+                <text>No other abnormalities were identified.</text>
+            </sentence>
+            <sentence>
+                <offset>427</offset>
+                <text>Delivery was induced and precipitous.</text>
+            </sentence>
+            <sentence>
+                <offset>465</offset>
+                <text>Apgar scores were 9 and 9 at 1 and 5 min, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>521</offset>
+                <text>Immediately following delivery, deficient calcification of the calvarium was noted, but the infant was clinically stable.</text>
+            </sentence>
+            <sentence>
+                <offset>643</offset>
+                <text>Screening test results for levels of alkaline phosphatase, T4, and TSH were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>727</offset>
+                <text>Shortly after discharge from the hospital (at 2 days of age), the infant became fussy and inconsolable and had decreased feeding.</text>
+            </sentence>
+            <sentence>
+                <offset>857</offset>
+                <text>Cranial imaging revealed multiple small areas of intraparenchymal hemorrhage.</text>
+            </sentence>
+            <sentence>
+                <offset>935</offset>
+                <text>Following admission to the hospital, his head shape was noted to change with positioning due to lack of calvarial ossification.</text>
+            </sentence>
+            <sentence>
+                <offset>1063</offset>
+                <text>In addition, he developed increased effort of breathing, leading to the diagnosis of glossoptosis and severe tracheomalacia.</text>
+            </sentence>
+            <sentence>
+                <offset>1188</offset>
+                <text>He required tracheostomy and bilevel positive airway pressure (BIPAP) to maintain normal oxygenation.</text>
+            </sentence>
+            <sentence>
+                <offset>1290</offset>
+                <text>A physical examination identified a flat nasal bridge, epicanthic folds, hypertelorism, down-slanting palpebral fissures, and micrognathia.</text>
+            </sentence>
+            <sentence>
+                <offset>1430</offset>
+                <text>The skull was soft with very large fontanels, and all of the sutures were very widely spaced, giving the impression of a nearly absent calvarium.</text>
+            </sentence>
+            <sentence>
+                <offset>1576</offset>
+                <text>He was fitted with a helmet for protection and maintenance of a more normal head shape.</text>
+            </sentence>
+            <sentence>
+                <offset>1664</offset>
+                <text>A 3D CT scan at 40 days of age demonstrated brachycephaly with incomplete ossification of the parietal, occipital, and frontal bones and multiple Wormian bones in the parietal regions (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>1858</offset>
+                <text>A chest radiograph revealed absent clavicles and thin ribs.</text>
+            </sentence>
+            <sentence>
+                <offset>1918</offset>
+                <text>There was delayed ossification of the pubic symphysis.</text>
+            </sentence>
+            <sentence>
+                <offset>1973</offset>
+                <text>At 12 months he had brachycephaly and a single large fontanel that measured 23 × 9 cm in greatest diameter, narrowing to 3 cm at the sagittal suture.</text>
+            </sentence>
+            <sentence>
+                <offset>2123</offset>
+                <text>He continues to require BIPAP for tracheomalacia and has delayed gross motor skills.</text>
+            </sentence>
+            <sentence>
+                <offset>2208</offset>
+                <text>He is age-appropriate for fine motor, cognitive, and social skills</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

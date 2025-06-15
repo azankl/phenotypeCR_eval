@@ -1,0 +1,392 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The eldest affected sibling is a girl who was born following a full-term spontaneous pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>96</offset>
+                <text>During the pregnancy, polyhydramnios was detected, but genetic tests were not performed.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001561</infon>
+                    <location length="14" offset="22"/>
+                    <text>polyhydramnios</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>185</offset>
+                <text>Delivery was normal (vaginal), and the various birth parameters including weight, height, and head circumference were reported to be normal.</text>
+            </sentence>
+            <sentence>
+                <offset>326</offset>
+                <text>Immediately after birth, craniofacial dysmorphism was noticed.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000929</infon>
+                    <location length="24" offset="25"/>
+                    <text>craniofacial dysmorphism</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>389</offset>
+                <text>The neurological and physical examination revealed hypotonia and poor feeding.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001252</infon>
+                    <location length="9" offset="51"/>
+                    <text>hypotonia</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011968</infon>
+                    <location length="12" offset="65"/>
+                    <text>poor feeding</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>468</offset>
+                <text>Because of these dysmorphic features and the hypotonia, a brain ultrasound was performed at the age of four months, revealing colpocephaly with dysgenesis of the corpus callosum.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001252</infon>
+                    <location length="9" offset="45"/>
+                    <text>hypotonia</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030048</infon>
+                    <location length="12" offset="126"/>
+                    <text>colpocephaly</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006989</infon>
+                    <location length="33" offset="144"/>
+                    <text>dysgenesis of the corpus callosum</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>647</offset>
+                <text>At a later stage, the patient exhibited moderate global developmental delay with gait difficulties (she started walking at the age of four years) and pronounced language delay.</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001263</infon>
+                    <location length="26" offset="49"/>
+                    <text>global developmental delay</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001288</infon>
+                    <location length="17" offset="81"/>
+                    <text>gait difficulties</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000750</infon>
+                    <location length="14" offset="161"/>
+                    <text>language delay</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>824</offset>
+                <text>She was toilet-trained and able to dress with help at the ages of six and eight years, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>925</offset>
+                <text>Delay in primary dentition and gingival hyperplasia were also detected.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000680</infon>
+                    <location length="26" offset="0"/>
+                    <text>Delay in primary dentition</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000212</infon>
+                    <location length="20" offset="31"/>
+                    <text>gingival hyperplasia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1000</offset>
+                <text>At the age of four years, the patient started experiencing recurrent generalized tonic–clonic seizures.</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002069</infon>
+                    <location length="21" offset="81"/>
+                    <text>tonic–clonic seizures</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1104</offset>
+                <text>Each convulsion lasted for 3–5 min then ceased spontaneously.</text>
+            </sentence>
+            <sentence>
+                <offset>1166</offset>
+                <text>She had one epileptic seizure per month.</text>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001250</infon>
+                    <location length="17" offset="12"/>
+                    <text>epileptic seizure</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1207</offset>
+                <text>The electroencephalogram (EEG) revealed epileptic discharges of rhythmic high amplitude slow waves with 5 Hz frequency over the right hemisphere with secondary generalization to both hemispheres.</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="20" offset="4"/>
+                    <text>electroencephalogram</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="88"/>
+                    <text>slow waves</text>
+                </annotation>
+                <relation id="17">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011203</infon>
+                    <node refid="15" role="source"/>
+                    <node refid="16" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1403</offset>
+                <text>Treatment with valproic acid reduced the frequency of seizures; however, the seizures recurred upon cessation of treatment seizures.</text>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001250</infon>
+                    <location length="8" offset="54"/>
+                    <text>seizures</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001250</infon>
+                    <location length="8" offset="77"/>
+                    <text>seizures</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1536</offset>
+                <text>She received speech therapy, physiotherapy, and occupational therapy.</text>
+            </sentence>
+            <sentence>
+                <offset>1606</offset>
+                <text>Furthermore, the girl had moderate intellectual disabilities and attended a special education class.</text>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001249</infon>
+                    <location length="25" offset="35"/>
+                    <text>intellectual disabilities</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1707</offset>
+                <text>Her chest X-ray report indicated the presence of bilateral bifid and fused ribs, as well as hemivertebrae for the first and second thoracic vertebrae (T1 and T2).</text>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="59"/>
+                    <text>bifid</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000902</infon>
+                    <location length="10" offset="69"/>
+                    <text>fused ribs</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="75"/>
+                    <text>ribs</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="92"/>
+                    <text>hemivertebrae</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="131"/>
+                    <text>thoracic</text>
+                </annotation>
+                <relation id="22">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000892</infon>
+                    <node refid="23" role="source"/>
+                    <node refid="21" role="target"/>
+                </relation>
+                <relation id="27">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008467</infon>
+                    <node refid="25" role="source"/>
+                    <node refid="26" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1873</offset>
+                <text>Behavioral difficulties were reported, including anxiety and emotional instability with impulsive behaviors.</text>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000739</infon>
+                    <location length="7" offset="49"/>
+                    <text>anxiety</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000712</infon>
+                    <location length="21" offset="61"/>
+                    <text>emotional instability</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100710</infon>
+                    <location length="19" offset="88"/>
+                    <text>impulsive behaviors</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1982</offset>
+                <text>At her last examination at age 22 yr, she was 195 cm tall, and her head circumference was 56 cm (&gt;98th percentile and 75th percentile, respectively) with brachycephaly, a narrow forehead, a flat face with highly arched bushy eyebrows, long eyelashes, frontal bossing, hypertelorism, epicanthal folds, synophrys, upslanting palpebral fissures, micrognathia, wide nasal bridge and low-set ears, chest asymmetry, pes planus and clinodactyly, and normal sexual development.</text>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000248</infon>
+                    <location length="13" offset="154"/>
+                    <text>brachycephaly</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000341</infon>
+                    <location length="15" offset="171"/>
+                    <text>narrow forehead</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012368</infon>
+                    <location length="9" offset="190"/>
+                    <text>flat face</text>
+                </annotation>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="205"/>
+                    <text>highly arched</text>
+                </annotation>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000574</infon>
+                    <location length="14" offset="219"/>
+                    <text>bushy eyebrows</text>
+                </annotation>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="225"/>
+                    <text>eyebrows</text>
+                </annotation>
+                <annotation id="38">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000527</infon>
+                    <location length="14" offset="235"/>
+                    <text>long eyelashes</text>
+                </annotation>
+                <annotation id="39">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002007</infon>
+                    <location length="15" offset="251"/>
+                    <text>frontal bossing</text>
+                </annotation>
+                <annotation id="40">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="268"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="41">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000286</infon>
+                    <location length="16" offset="283"/>
+                    <text>epicanthal folds</text>
+                </annotation>
+                <annotation id="42">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000664</infon>
+                    <location length="9" offset="301"/>
+                    <text>synophrys</text>
+                </annotation>
+                <annotation id="43">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000582</infon>
+                    <location length="29" offset="312"/>
+                    <text>upslanting palpebral fissures</text>
+                </annotation>
+                <annotation id="44">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000347</infon>
+                    <location length="12" offset="343"/>
+                    <text>micrognathia</text>
+                </annotation>
+                <annotation id="45">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000431</infon>
+                    <location length="17" offset="357"/>
+                    <text>wide nasal bridge</text>
+                </annotation>
+                <annotation id="46">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000369</infon>
+                    <location length="12" offset="379"/>
+                    <text>low-set ears</text>
+                </annotation>
+                <annotation id="47">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000765</infon>
+                    <location length="15" offset="393"/>
+                    <text>chest asymmetry</text>
+                </annotation>
+                <annotation id="48">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001763</infon>
+                    <location length="10" offset="410"/>
+                    <text>pes planus</text>
+                </annotation>
+                <annotation id="49">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030084</infon>
+                    <location length="12" offset="425"/>
+                    <text>clinodactyly</text>
+                </annotation>
+                <relation id="35">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002553</infon>
+                    <node refid="36" role="source"/>
+                    <node refid="34" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2452</offset>
+                <text>Her brain MRI showed corpus callosum agenesis.</text>
+                <annotation id="50">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001274</infon>
+                    <location length="24" offset="21"/>
+                    <text>corpus callosum agenesis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2499</offset>
+                <text>Cardiac echocardiogram and the metabolic studies were found to be normal.</text>
+            </sentence>
+            <sentence>
+                <offset>2573</offset>
+                <text>Peripheral blood karyotype analysis was 46, XX.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

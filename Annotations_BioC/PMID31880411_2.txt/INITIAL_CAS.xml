@@ -1,0 +1,32 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿A 31-year-old Japanese woman (I-1) and her partner (I-2) were referred to the Department of Obstetrics of Hokkaido University Hospital with a neonate at 12 weeks of gestation with fetal hydrops (II-2) (Figure 1b).</text>
+            </sentence>
+            <sentence>
+                <offset>215</offset>
+                <text>Fetal ultrasonography revealed severe cystic hygroma and severe micromelia (Figure 2e,f).</text>
+            </sentence>
+            <sentence>
+                <offset>305</offset>
+                <text>At 16 weeks of gestation, intrauterine fetal death was confirmed by ultrasound examination.</text>
+            </sentence>
+            <sentence>
+                <offset>397</offset>
+                <text>The skeletal phenotype in autopsy imaging was typical for that of ACG1B (Figure 2g).</text>
+            </sentence>
+            <sentence>
+                <offset>482</offset>
+                <text>Following genetic counseling, the couple agreed to undergo targeted sequencing of genes associated with ACG1B.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

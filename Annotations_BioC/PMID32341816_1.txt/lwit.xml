@@ -1,0 +1,289 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A 2-year-old girl was referred to our clinic for genetic evaluation of short stature.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004322</infon>
+                    <location length="13" offset="71"/>
+                    <text>short stature</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>86</offset>
+                <text>She was from a Caucasian descent born out of a nonconsanguineous union.</text>
+            </sentence>
+            <sentence>
+                <offset>158</offset>
+                <text>Polyhydramnios, breech presentation, and skeletal dysplasia detected by ultrasonography complicated the antenatal period and hence needed a cesarean section delivery.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001561</infon>
+                    <location length="14" offset="0"/>
+                    <text>Polyhydramnios</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001623</infon>
+                    <location length="19" offset="16"/>
+                    <text>breech presentation</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>325</offset>
+                <text>At birth, the proband weighed 3.6 kg (67th centile), measured 48.3 cm (34th centile) in length, and 35 cm (57th centile) as the head circumference.</text>
+            </sentence>
+            <sentence>
+                <offset>473</offset>
+                <text>The proband was noted to have flat facies, mildly prominent eyes, flat nasal bridge, upturned nasal tip, posteriorly rotated ears, micrognathia, glossoptosis, complete cleft palate, short neck, short limbs, brachydactyly (two–five fingers), and sandal gap.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012368</infon>
+                    <location length="11" offset="30"/>
+                    <text>flat facies</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000520</infon>
+                    <location length="14" offset="50"/>
+                    <text>prominent eyes</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005280</infon>
+                    <location length="17" offset="66"/>
+                    <text>flat nasal bridge</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000463</infon>
+                    <location length="18" offset="85"/>
+                    <text>upturned nasal tip</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000358</infon>
+                    <location length="24" offset="105"/>
+                    <text>posteriorly rotated ears</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000347</infon>
+                    <location length="12" offset="131"/>
+                    <text>micrognathia</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000162</infon>
+                    <location length="12" offset="145"/>
+                    <text>glossoptosis</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <location length="12" offset="168"/>
+                    <text>cleft palate</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000470</infon>
+                    <location length="10" offset="182"/>
+                    <text>short neck</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009826</infon>
+                    <location length="11" offset="194"/>
+                    <text>short limbs</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001156</infon>
+                    <location length="13" offset="207"/>
+                    <text>brachydactyly</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001852</infon>
+                    <location length="10" offset="245"/>
+                    <text>sandal gap</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>730</offset>
+                <text>There was no limitation of joint movements, and evidence of pectus and spine abnormalities on examination.</text>
+            </sentence>
+            <sentence>
+                <offset>837</offset>
+                <text>The assessment of X-rays at birth showed poorly calcified vertebrae and vertebral bodies, short dumbbell femurs with metaphyseal flaring, short metacarpals, and phalanges.</text>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100856</infon>
+                    <location length="26" offset="41"/>
+                    <text>poorly calcified vertebrae</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="41"/>
+                    <text>poorly calcified</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="72"/>
+                    <text>vertebral bodies</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="90"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006375</infon>
+                    <location length="15" offset="96"/>
+                    <text>dumbbell femurs</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="105"/>
+                    <text>femurs</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003015</infon>
+                    <location length="19" offset="117"/>
+                    <text>metaphyseal flaring</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="138"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="138"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="144"/>
+                    <text>metacarpals</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="161"/>
+                    <text>phalanges</text>
+                </annotation>
+                <relation id="18">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004599</infon>
+                    <node refid="19" role="source"/>
+                    <node refid="17" role="target"/>
+                </relation>
+                <relation id="21">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003097</infon>
+                    <node refid="22" role="source"/>
+                    <node refid="20" role="target"/>
+                </relation>
+                <relation id="27">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009803</infon>
+                    <node refid="28" role="source"/>
+                    <node refid="25" role="target"/>
+                </relation>
+                <relation id="29">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010049</infon>
+                    <node refid="30" role="source"/>
+                    <node refid="26" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1009</offset>
+                <text>Also, the proband was found to have bilateral sensorineural hearing loss (SNHL) during the standard hearing screening at birth.</text>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000407</infon>
+                    <location length="26" offset="46"/>
+                    <text>sensorineural hearing loss</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000407</infon>
+                    <infon key="Comment">! Abbreviation</infon>
+                    <location length="4" offset="74"/>
+                    <text>SNHL</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1140</offset>
+                <text>At 2 months of age, although the proband had short limbs with a bowed tibia and fibula, we observed that the features of skeletal dysplasia and dysmorphic features were less obvious compared with birth.</text>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009826</infon>
+                    <location length="11" offset="45"/>
+                    <text>short limbs</text>
+                </annotation>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002982</infon>
+                    <location length="11" offset="64"/>
+                    <text>bowed tibia</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="64"/>
+                    <text>bowed</text>
+                </annotation>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="80"/>
+                    <text>fibula</text>
+                </annotation>
+                <relation id="36">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010502</infon>
+                    <node refid="37" role="source"/>
+                    <node refid="35" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1343</offset>
+                <text>Unfortunately, we were not able to present with the proband's photograph/X-rays with this report.</text>
+            </sentence>
+            <sentence>
+                <offset>1441</offset>
+                <text>The proband underwent palatoplasty for the correction of cleft palate and bilateral mandibular distraction using internal distraction devices for micrognathia, yet these devices were subsequently removed.</text>
+                <annotation id="38">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <location length="12" offset="57"/>
+                    <text>cleft palate</text>
+                </annotation>
+                <annotation id="39">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000347</infon>
+                    <location length="12" offset="146"/>
+                    <text>micrognathia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1646</offset>
+                <text>The proband's developmental milestones were age appropriate, and no similar disease history was noted in her siblings or other family members.</text>
+            </sentence>
+            <sentence>
+                <offset>1792</offset>
+                <text>Whole exome sequencing using available commercial methods in the proband revealed two heterozygous variants, c.190 C &gt; T and c.339_340delCCinsG in exons 2 and 3 of COL11A2 , respectively.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

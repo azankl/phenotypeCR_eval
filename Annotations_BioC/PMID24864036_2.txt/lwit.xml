@@ -1,0 +1,158 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The younger brother (Fig. 1G) was similarly affected but with a milder phenotype attributed to the progressive nature of the disease as stated by the mother.</text>
+            </sentence>
+            <sentence>
+                <offset>158</offset>
+                <text>He had exaggerated lumbar lordosis and genu recurvatum.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002938</infon>
+                    <location length="15" offset="19"/>
+                    <text>lumbar lordosis</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002816</infon>
+                    <location length="15" offset="39"/>
+                    <text>genu recurvatum</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>214</offset>
+                <text>At the age of 6 years and 3 months, he had a height of 142 cm (+5.1 SD), a head circumference of 50.4 cm (−1.0 SD), arm span of 137.5 cm with normal upper/lower segment ratio (0.95 = 69/73), and excessive length of both upper and lower limbs measurements (&gt;2.0 SD).</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="195"/>
+                    <text>excessive length</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="195"/>
+                    <text>excessive length</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="220"/>
+                    <text>upper</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="230"/>
+                    <text>lower limbs</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="236"/>
+                    <text>limbs</text>
+                </annotation>
+                <relation id="4">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001519</infon>
+                    <node refid="5" role="source"/>
+                    <node refid="3" role="target"/>
+                </relation>
+                <relation id="7">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001519</infon>
+                    <node refid="8" role="source"/>
+                    <node refid="6" role="target"/>
+                </relation>
+                <relation id="10">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="8" role="source"/>
+                    <node refid="9" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>480</offset>
+                <text>Orodental evaluation showed high arched palate and long uvula.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000218</infon>
+                    <location length="18" offset="28"/>
+                    <text>high arched palate</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010810</infon>
+                    <location length="10" offset="51"/>
+                    <text>long uvula</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>543</offset>
+                <text>He had abnormal pronunciation of some letters, hearing impairment on audiometry, and a normal IQ score of 98 (by Stanford Binet).</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_5200237</infon>
+                    <location length="22" offset="7"/>
+                    <text>abnormal pronunciation</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000365</infon>
+                    <location length="18" offset="47"/>
+                    <text>hearing impairment</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>673</offset>
+                <text>Skeletal survey showed knock knees, kyphoscoliosis of lower thoracic vertebrae (Fig. 1H), arachnodactyly with no carpal or tarsal fusions, and wormian skull bones.</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002857</infon>
+                    <location length="11" offset="23"/>
+                    <text>knock knees</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005659</infon>
+                    <location length="42" offset="36"/>
+                    <text>kyphoscoliosis of lower thoracic vertebrae</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001166</infon>
+                    <location length="14" offset="90"/>
+                    <text>arachnodactyly</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002645</infon>
+                    <location length="19" offset="143"/>
+                    <text>wormian skull bones</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>837</offset>
+                <text>He had squint of the left eye and no cataract or sublaxation of lenses.</text>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="7"/>
+                    <text>squint</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="3" offset="26"/>
+                    <text>eye</text>
+                </annotation>
+                <relation id="20">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000486</infon>
+                    <node refid="21" role="source"/>
+                    <node refid="19" role="target"/>
+                </relation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

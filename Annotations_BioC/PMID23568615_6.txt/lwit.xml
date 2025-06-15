@@ -1,0 +1,103 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 6 had a zygomatic bone aplasia and mandibular hypoplasia.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010669</infon>
+                    <location length="22" offset="16"/>
+                    <text>zygomatic bone aplasia</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000347</infon>
+                    <location length="21" offset="43"/>
+                    <text>mandibular hypoplasia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>66</offset>
+                <text>Ears were low set with a missing anthelix.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="0"/>
+                    <text>Ears</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="10"/>
+                    <text>low set</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011234</infon>
+                    <infon key="Comment">! Typo</infon>
+                    <location length="16" offset="25"/>
+                    <text>missing anthelix</text>
+                </annotation>
+                <relation id="5">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000369</infon>
+                    <node refid="3" role="source"/>
+                    <node refid="4" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>109</offset>
+                <text>The left arm had a hypoplastic radius (Fig. 2l), on the right arm there was aplasia of the radius and thumb (Fig. 2k).</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002984</infon>
+                    <location length="18" offset="19"/>
+                    <text>hypoplastic radius</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003974</infon>
+                    <location length="21" offset="76"/>
+                    <text>aplasia of the radius</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="76"/>
+                    <text>aplasia</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="102"/>
+                    <text>thumb</text>
+                </annotation>
+                <relation id="10">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009601</infon>
+                    <node refid="11" role="source"/>
+                    <node refid="9" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>228</offset>
+                <text>He had a congenital diaphragmatic hernia, resulting in lung hypoplasia, and died on the day of his birth.</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000776</infon>
+                    <location length="20" offset="20"/>
+                    <text>diaphragmatic hernia</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002089</infon>
+                    <location length="15" offset="55"/>
+                    <text>lung hypoplasia</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

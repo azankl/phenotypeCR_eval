@@ -1,0 +1,32 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 1 (V-1) is the first male child of related parents from Mayotte (Comoro) Island (Fig. 1A).</text>
+            </sentence>
+            <sentence>
+                <offset>100</offset>
+                <text>He was first seen at 7 months of age, with severe craniosynostosis with a trilobular cloverleaf-shaped skull, marked scaphocephaly, dilatation of the ventricules, and a large head circumference (45 cm &gt; 2.5 SD; Fig. 2A).</text>
+            </sentence>
+            <sentence>
+                <offset>321</offset>
+                <text>He had hypoplasia of middle phalanges, large thumbs, bilateral preaxial polydactyly of both feet, cutaneous syndactyly of fingers and toes, (Fig. 2A) and bowing of the femora.</text>
+            </sentence>
+            <sentence>
+                <offset>497</offset>
+                <text>Body weight and height were below average.</text>
+            </sentence>
+            <sentence>
+                <offset>540</offset>
+                <text>He underwent a cranioplasty and ventriculoperitoneal shunt and was then lost to follow-up.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

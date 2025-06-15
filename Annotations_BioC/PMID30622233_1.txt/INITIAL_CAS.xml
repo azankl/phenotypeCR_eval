@@ -1,0 +1,85 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿A 3-year-old male patient was referred to the Neurodevelopment Clinic at King Fahad Specialist Hospital, Dammam for development assessment due to delayed development, particularly speech.</text>
+            </sentence>
+            <sentence>
+                <offset>189</offset>
+                <text>He was born at 37 weeks of gestation by cesarian section due to failure to progress and fetal distress.</text>
+            </sentence>
+            <sentence>
+                <offset>293</offset>
+                <text>He needed resuscitation and oxygen but did not need intubation.</text>
+            </sentence>
+            <sentence>
+                <offset>357</offset>
+                <text>His Appearance, Pulse, Grimace, Activity, Respiration (APGAR) scores were unknown.</text>
+            </sentence>
+            <sentence>
+                <offset>440</offset>
+                <text>His birth weight was 1.6 kg and he stayed in the SCBU for 3 weeks.</text>
+            </sentence>
+            <sentence>
+                <offset>507</offset>
+                <text>No other neonatal or feeding problems were found.</text>
+            </sentence>
+            <sentence>
+                <offset>557</offset>
+                <text>He had generalized tonic-clonic seizures, which are now under control.</text>
+            </sentence>
+            <sentence>
+                <offset>628</offset>
+                <text>He had only 3 episodes of GTC.</text>
+            </sentence>
+            <sentence>
+                <offset>659</offset>
+                <text>His parents are first-degree cousins and have 2 healthy children.</text>
+            </sentence>
+            <sentence>
+                <offset>725</offset>
+                <text>There is no history of abortion or miscarriage and there is no similar case in the family.</text>
+            </sentence>
+            <sentence>
+                <offset>817</offset>
+                <text>On physical examination, his weight was 8.8 kg (&lt;&lt;3rd centile), height was 77 cm (&lt;&lt;3rd centile) and head circumference 51 cm (75th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>959</offset>
+                <text>He also had numerous characteristic dysmorphic features such as a relatively large head, frontal bossing, triangular face, mid-face hypoplasia, bushy eyebrows, depressed nasal bridge, upturned nostrils, and fleshy tip of nose, long philtrum, small pointed chin, micrognathia, prominent mouth, large and protruded ears, chubby square hands, clinodactyly, and lordosis.</text>
+            </sentence>
+            <sentence>
+                <offset>1327</offset>
+                <text>He also had a short broad neck and thorax, square shoulders, bilateral inguinal hernia, and hypospadias.</text>
+            </sentence>
+            <sentence>
+                <offset>1433</offset>
+                <text>His development assessment showed mild global development delay, particularly speech.</text>
+            </sentence>
+            <sentence>
+                <offset>1520</offset>
+                <text>Investigations&#13;
+His metabolic screen, including mucopolysaccharide screen, was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1607</offset>
+                <text>His hormone studies, including cortisol, Growth hormones, IGF-2, IGFBP, and testosterone, were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1710</offset>
+                <text>MRI brain showed moderate cerebellar atrophy with brain stem and supratentorial volume loss.</text>
+            </sentence>
+            <sentence>
+                <offset>1803</offset>
+                <text>A skeletal maturation study showed delayed bone age about 1 year less than chronological age. but did not reveal slender long bones or tall vertebral bodies.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

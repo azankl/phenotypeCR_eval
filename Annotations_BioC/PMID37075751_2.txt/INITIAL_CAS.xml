@@ -1,0 +1,44 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 2, brother of Individual 1, presented as an infant with left-sided cleft lip and palate and metopic craniosynostosis.</text>
+            </sentence>
+            <sentence>
+                <offset>129</offset>
+                <text>He had a normal echocardiogram and brain magnetic resonance imaging (MRI), both obtained due to his brother’s sudden death.</text>
+            </sentence>
+            <sentence>
+                <offset>253</offset>
+                <text>As an infant, he had a polysomnography study which identified mixed obstructive and central apnea, treated with supplemental oxygen.</text>
+            </sentence>
+            <sentence>
+                <offset>386</offset>
+                <text>At 4 months of age, his weight gain plateaued, and he was diagnosed with frank aspiration, requiring gastrostomy tube placement.</text>
+            </sentence>
+            <sentence>
+                <offset>515</offset>
+                <text>Now age 5, he has some speech difficulties (articulation and resonance) but overall development is on track.</text>
+            </sentence>
+            <sentence>
+                <offset>624</offset>
+                <text>He had clinical trio exome sequencing (GeneDx, Gaithersburg, MD) which identified a paternally inherited missense variant in POLR1A c. 176A&gt;T; p.</text>
+            </sentence>
+            <sentence>
+                <offset>769</offset>
+                <text>(Asp59Val), which was also confirmed to be present in his deceased brother.</text>
+            </sentence>
+            <sentence>
+                <offset>845</offset>
+                <text>The father of individuals 1 and 2 (not included in this series) was noted to have bitemporal narrowing and a prominent metopic ridge</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

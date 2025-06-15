@@ -1,0 +1,176 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 6
+
+He is a male born at 39 weeks (weight 2810 g (-1,6 SD), length 49 cm (-1,3 SD), head circumference 35 cm (-0,2 SD)).</text>
+            </sentence>
+            <sentence>
+                <offset>131</offset>
+                <text>His parents are first cousins and he has a healthy younger brother.</text>
+            </sentence>
+            <sentence>
+                <offset>199</offset>
+                <text>He has strabismus and mild intellectual disability, but is otherwise functioning well.</text>
+            </sentence>
+            <sentence>
+                <offset>287</offset>
+                <text>Examination at 13y 3m showed a height of 155 cm (25th centile) and height of 62 kg (85th centile) and a head circumference of 56 cm (75th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>435</offset>
+                <text>He has high arched eyebrows, a low-set forehead hairline and low-set ears.</text>
+            </sentence>
+            <sentence>
+                <offset>510</offset>
+                <text>His hands showed a clinodactyly 5th finger bilaterally, brachydactyly, slightly dysplastic nails.</text>
+            </sentence>
+            <sentence>
+                <offset>608</offset>
+                <text>Feet examination showed short wide feet, short, low set 4th left toe, very slight partial syndactyly 2-3.</text>
+            </sentence>
+            <sentence>
+                <offset>715</offset>
+                <text>Radiographies showed a normal skeleton apart from extremities.</text>
+            </sentence>
+            <sentence>
+                <offset>778</offset>
+                <text>Hands: Brachymesophalangy 5, pseudoepiphyses, hypoplastic distal phalanges.</text>
+            </sentence>
+            <sentence>
+                <offset>854</offset>
+                <text>Feet Short and thin left metatarsal 4, short left metatarsal 5 Individual 7
+
+The proband is the first child of consanguineous parents (first cousins) born at term by emergency Caesarean section due to fetal distress.</text>
+            </sentence>
+            <sentence>
+                <offset>1071</offset>
+                <text>Pregnancy itself was unremarkable.</text>
+            </sentence>
+            <sentence>
+                <offset>1106</offset>
+                <text>Birth weight was 2.6kg (0.4th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>1146</offset>
+                <text>There were no concerns regarding the probands early development.</text>
+            </sentence>
+            <sentence>
+                <offset>1211</offset>
+                <text>The parents became concerned when she appeared not to be coping well at school.</text>
+            </sentence>
+            <sentence>
+                <offset>1291</offset>
+                <text>She is reported to have poor memory with limited concentration.</text>
+            </sentence>
+            <sentence>
+                <offset>1355</offset>
+                <text>She is sociable but mum has concerns that she can sometimes be inappropriately social towards strangers.</text>
+            </sentence>
+            <sentence>
+                <offset>1460</offset>
+                <text>She attends mainstream school with a statement of educational needs.</text>
+            </sentence>
+            <sentence>
+                <offset>1529</offset>
+                <text>At the age of 5 years 11 months (71 months), she underwent a Griffiths Mental Development assessment.</text>
+            </sentence>
+            <sentence>
+                <offset>1631</offset>
+                <text>Her developmental age at this time was 54.5 months for eye-hand coordination, 35 months for performance and 48 months for practical reasoning.</text>
+            </sentence>
+            <sentence>
+                <offset>1775</offset>
+                <text>The proband had a urine infection when 5 months of age and she was subsequently found to have vesicoureteric reflux and hydronephrosis with scarring of her left kidney.</text>
+            </sentence>
+            <sentence>
+                <offset>1944</offset>
+                <text>She was commenced on prophylactic antibiotics.</text>
+            </sentence>
+            <sentence>
+                <offset>1992</offset>
+                <text>On examination at 7 y, Weight 27.6 kg (50th centile) Height 130 cm (90th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>2075</offset>
+                <text>She had prominent epicanthic folds and columella with upturned earlobes.</text>
+            </sentence>
+            <sentence>
+                <offset>2148</offset>
+                <text>She had shortening of the 5th metacarpals bilaterally and absence of the 5th toe on the right foot with overriding of the 3rd and 4th toes.</text>
+            </sentence>
+            <sentence>
+                <offset>2288</offset>
+                <text>The 4th toe on the left appeared absent and there was duplication of the 5th toe with syndactyly.</text>
+            </sentence>
+            <sentence>
+                <offset>2387</offset>
+                <text>There were no radiological anomalies apart from those at the extremities.</text>
+            </sentence>
+            <sentence>
+                <offset>2461</offset>
+                <text>Abnormal appearance of the epiphyses of both distal radius and probably also distal ulna with overlapping proximal carpal bones.</text>
+            </sentence>
+            <sentence>
+                <offset>2590</offset>
+                <text>At age 8 years, bone age of 11 years on radiographs of hands and feet.</text>
+            </sentence>
+            <sentence>
+                <offset>2661</offset>
+                <text>Hands: Short right 1st metacarpal.</text>
+            </sentence>
+            <sentence>
+                <offset>2696</offset>
+                <text>Bilaterally short 5th metacarpals and mild shortening of 4th.</text>
+            </sentence>
+            <sentence>
+                <offset>2758</offset>
+                <text>Proximal phalanx right thumb is short.</text>
+            </sentence>
+            <sentence>
+                <offset>2797</offset>
+                <text>The right 5th finger distal phalanx is small with an abnormal epiphysis which is thickened.</text>
+            </sentence>
+            <sentence>
+                <offset>2890</offset>
+                <text>Feet: Right: Missing the 5th ray.</text>
+            </sentence>
+            <sentence>
+                <offset>2924</offset>
+                <text>The fourth digit proximal phalanx and epiphysis are abnormal in shape.</text>
+            </sentence>
+            <sentence>
+                <offset>2995</offset>
+                <text>Overriding of the 3rd, 4th and 5th toes.</text>
+            </sentence>
+            <sentence>
+                <offset>3036</offset>
+                <text>Proximal 3rd metatarsal is fused to the 4th metatarsal. 4th metatarsal is widened.</text>
+            </sentence>
+            <sentence>
+                <offset>3119</offset>
+                <text>Left: There are five rays in the left foot.</text>
+            </sentence>
+            <sentence>
+                <offset>3163</offset>
+                <text>Proximal fusion of 4th and 5th metatarsals.</text>
+            </sentence>
+            <sentence>
+                <offset>3207</offset>
+                <text>Bilaterally: The 1st metatarsals are broadened and the shaft of the metatarsals and multiple epiphyses and phalanges have abnormal shapes in both feet.</text>
+            </sentence>
+            <sentence>
+                <offset>3360</offset>
+                <text>Urine organic acids, urine amino acids, serum urea and electrolytes, full blood count, ferritin and thyroid function were all within normal limits.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,24 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patients 9 had maxillar hypoplasia and micrognathia and prominent, dysplastic ears (Fig. 1f, g).</text>
+            </sentence>
+            <sentence>
+                <offset>97</offset>
+                <text>They had hypoplastic thumbs with thenar atrophy and no movement in the distal interphalangeal joints (Fig. 2o–r).</text>
+            </sentence>
+            <sentence>
+                <offset>211</offset>
+                <text>The first toes were short and stiff, and between second and third toes there was a syndactyly (Fig. 3d, e). exhibited enamel hypoplasia of the teeth. had cryptorchidism and glandular epispadias.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

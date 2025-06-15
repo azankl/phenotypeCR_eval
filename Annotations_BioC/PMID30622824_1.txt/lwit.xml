@@ -1,0 +1,170 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The patient presented at age 7 years for evaluation of short stature.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004322</infon>
+                    <location length="13" offset="55"/>
+                    <text>short stature</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>70</offset>
+                <text>Review of her growth chart demonstrated prior stable linear growth below the 1.2nd percentile for age and sex (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>192</offset>
+                <text>She was born full term with a birth weight and length appropriate for gestational age.</text>
+            </sentence>
+            <sentence>
+                <offset>279</offset>
+                <text>Examination revealed a stocky-appearing girl with a height of 117.5 cm (height SDS -2.5).</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term denied, https://github.com/obophenotype/human-phenotype-ontology/issues/10408</infon>
+                    <location length="16" offset="23"/>
+                    <text>stocky-appearing</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>369</offset>
+                <text>Her arm span measured 118.4 cm, and arm span to height ratio was normal at 1.01.</text>
+            </sentence>
+            <sentence>
+                <offset>450</offset>
+                <text>Her sitting height was 66 cm with a sitting to standing height ratio of 0.56.</text>
+            </sentence>
+            <sentence>
+                <offset>528</offset>
+                <text>Her upper and lower segments were measured at 59.7 and 57.8 cm, respectively, giving her a normal upper to lower segment ratio of 1.03.</text>
+            </sentence>
+            <sentence>
+                <offset>664</offset>
+                <text>Bilateral 5th finger brachydactyly clinodactyly, bilateral short broad thumbs and first toes, and mild mesomelia of the upper limbs were noted.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009237</infon>
+                    <location length="24" offset="10"/>
+                    <text>5th finger brachydactyly</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030084</infon>
+                    <location length="12" offset="35"/>
+                    <text>clinodactyly</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="59"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="59"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011304</infon>
+                    <location length="12" offset="65"/>
+                    <text>broad thumbs</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="65"/>
+                    <text>broad</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="71"/>
+                    <text>thumbs</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="82"/>
+                    <text>first toes</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="82"/>
+                    <text>first toes</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005011</infon>
+                    <location length="28" offset="103"/>
+                    <text>mesomelia of the upper limbs</text>
+                </annotation>
+                <relation id="6">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009778</infon>
+                    <node refid="7" role="source"/>
+                    <node refid="5" role="target"/>
+                </relation>
+                <relation id="9">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010109</infon>
+                    <node refid="10" role="source"/>
+                    <node refid="8" role="target"/>
+                </relation>
+                <relation id="13">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010055</infon>
+                    <node refid="14" role="source"/>
+                    <node refid="12" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>808</offset>
+                <text>She did not have clinical evidence of Madelung deformity.</text>
+            </sentence>
+            <sentence>
+                <offset>866</offset>
+                <text>Radiological imaging revealed shortened metacarpals of her left hand on a bone age X-ray (Figure 2).</text>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010049</infon>
+                    <location length="21" offset="30"/>
+                    <text>shortened metacarpals</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>967</offset>
+                <text>She did not have radiological evidence of a Madelung deformity.</text>
+            </sentence>
+            <sentence>
+                <offset>1031</offset>
+                <text>The mild mesomelia noted clinically was not appreciated on imaging.</text>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003027</infon>
+                    <location length="9" offset="9"/>
+                    <text>mesomelia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1099</offset>
+                <text>Her bone age was 7 years 10 months.</text>
+            </sentence>
+            <sentence>
+                <offset>1135</offset>
+                <text>Eleven rib pairs were also identified in both the patient and her mother</text>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000878</infon>
+                    <location length="16" offset="0"/>
+                    <text>Eleven rib pairs</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

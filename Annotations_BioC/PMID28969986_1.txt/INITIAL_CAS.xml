@@ -1,0 +1,60 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 1 was an 8 years and 11 months old boy, who was referred to pediatric endocrine clinic for “growth delay for over eight years” and initially suspected to suffer an autosomal recessive form of Silver–Russell syndrome (SRS).</text>
+            </sentence>
+            <sentence>
+                <offset>232</offset>
+                <text>At birth, he was diagnosed with small for gestational age (SGA) and his height was consistently below 3rd percentile since.</text>
+            </sentence>
+            <sentence>
+                <offset>356</offset>
+                <text>He could turn over and sit at the age of five months and eight months but he could not walk until 24 months.</text>
+            </sentence>
+            <sentence>
+                <offset>465</offset>
+                <text>At 8 years and 11 months, his height was 103 cm (− 5.5 SD) and his weight was 15 kg (&lt; 0.1 percentile), resulting in a BMI of 14.14.</text>
+            </sentence>
+            <sentence>
+                <offset>598</offset>
+                <text>The arm span was 98.6 cm and the upper to lower segment ratio was 1.02:1.</text>
+            </sentence>
+            <sentence>
+                <offset>672</offset>
+                <text>One cafe-au-lait spot was noticed in his left frontal hairline.</text>
+            </sentence>
+            <sentence>
+                <offset>736</offset>
+                <text>His dysmorphic features include triangular face, prominent forehead, hypoplastic midface, pectus carinatum, single transverse palmar crease, bilateral short fifth fingers, rocker bottom foot.</text>
+            </sentence>
+            <sentence>
+                <offset>928</offset>
+                <text>He underwent extensive laboratory investigations including routine biochemistry tests, insulin (8.54 uIU/mL, reference range: 5–25 uIU/mL), IGF-1 (191.0 ng/mL, reference range: 55–327 ng/mL) and IGF-binding protein-3 (4.19 μg/mL, reference range: 0.7–4.6 μg/mL) tests, growth hormone stimulation test (14.79 ng/mL, reference range: &gt; 10 ng/mL), thyroid function (tT3 105.5 ng/dL (70–210 ng/dL), tT4 6.76 μg/dL (4.0–12.0 μg/dL), TSH 0.78 mIU/L (0.4–4.0 mIU/L), fT3 4.93 pmol/L (3.3–8.25 μg/dL), fT4 9.58 pmol/L (8.37–29.6 pmol/L)) and liver function tests, chromosomal analysis, as well as ultrasound scanning on adrenal gland, thyroid gland and abdomen.</text>
+            </sentence>
+            <sentence>
+                <offset>1582</offset>
+                <text>All had normal results.</text>
+            </sentence>
+            <sentence>
+                <offset>1606</offset>
+                <text>Endocrine tests revealed a recurrent elevation in estradiol (E2: 40.3 pg/mL and 36.2 pg/mL, reference range: 0–29.7 pg/mL) and ACTH (90.5 pg/mL and 58.1 pg/mL, range: 0–46 pg/mL).</text>
+            </sentence>
+            <sentence>
+                <offset>1786</offset>
+                <text>His bone age was between eight and nine years, which is approximately equal to his chronological age.</text>
+            </sentence>
+            <sentence>
+                <offset>1888</offset>
+                <text>Results of Wechsler Intelligence Scale for Children-IV (WISC-IV) showed an IQ of 79.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

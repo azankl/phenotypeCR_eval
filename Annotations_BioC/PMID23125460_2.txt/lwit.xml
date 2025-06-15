@@ -1,0 +1,136 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Case 2 is a 2-year-old child who presented with facial dysmorphism with macrocephaly and frontal bossing at birth.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001999</infon>
+                    <location length="18" offset="49"/>
+                    <text>facial dysmorphism</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000256</infon>
+                    <location length="12" offset="73"/>
+                    <text>macrocephaly</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002007</infon>
+                    <location length="15" offset="90"/>
+                    <text>frontal bossing</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>116</offset>
+                <text>Parameters at birth were normal (weight 3100 g, height 49 cm, HC 35.5 cm); the child was hypotonic and able to sit unaided at 11 months of age.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001252</infon>
+                    <location length="9" offset="89"/>
+                    <text>hypotonic</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>260</offset>
+                <text>Facial features included a tall forehead with frontal bossing, hypertelorism, strabismus, short nose, and protruding tongue.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000348</infon>
+                    <location length="13" offset="27"/>
+                    <text>tall forehead</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002007</infon>
+                    <location length="15" offset="46"/>
+                    <text>frontal bossing</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="63"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000486</infon>
+                    <location length="10" offset="78"/>
+                    <text>strabismus</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003196</infon>
+                    <location length="10" offset="90"/>
+                    <text>short nose</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010808</infon>
+                    <location length="17" offset="106"/>
+                    <text>protruding tongue</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>385</offset>
+                <text>Brain MRI showed a corpus callosum agenesis (figure 2C) as well as parallel and dilated lateral ventricles characteristic of complete callosal agenesis (figure 2F) and a vermis dysgenesis with an MTS (figure 2E) that suggested the diagnosis of ACLS, despite the absence of polydactyly.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001274</infon>
+                    <location length="24" offset="19"/>
+                    <text>corpus callosum agenesis</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006956</infon>
+                    <location length="26" offset="80"/>
+                    <text>dilated lateral ventricles</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001274</infon>
+                    <location length="17" offset="134"/>
+                    <text>callosal agenesis</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002195</infon>
+                    <location length="17" offset="170"/>
+                    <text>vermis dysgenesis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>671</offset>
+                <text>Instead, bilateral 2–3 syndactyly was observed in the feet.</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="19"/>
+                    <text>2–3 syndactyly</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="54"/>
+                    <text>feet</text>
+                </annotation>
+                <relation id="16">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004691</infon>
+                    <node refid="17" role="source"/>
+                    <node refid="15" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>731</offset>
+                <text>Direct sequencing of KIF7 revealed a single T insertion in exon 17, predicting a frameshift and a premature termination of the protein, c.1019dupT, p.Asn341GlnfsX122 inherited from his father and a maternally inherited nonsense mutation in exon 17: c.3331C&gt;T, p.Arg1111X.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

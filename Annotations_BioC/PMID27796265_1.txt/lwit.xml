@@ -1,0 +1,230 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿A 16-month-old female patient was admitted to our clinic with a complaint of short stature.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004322</infon>
+                    <location length="13" offset="78"/>
+                    <text>short stature</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>93</offset>
+                <text>Her case history revealed that she was born as the first child of her consanguineous parents.</text>
+            </sentence>
+            <sentence>
+                <offset>187</offset>
+                <text>The patient was born on the 39th week of gestation with a birth weight of 1740 grams and birth length of 42 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>299</offset>
+                <text>There is no known prior case of hereditary disease in her family.</text>
+            </sentence>
+            <sentence>
+                <offset>365</offset>
+                <text>On physical examination, the patient’s length was 67 cm [-3.6 standard deviation (SD) score], her body weight was 7.2 kg (-2.9 SD score), and head circumference 42 cm (below 3rd percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>556</offset>
+                <text>Her features consisted of a triangular face, a fleshy nose tip, a long philtrum, a prominent mouth and lips with a pointed chin alongside, lumbar lordosis, and prominent heels.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000325</infon>
+                    <location length="15" offset="28"/>
+                    <text>triangular face</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000414</infon>
+                    <location length="15" offset="47"/>
+                    <text>fleshy nose tip</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000343</infon>
+                    <location length="13" offset="66"/>
+                    <text>long philtrum</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000154</infon>
+                    <location length="15" offset="83"/>
+                    <text>prominent mouth</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="83"/>
+                    <text>prominent</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="103"/>
+                    <text>lips</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000307</infon>
+                    <location length="12" offset="115"/>
+                    <text>pointed chin</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002938</infon>
+                    <location length="15" offset="139"/>
+                    <text>lumbar lordosis</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012428</infon>
+                    <location length="15" offset="160"/>
+                    <text>prominent heels</text>
+                </annotation>
+                <relation id="7">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012471</infon>
+                    <node refid="8" role="source"/>
+                    <node refid="6" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>733</offset>
+                <text>Maternal body height was 164 cm and paternal height was 187 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>797</offset>
+                <text>Midparental height was estimated as 169 cm (+1 SD score).</text>
+            </sentence>
+            <sentence>
+                <offset>855</offset>
+                <text>No noticeably short individual was reported in the family.</text>
+            </sentence>
+            <sentence>
+                <offset>914</offset>
+                <text>The patient started forming syllables and walked approximately at one year of age.</text>
+            </sentence>
+            <sentence>
+                <offset>997</offset>
+                <text>Laboratory analyses showed normal complete blood cell counts with normally functioning kidneys and liver.</text>
+            </sentence>
+            <sentence>
+                <offset>1103</offset>
+                <text>The patient was euthyroid and serological analyses for gluten-sensitive enteropathy were negative.</text>
+            </sentence>
+            <sentence>
+                <offset>1202</offset>
+                <text>Her bone age was in line with her chronological age.</text>
+            </sentence>
+            <sentence>
+                <offset>1255</offset>
+                <text>Her karyotype was 46,XX and bone X-rays revealed a lumbar lordosis (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>1334</offset>
+                <text>Echocardiographic findings were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1374</offset>
+                <text>Serum insulin-like growth factor 1 (IGF-1) level was 47 ng/mL (&lt;-2 SD score) and serum IGF binding protein-3 (IGFBP-3) level was 2800 mg/mL (between +1/+2 SD score).</text>
+            </sentence>
+            <sentence>
+                <offset>1540</offset>
+                <text>L-dopa stimulation test scores revealed a peak GH response of 3.7 ng/mL.</text>
+            </sentence>
+            <sentence>
+                <offset>1618</offset>
+                <text>Our patient had prenatal growth retardation and a significantly short stature in addition to triangular face, a long philtrum, a fleshy nose tip, prominent mouth and lips with pointed chin (Figure 2), as well as lumbar lordosis which collectively suggested a syndromic short stature.</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001511</infon>
+                    <location length="27" offset="16"/>
+                    <text>prenatal growth retardation</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004322</infon>
+                    <location length="13" offset="64"/>
+                    <text>short stature</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000325</infon>
+                    <location length="15" offset="93"/>
+                    <text>triangular face</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000343</infon>
+                    <location length="13" offset="112"/>
+                    <text>long philtrum</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000414</infon>
+                    <location length="15" offset="129"/>
+                    <text>fleshy nose tip</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000154</infon>
+                    <location length="15" offset="146"/>
+                    <text>prominent mouth</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="146"/>
+                    <text>prominent</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="166"/>
+                    <text>lips</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000307</infon>
+                    <location length="12" offset="176"/>
+                    <text>pointed chin</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002938</infon>
+                    <location length="15" offset="212"/>
+                    <text>lumbar lordosis</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004322</infon>
+                    <location length="13" offset="269"/>
+                    <text>short stature</text>
+                </annotation>
+                <relation id="19">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012471</infon>
+                    <node refid="20" role="source"/>
+                    <node refid="18" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1902</offset>
+                <text>Drawing upon our prior experience with two sibling patients who were diagnosed with the 3M syndrome after a long period of undiagnosed clinical monitoring, we considered a 3M diagnosis to be appropriate for our current patient as well.</text>
+            </sentence>
+            <sentence>
+                <offset>2138</offset>
+                <text>The following genetic assessment, through the whole gene sequencing method, revealed a homozygous p.T45Nfs*40 (c.1273 dupA) mutation of OBSL1 gene which led to diagnosis of 3M syndrome.</text>
+            </sentence>
+            <sentence>
+                <offset>2324</offset>
+                <text>Parental genetic analysis with same method also revealed that both of the parents had heterozygous mutations on OBSL1.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

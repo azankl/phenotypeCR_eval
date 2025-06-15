@@ -1,0 +1,56 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 2 is a 3.5-year-old girl, the second child to healthy first-cousin Arab parents (Figure 1C).</text>
+            </sentence>
+            <sentence>
+                <offset>104</offset>
+                <text>She was referred for evaluation of congenital deformity of the hands and feet.</text>
+            </sentence>
+            <sentence>
+                <offset>183</offset>
+                <text>Family history is negative.</text>
+            </sentence>
+            <sentence>
+                <offset>211</offset>
+                <text>There was history of oligohydramnios and decreased fetal movement during pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>295</offset>
+                <text>At birth, she was noted to have terminal-reduction defects of her hands and feet and cutis aplasia of the scalp.</text>
+            </sentence>
+            <sentence>
+                <offset>408</offset>
+                <text>Her development appeared appropriate except for speech delay.</text>
+            </sentence>
+            <sentence>
+                <offset>470</offset>
+                <text>Her physical examination at 3.5 years revealed microcephaly but normal height and weight.</text>
+            </sentence>
+            <sentence>
+                <offset>560</offset>
+                <text>There was an area of alopecia with an underlying scar in the scalp.</text>
+            </sentence>
+            <sentence>
+                <offset>628</offset>
+                <text>Finger and toe nails were either absent or severely hypoplastic, as were the distal phalanges, and her hands appeared stubby with distorted creases (Figure 1D).</text>
+            </sentence>
+            <sentence>
+                <offset>789</offset>
+                <text>X-rays of the hands and feet revealed hypoplastic middle phalanges and absent distal phalanges.</text>
+            </sentence>
+            <sentence>
+                <offset>885</offset>
+                <text>Echocardiography, EEG, and eye examination were all within normal limits.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

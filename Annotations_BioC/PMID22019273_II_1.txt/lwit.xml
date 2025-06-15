@@ -1,0 +1,158 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient II-1, a 21-year-old female, is the second child of unrelated, healthy parents.</text>
+            </sentence>
+            <sentence>
+                <offset>87</offset>
+                <text>At birth, developmental dysplasia of both hips and general hypotonia were observed.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="24"/>
+                    <text>dysplasia</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="42"/>
+                    <text>hips</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001252</infon>
+                    <location length="9" offset="59"/>
+                    <text>hypotonia</text>
+                </annotation>
+                <relation id="2">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001385</infon>
+                    <node refid="3" role="source"/>
+                    <node refid="1" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>171</offset>
+                <text>Ophthalmoscopy at the age of 11 years revealed attenuated arteries and bone-spicule-shaped deposits in the periphery of the retina (Figure 1A).</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007843</infon>
+                    <location length="19" offset="47"/>
+                    <text>attenuated arteries</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="28" offset="71"/>
+                    <text>bone-spicule-shaped deposits</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="124"/>
+                    <text>retina</text>
+                </annotation>
+                <relation id="7">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007737</infon>
+                    <node refid="8" role="source"/>
+                    <node refid="6" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>315</offset>
+                <text>An electroretinogram showed completely extinguished signals, indicative of tapetoretinal dystrophy.</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000546</infon>
+                    <location length="23" offset="75"/>
+                    <text>tapetoretinal dystrophy</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>415</offset>
+                <text>She had recurrent pneumonia and asthma, consistent with respiratory function tests that indicated reduced lung capacity.</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002090</infon>
+                    <location length="9" offset="18"/>
+                    <text>pneumonia</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002099</infon>
+                    <location length="6" offset="32"/>
+                    <text>asthma</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002091</infon>
+                    <location length="21" offset="98"/>
+                    <text>reduced lung capacity</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>536</offset>
+                <text>At the age of 11 years she was investigated for retardation of statural growth with height 2–3 cm under the 2.5th centile, but no underlying cause was found.</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001510</infon>
+                    <location length="30" offset="48"/>
+                    <text>retardation of statural growth</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>694</offset>
+                <text>After treatment with growth hormone therapy, her height attained the 10th centile.</text>
+            </sentence>
+            <sentence>
+                <offset>777</offset>
+                <text>The mid-parental height was 175 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>813</offset>
+                <text>When she was 11 years old, she presented with a moderately increased serum creatinine and hypertension.</text>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003259</infon>
+                    <location length="26" offset="59"/>
+                    <text>increased serum creatinine</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000822</infon>
+                    <location length="12" offset="90"/>
+                    <text>hypertension</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>917</offset>
+                <text>Ultrasound showed hyperechoic kidneys, and histological examination of a renal biopsy revealed unspecific changes that were compatible with a nephronophthisis-like disease (Figures 1D and 1E).</text>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004719</infon>
+                    <location length="19" offset="18"/>
+                    <text>hyperechoic kidneys</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1110</offset>
+                <text>The nephropathy progressed rapidly, and a successful renal transplantation was performed when she was 14 years old.</text>
+            </sentence>
+            <sentence>
+                <offset>1226</offset>
+                <text>She also had idiopathic bone marrow hypoplasia.</text>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005528</infon>
+                    <location length="22" offset="24"/>
+                    <text>bone marrow hypoplasia</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

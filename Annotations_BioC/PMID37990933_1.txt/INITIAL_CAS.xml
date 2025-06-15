@@ -1,0 +1,76 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The proband (P1) is a 12-year-old girl born to non-consanguineous Italian couple, which was addressed to our Center in the suspicion of an overgrowth syndrome.</text>
+            </sentence>
+            <sentence>
+                <offset>163</offset>
+                <text>Pregnancy was uneventful, except for dysplastic multicystic right kidney and femur length at the upper limits at morphology scan.</text>
+            </sentence>
+            <sentence>
+                <offset>293</offset>
+                <text>She was born at 40 weeks of gestation; birth weight was 3.250 kg (50–75th centile) and length 52 cm (50th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>409</offset>
+                <text>Length became &gt;97th centile since the first months of life, and the right dysplastic kidney atrophied over time.</text>
+            </sentence>
+            <sentence>
+                <offset>525</offset>
+                <text>Thyroid and pelvic US scan were normal, whereas carpal x-ray revealed a bone age 4 years older than chronological age.</text>
+            </sentence>
+            <sentence>
+                <offset>644</offset>
+                <text>In addition, spine x-ray revealed left-convex lumbar rotoscoliosis with moderate right-convex compensatory curvature.</text>
+            </sentence>
+            <sentence>
+                <offset>762</offset>
+                <text>She also had valgus knees and flat feet.</text>
+            </sentence>
+            <sentence>
+                <offset>803</offset>
+                <text>At the age of 10 years, bilateral pantonal sensorineural hearing loss was diagnosed.</text>
+            </sentence>
+            <sentence>
+                <offset>888</offset>
+                <text>Dental examination revealed peg-shaped incisors.</text>
+            </sentence>
+            <sentence>
+                <offset>940</offset>
+                <text>At 12 years of age, she weighed 74.8 kg (+2.04 SD), height was 185.5 cm (+4.35 SD), and she had relative microcephaly, since occipitofrontal circumference (OFC) was 52.2 cm (−0.95 SD); body mass index (BMI) was 21.7 (+0.44 SD), arm-span was 182 cm with normal arm span/height ratio (0.98).</text>
+            </sentence>
+            <sentence>
+                <offset>1230</offset>
+                <text>Her intellectual and social development was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1282</offset>
+                <text>Mild dysmorphic features include high frontal hairline, slight asymmetric face, deeply set eyes, slight prognathism, small ears, bifid uvula and peg-shaped incisors.</text>
+            </sentence>
+            <sentence>
+                <offset>1448</offset>
+                <text>She had long and thin fingers, prominent phalanx epiphyses, camptodactyly of fingers and toes, first and second fingers clinodactyly on the left hand and of second and third fingers on the right hand.</text>
+            </sentence>
+            <sentence>
+                <offset>1649</offset>
+                <text>She also had clinodactyly and proximal placement of the fifth toes bilaterally (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>1740</offset>
+                <text>She showed mild joint hyperextensibility with Beighton score of 5/9 (Positive Beighton score ≥5).</text>
+            </sentence>
+            <sentence>
+                <offset>1838</offset>
+                <text>Skin examination revealed no striae distensae, bruising, atrophic scars or pigmentation disorders.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

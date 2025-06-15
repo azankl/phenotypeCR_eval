@@ -1,0 +1,96 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Our proband (IV-1, Fig. 1) was referred to our genetics center in Indianapolis at age 16 years for the genetic evaluation of her sensorineural hearing loss.</text>
+            </sentence>
+            <sentence>
+                <offset>157</offset>
+                <text>Her past medical history indicated a normal pregnancy and perinatal period.</text>
+            </sentence>
+            <sentence>
+                <offset>233</offset>
+                <text>Birth was at 38 weeks gestation with a birth weight of 2.358 kg (5th centile) and a length of 53 cm (97th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>349</offset>
+                <text>Her early childhood was unremarkable except for the development of multiple finger contractures beginning at age 3 years, which have gotten worse with time.</text>
+            </sentence>
+            <sentence>
+                <offset>506</offset>
+                <text>At the age of 4, she was found to have an estimated 34% sensorineural hearing loss.</text>
+            </sentence>
+            <sentence>
+                <offset>590</offset>
+                <text>By age 16, her hearing loss had advanced to 58% of normal.</text>
+            </sentence>
+            <sentence>
+                <offset>649</offset>
+                <text>Since age 4 our patient had been using hearing aids.</text>
+            </sentence>
+            <sentence>
+                <offset>705</offset>
+                <text>Also at some time during her childhood, she developed chronic joint pain involving the ­­hips and lower back.</text>
+            </sentence>
+            <sentence>
+                <offset>815</offset>
+                <text>Because of her contractures and the joint pain at the age of 6, she was evaluated at Chicago's Shriners Hospital for Children.</text>
+            </sentence>
+            <sentence>
+                <offset>942</offset>
+                <text>Here, her digital anomalies were thought to be post-traumatic.</text>
+            </sentence>
+            <sentence>
+                <offset>1005</offset>
+                <text>An attempt to surgically correct the contractures there was unsuccessful.</text>
+            </sentence>
+            <sentence>
+                <offset>1079</offset>
+                <text>She also was found to have scoliosis.</text>
+            </sentence>
+            <sentence>
+                <offset>1117</offset>
+                <text>A head MRI at age 12 was within normal limits (Fig. 2).</text>
+            </sentence>
+            <sentence>
+                <offset>1176</offset>
+                <text>When we saw her at the age of 16, her past physical, intellectual, and social development had been normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1283</offset>
+                <text>At the ages of 8 and 10, she had experienced two tibial stress fractures.</text>
+            </sentence>
+            <sentence>
+                <offset>1357</offset>
+                <text>She also had surgery to correct misalignment of the right hip.</text>
+            </sentence>
+            <sentence>
+                <offset>1420</offset>
+                <text>On physical exam, her height was 170 cm (90th centile), weight was 74.3 kg (90–95th centile), and OFC was 52 cm (−2 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>1541</offset>
+                <text>In addition, she had superficial telangiectasia over the nose, long, thin, and contracted fingers, mild scoliosis, genu valgum, and a leg length discrepancy of 1.6 cm with the left being longer than the right.</text>
+            </sentence>
+            <sentence>
+                <offset>1751</offset>
+                <text>Radiologic images revealed a right coxa valga of the right femoral neck, the head of which was laterally displaced with 30% uncovering.</text>
+            </sentence>
+            <sentence>
+                <offset>1887</offset>
+                <text>The left femoral head was medially displaced.</text>
+            </sentence>
+            <sentence>
+                <offset>1933</offset>
+                <text>Sequencing of the fibroblast growth factor receptor 3 (FGFR3) gene revealed a c.1915G&gt;A (pR621H) transition in exon 15 of the FGFR3.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,96 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 1 is the second child of nonconsanguineous Caucasian parents.</text>
+            </sentence>
+            <sentence>
+                <offset>70</offset>
+                <text>She was born at 35 weeks gestation following a pregnancy complicated by polyhydramnios.</text>
+            </sentence>
+            <sentence>
+                <offset>158</offset>
+                <text>At birth she was edematous with a distinctive facial appearance (Fig. 1a) and generalized hypertrichosis.</text>
+            </sentence>
+            <sentence>
+                <offset>264</offset>
+                <text>An echocardiogram showed a patent ductus arteriosus (ligated at age 9 months) and a thickened inter-ventricular septum (10 mm).</text>
+            </sentence>
+            <sentence>
+                <offset>395</offset>
+                <text>Her motor development was delayed due to low muscle tone and joint laxity.</text>
+            </sentence>
+            <sentence>
+                <offset>470</offset>
+                <text>When reviewed at age 15 months she was unable to stand but her speech development was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>564</offset>
+                <text>She was of muscular build with height and weight on the 25th centile and head circumference on 50th centile.</text>
+            </sentence>
+            <sentence>
+                <offset>673</offset>
+                <text>She experienced several episodes of hematemesis with evidence of duodenitis and ulceration, and, associated Helicobacter pylori infection.</text>
+            </sentence>
+            <sentence>
+                <offset>812</offset>
+                <text>This did not recur following treatment.</text>
+            </sentence>
+            <sentence>
+                <offset>852</offset>
+                <text>She also had marked mood swings, especially early in the morning, and was investigated for hypoglycemia; however, this was not substantiated as glucose and insulin levels were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1036</offset>
+                <text>Her liver was palpable 3 cm below the costal margin at 15 months and 2 years 7 months of age with no signs of cardiac failure.</text>
+            </sentence>
+            <sentence>
+                <offset>1163</offset>
+                <text>Her facial appearance at age 19 months is shown in Figure 2a.</text>
+            </sentence>
+            <sentence>
+                <offset>1228</offset>
+                <text>She is now 15-year old.</text>
+            </sentence>
+            <sentence>
+                <offset>1252</offset>
+                <text>Her hypertrophic cardiomyopathy has remained stable and she does not have hepatomegaly.</text>
+            </sentence>
+            <sentence>
+                <offset>1340</offset>
+                <text>From the age of 12 years she has had recurrent episodes of ankle and lower limb swelling with normal albumin and complement levels and normal flow in the inferior vena cava, leg veins, and pelvis.</text>
+            </sentence>
+            <sentence>
+                <offset>1537</offset>
+                <text>A lymphoscintigram was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1568</offset>
+                <text>She has continued to have reflux esophagitis.</text>
+            </sentence>
+            <sentence>
+                <offset>1614</offset>
+                <text>Her cognitive problems are mild and she has coped well in mainstream school with 12 hr of extra help each week.</text>
+            </sentence>
+            <sentence>
+                <offset>1726</offset>
+                <text>Her main problems at school have been poor concentration, low self-esteem and extreme tiredness.</text>
+            </sentence>
+            <sentence>
+                <offset>1823</offset>
+                <text>At age 15 years her head circumference is 59.9 cm (&gt;98th centile) with her height and weight on 50th–75th and 75th centiles, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>1962</offset>
+                <text>The mid-parental height is 173 cm (91st centile).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

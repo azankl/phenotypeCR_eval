@@ -1,0 +1,48 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Case 1 (figure 1A–C) is now a 4.5-year-old boy, born to third degree consanguineous parents.</text>
+            </sentence>
+            <sentence>
+                <offset>94</offset>
+                <text>The diagnosis of ACLS was suggested because of associated facial dysmorphism including frontal bossing, coarse face, hypertelorism, antimongoloid slant of eyes, epicanthal folds, bilateral ptosis, protruding tongue, upturned upper lip (figure 1A), postaxial polydactyly of hands (figure 1B,C), and postaxial polysyndactyly of the left foot.</text>
+            </sentence>
+            <sentence>
+                <offset>435</offset>
+                <text>Brain MRI study showed a normal corpus callosum (figure 2A) and an MTS with an abnormal shape of the fourth ventricle and thickened superior cerebellar peduncles (figure 2A,B).</text>
+            </sentence>
+            <sentence>
+                <offset>612</offset>
+                <text>Moreover, he had global developmental delay, hoarse voice, bilateral cryptorchidism, and hyperpigmented macule on the right side of the chest and arm.</text>
+            </sentence>
+            <sentence>
+                <offset>763</offset>
+                <text>He did not have macrocephaly at 12 months during the initial evaluation as his head circumference (HC) was 46.5 cm (50th centile) and 49.5 cm at 36 months (50th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>934</offset>
+                <text>Karyotype was normal 46,XY and Smith Lemli Opitz syndrome was ruled out with normal levels of 7 and 8 dehydrocholesterol from blood spots.</text>
+            </sentence>
+            <sentence>
+                <offset>1073</offset>
+                <text>His echocardiogram was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1104</offset>
+                <text>Direct sequencing of the KIF7 gene identified a homozygous T to C substitution at the donor splice site of intron 3 c.529+2T&gt;C.</text>
+            </sentence>
+            <sentence>
+                <offset>1232</offset>
+                <text>Sequencing of parents confirmed that they are both heterozygous for this mutation.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

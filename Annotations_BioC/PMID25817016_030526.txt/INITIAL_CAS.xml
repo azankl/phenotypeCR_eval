@@ -1,0 +1,50 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This patient was the 2nd of 2 children.</text>
+            </sentence>
+            <sentence>
+                <offset>40</offset>
+                <text>The pregnancy was uncomplicated and she was delivered&#13;
+by a normal spontaneous vaginal delivery.</text>
+            </sentence>
+            <sentence>
+                <offset>137</offset>
+                <text>Her father is of Portuguese ancestry and her mother&#13;
+is Portuguese and Northern European ancestry.</text>
+            </sentence>
+            <sentence>
+                <offset>236</offset>
+                <text>Facial features of RS were recognized at birth.</text>
+            </sentence>
+            <sentence>
+                <offset>285</offset>
+                <text>Since that diagnosis, she has had several surgeries including a facial reconstruction to reduce her&#13;
+prominent chin and midface hypoplasia by replacing bone in her face and jaw with that from a&#13;
+rib around age 10 years.</text>
+            </sentence>
+            <sentence>
+                <offset>505</offset>
+                <text>Even with this surgery, she still has many of the features recognizable&#13;
+to RS, including frontal bossing, short nose and hypertelorism.</text>
+            </sentence>
+            <sentence>
+                <offset>642</offset>
+                <text>Currently, she displays mild&#13;
+short stature of 150 cm (&lt;3%), an arm (wing) span of 138 cm and an OFC of 65.5 cm (&gt;+6 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>765</offset>
+                <text>She showed normal cognitive development and has 3 unaffected children.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

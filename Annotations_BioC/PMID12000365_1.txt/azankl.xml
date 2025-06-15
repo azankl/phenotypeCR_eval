@@ -1,0 +1,146 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>azankl</key>
+    <document>
+        <id>azankl</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>2</offset>
+                <text>The subject was a male baby who was born after a full-term pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>72</offset>
+                <text>His mother and father were 31 and 34 years of age, respectively, at the time of his birth.</text>
+            </sentence>
+            <sentence>
+                <offset>163</offset>
+                <text>The parents were not consanguineous.</text>
+            </sentence>
+            <sentence>
+                <offset>200</offset>
+                <text>The family history was not contributory.</text>
+            </sentence>
+            <sentence>
+                <offset>241</offset>
+                <text>There was no maternal illness or drug usage during pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>303</offset>
+                <text>The pregnancy was uneventful until week 25 of gestation, when a cloverleaf skull was diagnosed by prenatal ultrasonography.</text>
+            </sentence>
+            <sentence>
+                <offset>427</offset>
+                <text>The infant weighed 2980 g and was 47 cm long at birth.</text>
+            </sentence>
+            <sentence>
+                <offset>482</offset>
+                <text>Clinical examination showed a cloverleaf skull caused by premature closure of multiple cranial sutures.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="30"/>
+                    <text>cloverleaf skull</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="45" offset="57"/>
+                    <text>premature closure of multiple cranial sutures</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>586</offset>
+                <text>The skin overlying the scalp, face, ears, upper lips and limbs was markedly corrugated (Fig. 1a).</text>
+            </sentence>
+            <sentence>
+                <offset>684</offset>
+                <text>These deep furrows were vertically arranged.</text>
+            </sentence>
+            <sentence>
+                <offset>729</offset>
+                <text>The mid-facial region was hypoplastic with a small nose and depressed nasal bridge.</text>
+            </sentence>
+            <sentence>
+                <offset>813</offset>
+                <text>There was choanal stenosis that resulted in breathing difficulty.</text>
+            </sentence>
+            <sentence>
+                <offset>879</offset>
+                <text>The subject's eyes were proptotic.</text>
+            </sentence>
+            <sentence>
+                <offset>914</offset>
+                <text>Hypertelorism, downslanting palpebral fissures were also present.</text>
+            </sentence>
+            <sentence>
+                <offset>980</offset>
+                <text>The subject's ears were low set and malformed with deep vertical furrows in the pre-auricular area (Fig. 1b).</text>
+            </sentence>
+            <sentence>
+                <offset>1090</offset>
+                <text>The oral cavity was small with a high, arched cleft palate.</text>
+            </sentence>
+            <sentence>
+                <offset>1150</offset>
+                <text>The umbilical stump was large and protruded (Fig. 1c).</text>
+            </sentence>
+            <sentence>
+                <offset>1205</offset>
+                <text>The corrugations were also present on the palms, soles and scrotal area (Fig. 1d).</text>
+            </sentence>
+            <sentence>
+                <offset>1288</offset>
+                <text>Neither acanthosis nigricans nor chiari malformation were noticed.</text>
+            </sentence>
+            <sentence>
+                <offset>1355</offset>
+                <text>Chromosomal analysis using the Giema-banding technique showed a normal 46,XY karyotype.</text>
+            </sentence>
+            <sentence>
+                <offset>1446</offset>
+                <text>On admission to the present authors' neonatal intensive care unit (NICU), an oropharyngeal tube was put in place to facilitate breathing.</text>
+            </sentence>
+            <sentence>
+                <offset>1584</offset>
+                <text>Nasogastric tube feeding was required because of poor sucking and easy choking.</text>
+            </sentence>
+            <sentence>
+                <offset>1664</offset>
+                <text>There were also clear fluid discharges from the subject's nose.</text>
+            </sentence>
+            <sentence>
+                <offset>1728</offset>
+                <text>Cerebrospinal fluid (CSF) rhinorrhea was suspected.</text>
+            </sentence>
+            <sentence>
+                <offset>1780</offset>
+                <text>A bifrontal suture craniectomy was performed, and the naso-ethmoid encephalocele was repaired by the anterior approach to prevent downward sliding of the encephalocele and CSF leakage.</text>
+            </sentence>
+            <sentence>
+                <offset>1965</offset>
+                <text>A three-dimensional computerized tomography scan of the head done at birth showed no hydrocephalus (Fig. 2a), but markedly dilated ventricles with an obstructive hydrocephalus were revealed by 3 months of age and a V-P shunt was put in place at that time (Fig. 2b).</text>
+            </sentence>
+            <sentence>
+                <offset>2231</offset>
+                <text>At one year of age, acanthosis nigricans was noted at the umbilical stump and inner upper thigh.</text>
+            </sentence>
+            <sentence>
+                <offset>2328</offset>
+                <text>Arnold Chiari type II malformation was also noted at follow-up brain tomography.</text>
+            </sentence>
+            <sentence>
+                <offset>2409</offset>
+                <text>A transfrontal orbital reconstruction and trans-oral LeFort I osteotomy and cranioplasty was performed.</text>
+            </sentence>
+            <sentence>
+                <offset>2513</offset>
+                <text>This boy is now 3 years of age and can stand with aid.</text>
+            </sentence>
+            <sentence>
+                <offset>2568</offset>
+                <text>The subject's body weight is 12 kg and his height is 91 cm.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

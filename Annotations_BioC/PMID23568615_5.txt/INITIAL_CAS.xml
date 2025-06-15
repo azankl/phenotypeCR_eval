@@ -1,0 +1,36 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 5 had maxillar and mandibular hypoplasia and a submucous cleft palate.</text>
+            </sentence>
+            <sentence>
+                <offset>79</offset>
+                <text>He needed a tracheostoma for airway management up to the age of 5 years.</text>
+            </sentence>
+            <sentence>
+                <offset>152</offset>
+                <text>Ears were small, low set and dysplastic, with an atresia of the auditory canals (Fig. 1c).</text>
+            </sentence>
+            <sentence>
+                <offset>243</offset>
+                <text>The right arm showed severe radial and ulnar hypoplasia and thumb aplasia (Fig. 2i, j), the left arm a mild radial hypoplasia and thumb aplasia as well.</text>
+            </sentence>
+            <sentence>
+                <offset>396</offset>
+                <text>The fourth and fifth toes were bilaterally short (Fig. 3b).</text>
+            </sentence>
+            <sentence>
+                <offset>456</offset>
+                <text>In addition, the patient had a complete atrioventricular septal defect and a marked hypoplasia of the deltoid and rotator cuff muscles</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,184 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This male patient had an unremarkable family history and was diagnosed with CMD at the age of 24 years.</text>
+            </sentence>
+            <sentence>
+                <offset>104</offset>
+                <text>Unilateral facial palsy was detected at age 2 months.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010628</infon>
+                    <location length="12" offset="11"/>
+                    <text>facial palsy</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>158</offset>
+                <text>During childhood, he came to medical attention because of macrocephaly.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000256</infon>
+                    <location length="12" offset="58"/>
+                    <text>macrocephaly</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>230</offset>
+                <text>He had orthodontic braces because of crowding of teeth, with suboptimal effect.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000678</infon>
+                    <location length="17" offset="37"/>
+                    <text>crowding of teeth</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>310</offset>
+                <text>At the age of 23 years, he presented with a progressive conductive and sensorineural hearing loss, mainly of the high tones and more pronounced on the left side.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="56"/>
+                    <text>conductive</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000407</infon>
+                    <location length="26" offset="71"/>
+                    <text>sensorineural hearing loss</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="85"/>
+                    <text>hearing loss</text>
+                </annotation>
+                <relation id="5">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000405</infon>
+                    <node refid="6" role="source"/>
+                    <node refid="4" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>472</offset>
+                <text>He had no nasal obstruction and he stated that his smell sensation was intact.</text>
+            </sentence>
+            <sentence>
+                <offset>551</offset>
+                <text>Fundoscopy showed no signs of optic nerve atrophy.</text>
+            </sentence>
+            <sentence>
+                <offset>602</offset>
+                <text>A CT scan of the os petrosum showed reduced pneumatization of the mastoid and diffuse hyperostosis and sclerosis of the skull base (Fig. 2d).</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005906</infon>
+                    <location length="37" offset="36"/>
+                    <text>reduced pneumatization of the mastoid</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="86"/>
+                    <text>hyperostosis</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002694</infon>
+                    <location length="27" offset="103"/>
+                    <text>sclerosis of the skull base</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="120"/>
+                    <text>skull base</text>
+                </annotation>
+                <relation id="10">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002694</infon>
+                    <node refid="11" role="source"/>
+                    <node refid="9" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>744</offset>
+                <text>In contrast, plain radiography showed only mild cranial involvement, but did show tubular remodeling and widened metaphyses of the long bones (Fig. 1d–f).</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="90"/>
+                    <text>remodeling</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003016</infon>
+                    <location length="18" offset="105"/>
+                    <text>widened metaphyses</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="113"/>
+                    <text>metaphyses</text>
+                </annotation>
+                <relation id="14">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000944</infon>
+                    <node refid="15" role="source"/>
+                    <node refid="13" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>899</offset>
+                <text>Paranasal bossing, apparent hypertelorism, and prognathism were evident.</text>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004407</infon>
+                    <location length="17" offset="0"/>
+                    <text>Paranasal bossing</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="28"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000303</infon>
+                    <location length="11" offset="47"/>
+                    <text>prognathism</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>972</offset>
+                <text>His height was 185 cm (75th–90th centile) (father: 176 cm (25th–50th centile); mother: 172 cm (75th–90th centile)) and skull circumference 62 cm (&gt;97th centile) (father: 60.5 cm (90th–97th centile); mother: 57 cm (75th–90th centile)).</text>
+            </sentence>
+            <sentence>
+                <offset>1207</offset>
+                <text>Lateral deviation of the distal phalanges of his third fingers and medial deviation of the distal phalanges of his fourth fingers were noted.</text>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0040024</infon>
+                    <location length="62" offset="0"/>
+                    <text>Lateral deviation of the distal phalanges of his third fingers</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0040025</infon>
+                    <location length="62" offset="67"/>
+                    <text>medial deviation of the distal phalanges of his fourth fingers</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1349</offset>
+                <text>He graduated from university in mathematics and chemistry.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

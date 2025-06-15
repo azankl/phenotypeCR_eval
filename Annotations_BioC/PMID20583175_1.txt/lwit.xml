@@ -1,0 +1,292 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿The couple, who are nonconsanguineous, has six healthy term gestations, and also a spontaneous first-trimester loss.</text>
+            </sentence>
+            <sentence>
+                <offset>118</offset>
+                <text>In the first affected pregnancy, a second-trimester sonogram demonstrated marked shortness of all long bones, thoracic dystrophy with thin short ribs, cystic hygroma with multiple septations, and normal calvarial ossification, suspicious for some form of achondrogenesis.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="81"/>
+                    <text>shortness</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="98"/>
+                    <text>long bones</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006644</infon>
+                    <location length="18" offset="110"/>
+                    <text>thoracic dystrophy</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="134"/>
+                    <text>thin</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000773</infon>
+                    <location length="10" offset="139"/>
+                    <text>short ribs</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="145"/>
+                    <text>ribs</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000476</infon>
+                    <location length="39" offset="151"/>
+                    <text>cystic hygroma with multiple septations</text>
+                </annotation>
+                <relation id="2">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003026</infon>
+                    <node refid="3" role="source"/>
+                    <node refid="1" role="target"/>
+                </relation>
+                <relation id="6">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000883</infon>
+                    <node refid="7" role="source"/>
+                    <node refid="5" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>390</offset>
+                <text>Cytogenetic studies performed on amniocentesis fluid showed an apparently normal female karyotype (46,XX).</text>
+            </sentence>
+            <sentence>
+                <offset>497</offset>
+                <text>The patient developed polyhydramnios and underwent spontaneous rupture of membranes at weeks of gestation.</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001561</infon>
+                    <location length="14" offset="22"/>
+                    <text>polyhydramnios</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>604</offset>
+                <text>She had a spontaneous vaginal delivery; the infant lived for approximately 40 min.</text>
+            </sentence>
+            <sentence>
+                <offset>687</offset>
+                <text>Measurements at autopsy included 25.0 cm crown-to-heel length, 23.0 cm crown-to-rump length, 1,560 g body weight, and 33.0 cm head circumference.</text>
+            </sentence>
+            <sentence>
+                <offset>833</offset>
+                <text>Radiographic examination showed marked shortness of the long bones with flared femoral and humeral metaphyses, short ribs, and decreased vertebral body calcification.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="39"/>
+                    <text>shortness</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="56"/>
+                    <text>long bones</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="72"/>
+                    <text>flared femoral</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="72"/>
+                    <text>flared</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="18" offset="91"/>
+                    <text>humeral metaphyses</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="99"/>
+                    <text>metaphyses</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000773</infon>
+                    <location length="10" offset="111"/>
+                    <text>short ribs</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005625</infon>
+                    <location length="38" offset="127"/>
+                    <text>decreased vertebral body calcification</text>
+                </annotation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003026</infon>
+                    <node refid="13" role="source"/>
+                    <node refid="11" role="target"/>
+                </relation>
+                <relation id="15">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002834</infon>
+                    <node refid="16" role="source"/>
+                    <node refid="14" role="target"/>
+                </relation>
+                <relation id="18">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003911</infon>
+                    <node refid="19" role="source"/>
+                    <node refid="17" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1000</offset>
+                <text>External examination (Fig. 1A) showed severe symmetric micromelia, small chest, short neck with large head, protuberant abdomen, and hydrops.</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002983</infon>
+                    <location length="10" offset="55"/>
+                    <text>micromelia</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005257</infon>
+                    <location length="11" offset="67"/>
+                    <text>small chest</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000470</infon>
+                    <location length="10" offset="80"/>
+                    <text>short neck</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000256</infon>
+                    <location length="10" offset="96"/>
+                    <text>large head</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001538</infon>
+                    <location length="19" offset="108"/>
+                    <text>protuberant abdomen</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000969</infon>
+                    <location length="7" offset="133"/>
+                    <text>hydrops</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1142</offset>
+                <text>The forehead was prominent, and there was a depressed nose with flare of nasal alae.</text>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="4"/>
+                    <text>forehead</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="17"/>
+                    <text>prominent</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000457</infon>
+                    <location length="14" offset="44"/>
+                    <text>depressed nose</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000454</infon>
+                    <location length="19" offset="64"/>
+                    <text>flare of nasal alae</text>
+                </annotation>
+                <relation id="30">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011220</infon>
+                    <node refid="28" role="source"/>
+                    <node refid="29" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1227</offset>
+                <text>A cleft palate was also present.</text>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <location length="12" offset="2"/>
+                    <text>cleft palate</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1260</offset>
+                <text>Lungs were hypoplastic.</text>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="0"/>
+                    <text>Lungs</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="11"/>
+                    <text>hypoplastic</text>
+                </annotation>
+                <relation id="36">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002089</infon>
+                    <node refid="34" role="source"/>
+                    <node refid="35" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1284</offset>
+                <text>Microscopic examination showed a severe disturbance of enchondral ossification with disordered chondrocytes that had abundant clear cytoplasm and were present within large lacunae.</text>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003336</infon>
+                    <location length="38" offset="40"/>
+                    <text>disturbance of enchondral ossification</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1465</offset>
+                <text>The lungs were immature for gestational age.</text>
+                <annotation id="38">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="4"/>
+                    <text>lungs</text>
+                </annotation>
+                <annotation id="39">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="15"/>
+                    <text>immature</text>
+                </annotation>
+                <relation id="40">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002089</infon>
+                    <node refid="38" role="source"/>
+                    <node refid="39" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1510</offset>
+                <text>These findings were considered consistent with ACG2.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

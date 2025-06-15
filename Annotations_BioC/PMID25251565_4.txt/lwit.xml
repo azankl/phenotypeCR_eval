@@ -1,0 +1,124 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The 58-year-old paternal grandmother of the index patient had mild brachycephaly, laterally flared eyebrows, mild ptosis of the left upper lid, convergent strabism, prominent nose with a bulbous tip, mandibular prognathism and long, posteriorly rotated ears.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000248</infon>
+                    <location length="13" offset="67"/>
+                    <text>brachycephaly</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007733</infon>
+                    <location length="25" offset="82"/>
+                    <text>laterally flared eyebrows</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000508</infon>
+                    <location length="6" offset="114"/>
+                    <text>ptosis</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0020045</infon>
+                    <location length="19" offset="144"/>
+                    <text>convergent strabism</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000448</infon>
+                    <location length="14" offset="165"/>
+                    <text>prominent nose</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000414</infon>
+                    <location length="11" offset="187"/>
+                    <text>bulbous tip</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000303</infon>
+                    <location length="22" offset="200"/>
+                    <text>mandibular prognathism</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="227"/>
+                    <text>long</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000358</infon>
+                    <location length="24" offset="233"/>
+                    <text>posteriorly rotated ears</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="253"/>
+                    <text>ears</text>
+                </annotation>
+                <relation id="9">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0400004</infon>
+                    <node refid="10" role="source"/>
+                    <node refid="8" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>259</offset>
+                <text>Clinodactyly of the 2nd fingers were more obvious than in the proband's father.</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="0"/>
+                    <text>Clinodactyly</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="20"/>
+                    <text>2nd fingers</text>
+                </annotation>
+                <relation id="13">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0040022</infon>
+                    <node refid="14" role="source"/>
+                    <node refid="12" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>339</offset>
+                <text>She had triangular-shaped nails on the broad 1st toes and had apparently short metatarsal bones.</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="23" offset="8"/>
+                    <text>triangular-shaped nails</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010743</infon>
+                    <location length="22" offset="73"/>
+                    <text>short metatarsal bones</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>436</offset>
+                <text>Syndactyly was not present (Fig. 2I–L).</text>
+            </sentence>
+            <sentence>
+                <offset>476</offset>
+                <text>She told us that her mother had syndactyly of her toes, as well, but she was not accessible for clinical examination.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

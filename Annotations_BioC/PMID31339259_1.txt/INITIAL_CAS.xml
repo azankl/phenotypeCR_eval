@@ -1,0 +1,68 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A 2- years old boy, offspring of non-consanguineous parents and of a 2nd pregnancy, was referred to the endocrine and metabolic center of the Nemazee Hospital, located in southwestern Iran, for evaluation of short stature.</text>
+            </sentence>
+            <sentence>
+                <offset>223</offset>
+                <text>The patient was born at 38 weeks of gestation by cesarean section and was healthy by Apgar scoring.</text>
+            </sentence>
+            <sentence>
+                <offset>323</offset>
+                <text>Birth weight was 3100 g, length 45 cm and head circumference 35 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>391</offset>
+                <text>He had no dysmorphic features and general physical examination revealed no pathology.</text>
+            </sentence>
+            <sentence>
+                <offset>477</offset>
+                <text>There was no satisfactory length gain after birth, as noticed by his parents.</text>
+            </sentence>
+            <sentence>
+                <offset>555</offset>
+                <text>At the referral time at age 2 years the patient had a weight of 8200 g (-4 SD), a length of 71 cm [-4 standard deviation (SD)].</text>
+            </sentence>
+            <sentence>
+                <offset>683</offset>
+                <text>Head circumference was 48 cm (0.3 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>722</offset>
+                <text>Fingers of the hand were extremely short and broad with small nails; there was no redundant skin on the fingers (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>846</offset>
+                <text>His feet and toes were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>877</offset>
+                <text>Frontal bossing, low set ears and wrist joint hyperflexibility were prominent features.</text>
+            </sentence>
+            <sentence>
+                <offset>965</offset>
+                <text>All developmental milestones were within normal limits.</text>
+            </sentence>
+            <sentence>
+                <offset>1024</offset>
+                <text>Radiographic findings showed curved radius, relatively short ulna, and broad metacarps with wide phalanges.</text>
+            </sentence>
+            <sentence>
+                <offset>1132</offset>
+                <text>The vertebrae were of normal size and showed no beaking.</text>
+            </sentence>
+            <sentence>
+                <offset>1189</offset>
+                <text>Iliac wings and metatarsal bones were normal (Figure 1).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

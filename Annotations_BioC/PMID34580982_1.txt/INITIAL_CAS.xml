@@ -1,0 +1,88 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A boy was referred to Clinical Genetics at age 2 months with the suspicion of a genetic syndrome.</text>
+            </sentence>
+            <sentence>
+                <offset>98</offset>
+                <text>Prenatal ultrasound had suggested moderate shortening of humeri and femurs.</text>
+            </sentence>
+            <sentence>
+                <offset>174</offset>
+                <text>On morphological ultrasound performed at 20 weeks, fetal anatomy was normal, fetal growth appeared regular while femur length was at the 5th percentile for gestational age.</text>
+            </sentence>
+            <sentence>
+                <offset>347</offset>
+                <text>Length of the bones was as follows: femur 29.5 mm (5th percentile), humerus 29.2 mm (10th percentile), foot 32 mm (the ratio femur/foot was 0.92), scapula 16 mm (50th percentile), radius 25 mm (25th percentile), ulna 28 mm (25th percentile), tibia 27 mm (25th–50th percentile), and fibula 26 mm (25th percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>661</offset>
+                <text>Head circumference was 176 mm (25th–50th percentile) and abdominal circumference 154 mm (50th percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>768</offset>
+                <text>On subsequent ultrasound scans, performed at 34 weeks and 37 weeks of gestational age, fetal biometry was globally below the 5th percentile, suggesting a generalized growth disturbance.</text>
+            </sentence>
+            <sentence>
+                <offset>954</offset>
+                <text>He was born by C‐section at week 39 because of abnormal cardiotocography (CTG) findings.</text>
+            </sentence>
+            <sentence>
+                <offset>1043</offset>
+                <text>Weight was 2462 g (&lt;3rd percentile −2.19 SD), length 47 cm (3rd to 10th percentile −1.7 SD), head circumference was 31 cm (&lt;3rd percentile −2.84 SD), according to the WHO growth charts (WHO Multicentre Growth Reference Study Group, 2006).</text>
+            </sentence>
+            <sentence>
+                <offset>1282</offset>
+                <text>Apgar 1':9, 5':10.</text>
+            </sentence>
+            <sentence>
+                <offset>1301</offset>
+                <text>Facial dysmorphism was noticed and large cranial defects were palpated.</text>
+            </sentence>
+            <sentence>
+                <offset>1373</offset>
+                <text>An array CGH was done that gave normal results.</text>
+            </sentence>
+            <sentence>
+                <offset>1421</offset>
+                <text>Cleidocranial dysplasia was suspected because of the large cranial defects; radiographs confirmed the wide sutures, but the clavicles were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1568</offset>
+                <text>When seen at age 2 months, there were large fontanels (&gt;8 cm wide) with wide cranial sutures, a large forehead, hypertelorism with outer canthal distance of 8 cm (&gt;97th percentile), inner canthal distance of 3 cm (&gt;97th percentile), and interpupillary distance of 5.5 cm (&gt;97th percentile), slightly downward sloping palpebral fissures, a thin nose, a high arched palate, and micrognathia (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>1969</offset>
+                <text>Length was 52 cm (&lt;1st percentile, −2.59 SD), weight was 3990 g (3rd percentile, −1.83 SD), and head circumference was 37.5 cm (8th percentile, −1.37 SD) according to WHO growth charts (WHO Multicentre Growth Reference Study Group, 2006).</text>
+            </sentence>
+            <sentence>
+                <offset>2208</offset>
+                <text>When seen in follow‐up at age 18 months, his anterior fontanel was still several centimeters wide and the sagittal suture was open; length, weight and head circumference had recovered and were just within normal limits (length was 78 cm, 12th percentile, −1.18 SD, weight was 10.2 kg, 10th percentile, −1.3 SD and head circumference was 47 cm, 29th percentile, −0.55 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>2580</offset>
+                <text>His psychomotor development was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>2620</offset>
+                <text>He reached autonomous walking at 15 months, spoke his first word at 16 months and several words at age 18 months.</text>
+            </sentence>
+            <sentence>
+                <offset>2734</offset>
+                <text>Teeth erupted at age 6 months and were morphologically normal.</text>
+            </sentence>
+            <sentence>
+                <offset>2797</offset>
+                <text>An ophthalmological evaluation at 18 months was within normal limits.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

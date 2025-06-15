@@ -1,0 +1,206 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 is the older brother of Patient 1.</text>
+            </sentence>
+            <sentence>
+                <offset>45</offset>
+                <text>He was recognized to have similar craniofacial features during childhood but without craniosynostosis (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>159</offset>
+                <text>Head shape at age 8 years at time of referral to a craniofacial clinic was described as brachycephaly with retrusion of supraorbital rims and proptosis.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000248</infon>
+                    <location length="13" offset="88"/>
+                    <text>brachycephaly</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009891</infon>
+                    <location length="30" offset="107"/>
+                    <text>retrusion of supraorbital rims</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000520</infon>
+                    <location length="9" offset="142"/>
+                    <text>proptosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>312</offset>
+                <text>Maxilla was retruded with Class III malocclusion.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="0"/>
+                    <text>Maxilla</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="12"/>
+                    <text>retruded</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000689</infon>
+                    <location length="12" offset="36"/>
+                    <text>malocclusion</text>
+                </annotation>
+                <relation id="6">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000327</infon>
+                    <node refid="4" role="source"/>
+                    <node refid="5" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>362</offset>
+                <text>Submerged deciduous teeth were documented at age 12 years.</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006335</infon>
+                    <location length="25" offset="0"/>
+                    <text>Submerged deciduous teeth</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>421</offset>
+                <text>He had bilateral chronic serious otitis media with conductive hearing loss.</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000388</infon>
+                    <location length="12" offset="33"/>
+                    <text>otitis media</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000405</infon>
+                    <location length="23" offset="51"/>
+                    <text>conductive hearing loss</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>497</offset>
+                <text>At age 7 years, agenesis of the right malleus and incus and fixation of the right stapes was noted at the time of surgical middle ear exploration.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="16"/>
+                    <text>agenesis</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="16"/>
+                    <text>agenesis</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="38"/>
+                    <text>malleus</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Too rare</infon>
+                    <location length="5" offset="50"/>
+                    <text>incus</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="60"/>
+                    <text>fixation</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="82"/>
+                    <text>stapes</text>
+                </annotation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011455</infon>
+                    <node refid="13" role="source"/>
+                    <node refid="11" role="target"/>
+                </relation>
+                <relation id="15">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="16" role="source"/>
+                    <node refid="14" role="target"/>
+                </relation>
+                <relation id="18">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000381</infon>
+                    <node refid="19" role="source"/>
+                    <node refid="17" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>644</offset>
+                <text>Otoscopy at age 13 years suggested absence of the left incus with continued serous effusion.</text>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="35"/>
+                    <text>absence</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Too rare</infon>
+                    <location length="5" offset="55"/>
+                    <text>incus</text>
+                </annotation>
+                <relation id="21">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="22" role="source"/>
+                    <node refid="20" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>737</offset>
+                <text>He was treated with orthodontics and a combination of LeFort I and LeFort III maxillary osteotomy with distraction and iliac crest bone graft.</text>
+            </sentence>
+            <sentence>
+                <offset>880</offset>
+                <text>As an adult, he was seen for medical genetics evaluation at another center where his height was 188 cm and weight 72.5 kg.</text>
+            </sentence>
+            <sentence>
+                <offset>1003</offset>
+                <text>No OFC was documented.</text>
+            </sentence>
+            <sentence>
+                <offset>1026</offset>
+                <text>His craniofacies, hands and feet were described as normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1085</offset>
+                <text>Intelligence is normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1109</offset>
+                <text>He has developed a seizure disorder.</text>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001250</infon>
+                    <location length="7" offset="19"/>
+                    <text>seizure</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1146</offset>
+                <text>Magnetic resonance imaging (MRI) of the brain and cervical spine showed mild Chiari 1 malformation with a small syrinx at C2.</text>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007099</infon>
+                    <location length="21" offset="77"/>
+                    <text>Chiari 1 malformation</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,66 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>azankl</key>
+    <document>
+        <id>azankl</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This boy was born at term to parents of Austrian origin.</text>
+            </sentence>
+            <sentence>
+                <offset>57</offset>
+                <text>His birth length was normal (48 cm, P25), but his growth declined to slightly below P3 at 1 (68.5 cm) and 2 years of age (77 cm).</text>
+            </sentence>
+            <sentence>
+                <offset>187</offset>
+                <text>At 3.2 years of age, the subject's height was 84 cm (below P3 for the reference paediatric population, but above P90 for Finnish patients with CHH): his growth channel has not changed since then, and at 10 years of age he was 116 cm tall [13 cm below P3 for controls, but 1 cm above P90 for Finnish patients with CHH (4)].</text>
+            </sentence>
+            <sentence>
+                <offset>513</offset>
+                <text>The subject was referred to us for re-evaluation of his short stature (Fig. 1).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="56"/>
+                    <text>short stature</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>593</offset>
+                <text>He had relatively short legs and laxity of the small joints of the hands.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="18"/>
+                    <text>short legs</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>667</offset>
+                <text>Radiographic examination revealed metaphyseal striations and phalangeal cone-shaped epiphyses of the hand (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>783</offset>
+                <text>Metaphyseal dysplasias without hypotrichosis or a CHH variant were considered in the differential diagnosis.</text>
+            </sentence>
+            <sentence>
+                <offset>892</offset>
+                <text>A haematological-immunological work-up at 10 years of age showed normal blood haemoglobin (126 g L−1), plasma IgG (9.25 g l−1), IgG subclasses and plasma lgA (1.03 g l−1) for his age.</text>
+            </sentence>
+            <sentence>
+                <offset>1076</offset>
+                <text>A lymphocyte subpopulation study gave normal results.</text>
+            </sentence>
+            <sentence>
+                <offset>1130</offset>
+                <text>There was no abnormal susceptibility to infection during childhood, with varicella infection producing severe efflorescences but no complication, and the subject's general health has been excellent.</text>
+            </sentence>
+            <sentence>
+                <offset>1329</offset>
+                <text>As in case 1, his hair has always been considered normal; its thickness has not been measured.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

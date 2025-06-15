@@ -1,0 +1,101 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Twins A (Figure 1) and B (Figure 2) were products of healthy non-consanguineous Thai parents.</text>
+            </sentence>
+            <sentence>
+                <offset>94</offset>
+                <text>Their father and mother were 26 and 25 years old at the time of conception, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>184</offset>
+                <text>Their mother took oral contraceptive medication until four weeks after absence of menstruation.</text>
+            </sentence>
+            <sentence>
+                <offset>280</offset>
+                <text>No family history of craniosynostosis or congenital birth defects was evident.</text>
+            </sentence>
+            <sentence>
+                <offset>359</offset>
+                <text>The twins were born at term by normal delivery at 39 weeks and 3 days of gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>443</offset>
+                <text>Both of them had good Apgar scores of 9 and 10 at 1 and 5 min, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>520</offset>
+                <text>Birthweight, birth length, and OFC of twin A were 2,950 g (10 centile), 49 cm (25 centile), and 34 cm (50 centile), respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>650</offset>
+                <text>Birthweight, birth length, and OFC of twin B were 2,450 (&lt;3 centile), 45 cm (&lt;3 centile), and 35 cm (50 centile), respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>778</offset>
+                <text>Clinically, both twins had brachycephaly, ocular proptosis, broad thumbs and great toes, and double hair whorls on the top of their heads (Figure 1A–D and Figure 2A–D).</text>
+            </sentence>
+            <sentence>
+                <offset>947</offset>
+                <text>Both of them received phototherapy for the treatment of neonatal jaundice.</text>
+            </sentence>
+            <sentence>
+                <offset>1022</offset>
+                <text>They started having respiratory tract infections followed by respiratory failure at age around one month old.</text>
+            </sentence>
+            <sentence>
+                <offset>1132</offset>
+                <text>Neurological examinations revealed good eye contact with social smiles.</text>
+            </sentence>
+            <sentence>
+                <offset>1204</offset>
+                <text>At age six months, gross and fine motor developments were delayed.</text>
+            </sentence>
+            <sentence>
+                <offset>1271</offset>
+                <text>Both twins could sit without support but were unable to crawl.</text>
+            </sentence>
+            <sentence>
+                <offset>1334</offset>
+                <text>Bulging of anterior fontanelle, a clinical sign of increased intracranial pressure, was not observed.</text>
+            </sentence>
+            <sentence>
+                <offset>1436</offset>
+                <text>Ophthalmologic examination showed no signs of papilledema, an optic disc swelling with blurred margin, which is a sign of chronic increased intracranial pressure&#13;
+Both twins suffered severe upper airway obstruction.</text>
+            </sentence>
+            <sentence>
+                <offset>1652</offset>
+                <text>They frequently had snoring and obstructive sleep apnea.</text>
+            </sentence>
+            <sentence>
+                <offset>1709</offset>
+                <text>The lowest oxygen saturation of nocturnal pulse oximetry tests of twins A and B were 66% and 80%, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>1821</offset>
+                <text>Sleep apnea tests concluded that twins A and B had severe and moderate sleep apnea, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>1919</offset>
+                <text>Tracheostomy was performed in both twins at the age of nine months.</text>
+            </sentence>
+            <sentence>
+                <offset>1990</offset>
+                <text>Radiographic and computed tomography of both twins at age 6 months showed bicoronal synostosis (Figure 3A,B), bilateral dehiscence of posterior semicircular canals (Figure 4C,D), shallow orbit leading to exorbitism (Figure 4E,F), midface hypoplasia (Figure 4G,H), and short anterior cranial base (Figure 5C,D).</text>
+            </sentence>
+            <sentence>
+                <offset>2301</offset>
+                <text>Twin A had left lambdoid synostosis (Figure 3C) and effusion of the right middle ear cavity and mastoid air cells (Figure 4A).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

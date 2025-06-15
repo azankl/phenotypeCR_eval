@@ -1,0 +1,72 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 1 was a singleton case born to German parents who were first-degree cousins.</text>
+            </sentence>
+            <sentence>
+                <offset>85</offset>
+                <text>She was referred at age 23 for genetic counseling because of unclassified skeletal dysplasia.</text>
+            </sentence>
+            <sentence>
+                <offset>179</offset>
+                <text>Her personal history included reduced length at birth with shortening and “deformity” of her limbs (medical records unavailable), micrognathia with congenital posterior cleft of the palate (surgically repaired in infancy), and surgery for recurrent patellar dislocation at age 16.</text>
+            </sentence>
+            <sentence>
+                <offset>460</offset>
+                <text>She had been diagnosed with hypoacusis in childhood and had worn hearing aids since that time.</text>
+            </sentence>
+            <sentence>
+                <offset>555</offset>
+                <text>Her adult height was 127 cm, and she had shortening of the limbs.</text>
+            </sentence>
+            <sentence>
+                <offset>621</offset>
+                <text>Her forehead was high, and her nasal root was broad.</text>
+            </sentence>
+            <sentence>
+                <offset>674</offset>
+                <text>There was brachydactyly, most marked in digits I and III bilaterally, and the thumb had a “hitch-hiker” appearance similar to that seen in diastrophic dysplasia (Figure 1D).</text>
+            </sentence>
+            <sentence>
+                <offset>848</offset>
+                <text>There was limited supination at the elbow.</text>
+            </sentence>
+            <sentence>
+                <offset>891</offset>
+                <text>Both knees showed valgus deformity.</text>
+            </sentence>
+            <sentence>
+                <offset>927</offset>
+                <text>The feet were adducted and short, and they lacked arching.</text>
+            </sentence>
+            <sentence>
+                <offset>986</offset>
+                <text>The toes were short (Figure 1E).</text>
+            </sentence>
+            <sentence>
+                <offset>1019</offset>
+                <text>Her development was not formally tested but was estimated to be in the lower range of normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1113</offset>
+                <text>Radiographic findings are shown in Figure 2.</text>
+            </sentence>
+            <sentence>
+                <offset>1158</offset>
+                <text>No vertebral changes were observed.</text>
+            </sentence>
+            <sentence>
+                <offset>1194</offset>
+                <text>Noteworthy is the brachydactyly with inhomogeneity of the size of the metacarpal epiphyses (the epiphysis of metacarpal II being significantly larger), longitudinal splitting of the proximal phalanx of digit I, and fusion of the capitate and hamate bones</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

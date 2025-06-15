@@ -1,0 +1,196 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿The propositus (Fig. 1, III#3, Fig. 2), the only known case of AAS in his family, was born to nonconsanguineous parents of Kosovo–Albanian origin, and was diagnosed clinically with AAS at 8 years of age.</text>
+            </sentence>
+            <sentence>
+                <offset>205</offset>
+                <text>He underwent surgery for bilateral cryptorchidism and inguinal hernia, and conservative treatment for bilateral club foot.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000028</infon>
+                    <location length="14" offset="35"/>
+                    <text>cryptorchidism</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000023</infon>
+                    <location length="15" offset="54"/>
+                    <text>inguinal hernia</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001762</infon>
+                    <location length="9" offset="112"/>
+                    <text>club foot</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>328</offset>
+                <text>Upon physical examination, his height was 122.5 cm (P3–P10), his weight was 25.5 kg (P25–P50), and his head circumference was 51 cm (P3–P10).</text>
+            </sentence>
+            <sentence>
+                <offset>470</offset>
+                <text>Further anomalies were shawl scrotum, pectus excavatum, unilateral clinodactyly V, and a characteristic overextension of the proximal joint with flexion of the distal joint of the fingers (Fig. 2B).</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000049</infon>
+                    <location length="13" offset="23"/>
+                    <text>shawl scrotum</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000767</infon>
+                    <location length="16" offset="38"/>
+                    <text>pectus excavatum</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004209</infon>
+                    <location length="14" offset="67"/>
+                    <text>clinodactyly V</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="35" offset="104"/>
+                    <text>overextension of the proximal joint</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="42" offset="145"/>
+                    <text>flexion of the distal joint of the fingers</text>
+                </annotation>
+                <relation id="9">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006150</infon>
+                    <node refid="7" role="source"/>
+                    <node refid="8" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>669</offset>
+                <text>His toes II–IV displayed a valgus deviation, and the spacing between the first and second toe was increased (Fig. 2C).</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="4"/>
+                    <text>toes II–IV</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="4"/>
+                    <text>toes II–IV</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="4"/>
+                    <text>toes II–IV</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="27"/>
+                    <text>valgus deviation</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="27"/>
+                    <text>valgus deviation</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="27"/>
+                    <text>valgus deviation</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="40" offset="53"/>
+                    <text>spacing between the first and second toe</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="98"/>
+                    <text>increased</text>
+                </annotation>
+                <relation id="14">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100344</infon>
+                    <node refid="10" role="source"/>
+                    <node refid="13" role="target"/>
+                </relation>
+                <relation id="17">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100342</infon>
+                    <node refid="12" role="source"/>
+                    <node refid="16" role="target"/>
+                </relation>
+                <relation id="18">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100340</infon>
+                    <node refid="11" role="source"/>
+                    <node refid="15" role="target"/>
+                </relation>
+                <relation id="21">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001852</infon>
+                    <node refid="19" role="source"/>
+                    <node refid="20" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>788</offset>
+                <text>The facial phenotype was consistent with AAS (Fig. 2A).</text>
+            </sentence>
+            <sentence>
+                <offset>844</offset>
+                <text>While he was initially followed in the child neurology unit for learning disability, ocular tics, and migraine headaches, he later on was among the better performing half of his age class in school.</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001328</infon>
+                    <location length="19" offset="64"/>
+                    <text>learning disability</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011468</infon>
+                    <location length="11" offset="85"/>
+                    <text>ocular tics</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002076</infon>
+                    <location length="18" offset="102"/>
+                    <text>migraine headaches</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1043</offset>
+                <text>His overall neurological status including peripheral neurology was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1118</offset>
+                <text>At the age of 9 years, he had repeated episodes of generalized tonic–clonic seizures, without signs or symptoms of a partial onset.</text>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002069</infon>
+                    <location length="33" offset="51"/>
+                    <text>generalized tonic–clonic seizures</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1250</offset>
+                <text>The EEG showed Rolandic spikes.</text>
+            </sentence>
+            <sentence>
+                <offset>1282</offset>
+                <text>MRI revealed unilateral focal frontoparietal PMG (Fig. 3).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

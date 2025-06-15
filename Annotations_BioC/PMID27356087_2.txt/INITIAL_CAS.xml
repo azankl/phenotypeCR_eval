@@ -1,0 +1,128 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 (Fig. 2B) is the 15-year-old sister of patient 1.</text>
+            </sentence>
+            <sentence>
+                <offset>60</offset>
+                <text>Like her sister, she too received an alveolar bone grafting procedure for her extensive oronasal fistula and bilateral cleft palate.</text>
+            </sentence>
+            <sentence>
+                <offset>193</offset>
+                <text>She has increased intraorbital distance and a prominent fronto-orbital contour.</text>
+            </sentence>
+            <sentence>
+                <offset>273</offset>
+                <text>She also has intermittent horizontal nystagmus but does not have significant epicanthal folding.</text>
+            </sentence>
+            <sentence>
+                <offset>370</offset>
+                <text>She has a flattened nasal root, bifidity to her nasal tip, and flatness to the nasal dorsum, which gives the exaggeration of hypertelorbitism.</text>
+            </sentence>
+            <sentence>
+                <offset>513</offset>
+                <text>Her midface has reasonable projection with a skeletal class III relationship.</text>
+            </sentence>
+            <sentence>
+                <offset>591</offset>
+                <text>She still has transverse collapse of her arch and has a quadhelix in place to expand her palate.</text>
+            </sentence>
+            <sentence>
+                <offset>688</offset>
+                <text>She has a very sharp angle, almost triangulation to her dental arch on the maxilla.</text>
+            </sentence>
+            <sentence>
+                <offset>772</offset>
+                <text>On her cleft lip repair, she has a very shortened lip.</text>
+            </sentence>
+            <sentence>
+                <offset>827</offset>
+                <text>Edges and white roll are aligned, but her columellar length is shortened.</text>
+            </sentence>
+            <sentence>
+                <offset>902</offset>
+                <text>She had an operative procedure when she was 3 months old for a closed neural tube defect.</text>
+            </sentence>
+            <sentence>
+                <offset>992</offset>
+                <text>At age 10, a magnetic resonance imaging study of her spine showed that the spinal cord was low lying and tethered.</text>
+            </sentence>
+            <sentence>
+                <offset>1107</offset>
+                <text>The craniocervical junction is tight with little cerebrospinal fluid anterior or posterior to the parenchymal elements.</text>
+            </sentence>
+            <sentence>
+                <offset>1227</offset>
+                <text>There are no hypointensity changes within the spinal cord.</text>
+            </sentence>
+            <sentence>
+                <offset>1286</offset>
+                <text>There is slight dilatation of the central canal in the cervical and thoracic region, which varies between 2 and 3 mm and is in itself of no significance.</text>
+            </sentence>
+            <sentence>
+                <offset>1440</offset>
+                <text>She has complained of intermittent back pain, which radiates down the back of her legs to the knees.</text>
+            </sentence>
+            <sentence>
+                <offset>1541</offset>
+                <text>There is no history of any motor or sensory loss in the lower extremities.</text>
+            </sentence>
+            <sentence>
+                <offset>1616</offset>
+                <text>Bladder function is reported to be normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1660</offset>
+                <text>Patient 2 has leg asymmetry: her right calf is 7 mm smaller than the left.</text>
+            </sentence>
+            <sentence>
+                <offset>1735</offset>
+                <text>There is no deformation of the feet, which are the same size.</text>
+            </sentence>
+            <sentence>
+                <offset>1797</offset>
+                <text>The patient can push off from the ball of one foot and do a one-legged knee bend, but it is a little difficult for her to do so on the right side.</text>
+            </sentence>
+            <sentence>
+                <offset>1944</offset>
+                <text>She has more difficulty balancing on the right foot with her eyes open compared with the left.</text>
+            </sentence>
+            <sentence>
+                <offset>2039</offset>
+                <text>She also has a little bit more difficulty hopping on the right foot.</text>
+            </sentence>
+            <sentence>
+                <offset>2109</offset>
+                <text>She was born with bilateral iris colobomas and cloudy corneas.</text>
+            </sentence>
+            <sentence>
+                <offset>2172</offset>
+                <text>She has successfully undergone corneal transplant surgeries in both eyes.</text>
+            </sentence>
+            <sentence>
+                <offset>2246</offset>
+                <text>She has a small corneal scar in her left eye due to a corneal infection.</text>
+            </sentence>
+            <sentence>
+                <offset>2319</offset>
+                <text>With corneal transplants, her vision has improved significantly to 4 feet/200 in the right eye and 10 feet/200 in the left.</text>
+            </sentence>
+            <sentence>
+                <offset>2443</offset>
+                <text>Her vision is limited secondary to visual development and the previous clouding of the cornea.</text>
+            </sentence>
+            <sentence>
+                <offset>2538</offset>
+                <text>Despite her eye trouble, she is in gifted classes in the ninth grade with accommodations for her vision needs and earns all As and Bs.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

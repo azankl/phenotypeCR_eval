@@ -1,0 +1,154 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The individual is a female born at 32 weeks of gestational age after normal pregnancy from nonconsanguineous&#13;
+healthy parents.</text>
+            </sentence>
+            <sentence>
+                <offset>127</offset>
+                <text>Birth weight was 1815 g (60%).</text>
+            </sentence>
+            <sentence>
+                <offset>158</offset>
+                <text>Her psychomotor development&#13;
+was delayed and although she has attended regular elementary school, she has not been able to&#13;
+graduate with a diploma.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="23" offset="4"/>
+                    <text>psychomotor development</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="33"/>
+                    <text>delayed</text>
+                </annotation>
+                <relation id="3">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001263</infon>
+                    <node refid="1" role="source"/>
+                    <node refid="2" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>307</offset>
+                <text>Difficulties with social interaction increased after severe bullying by&#13;
+peers.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000735</infon>
+                    <location length="36" offset="0"/>
+                    <text>Difficulties with social interaction</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>387</offset>
+                <text>She had pronounced dental agenesis.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009804</infon>
+                    <location length="15" offset="19"/>
+                    <text>dental agenesis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>423</offset>
+                <text>From 11 to 16 years of age she was treated with&#13;
+CPAP for obstructive sleep apnea.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002870</infon>
+                    <location length="23" offset="58"/>
+                    <text>obstructive sleep apnea</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>506</offset>
+                <text>X-ray and 3D CT imaging of the skull showed increased bone&#13;
+density of the cranial and facial bones and anterior nasal spine agenesis.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="23" offset="44"/>
+                    <text>increased bone&#13;
+density</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="24" offset="75"/>
+                    <text>cranial and facial bones</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010666</infon>
+                    <location length="29" offset="104"/>
+                    <text>anterior nasal spine agenesis</text>
+                </annotation>
+                <relation id="8">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005464</infon>
+                    <node refid="9" role="source"/>
+                    <node refid="7" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>641</offset>
+                <text>She has undergone&#13;
+cranial surgery to correct frontal bossing and rhinoplasty.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002007</infon>
+                    <location length="15" offset="46"/>
+                    <text>frontal bossing</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>720</offset>
+                <text>At 20 years of age she had a height of&#13;
+169.5 cm (70%) and an OFC of 69.4 cm (+4.6 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>808</offset>
+                <text>She has a conductive hearing loss,&#13;
+Scheuermann kyphosis, hypermetropia, concentration problems and mild intellectual disability.</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000405</infon>
+                    <location length="23" offset="10"/>
+                    <text>conductive hearing loss</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010891</infon>
+                    <location length="20" offset="36"/>
+                    <text>Scheuermann kyphosis</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000540</infon>
+                    <location length="13" offset="58"/>
+                    <text>hypermetropia</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031987</infon>
+                    <location length="22" offset="73"/>
+                    <text>concentration problems</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001249</infon>
+                    <location length="23" offset="105"/>
+                    <text>intellectual disability</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

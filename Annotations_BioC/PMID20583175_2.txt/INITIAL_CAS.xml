@@ -1,0 +1,44 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿The second affected fetus was delivered 10 years later.</text>
+            </sentence>
+            <sentence>
+                <offset>57</offset>
+                <text>Ultrasound examination at 28 weeks of gestation demonstrated findings similar to those observed in the prior affected pregnancy, with micromelia, thoracic dystrophy, cystic hygroma, and polyhydramnios.</text>
+            </sentence>
+            <sentence>
+                <offset>259</offset>
+                <text>At 34.3 weeks gestation, the patient was admitted in spontaneous labor.</text>
+            </sentence>
+            <sentence>
+                <offset>331</offset>
+                <text>This infant was also born by spontaneous vaginal delivery, and lived for approximately 60 min.</text>
+            </sentence>
+            <sentence>
+                <offset>426</offset>
+                <text>Measurements at autopsy included 28.5 cm crown-to-heel length, 24.5 cm crown-to-rump length, 1,737 g body weight, and 34.2 cm head circumference.</text>
+            </sentence>
+            <sentence>
+                <offset>572</offset>
+                <text>Radiographic, external, and microscopic examinations showed findings identical to those of the prior affected infant (Figs. 1B, 2 and 3).</text>
+            </sentence>
+            <sentence>
+                <offset>711</offset>
+                <text>Radiographic examination of the second fetus shows typical features of ACG2 including proportionately large skull, severe micromelia, flat acetabular roofs, wide sacrosciatic notches, tiny thorax, and minimal vertebral body ossification.</text>
+            </sentence>
+            <sentence>
+                <offset>950</offset>
+                <text>Histologic exam of the humerus shows an abnormal costochondral junction lacking the typical ossification zone, with haphazard arrangement of enlarged resting zone chondrocytes within stellate-shaped lacunae (inset).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

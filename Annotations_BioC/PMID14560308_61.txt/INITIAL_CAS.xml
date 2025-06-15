@@ -1,0 +1,48 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 61 was a 21-year-old man with clinically unaffected parents and sister.</text>
+            </sentence>
+            <sentence>
+                <offset>81</offset>
+                <text>He was born at term, but pregnancy was complicated by oligohydramnios.</text>
+            </sentence>
+            <sentence>
+                <offset>152</offset>
+                <text>His birth weight and length medical records were not available.</text>
+            </sentence>
+            <sentence>
+                <offset>216</offset>
+                <text>The diagnosis of AAS was made on a clinical basis in childhood as he revealed a dysmorphic facial appearance, shawl scrotum and short stature.</text>
+            </sentence>
+            <sentence>
+                <offset>359</offset>
+                <text>His adult height was 163 cm (3rd percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>405</offset>
+                <text>He presented hypertelorism (inner canthal distance 3.9 cm; &gt;97th percentile – outer canthal distance 11.5 cm; &gt;97th percentile), left palpebral ptosis and strabismus, a short neck, camptodactyly and brachydactyly.</text>
+            </sentence>
+            <sentence>
+                <offset>619</offset>
+                <text>Attention and behavioural difficulties were reported during school age, while difficulties with organisational skills and social interaction became evident in adulthood.</text>
+            </sentence>
+            <sentence>
+                <offset>789</offset>
+                <text>Molecular investigation revealed a 32 bp deletion mutation (944–975del32; exon 4) that resulted in a frameshift after codon 314 and a predicted premature termination at the codon 325.</text>
+            </sentence>
+            <sentence>
+                <offset>973</offset>
+                <text>Also, this mutation most probably arose de novo as it was not present in his mother and sister.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,62 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This male was born as part of a monozygotic twin at 39 weeks of age with a weight of 3500 g&#13;
+(75%).</text>
+            </sentence>
+            <sentence>
+                <offset>100</offset>
+                <text>At 13 months length was 77.5 cm (50%) and OFC 50 cm (+6.5 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>163</offset>
+                <text>He had frontal&#13;
+bossing, a large anterior fontanel, prominent eyes, hypertelorism, a small upturned nose, a&#13;
+triangular mouth, gingival hyperplasia, low-set ears, mesomelic upper limb shortening, short&#13;
+fingers and toes, a small penis and cryptorchidism.</text>
+            </sentence>
+            <sentence>
+                <offset>418</offset>
+                <text>X-rays showed hypoplasia of phalanges and&#13;
+bifid first and second fingers.</text>
+            </sentence>
+            <sentence>
+                <offset>493</offset>
+                <text>At 14 years of age facial dysmorphisms were less striking and&#13;
+intelligence was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>581</offset>
+                <text>Height was 174 (90%) and OFC 60 cm (+3SD).</text>
+            </sentence>
+            <sentence>
+                <offset>624</offset>
+                <text>Hypertelorism,&#13;
+brachydactyly and mesomelia were present.</text>
+            </sentence>
+            <sentence>
+                <offset>682</offset>
+                <text>At 21 years of age growth remained with the same&#13;
+features (height 185.5 cm (75%), weight 88 kg (90%) and OFC 62 cm, (+4 SD)), but&#13;
+proportionate, and intelligence was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>858</offset>
+                <text>Facial characteristics persisted.</text>
+            </sentence>
+            <sentence>
+                <offset>892</offset>
+                <text>Multiple orthodontic&#13;
+treatments had been performed for dental malalignment.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

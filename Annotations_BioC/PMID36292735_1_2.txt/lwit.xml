@@ -1,0 +1,319 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Twins A (Figure 1) and B (Figure 2) were products of healthy non-consanguineous Thai parents.</text>
+            </sentence>
+            <sentence>
+                <offset>94</offset>
+                <text>Their father and mother were 26 and 25 years old at the time of conception, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>184</offset>
+                <text>Their mother took oral contraceptive medication until four weeks after absence of menstruation.</text>
+            </sentence>
+            <sentence>
+                <offset>280</offset>
+                <text>No family history of craniosynostosis or congenital birth defects was evident.</text>
+            </sentence>
+            <sentence>
+                <offset>359</offset>
+                <text>The twins were born at term by normal delivery at 39 weeks and 3 days of gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>443</offset>
+                <text>Both of them had good Apgar scores of 9 and 10 at 1 and 5 min, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>520</offset>
+                <text>Birthweight, birth length, and OFC of twin A were 2,950 g (10 centile), 49 cm (25 centile), and 34 cm (50 centile), respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>650</offset>
+                <text>Birthweight, birth length, and OFC of twin B were 2,450 (&lt;3 centile), 45 cm (&lt;3 centile), and 35 cm (50 centile), respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>778</offset>
+                <text>Clinically, both twins had brachycephaly, ocular proptosis, broad thumbs and great toes, and double hair whorls on the top of their heads (Figure 1A–D and Figure 2A–D).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000248</infon>
+                    <location length="13" offset="27"/>
+                    <text>brachycephaly</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000520</infon>
+                    <location length="9" offset="49"/>
+                    <text>proptosis</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011304</infon>
+                    <location length="12" offset="60"/>
+                    <text>broad thumbs</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="60"/>
+                    <text>broad</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="77"/>
+                    <text>great toes</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="100"/>
+                    <text>hair whorls</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="18" offset="119"/>
+                    <text>top of their heads</text>
+                </annotation>
+                <relation id="5">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010055</infon>
+                    <node refid="6" role="source"/>
+                    <node refid="4" role="target"/>
+                </relation>
+                <relation id="8">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010814</infon>
+                    <node refid="9" role="source"/>
+                    <node refid="7" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>947</offset>
+                <text>Both of them received phototherapy for the treatment of neonatal jaundice.</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006579</infon>
+                    <location length="17" offset="56"/>
+                    <text>neonatal jaundice</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1022</offset>
+                <text>They started having respiratory tract infections followed by respiratory failure at age around one month old.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011947</infon>
+                    <location length="28" offset="20"/>
+                    <text>respiratory tract infections</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002878</infon>
+                    <location length="19" offset="61"/>
+                    <text>respiratory failure</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1132</offset>
+                <text>Neurological examinations revealed good eye contact with social smiles.</text>
+            </sentence>
+            <sentence>
+                <offset>1204</offset>
+                <text>At age six months, gross and fine motor developments were delayed.</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="19"/>
+                    <text>gross</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="23" offset="29"/>
+                    <text>fine motor developments</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="18" offset="34"/>
+                    <text>motor developments</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="58"/>
+                    <text>delayed</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="58"/>
+                    <text>delayed</text>
+                </annotation>
+                <relation id="16">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="13" role="source"/>
+                    <node refid="15" role="target"/>
+                </relation>
+                <relation id="18">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010862</infon>
+                    <node refid="14" role="source"/>
+                    <node refid="17" role="target"/>
+                </relation>
+                <relation id="20">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002194</infon>
+                    <node refid="15" role="source"/>
+                    <node refid="19" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1271</offset>
+                <text>Both twins could sit without support but were unable to crawl.</text>
+            </sentence>
+            <sentence>
+                <offset>1334</offset>
+                <text>Bulging of anterior fontanelle, a clinical sign of increased intracranial pressure, was not observed.</text>
+            </sentence>
+            <sentence>
+                <offset>1436</offset>
+                <text>Ophthalmologic examination showed no signs of papilledema, an optic disc swelling with blurred margin, which is a sign of chronic increased intracranial pressure&#13;
+Both twins suffered severe upper airway obstruction.</text>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002781</infon>
+                    <location length="24" offset="190"/>
+                    <text>upper airway obstruction</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1652</offset>
+                <text>They frequently had snoring and obstructive sleep apnea.</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025267</infon>
+                    <location length="7" offset="20"/>
+                    <text>snoring</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002870</infon>
+                    <location length="23" offset="32"/>
+                    <text>obstructive sleep apnea</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1709</offset>
+                <text>The lowest oxygen saturation of nocturnal pulse oximetry tests of twins A and B were 66% and 80%, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>1821</offset>
+                <text>Sleep apnea tests concluded that twins A and B had severe and moderate sleep apnea, respectively.</text>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010535</infon>
+                    <location length="11" offset="71"/>
+                    <text>sleep apnea</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1919</offset>
+                <text>Tracheostomy was performed in both twins at the age of nine months.</text>
+            </sentence>
+            <sentence>
+                <offset>1990</offset>
+                <text>Radiographic and computed tomography of both twins at age 6 months showed bicoronal synostosis (Figure 3A,B), bilateral dehiscence of posterior semicircular canals (Figure 4C,D), shallow orbit leading to exorbitism (Figure 4E,F), midface hypoplasia (Figure 4G,H), and short anterior cranial base (Figure 5C,D).</text>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011318</infon>
+                    <location length="20" offset="74"/>
+                    <text>bicoronal synostosis</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0040107</infon>
+                    <location length="43" offset="120"/>
+                    <text>dehiscence of posterior semicircular canals</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000586</infon>
+                    <location length="13" offset="179"/>
+                    <text>shallow orbit</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [ophthalmology]</infon>
+                    <location length="10" offset="204"/>
+                    <text>exorbitism</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011800</infon>
+                    <location length="18" offset="230"/>
+                    <text>midface hypoplasia</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="268"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="283"/>
+                    <text>cranial base</text>
+                </annotation>
+                <relation id="31">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0034772</infon>
+                    <node refid="32" role="source"/>
+                    <node refid="30" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2301</offset>
+                <text>Twin A had left lambdoid synostosis (Figure 3C) and effusion of the right middle ear cavity and mastoid air cells (Figure 4A).</text>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004443</infon>
+                    <location length="19" offset="16"/>
+                    <text>lambdoid synostosis</text>
+                </annotation>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="52"/>
+                    <text>effusion</text>
+                </annotation>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="52"/>
+                    <text>effusion</text>
+                </annotation>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="74"/>
+                    <text>middle ear cavity</text>
+                </annotation>
+                <annotation id="39">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="96"/>
+                    <text>mastoid air cells</text>
+                </annotation>
+                <relation id="35">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031353</infon>
+                    <node refid="36" role="source"/>
+                    <node refid="34" role="target"/>
+                </relation>
+                <relation id="38">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000265</infon>
+                    <node refid="39" role="source"/>
+                    <node refid="37" role="target"/>
+                </relation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

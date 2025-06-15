@@ -1,0 +1,662 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Case 3 is a second cousin of the propositus.</text>
+            </sentence>
+            <sentence>
+                <offset>45</offset>
+                <text>He was born at 9 months of gestation by a normal delivery, with a birth weight of 2,920 g (10–25th centile) and a length of 43.2 cm (&lt;3rd centile).</text>
+            </sentence>
+            <sentence>
+                <offset>193</offset>
+                <text>He began walking at 15 months, had a waddling gait and cried frequently.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002515</infon>
+                    <location length="13" offset="37"/>
+                    <text>waddling gait</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>266</offset>
+                <text>He gained weight poorly, had a poor appetite, and easy fatigability.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001508</infon>
+                    <location length="20" offset="3"/>
+                    <text>gained weight poorly</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004396</infon>
+                    <location length="13" offset="31"/>
+                    <text>poor appetite</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003388</infon>
+                    <location length="17" offset="50"/>
+                    <text>easy fatigability</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>338</offset>
+                <text>At age 6 years, he had lower limb pain and fatigue after walking half a block.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012514</infon>
+                    <location length="15" offset="23"/>
+                    <text>lower limb pain</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012378</infon>
+                    <location length="7" offset="43"/>
+                    <text>fatigue</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>417</offset>
+                <text>He was at the 35th centile for height and &lt;5th centile for weight.</text>
+            </sentence>
+            <sentence>
+                <offset>484</offset>
+                <text>He had frontal bossing, small teeth with thin enamel, mild hepatomegaly, markedly pronated, externally rotated feet, decreased muscle mass and tone, hypoactive reflexes and dry, scaly skin with poor turgor.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002007</infon>
+                    <location length="15" offset="7"/>
+                    <text>frontal bossing</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000691</infon>
+                    <location length="11" offset="24"/>
+                    <text>small teeth</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006297</infon>
+                    <location length="11" offset="41"/>
+                    <text>thin enamel</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002240</infon>
+                    <location length="12" offset="59"/>
+                    <text>hepatomegaly</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="82"/>
+                    <text>pronated</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="23" offset="92"/>
+                    <text>externally rotated feet</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="111"/>
+                    <text>feet</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003199</infon>
+                    <location length="21" offset="117"/>
+                    <text>decreased muscle mass</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="117"/>
+                    <text>decreased</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="143"/>
+                    <text>tone</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001265</infon>
+                    <location length="19" offset="149"/>
+                    <text>hypoactive reflexes</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0040189</infon>
+                    <location length="10" offset="178"/>
+                    <text>scaly skin</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Decreased skin turgor HP:6000303</infon>
+                    <location length="11" offset="194"/>
+                    <text>poor turgor</text>
+                </annotation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0034678</infon>
+                    <node refid="13" role="source"/>
+                    <node refid="11" role="target"/>
+                </relation>
+                <relation id="17">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001252</infon>
+                    <node refid="18" role="source"/>
+                    <node refid="16" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>691</offset>
+                <text>His ESR was 40 mm/h; serum calcium, phosphorus, and alkaline phosphatase were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>777</offset>
+                <text>Radiographs showed cortical thickening with irregular areas of density in the upper and lower limbs, especially the femora.</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000935</infon>
+                    <location length="19" offset="19"/>
+                    <text>cortical thickening</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010658</infon>
+                    <location length="26" offset="44"/>
+                    <text>irregular areas of density</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>901</offset>
+                <text>There was a slight increase in the density of the skull.</text>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004330</infon>
+                    <location length="36" offset="19"/>
+                    <text>increase in the density of the skull</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>958</offset>
+                <text>The spine, pelvis, and ribs were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>999</offset>
+                <text>The bone age was 3½ years at age 6 years.</text>
+            </sentence>
+            <sentence>
+                <offset>1041</offset>
+                <text>A biopsy of the right tibia by report showed no changes in the marrow with a thin layer of fibrous tissue along the inner surface of the dense, outer, cortical bone.</text>
+            </sentence>
+            <sentence>
+                <offset>1207</offset>
+                <text>He was diagnosed with Albers–Schönberg disease.</text>
+            </sentence>
+            <sentence>
+                <offset>1258</offset>
+                <text>By age 8 years he continued to have poor muscular development and marked weakness.</text>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009004</infon>
+                    <location length="25" offset="36"/>
+                    <text>poor muscular development</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="41"/>
+                    <text>muscular</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="73"/>
+                    <text>weakness</text>
+                </annotation>
+                <relation id="28">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001324</infon>
+                    <node refid="26" role="source"/>
+                    <node refid="27" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1341</offset>
+                <text>He was at the 20th centile for height and &lt;5th centile for weight.</text>
+            </sentence>
+            <sentence>
+                <offset>1408</offset>
+                <text>His head circumference was 57 cm (&gt;98th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>1458</offset>
+                <text>He also had severe genua valga.</text>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002857</infon>
+                    <location length="11" offset="19"/>
+                    <text>genua valga</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1490</offset>
+                <text>At age 10 years he reported hearing loss.</text>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000365</infon>
+                    <location length="12" offset="28"/>
+                    <text>hearing loss</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1532</offset>
+                <text>The skull had increased density along the floor of the anterior and middle fossa, there was increased sclerosis in the femora and both forearms were now affected.</text>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="4"/>
+                    <text>skull</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="14"/>
+                    <text>increased density</text>
+                </annotation>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="19" offset="92"/>
+                    <text>increased sclerosis</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="19" offset="92"/>
+                    <text>increased sclerosis</text>
+                </annotation>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term accepted, HP:6000708, https://github.com/obophenotype/human-phenotype-ontology/issues/10489</infon>
+                    <location length="6" offset="119"/>
+                    <text>femora</text>
+                </annotation>
+                <annotation id="39">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="135"/>
+                    <text>forearms</text>
+                </annotation>
+                <relation id="33">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004330</infon>
+                    <node refid="31" role="source"/>
+                    <node refid="32" role="target"/>
+                </relation>
+                <relation id="36">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="37" role="source"/>
+                    <node refid="34" role="target"/>
+                </relation>
+                <relation id="38">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003967</infon>
+                    <node refid="39" role="source"/>
+                    <node refid="35" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1695</offset>
+                <text>A diagnosis of osteopetrosis was suspected.</text>
+            </sentence>
+            <sentence>
+                <offset>1742</offset>
+                <text>At age 17½ years he had limited mobility of the shoulders, thoracolumbar scoliosis, and flexion contractures of both knees.</text>
+                <annotation id="40">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006467</infon>
+                    <location length="33" offset="24"/>
+                    <text>limited mobility of the shoulders</text>
+                </annotation>
+                <annotation id="41">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002944</infon>
+                    <location length="23" offset="59"/>
+                    <text>thoracolumbar scoliosis</text>
+                </annotation>
+                <annotation id="42">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="20" offset="88"/>
+                    <text>flexion contractures</text>
+                </annotation>
+                <annotation id="44">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="117"/>
+                    <text>knees</text>
+                </annotation>
+                <relation id="43">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006380</infon>
+                    <node refid="44" role="source"/>
+                    <node refid="42" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1866</offset>
+                <text>He had hyperhidrosis of the hands and feet.</text>
+                <annotation id="45">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000975</infon>
+                    <location length="13" offset="7"/>
+                    <text>hyperhidrosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1910</offset>
+                <text>He underwent bilateral tibial and fibular osteotomies followed by bilateral femoral supracondylar osteotomies to correct his lower limb deformities.</text>
+                <annotation id="46">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002814</infon>
+                    <location length="22" offset="125"/>
+                    <text>lower limb deformities</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2059</offset>
+                <text>Histologic examination of the bone by report showed a thickened periosteum without evidence of inflammation and thickened vessel walls.</text>
+                <annotation id="47">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006465</infon>
+                    <location length="20" offset="54"/>
+                    <text>thickened periosteum</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2195</offset>
+                <text>The cortex showed a dense compact structure, normal haversian systems, and minimal osteoblast and osteoclast activity.</text>
+            </sentence>
+            <sentence>
+                <offset>2317</offset>
+                <text>At age 20 years, he had normal peripheral nerve conduction and EMG.</text>
+            </sentence>
+            <sentence>
+                <offset>2385</offset>
+                <text>A biopsy of the right fibular epiphysis showed, by report, markedly osteoporotic bone and a normal epiphyseal plate with minimal proliferative activity.</text>
+                <annotation id="48">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000939</infon>
+                    <location length="17" offset="68"/>
+                    <text>osteoporotic bone</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2538</offset>
+                <text>A muscle biopsy was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>2566</offset>
+                <text>He developed tinnitus, hearing impairment in the right ear, episodic vertigo, and right facial paresis.</text>
+                <annotation id="49">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000360</infon>
+                    <location length="8" offset="13"/>
+                    <text>tinnitus</text>
+                </annotation>
+                <annotation id="50">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000365</infon>
+                    <location length="18" offset="23"/>
+                    <text>hearing impairment</text>
+                </annotation>
+                <annotation id="51">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002321</infon>
+                    <location length="7" offset="69"/>
+                    <text>vertigo</text>
+                </annotation>
+                <annotation id="52">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010628</infon>
+                    <location length="14" offset="88"/>
+                    <text>facial paresis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2670</offset>
+                <text>He was diagnosed with PDD at age 21 years, following the diagnosis of his second cousin.</text>
+            </sentence>
+            <sentence>
+                <offset>2759</offset>
+                <text>Five years later, he had right upper facial paralysis, right lower facial paresis, progressive hearing loss, and balance problems.</text>
+                <annotation id="53">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007209</infon>
+                    <location length="16" offset="37"/>
+                    <text>facial paralysis</text>
+                </annotation>
+                <annotation id="54">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010628</infon>
+                    <location length="14" offset="67"/>
+                    <text>facial paresis</text>
+                </annotation>
+                <annotation id="55">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000365</infon>
+                    <location length="12" offset="95"/>
+                    <text>hearing loss</text>
+                </annotation>
+                <annotation id="56">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002172</infon>
+                    <location length="16" offset="113"/>
+                    <text>balance problems</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2890</offset>
+                <text>Radiographs showed massive overgrowth of bone involving the petrous apex and mastoid bones partially obstructing both internal auditory canals.</text>
+                <annotation id="57">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100774</infon>
+                    <location length="18" offset="27"/>
+                    <text>overgrowth of bone</text>
+                </annotation>
+                <annotation id="58">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="101"/>
+                    <text>obstructing</text>
+                </annotation>
+                <annotation id="60">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="24" offset="118"/>
+                    <text>internal auditory canals</text>
+                </annotation>
+                <relation id="59">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011386</infon>
+                    <node refid="60" role="source"/>
+                    <node refid="58" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>3034</offset>
+                <text>The entire skull base was markedly thickened with increased density of the inner and outer tables.</text>
+                <annotation id="61">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="11"/>
+                    <text>skull</text>
+                </annotation>
+                <annotation id="62">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="35"/>
+                    <text>thickened</text>
+                </annotation>
+                <relation id="63">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004330</infon>
+                    <node refid="61" role="source"/>
+                    <node refid="62" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>3133</offset>
+                <text>Bilateral decompressions of the internal auditory canals and middle cranial fossa were performed.</text>
+            </sentence>
+            <sentence>
+                <offset>3231</offset>
+                <text>Hearing in the left ear improved slightly initially, then it gradually deteriorated.</text>
+            </sentence>
+            <sentence>
+                <offset>3316</offset>
+                <text>At age 47 years his internal auditory canals were nearly entirely obliterated by bone.</text>
+            </sentence>
+            <sentence>
+                <offset>3403</offset>
+                <text>At age 54 years, he had marked deviation of the nasal septum and nasal obstruction.</text>
+            </sentence>
+            <sentence>
+                <offset>3487</offset>
+                <text>He underwent septostomy.</text>
+            </sentence>
+            <sentence>
+                <offset>3512</offset>
+                <text>He was diagnosed with hyposmia suspected to be due to hyperostosis of the cribiform plate and olfactory region.</text>
+                <annotation id="64">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004409</infon>
+                    <location length="8" offset="22"/>
+                    <text>hyposmia</text>
+                </annotation>
+                <annotation id="65">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100774</infon>
+                    <location length="12" offset="54"/>
+                    <text>hyperostosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>3627</offset>
+                <text>At age 60 years, he had severe limb pain, prominence of the distal femora bilaterally, quadriceps wasting, weakness, tinnitus, and intermittent headache.</text>
+                <annotation id="66">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009763</infon>
+                    <location length="9" offset="31"/>
+                    <text>limb pain</text>
+                </annotation>
+                <annotation id="67">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006387</infon>
+                    <location length="31" offset="42"/>
+                    <text>prominence of the distal femora</text>
+                </annotation>
+                <annotation id="68">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009050</infon>
+                    <location length="18" offset="87"/>
+                    <text>quadriceps wasting</text>
+                </annotation>
+                <annotation id="69">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003324</infon>
+                    <location length="8" offset="107"/>
+                    <text>weakness</text>
+                </annotation>
+                <annotation id="70">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000360</infon>
+                    <location length="8" offset="117"/>
+                    <text>tinnitus</text>
+                </annotation>
+                <annotation id="71">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002315</infon>
+                    <location length="8" offset="144"/>
+                    <text>headache</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>3781</offset>
+                <text>He walked short distances with crutches.</text>
+            </sentence>
+            <sentence>
+                <offset>3822</offset>
+                <text>He had a prominent right mandible, right complete facial palsy, left upper facial palsy, deviation of the palate to the right, and deviation of tongue to the left.</text>
+                <annotation id="72">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="9"/>
+                    <text>prominent</text>
+                </annotation>
+                <annotation id="74">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="25"/>
+                    <text>mandible</text>
+                </annotation>
+                <annotation id="75">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010628</infon>
+                    <location length="12" offset="50"/>
+                    <text>facial palsy</text>
+                </annotation>
+                <annotation id="76">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010628</infon>
+                    <location length="12" offset="75"/>
+                    <text>facial palsy</text>
+                </annotation>
+                <annotation id="77">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [Neurology]</infon>
+                    <location length="23" offset="89"/>
+                    <text>deviation of the palate</text>
+                </annotation>
+                <annotation id="78">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [Neurology]</infon>
+                    <location length="19" offset="131"/>
+                    <text>deviation of tongue</text>
+                </annotation>
+                <relation id="73">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000303</infon>
+                    <node refid="74" role="source"/>
+                    <node refid="72" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>3986</offset>
+                <text>Radiographs of his limbs, skull, and pelvis showed severe hyperostosis of his skull and long bones (Fig. 1).</text>
+                <annotation id="79">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004437</infon>
+                    <location length="25" offset="58"/>
+                    <text>hyperostosis of his skull</text>
+                </annotation>
+                <annotation id="80">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="58"/>
+                    <text>hyperostosis</text>
+                </annotation>
+                <annotation id="82">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="88"/>
+                    <text>long bones</text>
+                </annotation>
+                <relation id="81">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100774</infon>
+                    <node refid="82" role="source"/>
+                    <node refid="80" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>4095</offset>
+                <text>He declined steroid therapy secondary to the fear of side effects.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

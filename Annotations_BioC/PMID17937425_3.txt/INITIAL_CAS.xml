@@ -1,0 +1,48 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Clinical examination of patient 3 at age 17 years: height 132 cm (well below 3rd centile), weight 30.3 kg (below 3rd centile), OFC 53 cm (2nd centile), ICD 37 mm (above 97th centile), OCD 85 mm (25–50th centile), PFL 22 mm (well below 3rd centile).</text>
+            </sentence>
+            <sentence>
+                <offset>249</offset>
+                <text>He had blepharophimosis, telecanthus, blepharoptosis, epicanthus inversus, arched eyebrows, a repaired bilateral cleft lip and palate (Fig. 1), periumbilical depression, and sexual infantilism (Tanner's scale: G1, P1).</text>
+            </sentence>
+            <sentence>
+                <offset>468</offset>
+                <text>Ophthalmological examination showed exotropia and amblyopia on the left eye and astigmatism in both eyes.</text>
+            </sentence>
+            <sentence>
+                <offset>574</offset>
+                <text>Audiological evaluation disclosed moderate bilateral conductive hearing loss.</text>
+            </sentence>
+            <sentence>
+                <offset>652</offset>
+                <text>Intelligence was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>677</offset>
+                <text>Ultrasound studies showed a crossed-fused renal ectopy and true left cryptorchidism.</text>
+            </sentence>
+            <sentence>
+                <offset>762</offset>
+                <text>Endocrinologic evaluation revealed growth hormone deficiency (absence of growth hormone response to insulin-induced hypoglycaemia) and secondary hypogonadism (decreased testosterone, FSH and LH levels).</text>
+            </sentence>
+            <sentence>
+                <offset>965</offset>
+                <text>Serum insulin-like growth factor (IGF-1) and IGF binding protein 3 (IGFBP-3) concentrations were low and normal respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>1091</offset>
+                <text>Brain MRI was normal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

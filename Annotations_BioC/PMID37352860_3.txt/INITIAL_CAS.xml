@@ -1,0 +1,70 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 3
+
+The boy was born to non-consanguineous Japanese parents at 39 weeks and 6 days of gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>107</offset>
+                <text>His birth length was 41.7 cm (-4.3 SD) and weight 2,000 g (-3.3 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>176</offset>
+                <text>He presented with tachypnea leading to a conventional respiratory support (nasal directional positive airway pressure).</text>
+            </sentence>
+            <sentence>
+                <offset>296</offset>
+                <text>He showed oligosyndactyly of the right hand, proximally set left thumb, post-axial syndactyly of the feet, dislocation of the right elbow, and ulnar deviation of the left wrist.</text>
+            </sentence>
+            <sentence>
+                <offset>474</offset>
+                <text>He was bottle-fed.</text>
+            </sentence>
+            <sentence>
+                <offset>493</offset>
+                <text>His weight was 3,340 g at 3.5 months of age (&lt; -3 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>548</offset>
+                <text>Respiratory support was weaned to nasal continuous positive airway pressure, and continued until hospital discharge at 4 months.</text>
+            </sentence>
+            <sentence>
+                <offset>677</offset>
+                <text>Soon after then, he developed upper airway infection and subsequent respiratory failure, and came to an emergency room.</text>
+            </sentence>
+            <sentence>
+                <offset>797</offset>
+                <text>Ultrasonography revealed pulmonary hypertension with severe tricuspid regurgitation.</text>
+            </sentence>
+            <sentence>
+                <offset>882</offset>
+                <text>Despite ventilator support, he suddenly died the next day after hospital admission.</text>
+            </sentence>
+            <sentence>
+                <offset>966</offset>
+                <text>His X-rays showed platyspondyly and metaphyseal dysplasias of the long tubular bones.</text>
+            </sentence>
+            <sentence>
+                <offset>1052</offset>
+                <text>The left hand showed type A1 brachydactyly, while the right hand showed oligosyndactyly.</text>
+            </sentence>
+            <sentence>
+                <offset>1141</offset>
+                <text>Both feet showed post-axial syndactyly.</text>
+            </sentence>
+            <sentence>
+                <offset>1181</offset>
+                <text>The test of blood cells showed macrocytic anemia and congenital neutropenia.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

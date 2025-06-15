@@ -1,0 +1,48 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 3 (Fig. 2C) is a 29-year-old man affected with right unilateral cleft lip and palate with dysmorphic facial features similar to his brother.</text>
+            </sentence>
+            <sentence>
+                <offset>149</offset>
+                <text>He was born with a myelomeningocele and diagnosed with spastic quadriparesis.</text>
+            </sentence>
+            <sentence>
+                <offset>227</offset>
+                <text>He has blepharophimosis, high arched eyebrows, hypertelorism, long curly eyelashes, mildly upslanted palpebral fissures, ptosis, and a bowed upper lip.</text>
+            </sentence>
+            <sentence>
+                <offset>379</offset>
+                <text>He has significant kyphosis, scoliosis, short downslanting shoulders, abnormal scapulae, and hyperextensible joints of the hands.</text>
+            </sentence>
+            <sentence>
+                <offset>509</offset>
+                <text>He has profound sensorineural hearing loss in the left ear and mild conductive hearing loss in the right ear.</text>
+            </sentence>
+            <sentence>
+                <offset>619</offset>
+                <text>At 7 years old, he was treated for a desmoid tumor and received bilateral psoas resections, bilateral medial hamstring lengthening, and bilateral adductor tenotomy.</text>
+            </sentence>
+            <sentence>
+                <offset>784</offset>
+                <text>He had a glandular hypospaidias and bilateral orchidopexy at 8 years old.</text>
+            </sentence>
+            <sentence>
+                <offset>858</offset>
+                <text>He has average cognitive functioning and finished college.</text>
+            </sentence>
+            <sentence>
+                <offset>917</offset>
+                <text>He has subluxation of the left hip and spastic contractures of both lower extremities that has left him wheelchair bound.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

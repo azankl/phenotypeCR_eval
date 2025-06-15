@@ -1,0 +1,127 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 1 was an 8 years and 11 months old boy, who was referred to pediatric endocrine clinic for “growth delay for over eight years” and initially suspected to suffer an autosomal recessive form of Silver–Russell syndrome (SRS).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001510</infon>
+                    <location length="12" offset="101"/>
+                    <text>growth delay</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>232</offset>
+                <text>At birth, he was diagnosed with small for gestational age (SGA) and his height was consistently below 3rd percentile since.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001518</infon>
+                    <location length="25" offset="32"/>
+                    <text>small for gestational age</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001518</infon>
+                    <infon key="Comment">! Abbreviation</infon>
+                    <location length="3" offset="59"/>
+                    <text>SGA</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>356</offset>
+                <text>He could turn over and sit at the age of five months and eight months but he could not walk until 24 months.</text>
+            </sentence>
+            <sentence>
+                <offset>465</offset>
+                <text>At 8 years and 11 months, his height was 103 cm (− 5.5 SD) and his weight was 15 kg (&lt; 0.1 percentile), resulting in a BMI of 14.14.</text>
+            </sentence>
+            <sentence>
+                <offset>598</offset>
+                <text>The arm span was 98.6 cm and the upper to lower segment ratio was 1.02:1.</text>
+            </sentence>
+            <sentence>
+                <offset>672</offset>
+                <text>One cafe-au-lait spot was noticed in his left frontal hairline.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000957</infon>
+                    <location length="17" offset="4"/>
+                    <text>cafe-au-lait spot</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>736</offset>
+                <text>His dysmorphic features include triangular face, prominent forehead, hypoplastic midface, pectus carinatum, single transverse palmar crease, bilateral short fifth fingers, rocker bottom foot.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000325</infon>
+                    <location length="15" offset="32"/>
+                    <text>triangular face</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011220</infon>
+                    <location length="18" offset="49"/>
+                    <text>prominent forehead</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011800</infon>
+                    <location length="19" offset="69"/>
+                    <text>hypoplastic midface</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000768</infon>
+                    <location length="16" offset="90"/>
+                    <text>pectus carinatum</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000954</infon>
+                    <location length="31" offset="108"/>
+                    <text>single transverse palmar crease</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009237</infon>
+                    <location length="19" offset="151"/>
+                    <text>short fifth fingers</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001838</infon>
+                    <location length="18" offset="172"/>
+                    <text>rocker bottom foot</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>928</offset>
+                <text>He underwent extensive laboratory investigations including routine biochemistry tests, insulin (8.54 uIU/mL, reference range: 5–25 uIU/mL), IGF-1 (191.0 ng/mL, reference range: 55–327 ng/mL) and IGF-binding protein-3 (4.19 μg/mL, reference range: 0.7–4.6 μg/mL) tests, growth hormone stimulation test (14.79 ng/mL, reference range: &gt; 10 ng/mL), thyroid function (tT3 105.5 ng/dL (70–210 ng/dL), tT4 6.76 μg/dL (4.0–12.0 μg/dL), TSH 0.78 mIU/L (0.4–4.0 mIU/L), fT3 4.93 pmol/L (3.3–8.25 μg/dL), fT4 9.58 pmol/L (8.37–29.6 pmol/L)) and liver function tests, chromosomal analysis, as well as ultrasound scanning on adrenal gland, thyroid gland and abdomen.</text>
+            </sentence>
+            <sentence>
+                <offset>1582</offset>
+                <text>All had normal results.</text>
+            </sentence>
+            <sentence>
+                <offset>1606</offset>
+                <text>Endocrine tests revealed a recurrent elevation in estradiol (E2: 40.3 pg/mL and 36.2 pg/mL, reference range: 0–29.7 pg/mL) and ACTH (90.5 pg/mL and 58.1 pg/mL, range: 0–46 pg/mL).</text>
+            </sentence>
+            <sentence>
+                <offset>1786</offset>
+                <text>His bone age was between eight and nine years, which is approximately equal to his chronological age.</text>
+            </sentence>
+            <sentence>
+                <offset>1888</offset>
+                <text>Results of Wechsler Intelligence Scale for Children-IV (WISC-IV) showed an IQ of 79.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

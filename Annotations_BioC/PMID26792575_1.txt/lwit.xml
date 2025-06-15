@@ -1,0 +1,246 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 1 is a 10-year-old boy and the first child to non-consanguineous Argentinian parents.</text>
+            </sentence>
+            <sentence>
+                <offset>94</offset>
+                <text>Prenatal ultrasound at 16 weeks’ gestation showed a cystic hygroma.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000476</infon>
+                    <location length="14" offset="52"/>
+                    <text>cystic hygroma</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>162</offset>
+                <text>He was born after term following an uncomplicated pregnancy, with a birth weight of 4.25 kg (&gt;97th centile), a birth length of 50 cm (50th centile) and a head circumference of 35 cm (50th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>360</offset>
+                <text>His craniofacial features are typical of CED, namely: long face, high forehead with frontal bossing, telecanthus, epicanthic folds bilaterally, a broad nasal bridge, long philtrum, everted lower lip, retrognathia, and prominent, low-set ears.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000276</infon>
+                    <location length="9" offset="54"/>
+                    <text>long face</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000348</infon>
+                    <location length="13" offset="65"/>
+                    <text>high forehead</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002007</infon>
+                    <location length="15" offset="84"/>
+                    <text>frontal bossing</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000506</infon>
+                    <location length="11" offset="101"/>
+                    <text>telecanthus</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000286</infon>
+                    <location length="16" offset="114"/>
+                    <text>epicanthic folds</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000431</infon>
+                    <location length="18" offset="146"/>
+                    <text>broad nasal bridge</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000343</infon>
+                    <location length="13" offset="166"/>
+                    <text>long philtrum</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000232</infon>
+                    <location length="17" offset="181"/>
+                    <text>everted lower lip</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000278</infon>
+                    <location length="12" offset="200"/>
+                    <text>retrognathia</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="218"/>
+                    <text>prominent</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000369</infon>
+                    <location length="12" offset="229"/>
+                    <text>low-set ears</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="237"/>
+                    <text>ears</text>
+                </annotation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000411</infon>
+                    <node refid="13" role="source"/>
+                    <node refid="11" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>603</offset>
+                <text>Notably, he did not have craniosynostosis.</text>
+            </sentence>
+            <sentence>
+                <offset>646</offset>
+                <text>Additional clinical features include small teeth, fine, sparse hair, a short neck with excess skin folds, and brachysyndactyly with bilateral fifth finger clinodactyly.</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000691</infon>
+                    <location length="11" offset="37"/>
+                    <text>small teeth</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="50"/>
+                    <text>fine</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008070</infon>
+                    <location length="11" offset="56"/>
+                    <text>sparse hair</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="63"/>
+                    <text>hair</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000470</infon>
+                    <location length="10" offset="71"/>
+                    <text>short neck</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005989</infon>
+                    <location length="27" offset="77"/>
+                    <text>neck with excess skin folds</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001159</infon>
+                    <location length="16" offset="110"/>
+                    <text>brachysyndactyly</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001156</infon>
+                    <location length="16" offset="110"/>
+                    <text>brachysyndactyly</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004209</infon>
+                    <location length="25" offset="142"/>
+                    <text>fifth finger clinodactyly</text>
+                </annotation>
+                <relation id="17">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002213</infon>
+                    <node refid="18" role="source"/>
+                    <node refid="16" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>815</offset>
+                <text>In the first year of life, he had frequent respiratory infections.</text>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011947</infon>
+                    <location length="22" offset="43"/>
+                    <text>respiratory infections</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>882</offset>
+                <text>Cystic fibrosis was, therefore, excluded.</text>
+            </sentence>
+            <sentence>
+                <offset>924</offset>
+                <text>Hepatomegaly was first diagnosed when he was 8 months old and the subsequent liver biopsy showed mild chronic hepatitis in cirrhotic evolution.</text>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002240</infon>
+                    <location length="12" offset="0"/>
+                    <text>Hepatomegaly</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012115</infon>
+                    <location length="9" offset="110"/>
+                    <text>hepatitis</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001394</infon>
+                    <location length="19" offset="123"/>
+                    <text>cirrhotic evolution</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1068</offset>
+                <text>He had a normal male karyotype (46,XY) and ophthalmological examination showed no evidence of retinal dystrophy.</text>
+            </sentence>
+            <sentence>
+                <offset>1181</offset>
+                <text>Blood tests at the age of 9 years revealed elevated creatinine values.</text>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003259</infon>
+                    <location length="26" offset="43"/>
+                    <text>elevated creatinine values</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1252</offset>
+                <text>Ultrasound scans showed a small liver, splenomegaly, and normal-sized kidneys.</text>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0034181</infon>
+                    <location length="11" offset="26"/>
+                    <text>small liver</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001744</infon>
+                    <location length="12" offset="39"/>
+                    <text>splenomegaly</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1334</offset>
+                <text>At the age of 9 years and 7 months, his growth and mental and motor development are normal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

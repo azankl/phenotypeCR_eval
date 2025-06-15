@@ -1,0 +1,450 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A 28-year-old parous woman was referred to our health service at 35 weeks’ gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>86</offset>
+                <text>The patient and her partner are second-degree consanguineous with no significant personal or family history.</text>
+            </sentence>
+            <sentence>
+                <offset>198</offset>
+                <text>A first trimester ultrasound raised the suspicion of short long bones.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003026</infon>
+                    <location length="16" offset="53"/>
+                    <text>short long bones</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>269</offset>
+                <text>At 16 weeks, the long bones remained shortened with fixed flexion bilaterally at the elbow, wrist, and knee joints as well as bilateral talipes.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="17"/>
+                    <text>long bones</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="37"/>
+                    <text>shortened</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="52"/>
+                    <text>fixed flexion</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="52"/>
+                    <text>fixed flexion</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="52"/>
+                    <text>fixed flexion</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="85"/>
+                    <text>elbow</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="92"/>
+                    <text>wrist</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="103"/>
+                    <text>knee</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001883</infon>
+                    <location length="7" offset="136"/>
+                    <text>talipes</text>
+                </annotation>
+                <relation id="4">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003026</infon>
+                    <node refid="2" role="source"/>
+                    <node refid="3" role="target"/>
+                </relation>
+                <relation id="8">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002987</infon>
+                    <node refid="9" role="source"/>
+                    <node refid="5" role="target"/>
+                </relation>
+                <relation id="10">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001239</infon>
+                    <node refid="11" role="source"/>
+                    <node refid="7" role="target"/>
+                </relation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006380</infon>
+                    <node refid="13" role="source"/>
+                    <node refid="6" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>414</offset>
+                <text>An amniocentesis performed at this time confirmed the genetic diagnosis of Bruck syndrome.</text>
+            </sentence>
+            <sentence>
+                <offset>507</offset>
+                <text>Serial scans continued to document severe shortening of the long bones, eventually lagging 10 weeks behind dates at 33 weeks’ gestation.</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003026</infon>
+                    <location length="28" offset="42"/>
+                    <text>shortening of the long bones</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>644</offset>
+                <text>In addition, the long bones progressively appeared more angulated and fractured.</text>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="17"/>
+                    <text>long bones</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="17"/>
+                    <text>long bones</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="56"/>
+                    <text>angulated</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="70"/>
+                    <text>fractured</text>
+                </annotation>
+                <relation id="19">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0034530</infon>
+                    <node refid="16" role="source"/>
+                    <node refid="18" role="target"/>
+                </relation>
+                <relation id="21">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003084</infon>
+                    <node refid="17" role="source"/>
+                    <node refid="20" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>725</offset>
+                <text>By mid-gestation, bilateral fractures of the femur and humerus were diagnosed, and kyphosis of the lower lumbar spine was documented.</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="28"/>
+                    <text>fractures</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="28"/>
+                    <text>fractures</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="45"/>
+                    <text>femur</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="55"/>
+                    <text>humerus</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="83"/>
+                    <text>kyphosis</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="105"/>
+                    <text>lumbar spine</text>
+                </annotation>
+                <relation id="24">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031846</infon>
+                    <node refid="25" role="source"/>
+                    <node refid="22" role="target"/>
+                </relation>
+                <relation id="26">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0041055</infon>
+                    <node refid="27" role="source"/>
+                    <node refid="23" role="target"/>
+                </relation>
+                <relation id="29">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008454</infon>
+                    <node refid="30" role="source"/>
+                    <node refid="28" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>863</offset>
+                <text>At 35 weeks’ gestation, the woman was transferred to our tertiary centre, given its co-location with the Children’s Hospital, in view of new-onset fetal cardiac findings.</text>
+            </sentence>
+            <sentence>
+                <offset>1034</offset>
+                <text>On arrival, joint assessment by the maternal fetal medicine and fetal cardiology team was performed.</text>
+            </sentence>
+            <sentence>
+                <offset>1135</offset>
+                <text>The fetus was in breech presentation and in addition to the known skeletal features, significant cardiomegaly was noted.</text>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001640</infon>
+                    <location length="12" offset="97"/>
+                    <text>cardiomegaly</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1256</offset>
+                <text>The right heart was enlarged (shown in Fig. 4), secondary to severe tricuspid valve regurgitation, pulmonary valve insufficiency, and a small arterial duct.</text>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="11" offset="4"/>
+                    <text>right heart</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="20"/>
+                    <text>enlarged</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005180</infon>
+                    <location length="29" offset="68"/>
+                    <text>tricuspid valve regurgitation</text>
+                </annotation>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010444</infon>
+                    <location length="29" offset="99"/>
+                    <text>pulmonary valve insufficiency</text>
+                </annotation>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025675</infon>
+                    <location length="19" offset="136"/>
+                    <text>small arterial duct</text>
+                </annotation>
+                <relation id="34">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="32" role="source"/>
+                    <node refid="33" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1413</offset>
+                <text>The left heart structures were normal, with preserved biventricular systolic function and a normal atrial rhythm.</text>
+            </sentence>
+            <sentence>
+                <offset>1527</offset>
+                <text>There was no history of non-steroidal anti-inflammatory intake during the pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>1615</offset>
+                <text>Mid-trimester cardiac screening had reported normal cardiac size and connections.</text>
+            </sentence>
+            <sentence>
+                <offset>1697</offset>
+                <text>The working diagnosis of new onset significant right heart pathology in combination with a small arterial duct included premature restriction of the ductus arteriosus.</text>
+                <annotation id="38">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011723</infon>
+                    <location length="21" offset="47"/>
+                    <text>right heart pathology</text>
+                </annotation>
+                <annotation id="39">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025675</infon>
+                    <location length="19" offset="91"/>
+                    <text>small arterial duct</text>
+                </annotation>
+                <annotation id="40">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025675</infon>
+                    <location length="36" offset="130"/>
+                    <text>restriction of the ductus arteriosus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1865</offset>
+                <text>Delivery was planned 12 h later, after administration of a single 11.4 mg dose of betamethasone.</text>
+            </sentence>
+            <sentence>
+                <offset>1962</offset>
+                <text>At 35+5 weeks, a live male baby was delivered by caesarean section, weighing 2,500 g with Apgar scores of 3 and 6 at 1 and 5 min, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>2106</offset>
+                <text>Care was taken to ensure a gentle delivery, including administration of intravenous glyceryl trinitrate 200 µg for uterine relaxation as well as en-caul delivery of the infant.</text>
+            </sentence>
+            <sentence>
+                <offset>2283</offset>
+                <text>The operator continuously supported the fetal body and head to allow the infant to be delivered in one movement avoiding manipulation of the limbs and the spine.</text>
+            </sentence>
+            <sentence>
+                <offset>2445</offset>
+                <text>The neonate was immediately placed onto a sterile plastic drape which supported the fetus during transfer to the resuscitator.</text>
+            </sentence>
+            <sentence>
+                <offset>2575</offset>
+                <text>Features of facial dysmorphism as well as a pan-systolic murmur were noted on initial examination.</text>
+                <annotation id="41">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001999</infon>
+                    <location length="18" offset="12"/>
+                    <text>facial dysmorphism</text>
+                </annotation>
+                <annotation id="42">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031667</infon>
+                    <location length="19" offset="44"/>
+                    <text>pan-systolic murmur</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2674</offset>
+                <text>The newborn required immediate intubation and was transferred to the neonatal intensive care unit on 100% FiO2.</text>
+            </sentence>
+            <sentence>
+                <offset>2786</offset>
+                <text>Following birth, the limb fractures and contractures were clinically evident, and a cardiac echocardiogram confirmed tricuspid valve dysplasia with severe regurgitation.</text>
+                <annotation id="43">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003084</infon>
+                    <location length="14" offset="21"/>
+                    <text>limb fractures</text>
+                </annotation>
+                <annotation id="44">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003121</infon>
+                    <location length="12" offset="40"/>
+                    <text>contractures</text>
+                </annotation>
+                <annotation id="45">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030732</infon>
+                    <location length="25" offset="117"/>
+                    <text>tricuspid valve dysplasia</text>
+                </annotation>
+                <annotation id="46">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="117"/>
+                    <text>tricuspid valve</text>
+                </annotation>
+                <annotation id="47">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="155"/>
+                    <text>regurgitation</text>
+                </annotation>
+                <relation id="48">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005180</infon>
+                    <node refid="46" role="source"/>
+                    <node refid="47" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2956</offset>
+                <text>There was antegrade flow across the pulmonary valve and the arterial duct was restrictive (shown in Fig. 5, 6, respectively).</text>
+                <annotation id="49">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="10"/>
+                    <text>antegrade flow</text>
+                </annotation>
+                <annotation id="51">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="36"/>
+                    <text>pulmonary valve</text>
+                </annotation>
+                <annotation id="52">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="60"/>
+                    <text>arterial duct</text>
+                </annotation>
+                <annotation id="53">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="78"/>
+                    <text>restrictive</text>
+                </annotation>
+                <relation id="50">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0034350</infon>
+                    <node refid="51" role="source"/>
+                    <node refid="49" role="target"/>
+                </relation>
+                <relation id="54">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025675</infon>
+                    <node refid="52" role="source"/>
+                    <node refid="53" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>3082</offset>
+                <text>There were additional findings of an anterior mitral valve prolapse with mild mitral regurgitation and mild impairment of left ventricular systolic function.</text>
+                <annotation id="55">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001634</infon>
+                    <location length="21" offset="46"/>
+                    <text>mitral valve prolapse</text>
+                </annotation>
+                <annotation id="56">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001653</infon>
+                    <location length="20" offset="78"/>
+                    <text>mitral regurgitation</text>
+                </annotation>
+                <annotation id="57">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025169</infon>
+                    <location length="48" offset="108"/>
+                    <text>impairment of left ventricular systolic function</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>3240</offset>
+                <text>Cardiac management was directed towards rapid reduction of pulmonary vascular resistance to reduce right ventricular afterload and encourage antegrade flow through the right heart.</text>
+            </sentence>
+            <sentence>
+                <offset>3421</offset>
+                <text>Bisphosphonates were commenced for the skeletal anomalies.</text>
+            </sentence>
+            <sentence>
+                <offset>3480</offset>
+                <text>The admission was further complicated by a pulmonary haemorrhage and the infant succumbed at day 44 of life.</text>
+                <annotation id="58">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0040223</infon>
+                    <location length="21" offset="43"/>
+                    <text>pulmonary haemorrhage</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

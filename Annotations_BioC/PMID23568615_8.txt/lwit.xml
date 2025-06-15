@@ -1,0 +1,112 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 8 had a lower eyelid coloboma and sparse lower eyelashes (Fig. 1e), and was diagnosed with a blocked nasolacrimal duct.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000625</infon>
+                    <location length="15" offset="22"/>
+                    <text>eyelid coloboma</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007776</infon>
+                    <location length="22" offset="42"/>
+                    <text>sparse lower eyelashes</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000579</infon>
+                    <location length="25" offset="101"/>
+                    <text>blocked nasolacrimal duct</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>128</offset>
+                <text>He had micrognathia, choanal stenosis and a tracheoesophageal fistula, and required a tracheostoma for airway management.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000347</infon>
+                    <location length="12" offset="7"/>
+                    <text>micrognathia</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000452</infon>
+                    <location length="16" offset="21"/>
+                    <text>choanal stenosis</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002575</infon>
+                    <location length="25" offset="44"/>
+                    <text>tracheoesophageal fistula</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>250</offset>
+                <text>The ears were small and dysplastic.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="4"/>
+                    <text>ears</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="4"/>
+                    <text>ears</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="14"/>
+                    <text>small</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="24"/>
+                    <text>dysplastic</text>
+                </annotation>
+                <relation id="10">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008551</infon>
+                    <node refid="7" role="source"/>
+                    <node refid="9" role="target"/>
+                </relation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031703</infon>
+                    <node refid="8" role="source"/>
+                    <node refid="11" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>286</offset>
+                <text>On the right hand, he had a bifid thumb (Fig. 2n).</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009944</infon>
+                    <location length="11" offset="28"/>
+                    <text>bifid thumb</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>337</offset>
+                <text>He suffered from a coarctation of the aorta.</text>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001680</infon>
+                    <location length="24" offset="19"/>
+                    <text>coarctation of the aorta</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,56 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A 5-y-old boy, who was the third child of consanguineous parents, was evaluated for short stature.</text>
+            </sentence>
+            <sentence>
+                <offset>99</offset>
+                <text>He had sparse hair since birth.</text>
+            </sentence>
+            <sentence>
+                <offset>131</offset>
+                <text>He never had recurrent infections.</text>
+            </sentence>
+            <sentence>
+                <offset>166</offset>
+                <text>His development was normal and he was attending normal school.</text>
+            </sentence>
+            <sentence>
+                <offset>229</offset>
+                <text>On examination, he had hypopigmented sparse hair.</text>
+            </sentence>
+            <sentence>
+                <offset>279</offset>
+                <text>He had short thumb and 5th digit clinodactyly bilaterally and pectus excavatum.</text>
+            </sentence>
+            <sentence>
+                <offset>359</offset>
+                <text>He did not have any organomegaly.</text>
+            </sentence>
+            <sentence>
+                <offset>393</offset>
+                <text>His anthropometry showed weight of 10 kg (− 4 SD for age), height of 81 cm (−5 SD for age) and head circumference of 47 cm (−4 SD for age).</text>
+            </sentence>
+            <sentence>
+                <offset>536</offset>
+                <text>His hemogram and serum alkaline phosphatase were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>593</offset>
+                <text>Radiographs revealed metaphyseal irregularities at knees.</text>
+            </sentence>
+            <sentence>
+                <offset>651</offset>
+                <text>Mutation analysis of RMRP was done by sequencing and a homozygous mutation, g.70 A &gt; G, [4] was identified.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

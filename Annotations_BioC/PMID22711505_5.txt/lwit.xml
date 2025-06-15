@@ -1,0 +1,104 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 5 was the first pregnancy for his nonconsanguineous, average statured parents of Dominican/West Indian/African American ancestry.</text>
+            </sentence>
+            <sentence>
+                <offset>138</offset>
+                <text>His mother was 20 years old.</text>
+            </sentence>
+            <sentence>
+                <offset>167</offset>
+                <text>Long bones, below the 5th centile, were seen in prenatal ultrasounds at 25 and 37 weeks.</text>
+            </sentence>
+            <sentence>
+                <offset>256</offset>
+                <text>Delivery was by cesarean due to failure to progress at term.</text>
+            </sentence>
+            <sentence>
+                <offset>317</offset>
+                <text>APGAR scores were 8 and 9 (see Fig. 1; Tables I and ​andII).II).</text>
+            </sentence>
+            <sentence>
+                <offset>382</offset>
+                <text>Delayed motor milestones, ongoing difficulties with fine motor skills, and speech delay have been present and by age 10, he was receiving special education; currently he is socially immature, yet has an outgoing personality.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001270</infon>
+                    <location length="24" offset="0"/>
+                    <text>Delayed motor milestones</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007010</infon>
+                    <location length="35" offset="34"/>
+                    <text>difficulties with fine motor skills</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000750</infon>
+                    <location length="12" offset="75"/>
+                    <text>speech delay</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012434</infon>
+                    <location length="17" offset="173"/>
+                    <text>socially immature</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>607</offset>
+                <text>Hearing and vision exams have been normal.</text>
+            </sentence>
+            <sentence>
+                <offset>650</offset>
+                <text>The patellae are dislocating and he is noted to have mild genu valgum.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="4"/>
+                    <text>patellae</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="17"/>
+                    <text>dislocating</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002857</infon>
+                    <location length="11" offset="58"/>
+                    <text>genu valgum</text>
+                </annotation>
+                <relation id="7">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002999</infon>
+                    <node refid="5" role="source"/>
+                    <node refid="6" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>721</offset>
+                <text>He is morbidly obese.</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001513</infon>
+                    <location length="5" offset="15"/>
+                    <text>obese</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>743</offset>
+                <text>Negative genetic testing included chromosome analysis, fragile X syndrome molecular testing, subtelomere probes, GNAS1 sequencing for Albright hereditary osteodystrophy and CANT1 sequencing were normal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,104 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>azankl</key>
+    <document>
+        <id>azankl</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 3 (SM) presented at the age of 4 months with short stature, short arms, and pectus excavatum (fig 2C).</text>
+            </sentence>
+            <sentence>
+                <offset>112</offset>
+                <text>Infancy was complicated by episodes of tachypnoea from birth onwards and recurrent respiratory infections.</text>
+            </sentence>
+            <sentence>
+                <offset>219</offset>
+                <text>Birth weight at term was 3800 g and length 51 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>269</offset>
+                <text>The parents are consanguineous (fig 1B).</text>
+            </sentence>
+            <sentence>
+                <offset>310</offset>
+                <text>The father measures 185 cm and the mother 163 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>360</offset>
+                <text>Physical examination at the age of 7 years showed short stature with a height of 109 cm (–3 SD, height age 4.5 years), span of 94.3 cm, and head circumference of 53.5 cm (90th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>546</offset>
+                <text>The short limbs with short hands and pectus excavatum were striking.</text>
+            </sentence>
+            <sentence>
+                <offset>615</offset>
+                <text>Radiographs of the skeleton were taken at various ages.</text>
+            </sentence>
+            <sentence>
+                <offset>671</offset>
+                <text>At the age of 22 months, the hands showed shortening of all tubular bones.</text>
+            </sentence>
+            <sentence>
+                <offset>746</offset>
+                <text>With the exception of proximal phalanges III and IV, cone shaped epiphyses of type 19, 25, and 28 were present in all of them.</text>
+            </sentence>
+            <sentence>
+                <offset>873</offset>
+                <text>Characteristic were the “tear drop shaped” cones of the markedly shortened metacarpals.</text>
+            </sentence>
+            <sentence>
+                <offset>961</offset>
+                <text>At the base of the second metacarpal, a pseudoepiphysis was present.</text>
+            </sentence>
+            <sentence>
+                <offset>1030</offset>
+                <text>The pelvis at the same age was characterised by short and flared iliac wings with serration of the iliac crest and flat acetabular roofs.</text>
+            </sentence>
+            <sentence>
+                <offset>1168</offset>
+                <text>The proximal femoral epiphyses were almost rounded and well developed but pointed (tear drop shaped) towards the metaphysis showing a central indentation (fig 4A).</text>
+            </sentence>
+            <sentence>
+                <offset>1332</offset>
+                <text>At the age of 3 years 8 months, epimetaphyseal fusion at the hips was completed (fig 4B).</text>
+            </sentence>
+            <sentence>
+                <offset>1422</offset>
+                <text>The same process of progressive closure of the physis around the cone shaped epiphyses was observed in the hands (fig 3B).</text>
+            </sentence>
+            <sentence>
+                <offset>1545</offset>
+                <text>The long tubular bones in the upper and lower limbs were also short.</text>
+            </sentence>
+            <sentence>
+                <offset>1614</offset>
+                <text>The humerus was broad with varus deformity of the neck.</text>
+            </sentence>
+            <sentence>
+                <offset>1670</offset>
+                <text>The diaphysis of the radius was bowed.</text>
+            </sentence>
+            <sentence>
+                <offset>1709</offset>
+                <text>The knees at the age of 5 years showed large distal femoral epiphyses, varus deformity of the tibia, irregular proximal tibial metaphyses, and proximal overgrowth of the fibula.</text>
+            </sentence>
+            <sentence>
+                <offset>1887</offset>
+                <text>At the same age, cone shaped distal tibial epiphyses were observed.</text>
+            </sentence>
+            <sentence>
+                <offset>1955</offset>
+                <text>Radiographs of the spine showed mild thoracolumbar scoliosis (aged 5 years) and moderately ovoid vertebral bodies with anterior and posterior notching (fig 5A).</text>
+            </sentence>
+            <sentence>
+                <offset>2116</offset>
+                <text>Radiographs of the thorax showed signs of a funnel chest.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

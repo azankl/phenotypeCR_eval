@@ -1,0 +1,24 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 5 is the mother of individual 4.</text>
+            </sentence>
+            <sentence>
+                <offset>44</offset>
+                <text>She had congenital unilateral vocal cord paralysis, short stature (147.5 cm), small HC (&lt; 3rd) ptosis, subaortic ventricular septal defect, myopia, and hypotonia.</text>
+            </sentence>
+            <sentence>
+                <offset>207</offset>
+                <text>Prior to the exome which identified the POLR1A variant in herself and her son (individual 4), she had a normal karyotype and subtelomeric fluorescent in situ hybridization.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

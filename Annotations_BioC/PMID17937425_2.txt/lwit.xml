@@ -1,0 +1,158 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Clinical examination of patient 2 at age 23 years showed height 152.5 cm (below 3rd centile), weight 48.5 kg (10th centile), OFC 55 cm (25–50th centiles), ICD 37 mm (above 97th centile), OCD 85 mm (25–50th centile), PFL 22 mm (well below the 3rd centile).</text>
+            </sentence>
+            <sentence>
+                <offset>256</offset>
+                <text>He had blepharophimosis with telecanthus, blepharoptosis, epicanthus inversus, arched eyebrows, unilateral repaired cleft lip and palate (Fig. 1), periumbilical depression, undescended testes at left, and bilateral limited supination-pronation of the forearms.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000581</infon>
+                    <location length="16" offset="7"/>
+                    <text>blepharophimosis</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000506</infon>
+                    <location length="11" offset="29"/>
+                    <text>telecanthus</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000508</infon>
+                    <location length="14" offset="42"/>
+                    <text>blepharoptosis</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000537</infon>
+                    <location length="19" offset="58"/>
+                    <text>epicanthus inversus</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002553</infon>
+                    <location length="15" offset="79"/>
+                    <text>arched eyebrows</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0410030</infon>
+                    <location length="9" offset="116"/>
+                    <text>cleft lip</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="116"/>
+                    <text>cleft</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="130"/>
+                    <text>palate</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="24" offset="147"/>
+                    <text>periumbilical depression</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000028</infon>
+                    <location length="18" offset="173"/>
+                    <text>undescended testes</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006394</infon>
+                    <location length="44" offset="215"/>
+                    <text>limited supination-pronation of the forearms</text>
+                </annotation>
+                <relation id="8">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <node refid="9" role="source"/>
+                    <node refid="7" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>517</offset>
+                <text>Ophthalmological examination revealed small nystagmus (no fixation), mild retinal pigment epithelial rarefaction located on the macula, hypermetropy, and astigmatism in both eyes.</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000639</infon>
+                    <location length="9" offset="44"/>
+                    <text>nystagmus</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007722</infon>
+                    <location length="38" offset="74"/>
+                    <text>retinal pigment epithelial rarefaction</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000540</infon>
+                    <location length="12" offset="136"/>
+                    <text>hypermetropy</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000483</infon>
+                    <location length="11" offset="154"/>
+                    <text>astigmatism</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>697</offset>
+                <text>Audiological evaluation disclosed moderate bilateral mixed hearing loss.</text>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000410</infon>
+                    <location length="18" offset="53"/>
+                    <text>mixed hearing loss</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>770</offset>
+                <text>There was no intellectual deficit.</text>
+            </sentence>
+            <sentence>
+                <offset>805</offset>
+                <text>Roentgenograms demonstrated bilateral radioulnar synostosis.</text>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002974</infon>
+                    <location length="21" offset="38"/>
+                    <text>radioulnar synostosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>866</offset>
+                <text>Ultrasound studies showed hydrocele with normal testis at right and a normal left testis in the inguinal canal.</text>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000034</infon>
+                    <location length="9" offset="26"/>
+                    <text>hydrocele</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000028</infon>
+                    <location length="28" offset="82"/>
+                    <text>testis in the inguinal canal</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

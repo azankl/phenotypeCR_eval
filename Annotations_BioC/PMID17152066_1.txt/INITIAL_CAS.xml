@@ -1,0 +1,88 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿The proband, a 15-year-old boy, is the first child.</text>
+            </sentence>
+            <sentence>
+                <offset>53</offset>
+                <text>Paternal and maternal ages at the time of conception were 28 years and 27 years old, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>152</offset>
+                <text>He was born at 41 weeks gestation and was delivered by cesarean after an unremarkable pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>249</offset>
+                <text>Apgar score was 6 at 1 min and 9 at 5 min.</text>
+            </sentence>
+            <sentence>
+                <offset>292</offset>
+                <text>His birth weight was 3.250 g (25th centile) and OFC was 34 cm (10th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>370</offset>
+                <text>On examination, the infant showed a hemangioma with a parieto-occipital midline soft tumor (2 × 1.5 cm) of the scalp, ocular hypertelorism, downslanting palpebral fissures, short and convex nose, right hemifacial microsomia with right microtia, short neck, cardiac murmur, omphalocele, shawl scrotum, short hands, brachydactyly with mild soft tissue webbing between the fingers and short and broad feet (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>783</offset>
+                <text>Echocardiogram documented a ventricular septal defect.</text>
+            </sentence>
+            <sentence>
+                <offset>838</offset>
+                <text>A brain MRI disclosed the absence of the corpus callosum, parieto-occipital encephalocele, transethmoidal meningoencephalocele and a midline nasal dermoid cyst.</text>
+            </sentence>
+            <sentence>
+                <offset>999</offset>
+                <text>Abdominal ultrasound, spine X-rays, ophthalmologic evaluation and chromosome analysis, including high resolution, were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1126</offset>
+                <text>Omphalocele was surgically corrected at birth, posterior encephalocele, bilateral inguinal hernias and hydrocele at 2 and 6 months, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>1272</offset>
+                <text>In addition, during the 2 first years of life, both anterior encephalocele and a nasal dermoid cyst were surgically repaired.</text>
+            </sentence>
+            <sentence>
+                <offset>1398</offset>
+                <text>At age 2 years, the child was diagnosed as having submucous cleft palate.</text>
+            </sentence>
+            <sentence>
+                <offset>1472</offset>
+                <text>At that time, a diagnosis of Goldenhar complex (oculo-auriculo-vertebral spectrum) was suspected.</text>
+            </sentence>
+            <sentence>
+                <offset>1570</offset>
+                <text>Nevertheless, although the facial features could be suggestive, this diagnosis was not completely convincing because of the overall constellation of anomalies, especially the very unusual hands, presented.</text>
+            </sentence>
+            <sentence>
+                <offset>1776</offset>
+                <text>The patient has been followed for 15 years.</text>
+            </sentence>
+            <sentence>
+                <offset>1820</offset>
+                <text>Delayed psychomotor development and mild learning disabilities were noticed in childhood; nevertheless, at present, his intelligence is normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1964</offset>
+                <text>He entered and completed puberty normally and now is socially well integrated and without behavioral problems.</text>
+            </sentence>
+            <sentence>
+                <offset>2075</offset>
+                <text>Currently, he is a boy of short stature (151 cm; 3th centile) with OFC of 54 cm (25th centile), widow's peak, synophrys, inner canthal distance of 3.5 cm (90th centile) and outer canthal distance 10 cm (97th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>2293</offset>
+                <text>Dysmorphic features include downslanting palpebral fissures, palpebral ptosis, short and convex nose, long philtrum, right maxillary hypoplasia with right microtia, curved linear dimple below the lower lip, short neck, pectus excavatum, brachydactyly with mild soft tissue webbing between the fingers, single crease in the fifth fingers (Fig. 2).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

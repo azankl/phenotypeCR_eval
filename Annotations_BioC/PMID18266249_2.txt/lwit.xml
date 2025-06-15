@@ -1,0 +1,142 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 had a BW of 3.5 kg and BL of 50 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>46</offset>
+                <text>OFC was not recorded.</text>
+            </sentence>
+            <sentence>
+                <offset>68</offset>
+                <text>Clinical examination at 14 years: height 154 cm (10th centile), weight 40.2 kg (10–25th centile), OFC 53.5 cm (25th centile), inner canthal distance 28 mm (25th centile), outer canthal distance: 80 mm (3–25th centile), palpebral fissure length: 30 mm (50th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>335</offset>
+                <text>The boy (Fig. 1) had blepharoptosis, epicanthus, long eyelashes, synophrys, arched eyebrows with lateral flare, high nasal root, wide nasal tip, hypoplastic alae nasi, short philtrum, a repaired umbilical hernia but no periumbilical depression, unilateral cryptorchidism, and sacral appendage (Fig. 3).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000508</infon>
+                    <location length="14" offset="21"/>
+                    <text>blepharoptosis</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000286</infon>
+                    <location length="10" offset="37"/>
+                    <text>epicanthus</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000527</infon>
+                    <location length="14" offset="49"/>
+                    <text>long eyelashes</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000664</infon>
+                    <location length="9" offset="65"/>
+                    <text>synophrys</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002553</infon>
+                    <location length="15" offset="76"/>
+                    <text>arched eyebrows</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="83"/>
+                    <text>eyebrows</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="97"/>
+                    <text>lateral flare</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000426</infon>
+                    <location length="15" offset="112"/>
+                    <text>high nasal root</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000455</infon>
+                    <location length="14" offset="129"/>
+                    <text>wide nasal tip</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000430</infon>
+                    <location length="21" offset="145"/>
+                    <text>hypoplastic alae nasi</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000322</infon>
+                    <location length="14" offset="168"/>
+                    <text>short philtrum</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001537</infon>
+                    <location length="16" offset="195"/>
+                    <text>umbilical hernia</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000028</infon>
+                    <location length="14" offset="256"/>
+                    <text>cryptorchidism</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002825</infon>
+                    <location length="16" offset="276"/>
+                    <text>sacral appendage</text>
+                </annotation>
+                <relation id="8">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011229</infon>
+                    <node refid="6" role="source"/>
+                    <node refid="7" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>638</offset>
+                <text>There was no intellectual deficit.</text>
+            </sentence>
+            <sentence>
+                <offset>673</offset>
+                <text>Ophthalmological examination did not show an anterior chamber abnormality.</text>
+            </sentence>
+            <sentence>
+                <offset>748</offset>
+                <text>Audiological evaluation disclosed sensorineural hearing loss of moderate severity (41–70 dB) on the left at the frequencies of 500, 1,000, and 2,000 Hz.</text>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000407</infon>
+                    <location length="26" offset="34"/>
+                    <text>sensorineural hearing loss</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>901</offset>
+                <text>Radiographs of the lumbosacral region showed no abnormalities.</text>
+            </sentence>
+            <sentence>
+                <offset>964</offset>
+                <text>G-banded karyotype gave a normal male karyotype.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

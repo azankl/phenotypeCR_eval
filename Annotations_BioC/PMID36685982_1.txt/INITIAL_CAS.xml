@@ -1,0 +1,72 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This three-year-old boy was born at term (38 + 5 weeks) with a birth weight of 3.75 kg to healthy Han-Chinese parents (29 years) of non-consanguineous marriage.</text>
+            </sentence>
+            <sentence>
+                <offset>161</offset>
+                <text>Neither parent has a family history of genetic disease.</text>
+            </sentence>
+            <sentence>
+                <offset>217</offset>
+                <text>At the age of 2 months, his parents found he did not make eye contact.</text>
+            </sentence>
+            <sentence>
+                <offset>288</offset>
+                <text>Subsequently, the boy was diagnosed with cataracts (Figure 1A), nystagmus and undergo binocular lens extraction.</text>
+            </sentence>
+            <sentence>
+                <offset>401</offset>
+                <text>His teeth began to grow at 9 months, and caries developed at 2 years old (Figure 1B).</text>
+            </sentence>
+            <sentence>
+                <offset>487</offset>
+                <text>The auricles of both ears were small, and the contour was abnormally folded (Figure 1C), but the hearing was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>604</offset>
+                <text>He also had mild speech delay and dysarthria.</text>
+            </sentence>
+            <sentence>
+                <offset>650</offset>
+                <text>His intelligence and athletic ability were clearly behind his peers.</text>
+            </sentence>
+            <sentence>
+                <offset>719</offset>
+                <text>He had problems with cognitive functioning, such as attention and learning.</text>
+            </sentence>
+            <sentence>
+                <offset>795</offset>
+                <text>But the Magnetic resonance imaging (MRI) at aged 2 years did not find any impairment.</text>
+            </sentence>
+            <sentence>
+                <offset>881</offset>
+                <text>He started to stand without support at 15 months and walked without assistance at 18 months.</text>
+            </sentence>
+            <sentence>
+                <offset>974</offset>
+                <text>His balance function and posture stability were also not good.</text>
+            </sentence>
+            <sentence>
+                <offset>1037</offset>
+                <text>The X-ray at 2 years suggested knee valgus (Figure 1D), small, irregular and cracked femoral epiphyseal ossification center (Figure 1E).</text>
+            </sentence>
+            <sentence>
+                <offset>1174</offset>
+                <text>Routine hematologic and biochemical tests were within the normal range except the high levels of total cholesterol (7.97 mmol/L) and low-density lipoprotein (4.94 mmol/L).</text>
+            </sentence>
+            <sentence>
+                <offset>1346</offset>
+                <text>At present, he started to receive comprehensive rehabilitation–physical, occupational, and speech-language therapies.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,126 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 5 was a 14-month-old girl referred to genetic clinic for enlarged ventricles and hydrocephalus.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002119</infon>
+                    <location length="19" offset="66"/>
+                    <text>enlarged ventricles</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000238</infon>
+                    <location length="13" offset="90"/>
+                    <text>hydrocephalus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>105</offset>
+                <text>She was born after a full-term uncomplicated pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>161</offset>
+                <text>Her mother, G2P1, had an abortion due to fetal hypoplasia.</text>
+            </sentence>
+            <sentence>
+                <offset>220</offset>
+                <text>Her birth weight was 2150 g and neonatal respiratory distress was noticed.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002098</infon>
+                    <location length="20" offset="41"/>
+                    <text>respiratory distress</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>295</offset>
+                <text>During her visit to genetic clinic, her height was 64 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>353</offset>
+                <text>Physical examination showed a relative macrocephaly, triangular face, presence of lower eyelid fat pads, upturned nose, low nasal bridge, short fingers and limbs, and enlarged abdomen.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000256</infon>
+                    <location length="12" offset="39"/>
+                    <text>macrocephaly</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000325</infon>
+                    <location length="15" offset="53"/>
+                    <text>triangular face</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001114</infon>
+                    <location length="21" offset="82"/>
+                    <text>lower eyelid fat pads</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000463</infon>
+                    <location length="13" offset="105"/>
+                    <text>upturned nose</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005280</infon>
+                    <location length="16" offset="120"/>
+                    <text>low nasal bridge</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001156</infon>
+                    <location length="13" offset="138"/>
+                    <text>short fingers</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="138"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="156"/>
+                    <text>limbs</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001538</infon>
+                    <location length="16" offset="167"/>
+                    <text>enlarged abdomen</text>
+                </annotation>
+                <relation id="11">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009826</infon>
+                    <node refid="12" role="source"/>
+                    <node refid="10" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>538</offset>
+                <text>She had developmental delay and could not walk at the age of 14 months.</text>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001263</infon>
+                    <location length="19" offset="8"/>
+                    <text>developmental delay</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>610</offset>
+                <text>Her endocrine profile was normal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

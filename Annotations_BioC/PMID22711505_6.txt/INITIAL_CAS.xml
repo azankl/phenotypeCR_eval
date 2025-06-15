@@ -1,0 +1,56 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 6 is the younger brother of Patient 5.</text>
+            </sentence>
+            <sentence>
+                <offset>47</offset>
+                <text>He was his parents’ second pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>85</offset>
+                <text>Short limbs were seen on prenatal ultrasound and he was delivered at term by cesarean (see Fig. 1; Tables I and ​andII).II).</text>
+            </sentence>
+            <sentence>
+                <offset>210</offset>
+                <text>A submucous cleft palate was present.</text>
+            </sentence>
+            <sentence>
+                <offset>248</offset>
+                <text>Early on, he was recognized as having the same syndromic condition as his brother.</text>
+            </sentence>
+            <sentence>
+                <offset>331</offset>
+                <text>Delayed development is present and necessitated special education programs.</text>
+            </sentence>
+            <sentence>
+                <offset>407</offset>
+                <text>Dislocating patellae are present as is significant genua vara and a limb length discrepancy.</text>
+            </sentence>
+            <sentence>
+                <offset>500</offset>
+                <text>Abnormal progression of digital lengths was noted with shortened 4th and relatively elongated 3rd digits noted on the right side.</text>
+            </sentence>
+            <sentence>
+                <offset>630</offset>
+                <text>Additionally, he has esotropia with left hypertropia and strabismus, a high pitched voice, and sleep apnea.</text>
+            </sentence>
+            <sentence>
+                <offset>738</offset>
+                <text>Chronic joint pain and morbid obesity were also a concern.</text>
+            </sentence>
+            <sentence>
+                <offset>797</offset>
+                <text>CANT1 sequencing was normal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

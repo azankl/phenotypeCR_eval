@@ -1,0 +1,104 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A 28-year-old woman was admitted to her district hospital in 1985 with a painful and swollen left leg.</text>
+            </sentence>
+            <sentence>
+                <offset>103</offset>
+                <text>Histological examination of a biopsy was recognized by the Committee for Bone Tumors as an osteoid osteoma, for which she underwent an operation with an osteosynthesis.</text>
+            </sentence>
+            <sentence>
+                <offset>272</offset>
+                <text>The complaints disappeared and the osteosynthesis material could be removed.</text>
+            </sentence>
+            <sentence>
+                <offset>352</offset>
+                <text>In March 2000 she was seen again, this time with a painful and swollen right leg.</text>
+            </sentence>
+            <sentence>
+                <offset>434</offset>
+                <text>The patient had periods of feeling feverish, without objective measurement of her body temperature.</text>
+            </sentence>
+            <sentence>
+                <offset>534</offset>
+                <text>She had no complaints of night sweating.</text>
+            </sentence>
+            <sentence>
+                <offset>575</offset>
+                <text>There was no history of trauma.</text>
+            </sentence>
+            <sentence>
+                <offset>607</offset>
+                <text>On physical examination she had a body-mass index (BMI) of 27.0 kg/m2 (normal range 18.0–24.0 kg/m2).</text>
+            </sentence>
+            <sentence>
+                <offset>709</offset>
+                <text>Except for the swollen, red right leg, no other abnormalities could be observed.</text>
+            </sentence>
+            <sentence>
+                <offset>790</offset>
+                <text>Laboratory tests showed a slightly elevated erythrocyte sedimentation rate and C-reactive protein.</text>
+            </sentence>
+            <sentence>
+                <offset>889</offset>
+                <text>Kidney function, liver enzymes, alkaline phosphatase, hemoglobin, and thyroid function were all normal.</text>
+            </sentence>
+            <sentence>
+                <offset>993</offset>
+                <text>No elevated bone turnover could be detected by urine analysis (normal hydroxyproline).</text>
+            </sentence>
+            <sentence>
+                <offset>1080</offset>
+                <text>Serology for Brucella spp., Coxiella burnetii and hepatitis-C was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1154</offset>
+                <text>Total-body technetium bone scintigraphy, however, showed increased uptake in the right tibia and also some uptake in the left tibia (Fig. 1a).</text>
+            </sentence>
+            <sentence>
+                <offset>1298</offset>
+                <text>The patient underwent a bone biopsy for microbiological culture as well as for histological examination.</text>
+            </sentence>
+            <sentence>
+                <offset>1403</offset>
+                <text>The microbiological culture of the bone biopsy did not yield any growth of bacteria.</text>
+            </sentence>
+            <sentence>
+                <offset>1488</offset>
+                <text>The Committee for Bone Tumors proposed the diagnosis chronic osteomyelitis, after histological examination of the bone biopsy.</text>
+            </sentence>
+            <sentence>
+                <offset>1615</offset>
+                <text>This was based on the following findings in the biopsy: reactive changes with elevated bone turnover and new bone formation in the periosteum, focally some lymphocytes and plasma cells and fields of marrow fibrosis.</text>
+            </sentence>
+            <sentence>
+                <offset>1831</offset>
+                <text>The Committee for Bone Tumors suggested that the osteomyelitis could have been caused by bone infarction, as can be seen, for example, in sickle-cell anemia (not present in our patient).</text>
+            </sentence>
+            <sentence>
+                <offset>2018</offset>
+                <text>Since the proposed diagnosis of (chronic) osteomyelitis was not completely consistent with the patient’s complaints, she was referred to our institute for re-assessment.</text>
+            </sentence>
+            <sentence>
+                <offset>2188</offset>
+                <text>At examination she showed no dysmorphic features and her gait was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>2262</offset>
+                <text>X-ray examination showed cortical hyperostosis of the right tibia (Fig. 1b).</text>
+            </sentence>
+            <sentence>
+                <offset>2339</offset>
+                <text>On the basis of this finding, we considered melorheostosis and van Buchem’s disease as possible diagnoses.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

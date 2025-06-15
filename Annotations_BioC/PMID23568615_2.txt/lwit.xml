@@ -1,0 +1,228 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 also exhibited maxillar and severe mandibular hypoplasia and cleft palate, as well as a dislocation of the temporomandibular joint (Fig. 1b).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="25"/>
+                    <text>maxillar</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000347</infon>
+                    <location length="21" offset="45"/>
+                    <text>mandibular hypoplasia</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="56"/>
+                    <text>hypoplasia</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <location length="12" offset="71"/>
+                    <text>cleft palate</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="42" offset="98"/>
+                    <text>dislocation of the temporomandibular joint</text>
+                </annotation>
+                <relation id="4">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000327</infon>
+                    <node refid="1" role="source"/>
+                    <node refid="3" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>152</offset>
+                <text>Because of airway problems, a tracheostoma was required.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002094</infon>
+                    <location length="15" offset="11"/>
+                    <text>airway problems</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>209</offset>
+                <text>She had bilateral microtia and dysplasia of the ears with atretic auditory canals.</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008551</infon>
+                    <location length="8" offset="18"/>
+                    <text>microtia</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031703</infon>
+                    <location length="21" offset="31"/>
+                    <text>dysplasia of the ears</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000413</infon>
+                    <location length="23" offset="58"/>
+                    <text>atretic auditory canals</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>292</offset>
+                <text>On both sides, there was a synostosis of metacarpals IV and V.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005867</infon>
+                    <location length="34" offset="27"/>
+                    <text>synostosis of metacarpals IV and V</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>355</offset>
+                <text>Both hands had four rays, the morphology most likely corresponding to an aplasia of metacarpal I of the hands, and bilateral aplasia of the thumbs.</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="5"/>
+                    <text>hands</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="15"/>
+                    <text>four rays</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010026</infon>
+                    <location length="23" offset="73"/>
+                    <text>aplasia of metacarpal I</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009601</infon>
+                    <location length="21" offset="125"/>
+                    <text>aplasia of the thumbs</text>
+                </annotation>
+                <relation id="14">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009777</infon>
+                    <node refid="12" role="source"/>
+                    <node refid="13" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>503</offset>
+                <text>There was bilateral radial aplasia and ulnar hypoplasia (Fig. 2c, d).</text>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003974</infon>
+                    <location length="14" offset="20"/>
+                    <text>radial aplasia</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003022</infon>
+                    <location length="16" offset="39"/>
+                    <text>ulnar hypoplasia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>573</offset>
+                <text>The first finger was rudimentary duplicated on both sides (containing middle and distal phalangeal bones on the right hand, additional rudimentary proximal phalanx on the left-hand side).</text>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="4"/>
+                    <text>first finger</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="4"/>
+                    <text>first finger</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="22" offset="21"/>
+                    <text>rudimentary duplicated</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="34" offset="70"/>
+                    <text>middle and distal phalangeal bones</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="28" offset="135"/>
+                    <text>rudimentary proximal phalanx</text>
+                </annotation>
+                <relation id="23">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009612</infon>
+                    <node refid="20" role="source"/>
+                    <node refid="22" role="target"/>
+                </relation>
+                <relation id="24">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="21" role="source"/>
+                    <node refid="22" role="target"/>
+                </relation>
+                <relation id="26">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009613</infon>
+                    <node refid="19" role="source"/>
+                    <node refid="25" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>761</offset>
+                <text>The feet showed sandal gaps and small fourth toes, with an underriding fourth toe on the left (Fig. 3a).</text>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001852</infon>
+                    <location length="11" offset="16"/>
+                    <text>sandal gaps</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008093</infon>
+                    <location length="17" offset="32"/>
+                    <text>small fourth toes</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001845</infon>
+                    <location length="22" offset="59"/>
+                    <text>underriding fourth toe</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>866</offset>
+                <text>Her psychomotor development was slightly delayed</text>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="23" offset="4"/>
+                    <text>psychomotor development</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="41"/>
+                    <text>delayed</text>
+                </annotation>
+                <relation id="32">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001263</infon>
+                    <node refid="30" role="source"/>
+                    <node refid="31" role="target"/>
+                </relation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

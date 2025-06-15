@@ -1,0 +1,79 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>PMID25817016_BAB4878&#13;
+BAB4073 is a girl born by caesarian section after an uneventful pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>97</offset>
+                <text>She is the second child of a non-consanguineous healthy couple.</text>
+            </sentence>
+            <sentence>
+                <offset>161</offset>
+                <text>Prenatal&#13;
+ultrasounds revealed short bones.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003026</infon>
+                    <location length="11" offset="31"/>
+                    <text>short bones</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>205</offset>
+                <text>In 2004, at age 1 year and 4 months, her weight was 20 kg&#13;
+(5%); length 74 cm (10%) and head circumference (OFC) 55 cm (+4 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>333</offset>
+                <text>Her development was&#13;
+reported normal: walked at 14 months; first words at 14 months.</text>
+            </sentence>
+            <sentence>
+                <offset>418</offset>
+                <text>She had a heart surgery for&#13;
+interatrial communication correction, recurrent pneumonias in infancy and dental misalignment.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001631</infon>
+                    <location length="25" offset="29"/>
+                    <text>interatrial communication</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002090</infon>
+                    <location length="10" offset="77"/>
+                    <text>pneumonias</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000692</infon>
+                    <location length="19" offset="103"/>
+                    <text>dental misalignment</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>543</offset>
+                <text>She is a smart girl, doing very well at school and has good social skills for her age.</text>
+            </sentence>
+            <sentence>
+                <offset>630</offset>
+                <text>Molecular&#13;
+data: she was initially screened for mutations in WNT5a and none mutations were found.</text>
+            </sentence>
+            <sentence>
+                <offset>728</offset>
+                <text>No&#13;
+other genetic tests were done before our analysis.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

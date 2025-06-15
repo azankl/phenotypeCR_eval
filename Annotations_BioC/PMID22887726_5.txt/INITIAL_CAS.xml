@@ -1,0 +1,24 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Prenatal features were polyhydramnios, nuchal edema and short extremities.</text>
+            </sentence>
+            <sentence>
+                <offset>75</offset>
+                <text>At birth, he presented with short stature (−4 SD), cleft palate with glossoptosis and micro-retrognathia, narrow thorax, pectus carinatum, bilateral clinodactyly of fingers, and fifth toes, knee hyperlaxity without dislocation, secundum atrial septal defect and patent ductus arteriosus, broad nasal root and low-set ears.</text>
+            </sentence>
+            <sentence>
+                <offset>398</offset>
+                <text>Radiological features included metacarpo-phalangeal and metatarso-phalangeal extra bones, bilateral hypoplasia of the proximal phalanx of the index fingers, abnormally shaped phalanges and carpal synostosis between the capitate and hamate bones without advanced bone age.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

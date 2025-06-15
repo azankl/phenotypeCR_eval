@@ -1,0 +1,340 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The proband (P1) is a 12-year-old girl born to non-consanguineous Italian couple, which was addressed to our Center in the suspicion of an overgrowth syndrome.</text>
+            </sentence>
+            <sentence>
+                <offset>163</offset>
+                <text>Pregnancy was uneventful, except for dysplastic multicystic right kidney and femur length at the upper limits at morphology scan.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="22" offset="37"/>
+                    <text>dysplastic multicystic</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="66"/>
+                    <text>kidney</text>
+                </annotation>
+                <relation id="2">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000003</infon>
+                    <node refid="3" role="source"/>
+                    <node refid="1" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>293</offset>
+                <text>She was born at 40 weeks of gestation; birth weight was 3.250 kg (50–75th centile) and length 52 cm (50th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>409</offset>
+                <text>Length became &gt;97th centile since the first months of life, and the right dysplastic kidney atrophied over time.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000110</infon>
+                    <location length="17" offset="74"/>
+                    <text>dysplastic kidney</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>525</offset>
+                <text>Thyroid and pelvic US scan were normal, whereas carpal x-ray revealed a bone age 4 years older than chronological age.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="72"/>
+                    <text>bone age</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="89"/>
+                    <text>older</text>
+                </annotation>
+                <relation id="7">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005616</infon>
+                    <node refid="5" role="source"/>
+                    <node refid="6" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>644</offset>
+                <text>In addition, spine x-ray revealed left-convex lumbar rotoscoliosis with moderate right-convex compensatory curvature.</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004626</infon>
+                    <location length="32" offset="34"/>
+                    <text>left-convex lumbar rotoscoliosis</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100884</infon>
+                    <location length="22" offset="94"/>
+                    <text>compensatory curvature</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>762</offset>
+                <text>She also had valgus knees and flat feet.</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002857</infon>
+                    <location length="12" offset="13"/>
+                    <text>valgus knees</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001763</infon>
+                    <location length="9" offset="30"/>
+                    <text>flat feet</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>803</offset>
+                <text>At the age of 10 years, bilateral pantonal sensorineural hearing loss was diagnosed.</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000407</infon>
+                    <location length="26" offset="43"/>
+                    <text>sensorineural hearing loss</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>888</offset>
+                <text>Dental examination revealed peg-shaped incisors.</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011065</infon>
+                    <location length="19" offset="28"/>
+                    <text>peg-shaped incisors</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>940</offset>
+                <text>At 12 years of age, she weighed 74.8 kg (+2.04 SD), height was 185.5 cm (+4.35 SD), and she had relative microcephaly, since occipitofrontal circumference (OFC) was 52.2 cm (−0.95 SD); body mass index (BMI) was 21.7 (+0.44 SD), arm-span was 182 cm with normal arm span/height ratio (0.98).</text>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000252</infon>
+                    <location length="12" offset="105"/>
+                    <text>microcephaly</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1230</offset>
+                <text>Her intellectual and social development was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1282</offset>
+                <text>Mild dysmorphic features include high frontal hairline, slight asymmetric face, deeply set eyes, slight prognathism, small ears, bifid uvula and peg-shaped incisors.</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009890</infon>
+                    <location length="21" offset="33"/>
+                    <text>high frontal hairline</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000324</infon>
+                    <location length="15" offset="63"/>
+                    <text>asymmetric face</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000490</infon>
+                    <location length="15" offset="80"/>
+                    <text>deeply set eyes</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000303</infon>
+                    <location length="11" offset="104"/>
+                    <text>prognathism</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008551</infon>
+                    <location length="10" offset="117"/>
+                    <text>small ears</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000193</infon>
+                    <location length="11" offset="129"/>
+                    <text>bifid uvula</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011065</infon>
+                    <location length="19" offset="145"/>
+                    <text>peg-shaped incisors</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1448</offset>
+                <text>She had long and thin fingers, prominent phalanx epiphyses, camptodactyly of fingers and toes, first and second fingers clinodactyly on the left hand and of second and third fingers on the right hand.</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="8"/>
+                    <text>long</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001238</infon>
+                    <location length="12" offset="17"/>
+                    <text>thin fingers</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="22"/>
+                    <text>fingers</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010231</infon>
+                    <location length="27" offset="31"/>
+                    <text>prominent phalanx epiphyses</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100490</infon>
+                    <location length="24" offset="60"/>
+                    <text>camptodactyly of fingers</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="60"/>
+                    <text>camptodactyly</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="89"/>
+                    <text>toes</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="95"/>
+                    <text>first</text>
+                </annotation>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0040022</infon>
+                    <location length="27" offset="105"/>
+                    <text>second fingers clinodactyly</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="20" offset="112"/>
+                    <text>fingers clinodactyly</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="120"/>
+                    <text>clinodactyly</text>
+                </annotation>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="120"/>
+                    <text>clinodactyly</text>
+                </annotation>
+                <annotation id="41">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="157"/>
+                    <text>second</text>
+                </annotation>
+                <annotation id="38">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="168"/>
+                    <text>third fingers</text>
+                </annotation>
+                <annotation id="40">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="174"/>
+                    <text>fingers</text>
+                </annotation>
+                <relation id="23">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100807</infon>
+                    <node refid="24" role="source"/>
+                    <node refid="22" role="target"/>
+                </relation>
+                <relation id="29">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001836</infon>
+                    <node refid="30" role="source"/>
+                    <node refid="28" role="target"/>
+                </relation>
+                <relation id="32">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0040023</infon>
+                    <node refid="33" role="source"/>
+                    <node refid="31" role="target"/>
+                </relation>
+                <relation id="37">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0040024</infon>
+                    <node refid="38" role="source"/>
+                    <node refid="35" role="target"/>
+                </relation>
+                <relation id="39">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0040022</infon>
+                    <node refid="40" role="source"/>
+                    <node refid="36" role="target"/>
+                </relation>
+                <relation id="42">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="40" role="source"/>
+                    <node refid="41" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1649</offset>
+                <text>She also had clinodactyly and proximal placement of the fifth toes bilaterally (Figure 1).</text>
+                <annotation id="43">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="13"/>
+                    <text>clinodactyly</text>
+                </annotation>
+                <annotation id="46">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001845</infon>
+                    <location length="36" offset="30"/>
+                    <text>proximal placement of the fifth toes</text>
+                </annotation>
+                <annotation id="45">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="56"/>
+                    <text>fifth toes</text>
+                </annotation>
+                <relation id="44">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001864</infon>
+                    <node refid="45" role="source"/>
+                    <node refid="43" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1740</offset>
+                <text>She showed mild joint hyperextensibility with Beighton score of 5/9 (Positive Beighton score ≥5).</text>
+                <annotation id="47">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001382</infon>
+                    <location length="24" offset="16"/>
+                    <text>joint hyperextensibility</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1838</offset>
+                <text>Skin examination revealed no striae distensae, bruising, atrophic scars or pigmentation disorders.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

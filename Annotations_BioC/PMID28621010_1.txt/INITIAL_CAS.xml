@@ -1,0 +1,60 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A Japanese female infant was born at 37 weeks gestational age with a body weight of 3192 g without any perinatal problems in a non-consanguineous family.</text>
+            </sentence>
+            <sentence>
+                <offset>154</offset>
+                <text>She had no family history of kidney disease.</text>
+            </sentence>
+            <sentence>
+                <offset>199</offset>
+                <text>During the neonatal period, she displayed poor feeding and growth failure.</text>
+            </sentence>
+            <sentence>
+                <offset>274</offset>
+                <text>At 23 days old, she had elevated serum creatinine (1.72 mg/dL), hyperkalaemia, and severe metabolic acidosis.</text>
+            </sentence>
+            <sentence>
+                <offset>384</offset>
+                <text>Her renal ultrasound showed normal sized kidneys with hyperechogenicity and poor corticomedullary differentiation.</text>
+            </sentence>
+            <sentence>
+                <offset>499</offset>
+                <text>Several small cysts were detected in both kidneys (Fig. 1A, B).</text>
+            </sentence>
+            <sentence>
+                <offset>563</offset>
+                <text>She displayed severe hypertension, polyuria, and salt-wasting.</text>
+            </sentence>
+            <sentence>
+                <offset>626</offset>
+                <text>At 3 months old, she progressed to ESRD and peritoneal dialysis was initiated.</text>
+            </sentence>
+            <sentence>
+                <offset>705</offset>
+                <text>Open renal biopsy was performed and histopathology showed glomerular cysts and dilatation of the tubules.</text>
+            </sentence>
+            <sentence>
+                <offset>811</offset>
+                <text>In addition, there was tubulointerstitial fibrosis with inflammatory cells and partially attenuated tubular basement membrane of undilated tubules (Fig. 1C, D).</text>
+            </sentence>
+            <sentence>
+                <offset>972</offset>
+                <text>Histopathological findings were compatible with infantile NPHP.8 Additionally, she had extrarenal manifestations including skeletal disorders (dolichocephaly, narrow thorax, and brachydactyly) (Fig. 1E, F, G), Caroli disease as diagnosed by the ultrasound findings of multifocal dilatation of the intrahepatic bile ducts with central dot signs (Fig. 1H), retinal dystrophy, subdural hygroma, and psychomotor retardation.</text>
+            </sentence>
+            <sentence>
+                <offset>1393</offset>
+                <text>Based on these manifestations, Sensenbrenner syndrome was diagnosed.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

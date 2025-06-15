@@ -1,0 +1,128 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>azankl</key>
+    <document>
+        <id>azankl</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 1 was referred at the age of 9.5 years with the tentative diagnosis of hypochondroplasia.</text>
+            </sentence>
+            <sentence>
+                <offset>99</offset>
+                <text>She was born at 34 weeks’ gestation with a birth weight of 2470 g (50th centile) and length of 47 cm (50th-90th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>221</offset>
+                <text>The pregnancy was uncomplicated and the delivery uneventful.</text>
+            </sentence>
+            <sentence>
+                <offset>282</offset>
+                <text>Around the age of 7 years, short stature was noted.</text>
+            </sentence>
+            <sentence>
+                <offset>334</offset>
+                <text>She had normal psychomotor development but experienced emotional problems related to her short stature.</text>
+            </sentence>
+            <sentence>
+                <offset>438</offset>
+                <text>The parents are healthy but consanguineous (fig 1A).</text>
+            </sentence>
+            <sentence>
+                <offset>491</offset>
+                <text>The father measures 166 cm and the mother 163 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>541</offset>
+                <text>A younger sister is also healthy and has a normal height.</text>
+            </sentence>
+            <sentence>
+                <offset>599</offset>
+                <text>Physical examination at the age of 9 years 6 months showed short stature with height 1.15 m (−3.5 SD, height age 5 years 10 months), span 107 cm, upper segment/lower segment 1.25 (+2.4 SD), weight 25.4 kg (10th-25th centile), and head circumference 51 cm (10th-25th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>875</offset>
+                <text>Dysmorphic craniofacial features were absent (fig 2A).</text>
+            </sentence>
+            <sentence>
+                <offset>930</offset>
+                <text>The thorax was slightly narrow and a lumbar hyperlordosis was noted.</text>
+            </sentence>
+            <sentence>
+                <offset>999</offset>
+                <text>The hands and fingers (especially the thumbs) were short with small and broad nails.</text>
+            </sentence>
+            <sentence>
+                <offset>1084</offset>
+                <text>Normal mobility at the joints was noted.</text>
+            </sentence>
+            <sentence>
+                <offset>1125</offset>
+                <text>The gait was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1146</offset>
+                <text>A radiographic survey at the age of 9.5 years showed abnormalities mainly in the hands and hips.</text>
+            </sentence>
+            <sentence>
+                <offset>1243</offset>
+                <text>Strikingly, there were very short middle and distal phalanges with some traces of previous cone shaped epiphyses (fig 3C).</text>
+            </sentence>
+            <sentence>
+                <offset>1366</offset>
+                <text>Except for distal phalanges II and V, closure of the growth plates was nearly complete in all distal and middle phalanges.</text>
+            </sentence>
+            <sentence>
+                <offset>1489</offset>
+                <text>The proximal phalanges and metacarpals of digits II to V were only slightly shortened.</text>
+            </sentence>
+            <sentence>
+                <offset>1576</offset>
+                <text>The proximal phalanx and metacarpal of both thumbs were moderately shortened with cone shaped epiphyses.</text>
+            </sentence>
+            <sentence>
+                <offset>1681</offset>
+                <text>In contrast to the advanced maturation of the short tubular bones, the carpal bone age was 6 years 10 months.</text>
+            </sentence>
+            <sentence>
+                <offset>1791</offset>
+                <text>The pelvis was remarkable by the bilateral presence of a dysplastic (egg shaped) femoral head and very short (almost non-existent) femoral neck with complete epimetaphyseal fusion (fig 4C).</text>
+            </sentence>
+            <sentence>
+                <offset>1981</offset>
+                <text>At the medial side of the femoral neck a distinct bony collar was visible.</text>
+            </sentence>
+            <sentence>
+                <offset>2056</offset>
+                <text>Shortening of the long tubular bones in the upper and lower limbs was quite mild.</text>
+            </sentence>
+            <sentence>
+                <offset>2138</offset>
+                <text>The head of the humerus and the capitulum radii were slightly enlarged.</text>
+            </sentence>
+            <sentence>
+                <offset>2210</offset>
+                <text>Mild enlargement of the distal femoral epiphyses and reduced width of the proximal tibial epiphyses with irregularities in the adjacent medial portion of the metaphyses were observed in the knees.</text>
+            </sentence>
+            <sentence>
+                <offset>2407</offset>
+                <text>Mild fibular overgrowth was noted proximally.</text>
+            </sentence>
+            <sentence>
+                <offset>2453</offset>
+                <text>Partial closure of the distal tibial growth plate was present.</text>
+            </sentence>
+            <sentence>
+                <offset>2516</offset>
+                <text>The thorax was normal with mild metaphyseal cupping of the ribs.</text>
+            </sentence>
+            <sentence>
+                <offset>2581</offset>
+                <text>The vertebral bodies were slightly ovoid with anterior notching.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

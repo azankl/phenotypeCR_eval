@@ -1,0 +1,60 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 1 was born to unrelated healthy parents at term and sustained multiple fractures in the first few months of life.</text>
+            </sentence>
+            <sentence>
+                <offset>125</offset>
+                <text>Progressive proptosis and frontal bossing developed in the following months.</text>
+            </sentence>
+            <sentence>
+                <offset>202</offset>
+                <text>Craniosynostosis of the coronal and frontal sutures was diagnosed and frontal craniectomy was performed.</text>
+            </sentence>
+            <sentence>
+                <offset>307</offset>
+                <text>Communicating hydrocephalus was noted at 12 months of age requiring a ventriculo-peritoneal shunt.</text>
+            </sentence>
+            <sentence>
+                <offset>406</offset>
+                <text>Teeth were small and had hypoplastic enamel.</text>
+            </sentence>
+            <sentence>
+                <offset>451</offset>
+                <text>When individual 1 was 3 years old, craniofacial surgery was performed in an attempt to reduce facial deformities.</text>
+            </sentence>
+            <sentence>
+                <offset>565</offset>
+                <text>At 4 years of age, he had normal cognitive development and, following intramedullary rodding surgery of the left femur, was able to stand.</text>
+            </sentence>
+            <sentence>
+                <offset>704</offset>
+                <text>We first evaluated individual 1 when he was 18 years old.</text>
+            </sentence>
+            <sentence>
+                <offset>762</offset>
+                <text>He was using a wheelchair for all mobility and had severe scoliosis and marked deformity of the upper and lower extremities.</text>
+            </sentence>
+            <sentence>
+                <offset>887</offset>
+                <text>Height was 120 cm (Z score: −8.4) and lumbar spine areal bone mineral density was low (Z score: −3.9).</text>
+            </sentence>
+            <sentence>
+                <offset>990</offset>
+                <text>Serum levels of calcium, inorganic phosphorus, creatinine, alkaline phosphatase, and parathyroid hormone were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1108</offset>
+                <text>He received four cycles of intravenous pamidronate infusions over a 12-month period, with no obvious change in clinical status, even though lumbar spine areal bone mineral density Z score increased to −2.4.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

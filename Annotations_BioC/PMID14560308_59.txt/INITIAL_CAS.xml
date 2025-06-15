@@ -1,0 +1,32 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 59, the youngest brother, was born at 42 weeks by C-section.</text>
+            </sentence>
+            <sentence>
+                <offset>70</offset>
+                <text>His birth weight was 3.42 kg.</text>
+            </sentence>
+            <sentence>
+                <offset>100</offset>
+                <text>He had, like his brother, mildly delayed developmental milestones (neck holding at 3 months, sitting without support at 6 months, walking at 18 months, first words at 18 months).</text>
+            </sentence>
+            <sentence>
+                <offset>279</offset>
+                <text>His facial features were very similar to his brother's, with long face, telecanthus (inner canthal distance 3.7 cm; &gt;97th percentile – outer canthal distance 8.5 cm; 80th percentile), short nose with anteverted nostrils, long philtrum, micrognatia and posteriorly angulated low-set ears.</text>
+            </sentence>
+            <sentence>
+                <offset>567</offset>
+                <text>He had short stature (105 cm; &lt;3th percentile), pectus excavatum, hyperextensible joints, brachydactyly with cutaneous I–V syndactyly, single palmar creases, hypospadias and right cryptorchidism.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

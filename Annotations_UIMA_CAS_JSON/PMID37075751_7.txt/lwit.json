@@ -1,0 +1,722 @@
+{
+  "%TYPES" : {
+    "de.tudarmstadt.ukp.clarin.webanno.api.type.FeatureDefinition" : {
+      "%NAME" : "de.tudarmstadt.ukp.clarin.webanno.api.type.FeatureDefinition",
+      "%SUPER_TYPE" : "uima.cas.TOP",
+      "layer" : {
+        "%NAME" : "layer",
+        "%RANGE" : "de.tudarmstadt.ukp.clarin.webanno.api.type.LayerDefinition"
+      },
+      "name" : {
+        "%NAME" : "name",
+        "%RANGE" : "uima.cas.String"
+      },
+      "uiName" : {
+        "%NAME" : "uiName",
+        "%RANGE" : "uima.cas.String"
+      }
+    },
+    "de.tudarmstadt.ukp.clarin.webanno.api.type.LayerDefinition" : {
+      "%NAME" : "de.tudarmstadt.ukp.clarin.webanno.api.type.LayerDefinition",
+      "%SUPER_TYPE" : "uima.cas.TOP",
+      "name" : {
+        "%NAME" : "name",
+        "%RANGE" : "uima.cas.String"
+      },
+      "uiName" : {
+        "%NAME" : "uiName",
+        "%RANGE" : "uima.cas.String"
+      }
+    },
+    "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.morph.MorphologicalFeatures" : {
+      "%NAME" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.morph.MorphologicalFeatures",
+      "%SUPER_TYPE" : "uima.tcas.Annotation",
+      "gender" : {
+        "%NAME" : "gender",
+        "%RANGE" : "uima.cas.String"
+      },
+      "number" : {
+        "%NAME" : "number",
+        "%RANGE" : "uima.cas.String"
+      },
+      "case" : {
+        "%NAME" : "case",
+        "%RANGE" : "uima.cas.String"
+      },
+      "degree" : {
+        "%NAME" : "degree",
+        "%RANGE" : "uima.cas.String"
+      },
+      "verbForm" : {
+        "%NAME" : "verbForm",
+        "%RANGE" : "uima.cas.String"
+      },
+      "tense" : {
+        "%NAME" : "tense",
+        "%RANGE" : "uima.cas.String"
+      },
+      "mood" : {
+        "%NAME" : "mood",
+        "%RANGE" : "uima.cas.String"
+      },
+      "voice" : {
+        "%NAME" : "voice",
+        "%RANGE" : "uima.cas.String"
+      },
+      "definiteness" : {
+        "%NAME" : "definiteness",
+        "%RANGE" : "uima.cas.String"
+      },
+      "value" : {
+        "%NAME" : "value",
+        "%RANGE" : "uima.cas.String"
+      },
+      "person" : {
+        "%NAME" : "person",
+        "%RANGE" : "uima.cas.String"
+      },
+      "aspect" : {
+        "%NAME" : "aspect",
+        "%RANGE" : "uima.cas.String"
+      },
+      "animacy" : {
+        "%NAME" : "animacy",
+        "%RANGE" : "uima.cas.String"
+      },
+      "negative" : {
+        "%NAME" : "negative",
+        "%RANGE" : "uima.cas.String"
+      },
+      "numType" : {
+        "%NAME" : "numType",
+        "%RANGE" : "uima.cas.String"
+      },
+      "possessive" : {
+        "%NAME" : "possessive",
+        "%RANGE" : "uima.cas.String"
+      },
+      "pronType" : {
+        "%NAME" : "pronType",
+        "%RANGE" : "uima.cas.String"
+      },
+      "reflex" : {
+        "%NAME" : "reflex",
+        "%RANGE" : "uima.cas.String"
+      },
+      "transitivity" : {
+        "%NAME" : "transitivity",
+        "%RANGE" : "uima.cas.String"
+      }
+    },
+    "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS" : {
+      "%NAME" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS",
+      "%SUPER_TYPE" : "uima.tcas.Annotation",
+      "PosValue" : {
+        "%NAME" : "PosValue",
+        "%RANGE" : "uima.cas.String"
+      },
+      "coarseValue" : {
+        "%NAME" : "coarseValue",
+        "%RANGE" : "uima.cas.String"
+      }
+    },
+    "de.tudarmstadt.ukp.dkpro.core.api.metadata.type.DocumentMetaData" : {
+      "%NAME" : "de.tudarmstadt.ukp.dkpro.core.api.metadata.type.DocumentMetaData",
+      "%SUPER_TYPE" : "uima.tcas.DocumentAnnotation",
+      "documentTitle" : {
+        "%NAME" : "documentTitle",
+        "%RANGE" : "uima.cas.String"
+      },
+      "documentId" : {
+        "%NAME" : "documentId",
+        "%RANGE" : "uima.cas.String"
+      },
+      "documentUri" : {
+        "%NAME" : "documentUri",
+        "%RANGE" : "uima.cas.String"
+      },
+      "collectionId" : {
+        "%NAME" : "collectionId",
+        "%RANGE" : "uima.cas.String"
+      },
+      "documentBaseUri" : {
+        "%NAME" : "documentBaseUri",
+        "%RANGE" : "uima.cas.String"
+      },
+      "isLastSegment" : {
+        "%NAME" : "isLastSegment",
+        "%RANGE" : "uima.cas.Boolean"
+      }
+    },
+    "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma" : {
+      "%NAME" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma",
+      "%SUPER_TYPE" : "uima.tcas.Annotation",
+      "value" : {
+        "%NAME" : "value",
+        "%RANGE" : "uima.cas.String"
+      }
+    },
+    "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence" : {
+      "%NAME" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence",
+      "%SUPER_TYPE" : "uima.tcas.Annotation",
+      "id" : {
+        "%NAME" : "id",
+        "%RANGE" : "uima.cas.String"
+      }
+    },
+    "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Stem" : {
+      "%NAME" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Stem",
+      "%SUPER_TYPE" : "uima.tcas.Annotation",
+      "value" : {
+        "%NAME" : "value",
+        "%RANGE" : "uima.cas.String"
+      }
+    },
+    "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token" : {
+      "%NAME" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+      "%SUPER_TYPE" : "uima.tcas.Annotation",
+      "parent" : {
+        "%NAME" : "parent",
+        "%RANGE" : "uima.tcas.Annotation"
+      },
+      "lemma" : {
+        "%NAME" : "lemma",
+        "%RANGE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma"
+      },
+      "stem" : {
+        "%NAME" : "stem",
+        "%RANGE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Stem"
+      },
+      "pos" : {
+        "%NAME" : "pos",
+        "%RANGE" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS"
+      },
+      "morph" : {
+        "%NAME" : "morph",
+        "%RANGE" : "de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.morph.MorphologicalFeatures"
+      },
+      "id" : {
+        "%NAME" : "id",
+        "%RANGE" : "uima.cas.String"
+      },
+      "form" : {
+        "%NAME" : "form",
+        "%RANGE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.TokenForm"
+      },
+      "syntacticFunction" : {
+        "%NAME" : "syntacticFunction",
+        "%RANGE" : "uima.cas.String"
+      },
+      "order" : {
+        "%NAME" : "order",
+        "%RANGE" : "uima.cas.Integer"
+      }
+    },
+    "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.TokenForm" : {
+      "%NAME" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.TokenForm",
+      "%SUPER_TYPE" : "uima.tcas.Annotation",
+      "value" : {
+        "%NAME" : "value",
+        "%RANGE" : "uima.cas.String"
+      }
+    },
+    "webanno.custom.Phenotypes" : {
+      "%NAME" : "webanno.custom.Phenotypes",
+      "%SUPER_TYPE" : "uima.tcas.Annotation",
+      "HPOterm" : {
+        "%NAME" : "HPOterm",
+        "%RANGE" : "uima.cas.String"
+      },
+      "Comment" : {
+        "%NAME" : "Comment",
+        "%RANGE" : "uima.cas.String"
+      }
+    }
+  },
+  "%FEATURE_STRUCTURES" : [ {
+    "%ID" : 1,
+    "%TYPE" : "de.tudarmstadt.ukp.clarin.webanno.api.type.FeatureDefinition",
+    "@layer" : 2,
+    "name" : "HPOterm",
+    "uiName" : "HPO-term"
+  }, {
+    "%ID" : 3,
+    "%TYPE" : "de.tudarmstadt.ukp.clarin.webanno.api.type.FeatureDefinition",
+    "@layer" : 4,
+    "name" : "Comment",
+    "uiName" : "Comment"
+  }, {
+    "%ID" : 5,
+    "%TYPE" : "de.tudarmstadt.ukp.clarin.webanno.api.type.FeatureDefinition",
+    "@layer" : 4,
+    "name" : "HPOterm",
+    "uiName" : "HPO-term"
+  }, {
+    "%ID" : 2,
+    "%TYPE" : "de.tudarmstadt.ukp.clarin.webanno.api.type.LayerDefinition",
+    "name" : "webanno.custom.PhenotypeRelations",
+    "uiName" : "PhenotypeRelations"
+  }, {
+    "%ID" : 4,
+    "%TYPE" : "de.tudarmstadt.ukp.clarin.webanno.api.type.LayerDefinition",
+    "name" : "webanno.custom.Phenotypes",
+    "uiName" : "Phenotypes"
+  }, {
+    "%ID" : 6,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.metadata.type.DocumentMetaData",
+    "@sofa" : 7,
+    "begin" : 0,
+    "end" : 248,
+    "language" : "x-unspecified",
+    "documentTitle" : "PMID37075751_7.txt",
+    "documentId" : "lwit",
+    "documentUri" : "hpo-corpus-1/lwit",
+    "collectionId" : "hpo-corpus-1",
+    "documentBaseUri" : "hpo-corpus-1",
+    "isLastSegment" : false
+  }, {
+    "%ID" : 8,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence",
+    "@sofa" : 7,
+    "begin" : 0,
+    "end" : 43
+  }, {
+    "%ID" : 9,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence",
+    "@sofa" : 7,
+    "begin" : 44,
+    "end" : 150
+  }, {
+    "%ID" : 10,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence",
+    "@sofa" : 7,
+    "begin" : 151,
+    "end" : 248
+  }, {
+    "%ID" : 11,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 0,
+    "end" : 10,
+    "order" : 0
+  }, {
+    "%ID" : 12,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 11,
+    "end" : 12,
+    "order" : 0
+  }, {
+    "%ID" : 13,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 13,
+    "end" : 15,
+    "order" : 0
+  }, {
+    "%ID" : 14,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 16,
+    "end" : 19,
+    "order" : 0
+  }, {
+    "%ID" : 15,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 20,
+    "end" : 26,
+    "order" : 0
+  }, {
+    "%ID" : 16,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 27,
+    "end" : 29,
+    "order" : 0
+  }, {
+    "%ID" : 17,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 30,
+    "end" : 40,
+    "order" : 0
+  }, {
+    "%ID" : 18,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 41,
+    "end" : 42,
+    "order" : 0
+  }, {
+    "%ID" : 19,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 42,
+    "end" : 43,
+    "order" : 0
+  }, {
+    "%ID" : 20,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 44,
+    "end" : 47,
+    "order" : 0
+  }, {
+    "%ID" : 21,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 48,
+    "end" : 52,
+    "order" : 0
+  }, {
+    "%ID" : 22,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 53,
+    "end" : 56,
+    "order" : 0
+  }, {
+    "%ID" : 23,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 57,
+    "end" : 58,
+    "order" : 0
+  }, {
+    "%ID" : 24,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 59,
+    "end" : 64,
+    "order" : 0
+  }, {
+    "%ID" : 25,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 65,
+    "end" : 71,
+    "order" : 0
+  }, {
+    "%ID" : 26,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 72,
+    "end" : 75,
+    "order" : 0
+  }, {
+    "%ID" : 27,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 76,
+    "end" : 83,
+    "order" : 0
+  }, {
+    "%ID" : 28,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 84,
+    "end" : 90,
+    "order" : 0
+  }, {
+    "%ID" : 29,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 91,
+    "end" : 99,
+    "order" : 0
+  }, {
+    "%ID" : 30,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 100,
+    "end" : 102,
+    "order" : 0
+  }, {
+    "%ID" : 31,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 103,
+    "end" : 113,
+    "order" : 0
+  }, {
+    "%ID" : 32,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 114,
+    "end" : 115,
+    "order" : 0
+  }, {
+    "%ID" : 33,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 115,
+    "end" : 116,
+    "order" : 0
+  }, {
+    "%ID" : 34,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 117,
+    "end" : 119,
+    "order" : 0
+  }, {
+    "%ID" : 35,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 120,
+    "end" : 124,
+    "order" : 0
+  }, {
+    "%ID" : 36,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 125,
+    "end" : 127,
+    "order" : 0
+  }, {
+    "%ID" : 37,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 128,
+    "end" : 134,
+    "order" : 0
+  }, {
+    "%ID" : 38,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 135,
+    "end" : 149,
+    "order" : 0
+  }, {
+    "%ID" : 39,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 149,
+    "end" : 150,
+    "order" : 0
+  }, {
+    "%ID" : 40,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 151,
+    "end" : 153,
+    "order" : 0
+  }, {
+    "%ID" : 41,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 154,
+    "end" : 157,
+    "order" : 0
+  }, {
+    "%ID" : 42,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 158,
+    "end" : 160,
+    "order" : 0
+  }, {
+    "%ID" : 43,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 161,
+    "end" : 166,
+    "order" : 0
+  }, {
+    "%ID" : 44,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 166,
+    "end" : 167,
+    "order" : 0
+  }, {
+    "%ID" : 45,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 168,
+    "end" : 171,
+    "order" : 0
+  }, {
+    "%ID" : 46,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 172,
+    "end" : 176,
+    "order" : 0
+  }, {
+    "%ID" : 47,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 177,
+    "end" : 190,
+    "order" : 0
+  }, {
+    "%ID" : 48,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 191,
+    "end" : 193,
+    "order" : 0
+  }, {
+    "%ID" : 49,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 194,
+    "end" : 196,
+    "order" : 0
+  }, {
+    "%ID" : 50,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 197,
+    "end" : 199,
+    "order" : 0
+  }, {
+    "%ID" : 51,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 200,
+    "end" : 201,
+    "order" : 0
+  }, {
+    "%ID" : 52,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 201,
+    "end" : 202,
+    "order" : 0
+  }, {
+    "%ID" : 53,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 202,
+    "end" : 203,
+    "order" : 0
+  }, {
+    "%ID" : 54,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 204,
+    "end" : 206,
+    "order" : 0
+  }, {
+    "%ID" : 55,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 206,
+    "end" : 207,
+    "order" : 0
+  }, {
+    "%ID" : 56,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 207,
+    "end" : 208,
+    "order" : 0
+  }, {
+    "%ID" : 57,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 209,
+    "end" : 215,
+    "order" : 0
+  }, {
+    "%ID" : 58,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 216,
+    "end" : 218,
+    "order" : 0
+  }, {
+    "%ID" : 59,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 219,
+    "end" : 222,
+    "order" : 0
+  }, {
+    "%ID" : 60,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 223,
+    "end" : 225,
+    "order" : 0
+  }, {
+    "%ID" : 61,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 225,
+    "end" : 226,
+    "order" : 0
+  }, {
+    "%ID" : 62,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 227,
+    "end" : 230,
+    "order" : 0
+  }, {
+    "%ID" : 63,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 231,
+    "end" : 237,
+    "order" : 0
+  }, {
+    "%ID" : 64,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 238,
+    "end" : 240,
+    "order" : 0
+  }, {
+    "%ID" : 65,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 241,
+    "end" : 244,
+    "order" : 0
+  }, {
+    "%ID" : 66,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 245,
+    "end" : 247,
+    "order" : 0
+  }, {
+    "%ID" : 67,
+    "%TYPE" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "@sofa" : 7,
+    "begin" : 247,
+    "end" : 248,
+    "order" : 0
+  }, {
+    "%ID" : 7,
+    "%TYPE" : "uima.cas.Sofa",
+    "sofaNum" : 1,
+    "sofaID" : "_InitialView",
+    "mimeType" : "text",
+    "sofaString" : "Individual 7 is the mother of individual 6. She also has a cleft palate and similar facial features to Individual 6, as well as normal echocardiogram. At age 44 years, her head circumference is 57 cm (+2 SD), height is 160 cm, and weight is 110 kg."
+  }, {
+    "%ID" : 68,
+    "%TYPE" : "webanno.custom.Phenotypes",
+    "@sofa" : 7,
+    "begin" : 59,
+    "end" : 71,
+    "HPOterm" : "http://purl.obolibrary.org/obo/HP_0000175"
+  }, {
+    "%ID" : 69,
+    "%TYPE" : "webanno.custom.Phenotypes",
+    "@sofa" : 7,
+    "begin" : 84,
+    "end" : 99,
+    "HPOterm" : "http://purl.obolibrary.org/obo/HP_0001999"
+  } ],
+  "%VIEWS" : {
+    "_InitialView" : {
+      "%SOFA" : 7,
+      "%MEMBERS" : [ 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69 ]
+    }
+  }
+}

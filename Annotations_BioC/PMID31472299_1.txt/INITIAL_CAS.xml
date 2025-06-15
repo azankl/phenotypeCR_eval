@@ -1,0 +1,152 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This 21-year-old American woman of English, Irish, and German descent was referred at 10 years-of-age in 2007 to our Center for Metabolic Bone Disease and Molecular Research, Shriners Hospitals for Children-St.</text>
+            </sentence>
+            <sentence>
+                <offset>211</offset>
+                <text>Louis (SHC-STL) for fracturing with progressive skeletal deformities.</text>
+            </sentence>
+            <sentence>
+                <offset>281</offset>
+                <text>She was born prematurely at 28 weeks gestation, required mechanical ventilation initially and supplemental oxygen for ~ 2 months in the neonatal intensive care unit, and underwent closure of a patent ductus arteriosus.</text>
+            </sentence>
+            <sentence>
+                <offset>500</offset>
+                <text>At age 1 year, cleft soft palate was repaired.</text>
+            </sentence>
+            <sentence>
+                <offset>547</offset>
+                <text>A sphincteroplasty for velopharyngeal insufficiency improved her nasal speech.</text>
+            </sentence>
+            <sentence>
+                <offset>626</offset>
+                <text>Early gross motor skills were attained on time.</text>
+            </sentence>
+            <sentence>
+                <offset>674</offset>
+                <text>Fragility fractures began at ~ age 3 years with a broken left wrist from minimal trauma.</text>
+            </sentence>
+            <sentence>
+                <offset>763</offset>
+                <text>Skeletal dysplasia was then recognized together with failure to thrive.</text>
+            </sentence>
+            <sentence>
+                <offset>835</offset>
+                <text>She had dental findings suggestive of dentinogenesis imperfecta featuring small brown deciduous teeth with normal appearing permanent teeth, and congenital fusion of vertebrae C6–C7, C6-hemivertebra, and abnormally contoured ribs.</text>
+            </sentence>
+            <sentence>
+                <offset>1066</offset>
+                <text>By age 4 years, pain began in her leg and left shoulder and became generalized.</text>
+            </sentence>
+            <sentence>
+                <offset>1146</offset>
+                <text>At age 5 years, she limped and dragged her left leg with restricted hip rotation.</text>
+            </sentence>
+            <sentence>
+                <offset>1228</offset>
+                <text>At age 7 years, weakness was associated with normal serum aldolase and creatine kinase activity, rapidly worsening scoliosis, shortness of breath, and nocturnal dyspnea despite normal pulmonary function and sleep studies.</text>
+            </sentence>
+            <sentence>
+                <offset>1450</offset>
+                <text>Vertebrae C4–T1 were fused surgically.</text>
+            </sentence>
+            <sentence>
+                <offset>1489</offset>
+                <text>At age 9 years, electromyelography revealed slowed left-sided forearm nerve conduction velocity, and femoral osteotomy was used to treat leg length discrepancy from a femoral neck fracture.</text>
+            </sentence>
+            <sentence>
+                <offset>1679</offset>
+                <text>Bone scan showed multiple healing fractures, including vertebral compressions.</text>
+            </sentence>
+            <sentence>
+                <offset>1758</offset>
+                <text>Arthritis was perhaps explained her knee and neck/shoulder stiffness.</text>
+            </sentence>
+            <sentence>
+                <offset>1828</offset>
+                <text>Sedimentation rate was elevated at 32 mm/hr and a sterile knee aspirate showed inflammatory cells.</text>
+            </sentence>
+            <sentence>
+                <offset>1927</offset>
+                <text>However, rheumatologic serologies were normal (CRP, ANA, anti-dsDNA, anti-histone, complements, and Lyme titers).</text>
+            </sentence>
+            <sentence>
+                <offset>2041</offset>
+                <text>Naprosyn treatment seemed helpful and symptoms resolved.</text>
+            </sentence>
+            <sentence>
+                <offset>2098</offset>
+                <text>Gluten-sensitive enteropathy serology antibodies (IgA, and anti-tissue transglutaminase, anti-gliadin, anti-saccharomyces cerevisiae) and small bowel biopsy gave inconsistent results, and a gluten-free diet began at age 10 yrs.</text>
+            </sentence>
+            <sentence>
+                <offset>2326</offset>
+                <text>After referral, skeletal pain improved during alendronate therapy (35 mg po weekly for one year, then 45 mg weekly), but opioids were taken intermittently.</text>
+            </sentence>
+            <sentence>
+                <offset>2482</offset>
+                <text>During alendronate treatment, spinal fusion with rod placement was undertaken without complications, but two femoral fractures had occurred.</text>
+            </sentence>
+            <sentence>
+                <offset>2623</offset>
+                <text>Before alendronate therapy, DXA bone mineral density (BMD) Z-score was −3.6 at L1-L4 (without height correction(18) because of her scoliosis) and then improved to −1.8 after one year of treatment.</text>
+            </sentence>
+            <sentence>
+                <offset>2820</offset>
+                <text>Familial exudative vitreoretinopathy 4, allelic to osteoporosis pseudoglioma syndrome (OMIM # 259770),(2) was suggested by her retinopathy of prematurity and fractures, but follow-up ophthalmological studies were negative for that disorder.</text>
+            </sentence>
+            <sentence>
+                <offset>3061</offset>
+                <text>Restrictive and reactive lung disease (albuterol prn was begun) included intermittent night-time desaturations.</text>
+            </sentence>
+            <sentence>
+                <offset>3173</offset>
+                <text>At age 17 years, sleep apnea and fatigue improved with night-time continuous positive airway pressure.</text>
+            </sentence>
+            <sentence>
+                <offset>3276</offset>
+                <text>Significant hip weakness was explained by the associated deformities and minimal ambulation.</text>
+            </sentence>
+            <sentence>
+                <offset>3369</offset>
+                <text>She had basilar invagination of her skull, congenital bell-shaped thorax with downward sloping ribs, protrusio acetabuli, persistent osteopenia with recurrent vertebral and long bone fractures, and pain.</text>
+            </sentence>
+            <sentence>
+                <offset>3573</offset>
+                <text>At age 19 years, total hip Z-score was −2.7.</text>
+            </sentence>
+            <sentence>
+                <offset>3618</offset>
+                <text>At age 21 years, T-scores were −4.3 for total hip and −1.7 for femoral neck BMD.</text>
+            </sentence>
+            <sentence>
+                <offset>3699</offset>
+                <text>Sedimentation rate varied between 7–25 mm/hr (Nl, 0–20).</text>
+            </sentence>
+            <sentence>
+                <offset>3759</offset>
+                <text>Physical exam: At age 11 years, our patient’s height and arm span were 50th percentile for girls ages 6 and 7 years, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>3890</offset>
+                <text>At age 21 years, her length was 138 cm, arm span 156 cm (10th percentile for women), and sitting height 52.3 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>4003</offset>
+                <text>She had an OI-like voice.</text>
+            </sentence>
+            <sentence>
+                <offset>4029</offset>
+                <text>There was a triangular face, mild hyperteloric appearance, bulbus nasal tip, short neck, restricted range-of-motion of neck and hips, barrel chest, scoliosis, hypermobile elbows, and leg-length discrepancy (Figure 1).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

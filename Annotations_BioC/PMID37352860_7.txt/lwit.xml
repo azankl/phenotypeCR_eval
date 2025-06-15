@@ -1,0 +1,616 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 7  
+
+The proband is the first child of consanguineous parents (first cousins) born at term by emergency 
+Caesarean section due to fetal distress.</text>
+            </sentence>
+            <sentence>
+                <offset>159</offset>
+                <text>Pregnancy itself was unremarkable.</text>
+            </sentence>
+            <sentence>
+                <offset>195</offset>
+                <text>Birth weight was 
+2.6kg (0.4th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>236</offset>
+                <text>There were no concerns regarding the probands early development.</text>
+            </sentence>
+            <sentence>
+                <offset>302</offset>
+                <text>The 
+parents became concerned when she appeared not to be coping well at school.</text>
+            </sentence>
+            <sentence>
+                <offset>383</offset>
+                <text>She is reported to 
+have poor memory with limited concentration.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002354</infon>
+                    <location length="11" offset="25"/>
+                    <text>poor memory</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031987</infon>
+                    <location length="21" offset="42"/>
+                    <text>limited concentration</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>449</offset>
+                <text>She is sociable but mum has concerns that she can 
+sometimes be inappropriately social towards strangers.</text>
+            </sentence>
+            <sentence>
+                <offset>557</offset>
+                <text>She attends mainstream school with a 
+statement of educational needs.</text>
+            </sentence>
+            <sentence>
+                <offset>627</offset>
+                <text>At the age of 5 years 11 months (71 months), she underwent a 
+Griffiths Mental Development assessment.</text>
+            </sentence>
+            <sentence>
+                <offset>731</offset>
+                <text>Her developmental age at this time was 54.5 months 
+for eye-hand coordination, 35 months for performance and 48 months for practical reasoning.</text>
+            </sentence>
+            <sentence>
+                <offset>877</offset>
+                <text>The proband had a urine infection when 5 months of age and she was subsequently found to have 
+vesicoureteric reflux and hydronephrosis with scarring of her left kidney.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000076</infon>
+                    <location length="21" offset="95"/>
+                    <text>vesicoureteric reflux</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000126</infon>
+                    <location length="14" offset="121"/>
+                    <text>hydronephrosis</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="141"/>
+                    <text>scarring</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="162"/>
+                    <text>kidney</text>
+                </annotation>
+                <relation id="6">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000096</infon>
+                    <node refid="7" role="source"/>
+                    <node refid="5" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1048</offset>
+                <text>She was commenced on 
+prophylactic antibiotics.</text>
+            </sentence>
+            <sentence>
+                <offset>1098</offset>
+                <text>On examination at 7 y, Weight 27.6 kg (50th centile) Height 130 cm (90th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>1181</offset>
+                <text>She had 
+prominent epicanthic folds and columella with upturned earlobes.</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025611</infon>
+                    <location length="26" offset="9"/>
+                    <text>prominent epicanthic folds</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="9"/>
+                    <text>prominent</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="40"/>
+                    <text>columella</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009909</infon>
+                    <location length="17" offset="55"/>
+                    <text>upturned earlobes</text>
+                </annotation>
+                <relation id="10">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009929</infon>
+                    <node refid="11" role="source"/>
+                    <node refid="9" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1257</offset>
+                <text>She had shortening of the 5th 
+metacarpals bilaterally and absence of the 5th toe on the right foot with overriding of the 3rd and 
+4th toes.</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="8"/>
+                    <text>shortening</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="26"/>
+                    <text>5th 
+metacarpals</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="59"/>
+                    <text>absence</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="74"/>
+                    <text>5th toe</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="105"/>
+                    <text>overriding</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="123"/>
+                    <text>3rd and 
+4th toes</text>
+                </annotation>
+                <relation id="14">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010047</infon>
+                    <node refid="15" role="source"/>
+                    <node refid="13" role="target"/>
+                </relation>
+                <relation id="17">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010343</infon>
+                    <node refid="18" role="source"/>
+                    <node refid="16" role="target"/>
+                </relation>
+                <relation id="20">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001845</infon>
+                    <node refid="21" role="source"/>
+                    <node refid="19" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1401</offset>
+                <text>The 4th toe on the left appeared absent and there was duplication of the 5th toe with 
+syndactyly.</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="4"/>
+                    <text>4th toe</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="33"/>
+                    <text>absent</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="54"/>
+                    <text>duplication</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="73"/>
+                    <text>5th toe</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="87"/>
+                    <text>syndactyly</text>
+                </annotation>
+                <relation id="24">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010760</infon>
+                    <node refid="22" role="source"/>
+                    <node refid="23" role="target"/>
+                </relation>
+                <relation id="26">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010391</infon>
+                    <node refid="27" role="source"/>
+                    <node refid="25" role="target"/>
+                </relation>
+                <relation id="29">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004692</infon>
+                    <node refid="27" role="source"/>
+                    <node refid="28" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1503</offset>
+                <text>There were no radiological anomalies apart from those at the extremities.</text>
+            </sentence>
+            <sentence>
+                <offset>1577</offset>
+                <text>Abnormal appearance of 
+the epiphyses of both distal radius and probably also distal ulna with overlapping proximal carpal 
+bones.</text>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="0"/>
+                    <text>Abnormal</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="0"/>
+                    <text>Abnormal</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="31" offset="28"/>
+                    <text>epiphyses of both distal radius</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="78"/>
+                    <text>distal ulna</text>
+                </annotation>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006092</infon>
+                    <location length="34" offset="95"/>
+                    <text>overlapping proximal carpal 
+bones</text>
+                </annotation>
+                <relation id="32">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010597</infon>
+                    <node refid="33" role="source"/>
+                    <node refid="30" role="target"/>
+                </relation>
+                <relation id="34">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010600</infon>
+                    <node refid="35" role="source"/>
+                    <node refid="31" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1709</offset>
+                <text>At age 8 years, bone age of 11 years on radiographs of hands and feet.</text>
+            </sentence>
+            <sentence>
+                <offset>1781</offset>
+                <text>Hands: Short right 
+1st metacarpal.</text>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="7"/>
+                    <text>Short</text>
+                </annotation>
+                <annotation id="39">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="20"/>
+                    <text>1st metacarpal</text>
+                </annotation>
+                <relation id="38">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010034</infon>
+                    <node refid="39" role="source"/>
+                    <node refid="37" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1817</offset>
+                <text>Bilaterally short 5th metacarpals and mild shortening of 4th.</text>
+                <annotation id="40">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010047</infon>
+                    <location length="21" offset="12"/>
+                    <text>short 5th metacarpals</text>
+                </annotation>
+                <annotation id="41">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010044</infon>
+                    <location length="17" offset="43"/>
+                    <text>shortening of 4th</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1879</offset>
+                <text>Proximal phalanx 
+right thumb is short.</text>
+                <annotation id="42">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="0"/>
+                    <text>Proximal phalanx</text>
+                </annotation>
+                <annotation id="43">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="33"/>
+                    <text>short</text>
+                </annotation>
+                <relation id="44">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009660</infon>
+                    <node refid="42" role="source"/>
+                    <node refid="43" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1920</offset>
+                <text>The right 5th finger distal phalanx is small with an abnormal epiphysis which 
+is thickened.</text>
+                <annotation id="45">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="25" offset="10"/>
+                    <text>5th finger distal phalanx</text>
+                </annotation>
+                <annotation id="46">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030031</infon>
+                    <location length="5" offset="39"/>
+                    <text>small</text>
+                </annotation>
+                <annotation id="48">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="62"/>
+                    <text>epiphysis</text>
+                </annotation>
+                <annotation id="49">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="82"/>
+                    <text>thickened</text>
+                </annotation>
+                <relation id="47">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004227</infon>
+                    <node refid="45" role="source"/>
+                    <node refid="46" role="target"/>
+                </relation>
+                <relation id="50">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005920</infon>
+                    <node refid="48" role="source"/>
+                    <node refid="49" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2014</offset>
+                <text>Feet: Right: Missing the 5th ray.</text>
+                <annotation id="51">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="13"/>
+                    <text>Missing</text>
+                </annotation>
+                <annotation id="53">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="25"/>
+                    <text>5th ray</text>
+                </annotation>
+                <relation id="52">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030030</infon>
+                    <node refid="53" role="source"/>
+                    <node refid="51" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2049</offset>
+                <text>The fourth digit proximal phalanx and epiphysis are abnormal in 
+shape.</text>
+                <annotation id="54">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="29" offset="4"/>
+                    <text>fourth digit proximal phalanx</text>
+                </annotation>
+                <annotation id="55">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="38"/>
+                    <text>epiphysis</text>
+                </annotation>
+                <annotation id="56">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="52"/>
+                    <text>abnormal</text>
+                </annotation>
+                <annotation id="58">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="52"/>
+                    <text>abnormal</text>
+                </annotation>
+                <relation id="57">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010184</infon>
+                    <node refid="54" role="source"/>
+                    <node refid="56" role="target"/>
+                </relation>
+                <relation id="59">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010160</infon>
+                    <node refid="55" role="source"/>
+                    <node refid="58" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2122</offset>
+                <text>Overriding of the 3rd, 4th and 5th toes.</text>
+                <annotation id="60">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="0"/>
+                    <text>Overriding</text>
+                </annotation>
+                <annotation id="62">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="21" offset="18"/>
+                    <text>3rd, 4th and 5th toes</text>
+                </annotation>
+                <relation id="61">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001845</infon>
+                    <node refid="62" role="source"/>
+                    <node refid="60" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2164</offset>
+                <text>Proximal 3rd metatarsal is fused to the 4th  
+metatarsal. 4th metatarsal is widened.</text>
+                <annotation id="63">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="23" offset="0"/>
+                    <text>Proximal 3rd metatarsal</text>
+                </annotation>
+                <annotation id="64">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="29" offset="27"/>
+                    <text>fused to the 4th  
+metatarsal</text>
+                </annotation>
+                <annotation id="66">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="58"/>
+                    <text>4th metatarsal</text>
+                </annotation>
+                <annotation id="67">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="76"/>
+                    <text>widened</text>
+                </annotation>
+                <relation id="65">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001440</infon>
+                    <node refid="63" role="source"/>
+                    <node refid="64" role="target"/>
+                </relation>
+                <relation id="68">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001783</infon>
+                    <node refid="66" role="source"/>
+                    <node refid="67" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2249</offset>
+                <text>Left: There are five rays in the left foot.</text>
+            </sentence>
+            <sentence>
+                <offset>2294</offset>
+                <text>Proximal fusion of 
+4th and 5th metatarsals.</text>
+                <annotation id="69">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="0"/>
+                    <text>Proximal fusion</text>
+                </annotation>
+                <annotation id="71">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="23" offset="20"/>
+                    <text>4th and 5th metatarsals</text>
+                </annotation>
+                <relation id="70">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001440</infon>
+                    <node refid="71" role="source"/>
+                    <node refid="69" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2339</offset>
+                <text>Bilaterally: The 1st metatarsals are broadened and the shaft of the 
+metatarsals and multiple epiphyses and phalanges have abnormal shapes in both feet.</text>
+                <annotation id="72">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="17"/>
+                    <text>1st metatarsals</text>
+                </annotation>
+                <annotation id="73">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="37"/>
+                    <text>broadened</text>
+                </annotation>
+                <annotation id="75">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="69"/>
+                    <text>metatarsals</text>
+                </annotation>
+                <annotation id="76">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="94"/>
+                    <text>epiphyses</text>
+                </annotation>
+                <annotation id="77">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="108"/>
+                    <text>phalanges</text>
+                </annotation>
+                <annotation id="78">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="123"/>
+                    <text>abnormal shapes</text>
+                </annotation>
+                <annotation id="79">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="123"/>
+                    <text>abnormal shapes</text>
+                </annotation>
+                <annotation id="80">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="123"/>
+                    <text>abnormal shapes</text>
+                </annotation>
+                <relation id="74">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010068</infon>
+                    <node refid="72" role="source"/>
+                    <node refid="73" role="target"/>
+                </relation>
+                <relation id="81">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001832</infon>
+                    <node refid="75" role="source"/>
+                    <node refid="80" role="target"/>
+                </relation>
+                <relation id="82">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005930</infon>
+                    <node refid="76" role="source"/>
+                    <node refid="79" role="target"/>
+                </relation>
+                <relation id="83">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010161</infon>
+                    <node refid="77" role="source"/>
+                    <node refid="78" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2493</offset>
+                <text>Urine organic acids, urine amino acids, serum urea and electrolytes, full blood count, ferritin and 
+thyroid function were all within normal limits.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,24 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 3 had midface retrusion and micrognathia as well as a cleft palate.</text>
+            </sentence>
+            <sentence>
+                <offset>76</offset>
+                <text>The face was asymmetrical, the left side being slightly hypoplastic, with downslanting palpebral fissures and small, low-set, posteriorly rotated ears.</text>
+            </sentence>
+            <sentence>
+                <offset>228</offset>
+                <text>Thumbs were proximally placed and stiff</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

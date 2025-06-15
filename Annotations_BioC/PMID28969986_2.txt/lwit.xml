@@ -1,0 +1,101 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 2 was a 2-year-old girl.</text>
+            </sentence>
+            <sentence>
+                <offset>34</offset>
+                <text>She was first referred to hospital for “developmental delay”.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001263</infon>
+                    <location length="19" offset="40"/>
+                    <text>developmental delay</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>96</offset>
+                <text>She was born as SGA.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001518</infon>
+                    <infon key="Comment">! Abbreviation</infon>
+                    <location length="3" offset="16"/>
+                    <text>SGA</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>117</offset>
+                <text>She was unable to sit or crawl at the age of eight months and she could not walk until 18 months.</text>
+            </sentence>
+            <sentence>
+                <offset>215</offset>
+                <text>Her joint mobility was normal and she had occult cleft in lumbosacral vertebral lamina.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="49"/>
+                    <text>cleft</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="28" offset="58"/>
+                    <text>lumbosacral vertebral lamina</text>
+                </annotation>
+                <relation id="4">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004616</infon>
+                    <node refid="5" role="source"/>
+                    <node refid="3" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>303</offset>
+                <text>At the age of ten months, she was 63 cm high (− 3.63 SD) and her head circumference was 45.5 cm (41.9 percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>418</offset>
+                <text>Her arm span was 61 cm and sitting height was 40.5 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>473</offset>
+                <text>In addition, dolichosigmoid and triangular face were also noticed.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [GE]</infon>
+                    <location length="14" offset="13"/>
+                    <text>dolichosigmoid</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000325</infon>
+                    <location length="15" offset="32"/>
+                    <text>triangular face</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>540</offset>
+                <text>During her last visit in the age of 2 years, her height was 74 cm (− 3.83 SD) and her weight was 8.5 kg (&lt; 0.1 percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>664</offset>
+                <text>Her head circumference was 47 cm (41 percentile) and arm span was 71.5 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>739</offset>
+                <text>Her intelligence was normal by the time we last evaluated.</text>
+            </sentence>
+            <sentence>
+                <offset>798</offset>
+                <text>Endocrine tests were normal, including thyroid function, growth hormone stimulation tests, insulin-like growth factor (IGF)-1 and IGF-binding protein-3 tests.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

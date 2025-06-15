@@ -1,0 +1,48 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 9 is an almost 4-year-old male who developed epileptic encephalopathy at age 2.5 years.</text>
+            </sentence>
+            <sentence>
+                <offset>99</offset>
+                <text>Epilepsy is a combination of myoclonia, atonic seizures, and multifocal epileptic activity on EEG.</text>
+            </sentence>
+            <sentence>
+                <offset>198</offset>
+                <text>He has experienced developmental regression since seizures began but was previously developmentally normal.</text>
+            </sentence>
+            <sentence>
+                <offset>306</offset>
+                <text>His epilepsy has been refractive to multiple medications and he is currently on 5 antiepileptic medications (clobazam, topiramate, phenobarbital, brivaracetam,and rufinimide) having previously tried vigabatrin (ineffective), levetiracetam (behavioral problems), and lacosmide (ineffective).</text>
+            </sentence>
+            <sentence>
+                <offset>597</offset>
+                <text>His head circumference is -1.3 SD and length is +2 SD.</text>
+            </sentence>
+            <sentence>
+                <offset>652</offset>
+                <text>Trio exome sequencing identified a paternally inherited truncating variant in POLR1A c.2583_2586del; p.</text>
+            </sentence>
+            <sentence>
+                <offset>755</offset>
+                <text>(Asp862*).</text>
+            </sentence>
+            <sentence>
+                <offset>766</offset>
+                <text>His father has no history of developmental abnormalities and does not have epilepsy.</text>
+            </sentence>
+            <sentence>
+                <offset>851</offset>
+                <text>Testing of paternal grandparents identified the variant in paternal grandfather as well</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

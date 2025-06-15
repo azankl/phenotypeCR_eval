@@ -1,0 +1,56 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿The propositus (Fig. 1, III#3, Fig. 2), the only known case of AAS in his family, was born to nonconsanguineous parents of Kosovo–Albanian origin, and was diagnosed clinically with AAS at 8 years of age.</text>
+            </sentence>
+            <sentence>
+                <offset>205</offset>
+                <text>He underwent surgery for bilateral cryptorchidism and inguinal hernia, and conservative treatment for bilateral club foot.</text>
+            </sentence>
+            <sentence>
+                <offset>328</offset>
+                <text>Upon physical examination, his height was 122.5 cm (P3–P10), his weight was 25.5 kg (P25–P50), and his head circumference was 51 cm (P3–P10).</text>
+            </sentence>
+            <sentence>
+                <offset>470</offset>
+                <text>Further anomalies were shawl scrotum, pectus excavatum, unilateral clinodactyly V, and a characteristic overextension of the proximal joint with flexion of the distal joint of the fingers (Fig. 2B).</text>
+            </sentence>
+            <sentence>
+                <offset>669</offset>
+                <text>His toes II–IV displayed a valgus deviation, and the spacing between the first and second toe was increased (Fig. 2C).</text>
+            </sentence>
+            <sentence>
+                <offset>788</offset>
+                <text>The facial phenotype was consistent with AAS (Fig. 2A).</text>
+            </sentence>
+            <sentence>
+                <offset>844</offset>
+                <text>While he was initially followed in the child neurology unit for learning disability, ocular tics, and migraine headaches, he later on was among the better performing half of his age class in school.</text>
+            </sentence>
+            <sentence>
+                <offset>1043</offset>
+                <text>His overall neurological status including peripheral neurology was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1118</offset>
+                <text>At the age of 9 years, he had repeated episodes of generalized tonic–clonic seizures, without signs or symptoms of a partial onset.</text>
+            </sentence>
+            <sentence>
+                <offset>1250</offset>
+                <text>The EEG showed Rolandic spikes.</text>
+            </sentence>
+            <sentence>
+                <offset>1282</offset>
+                <text>MRI revealed unilateral focal frontoparietal PMG (Fig. 3).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,210 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Case 1 is a male infant born at 42.5 weeks' gestation to a healthy 29-year-old gravida 1, para 0-1 mother.</text>
+            </sentence>
+            <sentence>
+                <offset>107</offset>
+                <text>The mother reported no exposures to drugs or alcohol, but took antibiotics for a sinus infection at ∼32–34 weeks' gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>232</offset>
+                <text>Pregnancy was complicated by the first-trimester finding of a presumed fraternal twin gestation with subsequent in utero demise.</text>
+            </sentence>
+            <sentence>
+                <offset>361</offset>
+                <text>A follow-up ultrasound 4 weeks later showed a singleton pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>428</offset>
+                <text>Repeat ultrasonographic examinations at 20 and 30 weeks of gestation demonstrated no anomalies.</text>
+            </sentence>
+            <sentence>
+                <offset>524</offset>
+                <text>Labor was induced at 42½ weeks' gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>567</offset>
+                <text>During active labor there was evidence of fetal distress, and concern was raised about a breech presentation (soft presenting body part on vaginal exam).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025116</infon>
+                    <location length="14" offset="42"/>
+                    <text>fetal distress</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001623</infon>
+                    <location length="19" offset="89"/>
+                    <text>breech presentation</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>721</offset>
+                <text>A flat-plate radiograph obtained in the delivery room confirmed a vertex presentation.</text>
+            </sentence>
+            <sentence>
+                <offset>808</offset>
+                <text>The baby then developed fetal distress with evidence of placental abruption and was delivered under general anesthesia by cesarean section with a birth weight of 7 lb 4 oz.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025116</infon>
+                    <location length="14" offset="24"/>
+                    <text>fetal distress</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011419</infon>
+                    <location length="19" offset="56"/>
+                    <text>placental abruption</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>981</offset>
+                <text>The infant was in the vertex position.</text>
+            </sentence>
+            <sentence>
+                <offset>1020</offset>
+                <text>Shortly after birth he was found to have nearly complete absence of a mineralized calvaria.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005623</infon>
+                    <location length="33" offset="57"/>
+                    <text>absence of a mineralized calvaria</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1112</offset>
+                <text>Screening laboratory test results for levels of alkaline phosphatase, magnesium, free thyroxine (T4), thyroid-stimulating hormone (TSH), and calcium were all within normal limits.</text>
+            </sentence>
+            <sentence>
+                <offset>1292</offset>
+                <text>At 4 days of age a craniofacial examination revealed hypertelorism, a depressed nasal bridge, and, most notably, a complete absence of the parietal bones and severely hypoplasic frontal, temporal, and occipital bones.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="53"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005280</infon>
+                    <location length="22" offset="70"/>
+                    <text>depressed nasal bridge</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005623</infon>
+                    <infon key="Comment">! Closest term</infon>
+                    <location length="29" offset="124"/>
+                    <text>absence of the parietal bones</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested ! Closest term</infon>
+                    <location length="49" offset="167"/>
+                    <text>hypoplasic frontal, temporal, and occipital bones</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1510</offset>
+                <text>The gyri and sulci of the cortex were easily palpated through the scalp.</text>
+            </sentence>
+            <sentence>
+                <offset>1583</offset>
+                <text>The findings of the remainder of the examination were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1645</offset>
+                <text>The infant was vigorous and was fitted for a soft-form helmet and observed for secondary calvarial growth.</text>
+            </sentence>
+            <sentence>
+                <offset>1752</offset>
+                <text>Radiographic imaging included 2- and 3-dimensional (3D) computed tomography (CT) scans that documented complete absence of the parietal bones and zygomatic arch clefts at birth (Fig. 1).</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005623</infon>
+                    <infon key="Comment">! Closest term</infon>
+                    <location length="29" offset="112"/>
+                    <text>absence of the parietal bones</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_5201015</infon>
+                    <location length="21" offset="146"/>
+                    <text>zygomatic arch clefts</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1939</offset>
+                <text>Subsequent imaging studies showed a unilateral pseudarthrosis of the clavicle and decreased mineralization of the pubic symphysis (not shown).</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006585</infon>
+                    <location length="30" offset="47"/>
+                    <text>pseudarthrosis of the clavicle</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008788</infon>
+                    <location length="47" offset="82"/>
+                    <text>decreased mineralization of the pubic symphysis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2082</offset>
+                <text>By 9 months of age, a repeat CT scan showed new bone formation in the parietal area.</text>
+            </sentence>
+            <sentence>
+                <offset>2167</offset>
+                <text>By 14 months of age, he had developed mild brachycephaly, progressive hypertelorism, and an increased anterior-posterior diameter of the thorax.</text>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000248</infon>
+                    <location length="13" offset="43"/>
+                    <text>brachycephaly</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="70"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005253</infon>
+                    <location length="51" offset="92"/>
+                    <text>increased anterior-posterior diameter of the thorax</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2312</offset>
+                <text>His hearing is normal, and he has met all of his developmental milestones.</text>
+            </sentence>
+            <sentence>
+                <offset>2387</offset>
+                <text>His family history revealed a father, 2 paternal uncles, and a paternal first cousin who had short stature and delayed closure of the anterior fontanel.</text>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004322</infon>
+                    <location length="13" offset="93"/>
+                    <text>short stature</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001476</infon>
+                    <location length="40" offset="111"/>
+                    <text>delayed closure of the anterior fontanel</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,102 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>patient 3, was also born with short stature, micrognathia with a median posterior palatal cleft, and bilateral subluxation of her knees.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004322</infon>
+                    <location length="13" offset="30"/>
+                    <text>short stature</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000347</infon>
+                    <location length="12" offset="45"/>
+                    <text>micrognathia</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <location length="13" offset="82"/>
+                    <text>palatal cleft</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004976</infon>
+                    <location length="24" offset="111"/>
+                    <text>subluxation of her knees</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>137</offset>
+                <text>Both of her fifth toes were laterally deviated.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="12"/>
+                    <text>fifth toes</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="18" offset="28"/>
+                    <text>laterally deviated</text>
+                </annotation>
+                <relation id="7">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100346</infon>
+                    <node refid="5" role="source"/>
+                    <node refid="6" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>185</offset>
+                <text>Although her facial appearance resembles that of her affected sister, with a high forehead and a flat face, she has no signs of craniosynostosis.</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000348</infon>
+                    <location length="13" offset="77"/>
+                    <text>high forehead</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012368</infon>
+                    <location length="9" offset="97"/>
+                    <text>flat face</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>331</offset>
+                <text>At follow-up examination at the age 2 years, her psychomotor development was within the normal range but her stature was markedly below the third percentile.</text>
+            </sentence>
+            <sentence>
+                <offset>489</offset>
+                <text>Radiographic findings were similar to those of her older sister, including brachydactyly, irregular metacarpal epiphyses, and reduction of intervertebral spaces but no vertebral clefting.</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001156</infon>
+                    <location length="13" offset="75"/>
+                    <text>brachydactyly</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009190</infon>
+                    <location length="30" offset="90"/>
+                    <text>irregular metacarpal epiphyses</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002945</infon>
+                    <location length="34" offset="126"/>
+                    <text>reduction of intervertebral spaces</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

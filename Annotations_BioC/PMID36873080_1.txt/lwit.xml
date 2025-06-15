@@ -1,0 +1,354 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A 7‐year‐old Caucasian girl was referred due to the presence of diffuse congenital hypertrichosis.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000998</infon>
+                    <location length="14" offset="83"/>
+                    <text>hypertrichosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>99</offset>
+                <text>Hypertrichosis at the time of visit was diffuse with abundant terminal hair in the face, trunk and limbs (Figure 1).</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000998</infon>
+                    <location length="14" offset="0"/>
+                    <text>Hypertrichosis</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000998</infon>
+                    <location length="22" offset="53"/>
+                    <text>abundant terminal hair</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>216</offset>
+                <text>The excessive hair growth slightly improved over the years but was still present; the facial appearance was coarse with epicanthal folds, flat broad nasal bridge, flared nares, long and flat philtrum, large mouth with thick lips (Figure 2).</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000998</infon>
+                    <location length="21" offset="4"/>
+                    <text>excessive hair growth</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="86"/>
+                    <text>facial</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="108"/>
+                    <text>coarse</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000286</infon>
+                    <location length="16" offset="120"/>
+                    <text>epicanthal folds</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="138"/>
+                    <text>flat</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000431</infon>
+                    <location length="18" offset="143"/>
+                    <text>broad nasal bridge</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="149"/>
+                    <text>nasal bridge</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000454</infon>
+                    <location length="12" offset="163"/>
+                    <text>flared nares</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="177"/>
+                    <text>long</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000319</infon>
+                    <location length="13" offset="186"/>
+                    <text>flat philtrum</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="191"/>
+                    <text>philtrum</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000154</infon>
+                    <location length="11" offset="201"/>
+                    <text>large mouth</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012471</infon>
+                    <location length="10" offset="218"/>
+                    <text>thick lips</text>
+                </annotation>
+                <relation id="7">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000280</infon>
+                    <node refid="5" role="source"/>
+                    <node refid="6" role="target"/>
+                </relation>
+                <relation id="10">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005280</infon>
+                    <node refid="11" role="source"/>
+                    <node refid="9" role="target"/>
+                </relation>
+                <relation id="15">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000343</infon>
+                    <node refid="16" role="source"/>
+                    <node refid="14" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>460</offset>
+                <text>She was the third‐born child of non‐consanguineous parents.</text>
+            </sentence>
+            <sentence>
+                <offset>520</offset>
+                <text>She was born at 40 weeks' gestation by Cesarean Section.</text>
+            </sentence>
+            <sentence>
+                <offset>577</offset>
+                <text>At birth, macrosomia (birth weight 5720 g) and generalized hypertrichosis were observed (Figure 3).</text>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001520</infon>
+                    <location length="10" offset="10"/>
+                    <text>macrosomia</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000998</infon>
+                    <location length="14" offset="59"/>
+                    <text>hypertrichosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>677</offset>
+                <text>She was of muscular build with length and weight at the 90th and &gt; 97th centile, respectively, and head circumference (37 cm) at &gt;97th centile.</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="14" offset="11"/>
+                    <text>muscular build</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>824</offset>
+                <text>Few hours after birth she developed cyanosis and respiratory distress not attributable to infective sources.</text>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000961</infon>
+                    <location length="8" offset="36"/>
+                    <text>cyanosis</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002098</infon>
+                    <location length="20" offset="49"/>
+                    <text>respiratory distress</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>933</offset>
+                <text>An echocardiogram showed a patent ductus arteriosus (PDA) and an atrial septal defect, ostium secundum type complicated with pulmonary hypertension.</text>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001643</infon>
+                    <location length="24" offset="27"/>
+                    <text>patent ductus arteriosus</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001643</infon>
+                    <infon key="Comment">! Abbreviation</infon>
+                    <location length="3" offset="53"/>
+                    <text>PDA</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001631</infon>
+                    <location length="20" offset="65"/>
+                    <text>atrial septal defect</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0033635</infon>
+                    <location length="22" offset="125"/>
+                    <text>pulmonary hypertension</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1082</offset>
+                <text>At 10 days of life, she has been transferred to the Pediatric Intensive Care Unit in order to proceed with ligation of PDA at 14 days and reduce pulmonary hypertension with sildenafil treatment which have been carried out for 2 months.</text>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001643</infon>
+                    <infon key="Comment">! Abbreviation</infon>
+                    <location length="3" offset="119"/>
+                    <text>PDA</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0033635</infon>
+                    <location length="22" offset="145"/>
+                    <text>pulmonary hypertension</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1318</offset>
+                <text>The patient had mild, axial and pelvic girdle muscle hypotonia that had resolved at the neurological follow‐up 1 year later, without any consequent motor delay.</text>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="22"/>
+                    <text>axial</text>
+                </annotation>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003749</infon>
+                    <location length="30" offset="32"/>
+                    <text>pelvic girdle muscle hypotonia</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="46"/>
+                    <text>muscle hypotonia</text>
+                </annotation>
+                <relation id="32">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008936</infon>
+                    <node refid="33" role="source"/>
+                    <node refid="31" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1479</offset>
+                <text>She had right sensorineural retrocochlear hypoacusia.</text>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="14"/>
+                    <text>sensorineural</text>
+                </annotation>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="42"/>
+                    <text>hypoacusia</text>
+                </annotation>
+                <relation id="36">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000407</infon>
+                    <node refid="37" role="source"/>
+                    <node refid="35" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1533</offset>
+                <text>When patient was 8‐month‐old underwent an MR imaging of the brain that reported dilated carotid siphon and basilar artery, this one was also elongated and scoliotic.</text>
+                <annotation id="38">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012163</infon>
+                    <location length="22" offset="80"/>
+                    <text>dilated carotid siphon</text>
+                </annotation>
+                <annotation id="39">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="80"/>
+                    <text>dilated</text>
+                </annotation>
+                <annotation id="41">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [Neurology]</infon>
+                    <location length="14" offset="107"/>
+                    <text>basilar artery</text>
+                </annotation>
+                <annotation id="42">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [Neurology]</infon>
+                    <location length="14" offset="107"/>
+                    <text>basilar artery</text>
+                </annotation>
+                <annotation id="43">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [Neurology]</infon>
+                    <location length="14" offset="107"/>
+                    <text>basilar artery</text>
+                </annotation>
+                <annotation id="44">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="141"/>
+                    <text>elongated</text>
+                </annotation>
+                <annotation id="46">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="155"/>
+                    <text>scoliotic</text>
+                </annotation>
+                <relation id="40">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="41" role="source"/>
+                    <node refid="39" role="target"/>
+                </relation>
+                <relation id="45">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="42" role="source"/>
+                    <node refid="44" role="target"/>
+                </relation>
+                <relation id="47">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="43" role="source"/>
+                    <node refid="46" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1702</offset>
+                <text>At the age of 5 years the patient went through an extensive endocrinological assessment to detect the cause of hypertrichosis (Vitamin D, ACTH, DHEAS, cortisol, TSH, FT4, FT3, and ACTH stimulation test) that did not detect any alterations.</text>
+            </sentence>
+            <sentence>
+                <offset>1942</offset>
+                <text>She had recurrent episodes of tonsillitis and she underwent tonsillectomy at the age of 6.</text>
+                <annotation id="48">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011110</infon>
+                    <location length="11" offset="30"/>
+                    <text>tonsillitis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2036</offset>
+                <text>Clinical presentation and medical history raised the suspicion of CS and sequencing of ABCC9 gene detected a de novo c.3461G &gt; A p.</text>
+            </sentence>
+            <sentence>
+                <offset>2167</offset>
+                <text>(Arg1154Gln) heterozygous pathogenic variant</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

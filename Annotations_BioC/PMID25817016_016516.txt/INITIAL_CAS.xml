@@ -1,0 +1,75 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This male was born as part of a monozygotic twin at 39 weeks of age with a weight of 3550 g&#13;
+(75%).</text>
+            </sentence>
+            <sentence>
+                <offset>100</offset>
+                <text>At birth he was noted to have an omphalocele, which was surgically repaired.</text>
+            </sentence>
+            <sentence>
+                <offset>177</offset>
+                <text>During&#13;
+surgery intraabdominal testes were identified.</text>
+            </sentence>
+            <sentence>
+                <offset>232</offset>
+                <text>At 13 months length was 76.5 cm (50%) and OFC&#13;
+49.5 cm (95%).</text>
+            </sentence>
+            <sentence>
+                <offset>294</offset>
+                <text>He had frontal bossing, a large anterior fontanel, prominent eyes, hypertelorism,&#13;
+a small upturned nose, a triangular mouth, gingival hyperplasia, low-set ears, mesomelic upper&#13;
+limb shortening, short fingers and toes, a small penis and cryptorchidism.</text>
+            </sentence>
+            <sentence>
+                <offset>548</offset>
+                <text>X-rays showed&#13;
+hypoplasia of phalanges and bifid 1st and 2nd fingers.</text>
+            </sentence>
+            <sentence>
+                <offset>618</offset>
+                <text>Abdominal ultrasound and intravenous&#13;
+urography showed left pyeloureteral duplication.</text>
+            </sentence>
+            <sentence>
+                <offset>705</offset>
+                <text>At 14 years of age facial dysmorphisms were&#13;
+less striking and intelligence was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>793</offset>
+                <text>Height was 172.3 (90%) and OFC 59 cm (+3 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>840</offset>
+                <text>Hypertelorism, brachydactyly and mesomelia were present.</text>
+            </sentence>
+            <sentence>
+                <offset>897</offset>
+                <text>At 21 years of age growth remained&#13;
+with the same features (height 188 cm, 90%, weight 70 kg (50%) and OFC 63 cm, (+4SD), but&#13;
+proportionate, and intelligence was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1068</offset>
+                <text>Facial dysmorphisms were again visible.</text>
+            </sentence>
+            <sentence>
+                <offset>1108</offset>
+                <text>Multiple&#13;
+orthodontic treatments had been performed for dental malalignment.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

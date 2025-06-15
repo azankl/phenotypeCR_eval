@@ -1,0 +1,60 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The proband, a woman, was evaluated at 27 years for facial dysmorphism and short stature.</text>
+            </sentence>
+            <sentence>
+                <offset>90</offset>
+                <text>There were multiple similarly affected members in the family, depicting an autosomal dominant mode of inheritance (figure 1I).</text>
+            </sentence>
+            <sentence>
+                <offset>217</offset>
+                <text>On examination, she had short stature (148 cm, 3 SDs below the mean), brachycephaly, patent anterior fontanelle, metopic depression, downslanting palpebral fissure, telecanthus and midface hypoplasia.</text>
+            </sentence>
+            <sentence>
+                <offset>418</offset>
+                <text>Narrow and drooping shoulders that could be approximated anteriorly (figure 1A, B) were noted.</text>
+            </sentence>
+            <sentence>
+                <offset>513</offset>
+                <text>She had small hands with brachydactyly and tapering fingers.</text>
+            </sentence>
+            <sentence>
+                <offset>574</offset>
+                <text>Clinodactyly of the fifth finger was noted.</text>
+            </sentence>
+            <sentence>
+                <offset>618</offset>
+                <text>Thumbs and great toes were broad.</text>
+            </sentence>
+            <sentence>
+                <offset>652</offset>
+                <text>There was partial cutaneous syndactyly of the second and third toes and a proximally placed fourth toe (figure 1C–E).</text>
+            </sentence>
+            <sentence>
+                <offset>770</offset>
+                <text>She had normal intelligence.</text>
+            </sentence>
+            <sentence>
+                <offset>800</offset>
+                <text>Radiograph of the skull showed wide and patent anterior fontanelle (figure 1F).</text>
+            </sentence>
+            <sentence>
+                <offset>880</offset>
+                <text>Chest radiograph revealed hypoplasia of clavicles (figure 1G).</text>
+            </sentence>
+            <sentence>
+                <offset>943</offset>
+                <text>Sanger sequencing of the RUNX2 gene revealed a novel heterozygous pathogenic variation, c.470dupT (p.M157Ifs*4, NM_001024630), in exon 3 in the proband (figure 1H).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

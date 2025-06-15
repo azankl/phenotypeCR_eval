@@ -1,0 +1,252 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 15 is a 5-year-old male who presented at birth with neurologic and craniofacial anomalies.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="63"/>
+                    <text>neurologic</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000929</infon>
+                    <location length="22" offset="78"/>
+                    <text>craniofacial anomalies</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="91"/>
+                    <text>anomalies</text>
+                </annotation>
+                <relation id="4">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000707</infon>
+                    <node refid="1" role="source"/>
+                    <node refid="3" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>102</offset>
+                <text>He was born at term to a 33-year-old gravida 1 mother.</text>
+            </sentence>
+            <sentence>
+                <offset>157</offset>
+                <text>Birth weight was 3.03 kg, length 52 cm (85th), HC 33 cm (15-50th).</text>
+            </sentence>
+            <sentence>
+                <offset>224</offset>
+                <text>High palate and poor suck were noted during newborn hospitalization.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000218</infon>
+                    <location length="11" offset="0"/>
+                    <text>High palate</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002033</infon>
+                    <location length="9" offset="16"/>
+                    <text>poor suck</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>293</offset>
+                <text>Echocardiogram demonstrated patent ductus arteriosus and patent foramen ovale.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001643</infon>
+                    <location length="24" offset="28"/>
+                    <text>patent ductus arteriosus</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001655</infon>
+                    <location length="20" offset="57"/>
+                    <text>patent foramen ovale</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>372</offset>
+                <text>He was referred to genetics at 2 months of age for evaluation of hypotonia and craniofacial anomalies.</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001252</infon>
+                    <location length="9" offset="65"/>
+                    <text>hypotonia</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000929</infon>
+                    <location length="22" offset="79"/>
+                    <text>craniofacial anomalies</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>475</offset>
+                <text>On exam he had hypertelorism and telecanthus, anteverted nares, midline pseudocleft of his upper lip, and high narrow palate.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="15"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000506</infon>
+                    <location length="11" offset="33"/>
+                    <text>telecanthus</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000463</infon>
+                    <location length="16" offset="46"/>
+                    <text>anteverted nares</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="72"/>
+                    <text>pseudocleft</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="91"/>
+                    <text>upper lip</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="106"/>
+                    <text>high</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000189</infon>
+                    <location length="13" offset="111"/>
+                    <text>narrow palate</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="118"/>
+                    <text>palate</text>
+                </annotation>
+                <relation id="15">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0034185</infon>
+                    <node refid="16" role="source"/>
+                    <node refid="14" role="target"/>
+                </relation>
+                <relation id="18">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000218</infon>
+                    <node refid="19" role="source"/>
+                    <node refid="17" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>601</offset>
+                <text>He had low tone and low muscle bulk, and held his feet dorsiflexed and wrists hyperextended.</text>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001252</infon>
+                    <location length="8" offset="7"/>
+                    <text>low tone</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003199</infon>
+                    <location length="15" offset="20"/>
+                    <text>low muscle bulk</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="16" offset="50"/>
+                    <text>feet dorsiflexed</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005072</infon>
+                    <location length="20" offset="71"/>
+                    <text>wrists hyperextended</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>694</offset>
+                <text>Failure to thrive and poor feeding with aspiration led to gastrostomy tube placement at 6 months of age.</text>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001508</infon>
+                    <location length="17" offset="0"/>
+                    <text>Failure to thrive</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011968</infon>
+                    <location length="12" offset="22"/>
+                    <text>poor feeding</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002835</infon>
+                    <location length="10" offset="40"/>
+                    <text>aspiration</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>799</offset>
+                <text>He developed infantile spasms at 6 months of age which progressed to multi-drug resistant epilepsy.</text>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012469</infon>
+                    <location length="16" offset="13"/>
+                    <text>infantile spasms</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001250</infon>
+                    <location length="8" offset="90"/>
+                    <text>epilepsy</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>899</offset>
+                <text>Trio exome sequencing (GeneDx, Gaithersburg, MD) identified a de novo variant in POLR1A, c.4685G&gt;T; p.</text>
+            </sentence>
+            <sentence>
+                <offset>1001</offset>
+                <text>(Cys1562Phe).</text>
+            </sentence>
+            <sentence>
+                <offset>1015</offset>
+                <text>At age 5, he smiles and has partial head control.</text>
+            </sentence>
+            <sentence>
+                <offset>1065</offset>
+                <text>He is unable to roll and cannot sit independently.</text>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0032989</infon>
+                    <location length="14" offset="6"/>
+                    <text>unable to roll</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025336</infon>
+                    <location length="24" offset="25"/>
+                    <text>cannot sit independently</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1116</offset>
+                <text>He is learning to communicate using eye gaze and non-verbal communication</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

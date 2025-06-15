@@ -1,0 +1,88 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This 3-year-old female child (III.2), the sister of Patient 1, was born at term after an uneventful pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>111</offset>
+                <text>Her birth weight is reported as low but was not recorded.</text>
+            </sentence>
+            <sentence>
+                <offset>169</offset>
+                <text>Her motor development was delayed (she was walking at 1.5-year old).</text>
+            </sentence>
+            <sentence>
+                <offset>238</offset>
+                <text>Her physical appearance (Fig. 4) resembled that of her brother with short stature, a small short nose, midface hypoplasia, hypertelorism, high arched palate, long philtrum, and relatively small ears.</text>
+            </sentence>
+            <sentence>
+                <offset>438</offset>
+                <text>In addition, she had epicanthic folds and congenital stricture of lacrimal ducts, which was operated upon twice.</text>
+            </sentence>
+            <sentence>
+                <offset>551</offset>
+                <text>Generalized brachydactyly and bilateral clinodactyly of the little fingers were also noted.</text>
+            </sentence>
+            <sentence>
+                <offset>643</offset>
+                <text>There was no limitation of joint movements.</text>
+            </sentence>
+            <sentence>
+                <offset>687</offset>
+                <text>Her mental development was delayed.</text>
+            </sentence>
+            <sentence>
+                <offset>723</offset>
+                <text>At the age of 3 years her height was 87.5 cm (−2 SD), weight 12 kg (−1.4 SD), and head circumference 48 cm (−1 SD) and she started complaining from joint pain.</text>
+            </sentence>
+            <sentence>
+                <offset>883</offset>
+                <text>Arm span was 78 and upper segment to lower segment ratio was 2.3.</text>
+            </sentence>
+            <sentence>
+                <offset>949</offset>
+                <text>Similarly, she had moderate sensorineural deafness and she is wearing a hearing aid.</text>
+            </sentence>
+            <sentence>
+                <offset>1034</offset>
+                <text>Non-verbal IQ test was 64.</text>
+            </sentence>
+            <sentence>
+                <offset>1061</offset>
+                <text>Ophthalmologic evaluation, laboratory investigations, metabolic screening, and chromosomal examination were done for her and yielded normal results.</text>
+            </sentence>
+            <sentence>
+                <offset>1210</offset>
+                <text>Skeletal radiographs (Fig. 5) demonstrated short long bones (humerus, radius, ulna, tibia, and fibula).</text>
+            </sentence>
+            <sentence>
+                <offset>1314</offset>
+                <text>All had large and wide epiphyses and flared metaphyses.</text>
+            </sentence>
+            <sentence>
+                <offset>1370</offset>
+                <text>The femur showed the characteristic dumbbell shape.</text>
+            </sentence>
+            <sentence>
+                <offset>1422</offset>
+                <text>Metacarpal bones were short.</text>
+            </sentence>
+            <sentence>
+                <offset>1451</offset>
+                <text>These features were associated with platyspondyly with coronal clefting.</text>
+            </sentence>
+            <sentence>
+                <offset>1524</offset>
+                <text>Atlanto-axial and occipital bones showed no abnormalities.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

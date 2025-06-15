@@ -1,0 +1,186 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿A 35-year-old Italian primigravida was referred to our genetic unit at 18-week gestation (WG) due to abnormal ultrasonographic findings.</text>
+            </sentence>
+            <sentence>
+                <offset>138</offset>
+                <text>The parents of the fetus were non-consanguineous, and the familial history did not reveal any relevant information.</text>
+            </sentence>
+            <sentence>
+                <offset>254</offset>
+                <text>Informed written consent for both diagnostic and research purposes was obtained from the parents.</text>
+            </sentence>
+            <sentence>
+                <offset>353</offset>
+                <text>A three-dimensional ultrasound was performed to examine the fetus.</text>
+            </sentence>
+            <sentence>
+                <offset>420</offset>
+                <text>The fetal 3D ultrasound examination showed a brachycephaly, a prominent abdomen, short limbs (&lt;at the third centile), a facial dysmorphism characterized by abnormal implantation of the ears, microretrognathia, frontal bossing, a long philtrum, and congenital megalophthalmos.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000248</infon>
+                    <location length="13" offset="45"/>
+                    <text>brachycephaly</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001538</infon>
+                    <location length="17" offset="62"/>
+                    <text>prominent abdomen</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009826</infon>
+                    <location length="11" offset="81"/>
+                    <text>short limbs</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001999</infon>
+                    <location length="18" offset="120"/>
+                    <text>facial dysmorphism</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="21" offset="156"/>
+                    <text>abnormal implantation</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="185"/>
+                    <text>ears</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000308</infon>
+                    <location length="17" offset="191"/>
+                    <text>microretrognathia</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002007</infon>
+                    <location length="15" offset="210"/>
+                    <text>frontal bossing</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000343</infon>
+                    <location length="13" offset="229"/>
+                    <text>long philtrum</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000485</infon>
+                    <location length="15" offset="259"/>
+                    <text>megalophthalmos</text>
+                </annotation>
+                <relation id="6">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000357</infon>
+                    <node refid="7" role="source"/>
+                    <node refid="5" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>696</offset>
+                <text>The three-dimensional rendering of the fetal skeleton showed reduced ossification of the sacrum, iliac spines, and arched femurs (Figure 1A).</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="20" offset="61"/>
+                    <text>reduced ossification</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="20" offset="61"/>
+                    <text>reduced ossification</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="89"/>
+                    <text>sacrum</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Too rare</infon>
+                    <location length="12" offset="97"/>
+                    <text>iliac spines</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002980</infon>
+                    <location length="13" offset="115"/>
+                    <text>arched femurs</text>
+                </annotation>
+                <relation id="14">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025371</infon>
+                    <node refid="15" role="source"/>
+                    <node refid="12" role="target"/>
+                </relation>
+                <relation id="16">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="17" role="source"/>
+                    <node refid="13" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>838</offset>
+                <text>Amniocentesis performed at 19-WG for fetal karyotyping and array-CGH were negative.</text>
+            </sentence>
+            <sentence>
+                <offset>923</offset>
+                <text>At 20-WG gestation, the parents decided to interrupt the pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>991</offset>
+                <text>Postmortem radiography confirmed reduced ossification of the sacrum and arched femurs (Figure 1B).</text>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="20" offset="33"/>
+                    <text>reduced ossification</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="61"/>
+                    <text>sacrum</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002980</infon>
+                    <location length="13" offset="72"/>
+                    <text>arched femurs</text>
+                </annotation>
+                <relation id="20">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025370</infon>
+                    <node refid="21" role="source"/>
+                    <node refid="19" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1090</offset>
+                <text>An autopsy was also performed (Figure 1C), and a cleft palate was observed.</text>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <location length="12" offset="49"/>
+                    <text>cleft palate</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1166</offset>
+                <text>The prenatal and postnatal findings were strongly suggestive of skeletal dysplasia, in particular, of achondrogenesis type 2.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

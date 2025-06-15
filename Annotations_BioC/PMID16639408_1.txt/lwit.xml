@@ -1,0 +1,109 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A 4-year-old boy (case 1) born to nonconsanguineous Caucasian parents was found antenatally to have a left-sided CDH and sacrococcygeal teratoma.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000776</infon>
+                    <infon key="Comment">! Abbreviation</infon>
+                    <location length="3" offset="113"/>
+                    <text>CDH</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030736</infon>
+                    <location length="23" offset="121"/>
+                    <text>sacrococcygeal teratoma</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>146</offset>
+                <text>He was born by spontaneous normal vaginal delivery at 34 weeks’ gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>221</offset>
+                <text>He had a primary repair of his diaphragmatic defect (Figure 1a) on day 2 with good result.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000775</infon>
+                    <location length="20" offset="31"/>
+                    <text>diaphragmatic defect</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>312</offset>
+                <text>His sacrococcygeal teratoma was excised on day 21.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030736</infon>
+                    <location length="23" offset="4"/>
+                    <text>sacrococcygeal teratoma</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>363</offset>
+                <text>On examination at 6 months of age, he had a prominent metopic suture, telecanthus (inner canthal distance of 28 mm; +2 s.d. above the mean), brachydactyly and pectus excavatum.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005487</infon>
+                    <location length="24" offset="44"/>
+                    <text>prominent metopic suture</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000506</infon>
+                    <location length="11" offset="70"/>
+                    <text>telecanthus</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001156</infon>
+                    <location length="13" offset="141"/>
+                    <text>brachydactyly</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000767</infon>
+                    <location length="16" offset="159"/>
+                    <text>pectus excavatum</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>540</offset>
+                <text>Later he grew curly blonde hair (Figure 1b).</text>
+            </sentence>
+            <sentence>
+                <offset>585</offset>
+                <text>There was no significant developmental delay.</text>
+            </sentence>
+            <sentence>
+                <offset>631</offset>
+                <text>His head circumference and weight were between the 0.4th and 2nd centile and height between the 2nd and 9th centile.</text>
+            </sentence>
+            <sentence>
+                <offset>748</offset>
+                <text>Investigations revealed a normal male karyotype (46, XY).</text>
+            </sentence>
+            <sentence>
+                <offset>806</offset>
+                <text>His cranial ultrasound scan and skull X-ray were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>863</offset>
+                <text>A clinical diagnosis of male CFNS was made on the basis of his mild dysmorphic features and characteristic clinical features in the mother (Figure 1c and d).</text>
+            </sentence>
+            <sentence>
+                <offset>1021</offset>
+                <text>Mutation analysis of EFNB1 using previously described methods8 demonstrated a frameshifting mutation (432delG, predicting L145WfsX14) in exon 3, which was heterozygous in the mother and hemizygous in her son (Figure 1e and f).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

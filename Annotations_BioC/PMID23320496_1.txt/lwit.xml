@@ -1,0 +1,236 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Our index case is a 7-year-old boy, SA (Fig. 1a, IV-3), who presented to paediatric neurology clinic due to delayed development (Fig.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001263</infon>
+                    <location length="19" offset="108"/>
+                    <text>delayed development</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>134</offset>
+                <text>S1, Supporting information).</text>
+            </sentence>
+            <sentence>
+                <offset>163</offset>
+                <text>His parents were first-cousins (Fig. 1a) and he was born at 37 weeks gestation with a head circumference of 38 cm (90%).</text>
+            </sentence>
+            <sentence>
+                <offset>284</offset>
+                <text>SA was hypotonic at birth with feeding difficulties and was diagnosed with hypothyroidism.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001252</infon>
+                    <location length="9" offset="7"/>
+                    <text>hypotonic</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011968</infon>
+                    <location length="20" offset="31"/>
+                    <text>feeding difficulties</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000821</infon>
+                    <location length="14" offset="75"/>
+                    <text>hypothyroidism</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>375</offset>
+                <text>He later was found to have significant delays with the neurodevelopmental milestones, being unable to walk and with minimal speech.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012758</infon>
+                    <location length="45" offset="39"/>
+                    <text>delays with the neurodevelopmental milestones</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002540</infon>
+                    <location length="14" offset="92"/>
+                    <text>unable to walk</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002465</infon>
+                    <location length="14" offset="116"/>
+                    <text>minimal speech</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>507</offset>
+                <text>His family noted him to be anxious and showing self-mutilating behavior like chewing his fingers.</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000739</infon>
+                    <location length="7" offset="27"/>
+                    <text>anxious</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000742</infon>
+                    <location length="24" offset="47"/>
+                    <text>self-mutilating behavior</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>605</offset>
+                <text>When he was examined at the referring paediatric neurology clinic at 7 years of age, his head circumference was 53 cm (75–90%), his weight was 17 kg, (&lt;5%) and height 113 cm (5%).</text>
+            </sentence>
+            <sentence>
+                <offset>785</offset>
+                <text>His general physical examination was remarkable for several dysmorphic features including short neck, low hairline, low set ears, synophrys, hypertelorism, antevert nares, high-arched palate, prognatism, hyperextensbile fingers, pectus carinatum, scoliosis and genu varus.</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000470</infon>
+                    <location length="10" offset="90"/>
+                    <text>short neck</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002162</infon>
+                    <location length="12" offset="102"/>
+                    <text>low hairline</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000369</infon>
+                    <location length="12" offset="116"/>
+                    <text>low set ears</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000664</infon>
+                    <location length="9" offset="130"/>
+                    <text>synophrys</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="141"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000463</infon>
+                    <location length="14" offset="156"/>
+                    <text>antevert nares</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000218</infon>
+                    <location length="18" offset="172"/>
+                    <text>high-arched palate</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000303</infon>
+                    <location length="10" offset="192"/>
+                    <text>prognatism</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006094</infon>
+                    <location length="23" offset="204"/>
+                    <text>hyperextensbile fingers</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000768</infon>
+                    <location length="16" offset="229"/>
+                    <text>pectus carinatum</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002650</infon>
+                    <location length="9" offset="247"/>
+                    <text>scoliosis</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002970</infon>
+                    <location length="10" offset="261"/>
+                    <text>genu varus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1058</offset>
+                <text>On neurological examination, he was awake but unable to speak except a few basic words.</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002465</infon>
+                    <location length="15" offset="46"/>
+                    <text>unable to speak</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1146</offset>
+                <text>He was unable to walk, feed himself or perform activities of daily living.</text>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002540</infon>
+                    <location length="14" offset="7"/>
+                    <text>unable to walk</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1221</offset>
+                <text>There were no abnormalities in routine laboratory tests, including complete blood count (CBC), blood chemistries, urine test, and plasma aminoacid levels.</text>
+            </sentence>
+            <sentence>
+                <offset>1376</offset>
+                <text>Chest X-ray was remarkable for rib and scapula abnormalities.</text>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="3" offset="31"/>
+                    <text>rib</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000782</infon>
+                    <location length="21" offset="39"/>
+                    <text>scapula abnormalities</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="47"/>
+                    <text>abnormalities</text>
+                </annotation>
+                <relation id="27">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000772</infon>
+                    <node refid="24" role="source"/>
+                    <node refid="26" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1438</offset>
+                <text>On brain magnetic resonance imaging, dysgenesis of the corpus callosum and cerebellar herniation were detected</text>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006989</infon>
+                    <location length="33" offset="37"/>
+                    <text>dysgenesis of the corpus callosum</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [Neurology]</infon>
+                    <location length="21" offset="75"/>
+                    <text>cerebellar herniation</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

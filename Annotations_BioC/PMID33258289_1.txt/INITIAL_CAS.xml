@@ -1,0 +1,84 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Case 1 was referred to our department at 14 months of age due to short stature and his dysmorphic features.</text>
+            </sentence>
+            <sentence>
+                <offset>109</offset>
+                <text>He was born to consanguineous parents at 39 weeks of gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>173</offset>
+                <text>His birth weight, height and head circumference were 2,500 g (−1.68 standard deviation score (SDS)), 45 cm (−1.85 SDS), and 35 cm (−0.42 SDS), respectively (Gokcay, Furman, &amp; Neyzi, 2008).</text>
+            </sentence>
+            <sentence>
+                <offset>363</offset>
+                <text>On physical examination, his weight, height, and head circumference were 4,410 g (−4.28 SDS), 61.5 cm (−4.82 SDS), and 43 cm (−1.03 SDS), respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>515</offset>
+                <text>He was noted to have a triangular face, frontal bossing, depressed nasal bridge, fleshy, upturned nose, anteverted nares and a pointed, prominent chin.</text>
+            </sentence>
+            <sentence>
+                <offset>668</offset>
+                <text>He was reevaluated at 3 years and 5 months of age.</text>
+            </sentence>
+            <sentence>
+                <offset>719</offset>
+                <text>His height and annual growth rate were 75.7 cm (−5.85 SDS) and 4.1 cm/year (−2.2 SDS), respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>820</offset>
+                <text>He was noted to have pectus carinatum, narrow thorax and hyperlordosis in addition to his previous dysmorphological findings (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>957</offset>
+                <text>Testicles, bilaterally, were found to be in scrotal sac and of a prepubertal size.</text>
+            </sentence>
+            <sentence>
+                <offset>1040</offset>
+                <text>A skeletal bone survey showed delayed bone age, thoracic scoliosis, slender long tubular bones, and mild metaphyseal widening (Figure 2).</text>
+            </sentence>
+            <sentence>
+                <offset>1179</offset>
+                <text>Serum basal growth hormone (GH), insulin-like growth factor-1 (IGF1), and IGF binding protein-3 (IGFBP3) levels were 10.2 ng/mL, 52.6 ng/mL (−1.27 SDS), and 2,921 μg/mL (2.78 SDS), respectively (Table 1).</text>
+            </sentence>
+            <sentence>
+                <offset>1384</offset>
+                <text>Due to normal serum basal GH levels (&gt;7 ng/ml) and peak GH responses in GH stimulation test, an IGF1 generation test (50 μg/kg/day/5 days) was performed.</text>
+            </sentence>
+            <sentence>
+                <offset>1538</offset>
+                <text>Following stimulation, a sufficient increase in IGF1 level was detected.</text>
+            </sentence>
+            <sentence>
+                <offset>1612</offset>
+                <text>Although basal GH level was found to be normal, recombinant human GH (rhGH) therapy was given because he was born small for gestational age (SGA), had severe short stature and was failed to achieve catch-up growth.</text>
+            </sentence>
+            <sentence>
+                <offset>1827</offset>
+                <text>Although a high dose (35–50 μg/kg/day) of rhGH therapy was initiated, treatment was discontinued following 4 years due to low growth velocity (3.5–4.5 cm/year).</text>
+            </sentence>
+            <sentence>
+                <offset>1989</offset>
+                <text>He was 12 years old at last examination and his weight was 17.05 kg (−4.74 SDS) and height 109 cm (−5.73 SDS).</text>
+            </sentence>
+            <sentence>
+                <offset>2100</offset>
+                <text>His intelligence and neuromotor development were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>2157</offset>
+                <text>He was wearing a corset for his scoliosis.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

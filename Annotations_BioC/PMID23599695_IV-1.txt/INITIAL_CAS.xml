@@ -1,0 +1,78 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿The first child (IV-1) was the product of normal pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>61</offset>
+                <text>Prenatal ultrasound showed abnormal head shape, and, therefore, the baby was delivered by low cesarean section at 38 weeks.</text>
+            </sentence>
+            <sentence>
+                <offset>185</offset>
+                <text>His birth weight was 4,080 g (&gt;90%), length 48 cm (&lt;50%) and head circumference 37 cm (&gt;90%).</text>
+            </sentence>
+            <sentence>
+                <offset>279</offset>
+                <text>The Apgar scores were 8 and 9 at 1 and 5 min, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>339</offset>
+                <text>Clinical examination revealed acrocephaly with closed anterior fontanelle, upward slanting of the palpebral fissures, prominent eyes, and depressed nasal bridge with low set ears.</text>
+            </sentence>
+            <sentence>
+                <offset>519</offset>
+                <text>The boy also had brachydactyly with contractures of the proximal interphalangeal joints and complete cutaneous syndactyly between 3rd and 4th fingers bilaterally (fig. ​</text>
+            </sentence>
+            <sentence>
+                <offset>690</offset>
+                <text>(fig.2A).&#13;
+2A).</text>
+            </sentence>
+            <sentence>
+                <offset>706</offset>
+                <text>There was preaxial polydactyly of both feet and syndactyly of all the other toes.</text>
+            </sentence>
+            <sentence>
+                <offset>788</offset>
+                <text>There was bilateral metatarsus varus (fig. ​</text>
+            </sentence>
+            <sentence>
+                <offset>834</offset>
+                <text>(fig.2B).&#13;
+2B).</text>
+            </sentence>
+            <sentence>
+                <offset>850</offset>
+                <text>Cranial CT scan confirmed the presence of synostosis of all sutures.</text>
+            </sentence>
+            <sentence>
+                <offset>919</offset>
+                <text>There was dilatation of the lateral ventricles.</text>
+            </sentence>
+            <sentence>
+                <offset>967</offset>
+                <text>Ophthalmological examination was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1008</offset>
+                <text>Craniosynostosis was operated on successfully.</text>
+            </sentence>
+            <sentence>
+                <offset>1055</offset>
+                <text>This child is 7 years old now and has mild developmental delay.</text>
+            </sentence>
+            <sentence>
+                <offset>1119</offset>
+                <text>He is attending school and is at the appropriate grade level; however, he needs extra help.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,290 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This girl was the first child of healthy apparently non-consanguineous Brazilian parents.</text>
+            </sentence>
+            <sentence>
+                <offset>90</offset>
+                <text>Prenatal ultrasound revealed club foot and congenital heart defect.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001762</infon>
+                    <location length="9" offset="29"/>
+                    <text>club foot</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001627</infon>
+                    <location length="23" offset="43"/>
+                    <text>congenital heart defect</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>158</offset>
+                <text>She was born at term with a weight of 2.8 kg and length of 44 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>224</offset>
+                <text>She had a flat midface, grooved nasal tip, and crumpled ears (Fig. 2A).</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011800</infon>
+                    <location length="12" offset="10"/>
+                    <text>flat midface</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004112</infon>
+                    <location length="17" offset="24"/>
+                    <text>grooved nasal tip</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009901</infon>
+                    <location length="13" offset="47"/>
+                    <text>crumpled ears</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>296</offset>
+                <text>Cardiac ultrasound showed that the congenital heart defect consisted of atrial and ventricular septal defects.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001627</infon>
+                    <location length="23" offset="35"/>
+                    <text>congenital heart defect</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="72"/>
+                    <text>atrial</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001629</infon>
+                    <location length="26" offset="83"/>
+                    <text>ventricular septal defects</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="95"/>
+                    <text>septal defects</text>
+                </annotation>
+                <relation id="10">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001631</infon>
+                    <node refid="7" role="source"/>
+                    <node refid="9" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>407</offset>
+                <text>Congenital bilateral cataracts were detected at day 2 of age.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000518</infon>
+                    <location length="9" offset="21"/>
+                    <text>cataracts</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>469</offset>
+                <text>The left leg was shorter than the right as a consequence of hip dysplasia/luxation and tibial hemi-melia (left tibia was truncated at the midshaft level) (Fig. 2B).</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="4"/>
+                    <text>left leg</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="22" offset="17"/>
+                    <text>shorter than the right</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001385</infon>
+                    <location length="13" offset="60"/>
+                    <text>hip dysplasia</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="3" offset="60"/>
+                    <text>hip</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="74"/>
+                    <text>luxation</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005772</infon>
+                    <location length="17" offset="87"/>
+                    <text>tibial hemi-melia</text>
+                </annotation>
+                <relation id="14">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100559</infon>
+                    <node refid="12" role="source"/>
+                    <node refid="13" role="target"/>
+                </relation>
+                <relation id="18">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002827</infon>
+                    <node refid="16" role="source"/>
+                    <node refid="17" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>634</offset>
+                <text>Abdominal ultrasound, audiological evaluation, and karyotype were all normal.</text>
+            </sentence>
+            <sentence>
+                <offset>712</offset>
+                <text>Tracheostomy was performed at one month of age because of laryngomalacia and gastrostomy because of gastroesophageal reflux.</text>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001601</infon>
+                    <location length="14" offset="58"/>
+                    <text>laryngomalacia</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002020</infon>
+                    <location length="23" offset="100"/>
+                    <text>gastroesophageal reflux</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>837</offset>
+                <text>An umbilical hernia was corrected at 2.5 years of age and the gastrostomy tube was removed at that time.</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001537</infon>
+                    <location length="16" offset="3"/>
+                    <text>umbilical hernia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>942</offset>
+                <text>Her motor development was delayed but intelligence was within normal limits.</text>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="4"/>
+                    <text>motor development</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="26"/>
+                    <text>delayed</text>
+                </annotation>
+                <relation id="25">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001270</infon>
+                    <node refid="23" role="source"/>
+                    <node refid="24" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1019</offset>
+                <text>At age 2 years and 3 months, her growth parameters were weight 8.8 kg (&lt;5th centile), height (&lt;5th centile), and head circumference 46.5 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>1160</offset>
+                <text>Radiographs taken at 2 months of age, showed coronal clefts in all lumbar vertebrae and epiphyseal delay (Fig. 1).</text>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003417</infon>
+                    <location length="14" offset="45"/>
+                    <text>coronal clefts</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002663</infon>
+                    <location length="16" offset="88"/>
+                    <text>epiphyseal delay</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1275</offset>
+                <text>The repeat radiographs at 2 years and 3 months showed resolution of the coronal clefts leaving only an indentation.</text>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003417</infon>
+                    <location length="14" offset="72"/>
+                    <text>coronal clefts</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1391</offset>
+                <text>There was persistent epiphyseal delay with no visible ossification of the capital femoral epiphyses and microepiphyses at both knees.</text>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002663</infon>
+                    <location length="16" offset="21"/>
+                    <text>epiphyseal delay</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008820</infon>
+                    <location length="56" offset="43"/>
+                    <text>no visible ossification of the capital femoral epiphyses</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="104"/>
+                    <text>microepiphyses</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="127"/>
+                    <text>knees</text>
+                </annotation>
+                <relation id="32">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005715</infon>
+                    <node refid="33" role="source"/>
+                    <node refid="31" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1525</offset>
+                <text>A chevron deformity was present at both distal femurs.</text>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="2"/>
+                    <text>chevron deformity</text>
+                </annotation>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="13" offset="40"/>
+                    <text>distal femurs</text>
+                </annotation>
+                <relation id="35">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="36" role="source"/>
+                    <node refid="34" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1580</offset>
+                <text>There was also a delay in carpal bone ossification.</text>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001216</infon>
+                    <location length="33" offset="17"/>
+                    <text>delay in carpal bone ossification</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

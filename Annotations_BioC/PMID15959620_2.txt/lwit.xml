@@ -1,0 +1,100 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The son of the proposita presented with a painful and swollen right leg and was easily fatigued.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="42"/>
+                    <text>painful</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="54"/>
+                    <text>swollen</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="3" offset="68"/>
+                    <text>leg</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="3" offset="68"/>
+                    <text>leg</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003388</infon>
+                    <location length="15" offset="80"/>
+                    <text>easily fatigued</text>
+                </annotation>
+                <relation id="2">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012514</infon>
+                    <node refid="3" role="source"/>
+                    <node refid="1" role="target"/>
+                </relation>
+                <relation id="5">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010741</infon>
+                    <node refid="6" role="source"/>
+                    <node refid="4" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>97</offset>
+                <text>At examination he showed no dysmorphic features and had a normal gait.</text>
+            </sentence>
+            <sentence>
+                <offset>168</offset>
+                <text>Initially, it was thought that his symptoms were caused by traumas, as he practiced kickboxing as a hobby.</text>
+            </sentence>
+            <sentence>
+                <offset>275</offset>
+                <text>Radiologically, in retrospect, the typical, symmetrical, cortical thickening of the diaphysis of the lower extremities was observed (Fig. 2).</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005791</infon>
+                    <location length="36" offset="57"/>
+                    <text>cortical thickening of the diaphysis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>417</offset>
+                <text>He also showed sclerosis of the metacarpalia of the left hand.</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006174</infon>
+                    <location length="29" offset="15"/>
+                    <text>sclerosis of the metacarpalia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>480</offset>
+                <text>The presence of radiologically confirmed bone abnormalities in the proposita (Fig. 1) as well as in her son (Fig. 2) suggested an autosomal dominant inheritance pattern.</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011842</infon>
+                    <location length="18" offset="41"/>
+                    <text>bone abnormalities</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>650</offset>
+                <text>Consequently, we could rule out melorheostosis (which are mostly sporadic cases) as well as van Buchem’s disease (autosomal recessive inheritance) as possible diagnoses.</text>
+            </sentence>
+            <sentence>
+                <offset>820</offset>
+                <text>This led us to the diagnosis of Camurati–Engelmann Disease (CED).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

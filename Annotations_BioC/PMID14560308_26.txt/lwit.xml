@@ -1,0 +1,167 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 26 was the proband of a family in which there was evidence of a family trait of short stature and brachydactyly consistent with X-linked inheritance.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004322</infon>
+                    <location length="13" offset="89"/>
+                    <text>short stature</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001156</infon>
+                    <location length="13" offset="107"/>
+                    <text>brachydactyly</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>159</offset>
+                <text>At the age of 16 months, his weight was 10.75 kg (25th percentile), height 78 cm (10th percentile), head circumference 46 cm (10th percentile), inner canthal distance 3 cm (90th percentile) and outer canthal distance was 8.5 cm (90th percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>406</offset>
+                <text>At the age of 3 years, he was diagnosed as having AAS based on the following features: round face, hypertelorism, epicanthic folds, widow's peak, small nose with anteverted nares, long philtrum, cutaneous syndactyly with brachydactyly and clinodactyly of the IVth and Vth fingers, right inguinal hernia, umbilical hernia, shawl scrotum, short stature and bilateral varus metatarsus.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000311</infon>
+                    <location length="10" offset="87"/>
+                    <text>round face</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="99"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000286</infon>
+                    <location length="16" offset="114"/>
+                    <text>epicanthic folds</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000349</infon>
+                    <location length="12" offset="132"/>
+                    <text>widow's peak</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003196</infon>
+                    <location length="10" offset="146"/>
+                    <text>small nose</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000463</infon>
+                    <location length="16" offset="162"/>
+                    <text>anteverted nares</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000343</infon>
+                    <location length="13" offset="180"/>
+                    <text>long philtrum</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012725</infon>
+                    <location length="20" offset="195"/>
+                    <text>cutaneous syndactyly</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001156</infon>
+                    <location length="13" offset="221"/>
+                    <text>brachydactyly</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0040025</infon>
+                    <location length="24" offset="239"/>
+                    <text>clinodactyly of the IVth</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="239"/>
+                    <text>clinodactyly</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="268"/>
+                    <text>Vth fingers</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000023</infon>
+                    <location length="15" offset="287"/>
+                    <text>inguinal hernia</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001537</infon>
+                    <location length="16" offset="304"/>
+                    <text>umbilical hernia</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000049</infon>
+                    <location length="13" offset="322"/>
+                    <text>shawl scrotum</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004322</infon>
+                    <location length="13" offset="337"/>
+                    <text>short stature</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001840</infon>
+                    <location length="16" offset="365"/>
+                    <text>varus metatarsus</text>
+                </annotation>
+                <relation id="14">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004209</infon>
+                    <node refid="15" role="source"/>
+                    <node refid="13" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>789</offset>
+                <text>Molecular analysis revealed a single nucleotide change in exon 5 (1139A&gt;C), predicted to generate an E380A substitution.</text>
+            </sentence>
+            <sentence>
+                <offset>910</offset>
+                <text>Subsequent mutational analysis in other individuals from the family identified the same nucleotide alteration in his mother (patient 47) and maternal aunt (patient 48), as well as in his affected cousin (patient 27, son of patient 48) and maternal grandmother (patient 46).</text>
+            </sentence>
+            <sentence>
+                <offset>1184</offset>
+                <text>The affected cousin is an 18-month-old boy presenting with similar clinical features: round face, hypertelorism, down-slanting palpebral fissures, widow's peak, small nose with anteverted nares, long philtrum, brachydactyly with interdigital webbing, inguinal and umbilical hernia that required surgical repair, shawl scrotum and short stature.</text>
+            </sentence>
+            <sentence>
+                <offset>1529</offset>
+                <text>Both affected males had normal cognitive development.</text>
+            </sentence>
+            <sentence>
+                <offset>1583</offset>
+                <text>The three carrier females had a milder phenotype with widow's peak, short stature and brachydactyly.</text>
+            </sentence>
+            <sentence>
+                <offset>1683</offset>
+                <text>[a]&#13;
+[a]multiple cases</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

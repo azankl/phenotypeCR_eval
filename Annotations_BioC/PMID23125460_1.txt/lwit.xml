@@ -1,0 +1,180 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Case 1 (figure 1A–C) is now a 4.5-year-old boy, born to third degree consanguineous parents.</text>
+            </sentence>
+            <sentence>
+                <offset>94</offset>
+                <text>The diagnosis of ACLS was suggested because of associated facial dysmorphism including frontal bossing, coarse face, hypertelorism, antimongoloid slant of eyes, epicanthal folds, bilateral ptosis, protruding tongue, upturned upper lip (figure 1A), postaxial polydactyly of hands (figure 1B,C), and postaxial polysyndactyly of the left foot.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001999</infon>
+                    <location length="18" offset="58"/>
+                    <text>facial dysmorphism</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002007</infon>
+                    <location length="15" offset="87"/>
+                    <text>frontal bossing</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000280</infon>
+                    <location length="11" offset="104"/>
+                    <text>coarse face</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="117"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000494</infon>
+                    <location length="27" offset="132"/>
+                    <text>antimongoloid slant of eyes</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000286</infon>
+                    <location length="16" offset="161"/>
+                    <text>epicanthal folds</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000508</infon>
+                    <location length="6" offset="189"/>
+                    <text>ptosis</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010808</infon>
+                    <location length="17" offset="197"/>
+                    <text>protruding tongue</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010803</infon>
+                    <location length="18" offset="216"/>
+                    <text>upturned upper lip</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="21" offset="248"/>
+                    <text>postaxial polydactyly</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="273"/>
+                    <text>hands</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="24" offset="298"/>
+                    <text>postaxial polysyndactyly</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="335"/>
+                    <text>foot</text>
+                </annotation>
+                <relation id="11">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001162</infon>
+                    <node refid="12" role="source"/>
+                    <node refid="10" role="target"/>
+                </relation>
+                <relation id="14">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001830</infon>
+                    <node refid="15" role="source"/>
+                    <node refid="13" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>435</offset>
+                <text>Brain MRI study showed a normal corpus callosum (figure 2A) and an MTS with an abnormal shape of the fourth ventricle and thickened superior cerebellar peduncles (figure 2A,B).</text>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="79"/>
+                    <text>abnormal shape</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="101"/>
+                    <text>fourth ventricle</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002404</infon>
+                    <location length="39" offset="122"/>
+                    <text>thickened superior cerebellar peduncles</text>
+                </annotation>
+                <relation id="17">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010950</infon>
+                    <node refid="18" role="source"/>
+                    <node refid="16" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>612</offset>
+                <text>Moreover, he had global developmental delay, hoarse voice, bilateral cryptorchidism, and hyperpigmented macule on the right side of the chest and arm.</text>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001263</infon>
+                    <location length="26" offset="17"/>
+                    <text>global developmental delay</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001609</infon>
+                    <location length="12" offset="45"/>
+                    <text>hoarse voice</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000028</infon>
+                    <location length="14" offset="69"/>
+                    <text>cryptorchidism</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001034</infon>
+                    <location length="21" offset="89"/>
+                    <text>hyperpigmented macule</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>763</offset>
+                <text>He did not have macrocephaly at 12 months during the initial evaluation as his head circumference (HC) was 46.5 cm (50th centile) and 49.5 cm at 36 months (50th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>934</offset>
+                <text>Karyotype was normal 46,XY and Smith Lemli Opitz syndrome was ruled out with normal levels of 7 and 8 dehydrocholesterol from blood spots.</text>
+            </sentence>
+            <sentence>
+                <offset>1073</offset>
+                <text>His echocardiogram was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1104</offset>
+                <text>Direct sequencing of the KIF7 gene identified a homozygous T to C substitution at the donor splice site of intron 3 c.529+2T&gt;C.</text>
+            </sentence>
+            <sentence>
+                <offset>1232</offset>
+                <text>Sequencing of parents confirmed that they are both heterozygous for this mutation.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

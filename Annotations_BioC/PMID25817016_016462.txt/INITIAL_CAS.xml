@@ -1,0 +1,61 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The individual is a female born at 32 weeks of gestational age after normal pregnancy from nonconsanguineous&#13;
+healthy parents.</text>
+            </sentence>
+            <sentence>
+                <offset>127</offset>
+                <text>Birth weight was 1815 g (60%).</text>
+            </sentence>
+            <sentence>
+                <offset>158</offset>
+                <text>Her psychomotor development&#13;
+was delayed and although she has attended regular elementary school, she has not been able to&#13;
+graduate with a diploma.</text>
+            </sentence>
+            <sentence>
+                <offset>307</offset>
+                <text>Difficulties with social interaction increased after severe bullying by&#13;
+peers.</text>
+            </sentence>
+            <sentence>
+                <offset>387</offset>
+                <text>She had pronounced dental agenesis.</text>
+            </sentence>
+            <sentence>
+                <offset>423</offset>
+                <text>From 11 to 16 years of age she was treated with&#13;
+CPAP for obstructive sleep apnea.</text>
+            </sentence>
+            <sentence>
+                <offset>506</offset>
+                <text>X-ray and 3D CT imaging of the skull showed increased bone&#13;
+density of the cranial and facial bones and anterior nasal spine agenesis.</text>
+            </sentence>
+            <sentence>
+                <offset>641</offset>
+                <text>She has undergone&#13;
+cranial surgery to correct frontal bossing and rhinoplasty.</text>
+            </sentence>
+            <sentence>
+                <offset>720</offset>
+                <text>At 20 years of age she had a height of&#13;
+169.5 cm (70%) and an OFC of 69.4 cm (+4.6 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>808</offset>
+                <text>She has a conductive hearing loss,&#13;
+Scheuermann kyphosis, hypermetropia, concentration problems and mild intellectual disability.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

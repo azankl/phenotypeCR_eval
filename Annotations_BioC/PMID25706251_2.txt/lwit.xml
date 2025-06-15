@@ -1,0 +1,294 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 was a 3375 g (90th centile) female infant born to a then 22-year-old G2P1à2 at 37 weeks gestation via spontaneous vaginal delivery.</text>
+            </sentence>
+            <sentence>
+                <offset>142</offset>
+                <text>The pregnancy was complicated by suspicion for holoprosencephaly and polyhydramnios.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001360</infon>
+                    <location length="17" offset="47"/>
+                    <text>holoprosencephaly</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001561</infon>
+                    <location length="14" offset="69"/>
+                    <text>polyhydramnios</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>227</offset>
+                <text>APGAR scores were two at 1 min and five at 5 min.</text>
+            </sentence>
+            <sentence>
+                <offset>277</offset>
+                <text>The patient was intubated in the delivery room with initial concern for Crouzon syndrome.</text>
+            </sentence>
+            <sentence>
+                <offset>367</offset>
+                <text>Postnatal brain MRI did not demonstrate holoprosencephaly but rather severe hydrocephalus associated with cloverleaf skull resulting in placement of a ventriculoperitoneal shunt at 2 weeks of age.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000238</infon>
+                    <location length="13" offset="76"/>
+                    <text>hydrocephalus</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002676</infon>
+                    <location length="16" offset="106"/>
+                    <text>cloverleaf skull</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>564</offset>
+                <text>The child failed extubation perhaps secondary to choanal stenosis/atresia.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000452</infon>
+                    <location length="16" offset="49"/>
+                    <text>choanal stenosis</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="49"/>
+                    <text>choanal</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="66"/>
+                    <text>atresia</text>
+                </annotation>
+                <relation id="8">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000453</infon>
+                    <node refid="6" role="source"/>
+                    <node refid="7" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>639</offset>
+                <text>The medical team was unable to pass an NG tube through the nares and the bony passageway appeared narrow on the CT scan.</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="59"/>
+                    <text>nares</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="98"/>
+                    <text>narrow</text>
+                </annotation>
+                <relation id="11">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009933</infon>
+                    <node refid="9" role="source"/>
+                    <node refid="10" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>760</offset>
+                <text>They were not able to assess whether there was membranous atresia versus stenosis because of the copious secretions and insufficient visualization on CT.</text>
+            </sentence>
+            <sentence>
+                <offset>914</offset>
+                <text>Therefore, at least choanal stenosis was confirmed with possible choanal atresia.</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000452</infon>
+                    <location length="16" offset="20"/>
+                    <text>choanal stenosis</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000453</infon>
+                    <location length="15" offset="65"/>
+                    <text>choanal atresia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>996</offset>
+                <text>She was transferred to a tertiary care center at 1 month of age following a significant aspiration event, where she was evaluated by clinical genetics consultants.</text>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002835</infon>
+                    <location length="16" offset="88"/>
+                    <text>aspiration event</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1163</offset>
+                <text>Physical examination was concerning for pancraniosynostosis resulting in cloverleaf skull, hypertelorism (interpupillary distance &gt;97th centile for age) with shallow orbits and proptosis, cutis gyrata of the forehead and in the preauricular region (Fig. 1).</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011325</infon>
+                    <location length="19" offset="40"/>
+                    <text>pancraniosynostosis</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002676</infon>
+                    <location length="16" offset="73"/>
+                    <text>cloverleaf skull</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="91"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000586</infon>
+                    <location length="14" offset="158"/>
+                    <text>shallow orbits</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000520</infon>
+                    <location length="9" offset="177"/>
+                    <text>proptosis</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010541</infon>
+                    <location length="28" offset="188"/>
+                    <text>cutis gyrata of the forehead</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004450</infon>
+                    <location length="19" offset="228"/>
+                    <text>preauricular region</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1421</offset>
+                <text>The hypertelorism was striking and similar to prior reported patients with cloverleaf skull, although its relative proportion to the head circumference was difficult to interpret because of the grossly abnormal head shape and size due to both craniosynostosis and hydrocephalus for which she had received VP shunt.</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="4"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002676</infon>
+                    <location length="16" offset="75"/>
+                    <text>cloverleaf skull</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000929</infon>
+                    <location length="19" offset="202"/>
+                    <text>abnormal head shape</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001363</infon>
+                    <location length="16" offset="243"/>
+                    <text>craniosynostosis</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000238</infon>
+                    <location length="13" offset="264"/>
+                    <text>hydrocephalus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1736</offset>
+                <text>In addition, the child had multiple hair whorls on her scalp and hypertrichosis, a skin tag on the left nipple, hemangioma on her back, an anteriorly placed anus, sacral dimple, rugated labia, and prominent clitoris.</text>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010813</infon>
+                    <location length="20" offset="27"/>
+                    <text>multiple hair whorls</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000998</infon>
+                    <location length="14" offset="65"/>
+                    <text>hypertrichosis</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010609</infon>
+                    <location length="8" offset="83"/>
+                    <text>skin tag</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001028</infon>
+                    <location length="10" offset="112"/>
+                    <text>hemangioma</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001545</infon>
+                    <location length="22" offset="139"/>
+                    <text>anteriorly placed anus</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000960</infon>
+                    <location length="13" offset="163"/>
+                    <text>sacral dimple</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030913</infon>
+                    <location length="13" offset="178"/>
+                    <text>rugated labia</text>
+                </annotation>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008665</infon>
+                    <location length="18" offset="197"/>
+                    <text>prominent clitoris</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1953</offset>
+                <text>These findings were felt to be consistent with a diagnosis of BSS.</text>
+            </sentence>
+            <sentence>
+                <offset>2020</offset>
+                <text>A chest CT scan was performed and a TCS “could not be ruled out” and further evaluation was recommended.</text>
+            </sentence>
+            <sentence>
+                <offset>2125</offset>
+                <text>Unfortunately, her clinical status never permitted a bronchoscopy.</text>
+            </sentence>
+            <sentence>
+                <offset>2192</offset>
+                <text>Molecular testing was done, demonstrating c.1115C&gt;G resulting in p.Ser372Cys in FGFR2, which has been previously reported in BSS.</text>
+            </sentence>
+            <sentence>
+                <offset>2322</offset>
+                <text>Due to the poor prognosis related to BSS and clinical status related to her aspiration event, care was withdrawn at 5 weeks of age.</text>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002835</infon>
+                    <location length="16" offset="76"/>
+                    <text>aspiration event</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2454</offset>
+                <text>Autopsy was declined so the presence of a TCS could not be confirmed.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

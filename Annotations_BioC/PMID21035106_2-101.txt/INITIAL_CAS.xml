@@ -1,0 +1,52 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The patient in family 2 (individual 2-101; IV-1 in Figure 1C) is a female aged 9 years, the only affected child of first-cousin parents.</text>
+            </sentence>
+            <sentence>
+                <offset>137</offset>
+                <text>She was born at term with a birth weight of 2800 g.</text>
+            </sentence>
+            <sentence>
+                <offset>189</offset>
+                <text>Her initial developmental skills were within the normal limits, with walking and starting to talk at around 15 months of age.</text>
+            </sentence>
+            <sentence>
+                <offset>315</offset>
+                <text>Her height, weight, and head circumference at 9 years of age were 124.5 cm (10th centile), 25 kg (25th centile), and 51 cm (25th centile), respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>468</offset>
+                <text>Her interpupillar, outer, and inner canthal distances and palpebral fissure lengths were 55 mm (75th centile) and 10 cm (&gt;97th centile) and 41 mm (&gt;95th centile) and 29 mm (between the 50th and 75th centiles), respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>692</offset>
+                <text>The clinical phenotype included highly arched eyebrows, telecanthus, high nasal bridge, blepharoptosis, epicanthus inversus, limited upward gaze, downslanting palpebral fissures, ectropion of lateral third of lower eyelids, synophyris, downturned corners of the mouth, slightly bifid nasal tip, supraumbilical depression, short and tapering fingers with fifth finger clinodactyly, coccygeal skin appendage with a deep groove (Figure 1A), and syndactyly between the second and third toes in the right side.</text>
+            </sentence>
+            <sentence>
+                <offset>1198</offset>
+                <text>She was found to have mild mental retardation (full-scale IQ was 54).</text>
+            </sentence>
+            <sentence>
+                <offset>1268</offset>
+                <text>Pure tone audiogram was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1300</offset>
+                <text>Abdominal ultrasound showed fused cross ectopia of the left kidney.</text>
+            </sentence>
+            <sentence>
+                <offset>1368</offset>
+                <text>Echocardiography showed small patent ductus arteriosus at 9 years of age.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

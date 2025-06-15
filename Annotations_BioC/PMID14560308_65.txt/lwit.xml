@@ -1,0 +1,136 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 65, a 16-year-old boy from Ireland, was born following a normal pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>84</offset>
+                <text>He had a full-term normal delivery and his birth weight was 3.4 kg.</text>
+            </sentence>
+            <sentence>
+                <offset>152</offset>
+                <text>At birth, he was noted to have brachydactyly and camptodactyly, abnormal feet and shawl scrotum with bilateral undescended testicles.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001156</infon>
+                    <location length="13" offset="31"/>
+                    <text>brachydactyly</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012385</infon>
+                    <location length="13" offset="49"/>
+                    <text>camptodactyly</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001760</infon>
+                    <location length="13" offset="64"/>
+                    <text>abnormal feet</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000049</infon>
+                    <location length="13" offset="82"/>
+                    <text>shawl scrotum</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000028</infon>
+                    <location length="21" offset="111"/>
+                    <text>undescended testicles</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>286</offset>
+                <text>At the time of the investigation, he presented with hypertelorism (measurements are not available), slight downward slant palpebral fissures, short nose, broad philtrum, broad mouth, short broad hand, shawl scrotum with bilateral scars from previous orchidopexies.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="52"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000494</infon>
+                    <location length="33" offset="107"/>
+                    <text>downward slant palpebral fissures</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003196</infon>
+                    <location length="10" offset="142"/>
+                    <text>short nose</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000289</infon>
+                    <location length="14" offset="154"/>
+                    <text>broad philtrum</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000154</infon>
+                    <location length="11" offset="170"/>
+                    <text>broad mouth</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="183"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001169</infon>
+                    <location length="10" offset="189"/>
+                    <text>broad hand</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="195"/>
+                    <text>hand</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000049</infon>
+                    <location length="13" offset="201"/>
+                    <text>shawl scrotum</text>
+                </annotation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004279</infon>
+                    <node refid="13" role="source"/>
+                    <node refid="11" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>551</offset>
+                <text>The patient has progressed through puberty satisfactorily attaining a normal height (175 cm).</text>
+            </sentence>
+            <sentence>
+                <offset>645</offset>
+                <text>Intelligence was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>670</offset>
+                <text>Molecular analysis revealed a single nucleotide deletion in exon 17 (2530del G).</text>
+            </sentence>
+            <sentence>
+                <offset>751</offset>
+                <text>This mutation resulted in a frameshift after codon 843 with a predicted premature termination at the codon 862.</text>
+            </sentence>
+            <sentence>
+                <offset>863</offset>
+                <text>Other members of his family were not available for further investigations, although his maternal uncle and his mother's sister son are clinically affected.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

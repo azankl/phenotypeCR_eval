@@ -1,0 +1,249 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>He was born after a pregnancy complicated by lack of prenatatal care by normal spontaneous&#13;
+delivery at 40 weeks gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>124</offset>
+                <text>He is the second child born to nonconsanguineous parents of&#13;
+Turkish descent and has two healthy female siblings.</text>
+            </sentence>
+            <sentence>
+                <offset>238</offset>
+                <text>He was hospitalized for 20 days during the&#13;
+newborn period due to facial dysmorphic features, micropenis, vesicourethral reflux (VUR) and&#13;
+medullar nephrocalcinosis.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000271</infon>
+                    <location length="26" offset="66"/>
+                    <text>facial dysmorphic features</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000054</infon>
+                    <location length="10" offset="94"/>
+                    <text>micropenis</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000076</infon>
+                    <infon key="Comment">! Typo</infon>
+                    <location length="21" offset="106"/>
+                    <text>vesicourethral reflux</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000076</infon>
+                    <infon key="Comment">! Abbreviation</infon>
+                    <location length="3" offset="129"/>
+                    <text>VUR</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000121</infon>
+                    <location length="16" offset="148"/>
+                    <text>nephrocalcinosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>404</offset>
+                <text>At the age of 6.5 months, at his initial examination at the genetics&#13;
+outpatient clinics, he showed OFC 48 cm (98%), a large anterior fontanel (7x7 cm) and facial&#13;
+dysmorphisms as displayed in table 1.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000260</infon>
+                    <location length="23" offset="119"/>
+                    <text>large anterior fontanel</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000271</infon>
+                    <location length="20" offset="156"/>
+                    <text>facial&#13;
+dysmorphisms</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>606</offset>
+                <text>As increased skull bone density was noted in two other&#13;
+individuals with a DVL1 mutation, bone density in this individual was subsequently assessed by&#13;
+DEXA scan and showed increased general bone density.</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004330</infon>
+                    <location length="28" offset="3"/>
+                    <text>increased skull bone density</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005789</infon>
+                    <location length="30" offset="173"/>
+                    <text>increased general bone density</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>811</offset>
+                <text>He had umbilical hernia, crytorchidism,&#13;
+micropenis (1.5 cm) and glandular hypospadias.</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001537</infon>
+                    <location length="16" offset="7"/>
+                    <text>umbilical hernia</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000028</infon>
+                    <location length="13" offset="25"/>
+                    <text>crytorchidism</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000054</infon>
+                    <location length="10" offset="41"/>
+                    <text>micropenis</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000047</infon>
+                    <location length="11" offset="75"/>
+                    <text>hypospadias</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>899</offset>
+                <text>He experienced recurrent urinary system&#13;
+infections and a radionuclide scan showed scar lesions bilaterally, a large right kidney and small&#13;
+left kidney with reduced function.</text>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000010</infon>
+                    <location length="26" offset="25"/>
+                    <text>urinary system&#13;
+infections</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="12" offset="83"/>
+                    <text>scar lesions</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="111"/>
+                    <text>large</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="123"/>
+                    <text>kidney</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="134"/>
+                    <text>small</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="146"/>
+                    <text>kidney</text>
+                </annotation>
+                <relation id="17">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000105</infon>
+                    <node refid="18" role="source"/>
+                    <node refid="16" role="target"/>
+                </relation>
+                <relation id="20">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000089</infon>
+                    <node refid="21" role="source"/>
+                    <node refid="19" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1075</offset>
+                <text>He had surgery for cryptorchidism (3 times), umbilical hernia&#13;
+and VUR.</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000028</infon>
+                    <location length="14" offset="19"/>
+                    <text>cryptorchidism</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001537</infon>
+                    <location length="16" offset="45"/>
+                    <text>umbilical hernia</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000076</infon>
+                    <infon key="Comment">! Abbreviation</infon>
+                    <location length="3" offset="67"/>
+                    <text>VUR</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1147</offset>
+                <text>After the VUR operation, enuresis regressed, urinary system infections disappeared&#13;
+and hydronephrosis improved.</text>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000010</infon>
+                    <location length="25" offset="45"/>
+                    <text>urinary system infections</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000126</infon>
+                    <location length="14" offset="88"/>
+                    <text>hydronephrosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1260</offset>
+                <text>He experienced two seizures at the age of 15 years.</text>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001250</infon>
+                    <location length="8" offset="19"/>
+                    <text>seizures</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1312</offset>
+                <text>He is treated&#13;
+with Depakine (500 mg/day) and remains seizure-free.</text>
+            </sentence>
+            <sentence>
+                <offset>1380</offset>
+                <text>At 15 years and 6 months he had a height&#13;
+of 178.5 cm (80%) and an OFC of 63.5 cm (+4.2SD).</text>
+            </sentence>
+            <sentence>
+                <offset>1472</offset>
+                <text>He showed a normal neurodevelopment&#13;
+and was a very social adolescent with intellectual performance at upper limits (not tested)&#13;
+attending high school with good grades.</text>
+            </sentence>
+            <sentence>
+                <offset>1642</offset>
+                <text>He was diagnosed as AD Robinow initially, ROR2 and&#13;
+also WNT5 mutation testing had been negative.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

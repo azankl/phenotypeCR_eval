@@ -1,0 +1,40 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 4 was a 23-month-old boy.</text>
+            </sentence>
+            <sentence>
+                <offset>35</offset>
+                <text>Intrauterine growth retardation was noticed during pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>97</offset>
+                <text>He had asphyxia neonatorum after birth, and his birth length was 43 cm and birth weight 3100 g.</text>
+            </sentence>
+            <sentence>
+                <offset>193</offset>
+                <text>Gesell Developmental Test revealed a severe developmental delay (Motor: moderate; Language: low normal; Adaptive: severe; Personal-social: severe).</text>
+            </sentence>
+            <sentence>
+                <offset>341</offset>
+                <text>Distinctive facial features included macrocephaly (HC = 52 cm, + 3SD), Triangular face, presence of lower eyelid fat pads, pointed chin, wide palpebral fissures, upturned nose and low nasal bridge.</text>
+            </sentence>
+            <sentence>
+                <offset>539</offset>
+                <text>Skeletal finding included pectus carinatum and pes planus.</text>
+            </sentence>
+            <sentence>
+                <offset>598</offset>
+                <text>His results of intelligence and endocrine evaluation were normal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

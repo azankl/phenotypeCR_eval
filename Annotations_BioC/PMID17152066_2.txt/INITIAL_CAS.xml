@@ -1,0 +1,44 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿The last child is a 6-year-old boy.</text>
+            </sentence>
+            <sentence>
+                <offset>37</offset>
+                <text>He was born at term, delivered by cesarean.</text>
+            </sentence>
+            <sentence>
+                <offset>81</offset>
+                <text>During gestation a normal fetal karyotype was diagnosed.</text>
+            </sentence>
+            <sentence>
+                <offset>138</offset>
+                <text>At 36 weeks 3D ultrasonography showed telecanthus, short nose, long philtrum and short femur (Fig. 3A).</text>
+            </sentence>
+            <sentence>
+                <offset>242</offset>
+                <text>At birth, he weighed 3,660 g (50th centile), was 48.6 cm long (10th centile) and had an OFC of 34.9 cm (50th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>361</offset>
+                <text>Cardiac examination, transfontanellar sonography, skeletal readiographs, and abdominal ultrasound were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>472</offset>
+                <text>Mental development was shown to be normal and no behavioral problems were reported.</text>
+            </sentence>
+            <sentence>
+                <offset>556</offset>
+                <text>At present, the patient's physical examination shows short stature (107 cm; &lt;3rd centile, −2.5 SD), OFC of 52 cm (50th centile), round face, widow's peak, synophrys, inner canthal distance of 3.4 cm (&gt;97th centile) and outer canthal distance of 9.4 cm (&gt;97th centile), palpebral ptosis, short nose, anteverted nares, long philtrum, bifid uvula, curved linear dimple below the lower lip, low-set ears, short neck, pectus excavatum, prominent umbilicus, brachydactyly with mild soft tissue webbing between the fingers, single crease in the fifth fingers, broad halluces (Fig. 3B,C).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

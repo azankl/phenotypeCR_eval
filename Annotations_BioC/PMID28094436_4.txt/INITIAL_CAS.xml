@@ -1,0 +1,44 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 4 was diagnosed with CHH at 4 months.</text>
+            </sentence>
+            <sentence>
+                <offset>46</offset>
+                <text>She had short stature with short limbs, sparse hair, joint hypermobility and varus deformity.</text>
+            </sentence>
+            <sentence>
+                <offset>140</offset>
+                <text>Her growth followed the −5.0 SDS curve.</text>
+            </sentence>
+            <sentence>
+                <offset>180</offset>
+                <text>At 2 years, she presented with severe anemia (Hb 45 g/L) and almost total erythroaplasia on bone marrow evaluation.</text>
+            </sentence>
+            <sentence>
+                <offset>296</offset>
+                <text>Anemia recovered spontaneously and the etiology remained unknown.</text>
+            </sentence>
+            <sentence>
+                <offset>362</offset>
+                <text>At 6.5 years, she developed aggressive B-cell lymphoma.</text>
+            </sentence>
+            <sentence>
+                <offset>418</offset>
+                <text>Primary tumor was detected in the adrenal gland and pulmonary metastases were present at diagnosis.</text>
+            </sentence>
+            <sentence>
+                <offset>518</offset>
+                <text>Treatment was unsuccessful and she died at the age of 7 years.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

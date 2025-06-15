@@ -1,0 +1,176 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿This was a 15 4/7 week fetus delivered to a 29-year-old gravida 2 para 1 mother with a history of gestational diabetes, asthma, smoking, and prior cesarean section.</text>
+            </sentence>
+            <sentence>
+                <offset>166</offset>
+                <text>There was no relevant family history.</text>
+            </sentence>
+            <sentence>
+                <offset>204</offset>
+                <text>Prenatal ultrasound revealed a cystic hygroma, possible facial clefting, an abnormal 4-chamber heart, a small chest, upper limb shortening, and an unspecified lower limb deformity.</text>
+            </sentence>
+            <sentence>
+                <offset>385</offset>
+                <text>Elective termination by D&amp;E was performed.</text>
+            </sentence>
+            <sentence>
+                <offset>428</offset>
+                <text>Tissue for cytogenetic analysis was sent from the operating room and revealed a normal female karyotype (46, XX).</text>
+            </sentence>
+            <sentence>
+                <offset>542</offset>
+                <text>A full autopsy was requested.</text>
+            </sentence>
+            <sentence>
+                <offset>573</offset>
+                <text>Postmortem examination revealed markedly fragmented fetal remains.</text>
+            </sentence>
+            <sentence>
+                <offset>640</offset>
+                <text>Toe–heel length was small for gestational age (1.4 cm, expected for 13–14 weeks gestation) [11].</text>
+            </sentence>
+            <sentence>
+                <offset>737</offset>
+                <text>The head and skull bones were markedly disrupted, precluding determination of head circumference.</text>
+            </sentence>
+            <sentence>
+                <offset>835</offset>
+                <text>The right eye was disrupted, but the left eye was intact and appeared normal.</text>
+            </sentence>
+            <sentence>
+                <offset>913</offset>
+                <text>The left ear appeared posteriorly rotated.</text>
+            </sentence>
+            <sentence>
+                <offset>956</offset>
+                <text>The nasal choanae were patent.</text>
+            </sentence>
+            <sentence>
+                <offset>987</offset>
+                <text>The upper lip and palate were both intact.</text>
+            </sentence>
+            <sentence>
+                <offset>1030</offset>
+                <text>A midline uvula was identified.</text>
+            </sentence>
+            <sentence>
+                <offset>1062</offset>
+                <text>The external genitalia were female, but the internal genitalia were disrupted.</text>
+            </sentence>
+            <sentence>
+                <offset>1141</offset>
+                <text>Although the extremities were partially disrupted, all 4 extremities were markedly shortened.</text>
+            </sentence>
+            <sentence>
+                <offset>1235</offset>
+                <text>Five toes were seen on each foot.</text>
+            </sentence>
+            <sentence>
+                <offset>1269</offset>
+                <text>The right foot exhibited talipes equinovarus.</text>
+            </sentence>
+            <sentence>
+                <offset>1315</offset>
+                <text>The right hand was intact and showed mild clinodactyly of the 5th finger but no polydactyly or syndactyly.</text>
+            </sentence>
+            <sentence>
+                <offset>1422</offset>
+                <text>The left hand was partially disrupted.</text>
+            </sentence>
+            <sentence>
+                <offset>1461</offset>
+                <text>The anus could not be identified.</text>
+            </sentence>
+            <sentence>
+                <offset>1495</offset>
+                <text>The spinal column was partially disrupted, but the thoracic spine remained attached to the right ribs.</text>
+            </sentence>
+            <sentence>
+                <offset>1599</offset>
+                <text>The thoracic cavity, diaphragm, pericardial cavity, and abdominal cavity were severely disrupted, and some of the organs were not identified among the many loose fragments.</text>
+            </sentence>
+            <sentence>
+                <offset>1772</offset>
+                <text>However, the adrenal glands, right kidney, and spleen were identified and found to be grossly unremarkable.</text>
+            </sentence>
+            <sentence>
+                <offset>1880</offset>
+                <text>The liver, pancreas, heart, and intestines were also identified but partially disrupted; where intact, they appeared grossly unremarkable.</text>
+            </sentence>
+            <sentence>
+                <offset>2019</offset>
+                <text>The placenta was fragmented.</text>
+            </sentence>
+            <sentence>
+                <offset>2049</offset>
+                <text>Radiologic examination was performed on the fetal remains (Figs. 1,2) and revealed ossified but markedly shortened long bones with no fractures [femora = 6 mm in length (expected 12.5–27 mm); humeri = 7 mm in length (expected 12.5–26 mm)] [12].</text>
+            </sentence>
+            <sentence>
+                <offset>2294</offset>
+                <text>In addition, metaphyseal cupping of both femora and humeri was seen.</text>
+            </sentence>
+            <sentence>
+                <offset>2363</offset>
+                <text>Vertebral body ossification was completely absent.</text>
+            </sentence>
+            <sentence>
+                <offset>2414</offset>
+                <text>Rib ossification was present without fractures.</text>
+            </sentence>
+            <sentence>
+                <offset>2462</offset>
+                <text>Skull ossification was present.</text>
+            </sentence>
+            <sentence>
+                <offset>2494</offset>
+                <text>The pelvic bones were markedly disrupted.</text>
+            </sentence>
+            <sentence>
+                <offset>2536</offset>
+                <text>The hands showed faint ossification of all phalanges.</text>
+            </sentence>
+            <sentence>
+                <offset>2590</offset>
+                <text>The distal femoral epiphysis and proximal tibial epiphysis were not ossified.</text>
+            </sentence>
+            <sentence>
+                <offset>2669</offset>
+                <text>Histologically, there was a markedly disordered physis with advanced periosteal ossification, deficient chondroid matrix, markedly enlarged chondrocyte lacunae, and increased cartilage vascularity with perivascular fibrosis (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>2903</offset>
+                <text>Periodic acid–Schiff special staining showed no chondrocyte inclusions.</text>
+            </sentence>
+            <sentence>
+                <offset>2975</offset>
+                <text>The lack of vertebral body ossification was confirmed histologically (Fig. 2).</text>
+            </sentence>
+            <sentence>
+                <offset>3054</offset>
+                <text>Other histologic observations in visceral organs included pseudofollicular change in the definitive adrenal cortex and focal dystrophic calcification in the liver.</text>
+            </sentence>
+            <sentence>
+                <offset>3219</offset>
+                <text>The gross, radiologic, and histologic findings at autopsy were highly suggestive of ACG-2, and further genetic testing was suggested.</text>
+            </sentence>
+            <sentence>
+                <offset>3353</offset>
+                <text>Fresh frozen fetal tissue was sent for COL2A1 mutational analysis.</text>
+            </sentence>
+            <sentence>
+                <offset>3420</offset>
+                <text>Polymerase chain reaction analysis revealed a heterozygous mutation in the COL2A1 gene [c.1358G&gt;A transition (Gly453Asp) in exon 19].</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

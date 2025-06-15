@@ -1,0 +1,52 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 3 was a 20-month-old boy.</text>
+            </sentence>
+            <sentence>
+                <offset>35</offset>
+                <text>His height was 69 cm (− 4.4 SD) and his weight was 7 kg.</text>
+            </sentence>
+            <sentence>
+                <offset>92</offset>
+                <text>Ultrasound scan was done at 6 months' gestation and showed short limbs.</text>
+            </sentence>
+            <sentence>
+                <offset>164</offset>
+                <text>At birth, he was 43 cm long and 2200 g weight.</text>
+            </sentence>
+            <sentence>
+                <offset>211</offset>
+                <text>Growth was consistently slow since birth.</text>
+            </sentence>
+            <sentence>
+                <offset>253</offset>
+                <text>He had triangular face, presence of lower eyelid fat pads, low nasal bridge and pointed chin.</text>
+            </sentence>
+            <sentence>
+                <offset>347</offset>
+                <text>Skeletal survey revealed a pectus excavatum, rib hypoplasia, spondyloepiphyseal dysplasia, claw hand, pes planus.</text>
+            </sentence>
+            <sentence>
+                <offset>461</offset>
+                <text>He also had abnormal gingival hyperplasia enlarged, abdomen and unilateral cryptorchidism.</text>
+            </sentence>
+            <sentence>
+                <offset>552</offset>
+                <text>He had one episode of pneumonia at newborn period.</text>
+            </sentence>
+            <sentence>
+                <offset>603</offset>
+                <text>His development and bone age were normal at 20 months of age.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

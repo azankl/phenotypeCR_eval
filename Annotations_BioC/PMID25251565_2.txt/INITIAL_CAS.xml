@@ -1,0 +1,32 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The father of the index patient was 37 years old at the time of examination.</text>
+            </sentence>
+            <sentence>
+                <offset>77</offset>
+                <text>He showed some dysmorphic signs and limb abnormalities as follows: asymmetry of the skull and face (apparent plagiocephaly), mild ptosis of the left upper eyelid, laterally flared eyebrows, prominent nose with a bulbous tip, long philtrum, downturned corners of the mouth.</text>
+            </sentence>
+            <sentence>
+                <offset>350</offset>
+                <text>His fingers were apparently normal, only mild clinodactyly of the second fingers could be observed.</text>
+            </sentence>
+            <sentence>
+                <offset>450</offset>
+                <text>The great toes were broad with triangular-shaped nails, while the nails on other toes were apparently round.</text>
+            </sentence>
+            <sentence>
+                <offset>559</offset>
+                <text>Syndactyly was not present (Fig. 2A–D).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

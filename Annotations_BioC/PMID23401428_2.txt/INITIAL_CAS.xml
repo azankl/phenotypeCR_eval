@@ -1,0 +1,116 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The second patient was ascertained at 27 weeks gestation after an ultrasound scan showed findings consistent with a severe, micromelic skeletal dysplasia.</text>
+            </sentence>
+            <sentence>
+                <offset>155</offset>
+                <text>The mother was a 21-year-old G2P1, and there was no reported family history of skeletal dysplasia.</text>
+            </sentence>
+            <sentence>
+                <offset>254</offset>
+                <text>A previously done first trimester ultrasound had been consistent with the mother's last menstrual period dates.</text>
+            </sentence>
+            <sentence>
+                <offset>366</offset>
+                <text>At 27 weeks, the long bones all measured at least 7 weeks behind what was expected for the gestational age.</text>
+            </sentence>
+            <sentence>
+                <offset>474</offset>
+                <text>A fetal magnetic resonance imaging scan (MRI) performed a few days later noted micromelic shortening of the upper and lower extremities, ulnar deviation of the wrists, and broad hands with short and broad fingers.</text>
+            </sentence>
+            <sentence>
+                <offset>688</offset>
+                <text>Only one long bone was visualized in the lower segment of both legs, and bilateral talipes was seen.</text>
+            </sentence>
+            <sentence>
+                <offset>789</offset>
+                <text>The chest size was noted to be slightly smaller than the abdomen, and the lung volumes were slightly lower than expected for gestational age.</text>
+            </sentence>
+            <sentence>
+                <offset>931</offset>
+                <text>There was poor visualization of the airway.</text>
+            </sentence>
+            <sentence>
+                <offset>975</offset>
+                <text>An abnormal cardiac axis was noted, but a fetal echocardiogram at 28 weeks showed no structural cardiac defects.</text>
+            </sentence>
+            <sentence>
+                <offset>1088</offset>
+                <text>Kyphosis of the spine was noted at 33 weeks.</text>
+            </sentence>
+            <sentence>
+                <offset>1136</offset>
+                <text>The diagnosis of AO was suggested based on the ultrasound and MRI findings, and the mother was counseled about the expected poor prognosis given these findings.</text>
+            </sentence>
+            <sentence>
+                <offset>1297</offset>
+                <text>The mother chose to continue the pregnancy with a palliative care birth plan.</text>
+            </sentence>
+            <sentence>
+                <offset>1375</offset>
+                <text>At 34 weeks of gestation, labor was induced because of persistent contractions and worsening polyhydramnios.</text>
+            </sentence>
+            <sentence>
+                <offset>1484</offset>
+                <text>The baby had Apgar scores of 1 and 1, at 5 and 10 min, respectively, a weight of 1,984 g (25–50th centile) and a length of 38.1 cm (&lt;3rd centile; 50th centile for 28 weeks of gestation).</text>
+            </sentence>
+            <sentence>
+                <offset>1671</offset>
+                <text>The baby was noted to have a flat facial profile with significant mid-face hypoplasia, a short and upturned nose, a U-shaped cleft palate, a small chest, abnormal posturing of the hands, brachydactyly, and bilateral club feet (Fig. 4A).</text>
+            </sentence>
+            <sentence>
+                <offset>1908</offset>
+                <text>She had an initial heart rate of less than 100 and had one gasping breath after delivery.</text>
+            </sentence>
+            <sentence>
+                <offset>1998</offset>
+                <text>The family pursued comfort care, and their daughter died shortly after delivery.</text>
+            </sentence>
+            <sentence>
+                <offset>2082</offset>
+                <text>A post-mortem skeletal survey showed severe shortening of the humeri, and the right humerus was almost bifid distally (Fig. 4B).</text>
+            </sentence>
+            <sentence>
+                <offset>2211</offset>
+                <text>The ulnae were absent, and there was mild bowing of the radii, with deviation of the wrist to the ulnar side.</text>
+            </sentence>
+            <sentence>
+                <offset>2321</offset>
+                <text>There was very little ossification of the carpals and metacarpals of both hands (Fig. 5).</text>
+            </sentence>
+            <sentence>
+                <offset>2411</offset>
+                <text>The sacrum was not well ossified.</text>
+            </sentence>
+            <sentence>
+                <offset>2445</offset>
+                <text>The femurs were shortened, and the tibiae were short and mildly bowed, with absent fibulae.</text>
+            </sentence>
+            <sentence>
+                <offset>2537</offset>
+                <text>The feet had severe equinovarus deformity, with absent ossification of the hindfoot and forefoot bones, although there was ossification of five metatarsals and four distal phalanges bilaterally.</text>
+            </sentence>
+            <sentence>
+                <offset>2732</offset>
+                <text>The right first metatarsal had a delta phalanx shape, and there was a slightly widened distance between the first and second metatarsals bilaterally.</text>
+            </sentence>
+            <sentence>
+                <offset>2882</offset>
+                <text>The baby had reduced ossification of the cervical and thoracic vertebral bodies, and also had coronal clefts in the lower thoracic and lumbar vertebrae.</text>
+            </sentence>
+            <sentence>
+                <offset>3035</offset>
+                <text>Mutation testing performed at Connective Tissue Gene Tests laboratory on a cord blood sample collected at the time of delivery showed c.541G &gt; C, a transversion predicting p.Gly181Arg in exon 2 of the FLNB gene.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

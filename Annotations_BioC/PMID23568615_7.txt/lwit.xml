@@ -1,0 +1,114 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 7 had medially sparse lower eyelashes, a short soft palate and small and low-set ears with a preauricular tag on the left (Fig. 1d).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007776</infon>
+                    <location length="22" offset="23"/>
+                    <text>sparse lower eyelashes</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="49"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="6" offset="60"/>
+                    <text>palate</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="71"/>
+                    <text>small</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000369</infon>
+                    <location length="12" offset="81"/>
+                    <text>low-set ears</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="89"/>
+                    <text>ears</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000384</infon>
+                    <location length="16" offset="101"/>
+                    <text>preauricular tag</text>
+                </annotation>
+                <relation id="3">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="4" role="source"/>
+                    <node refid="2" role="target"/>
+                </relation>
+                <relation id="6">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008551</infon>
+                    <node refid="7" role="source"/>
+                    <node refid="5" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>141</offset>
+                <text>She had thumb aplasia and radioulnar synostosis on the right and a rudimentary thumb on the left-hand side (Fig. 2m).</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009601</infon>
+                    <location length="13" offset="8"/>
+                    <text>thumb aplasia</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002974</infon>
+                    <location length="21" offset="26"/>
+                    <text>radioulnar synostosis</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009601</infon>
+                    <location length="17" offset="67"/>
+                    <text>rudimentary thumb</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>259</offset>
+                <text>The lower extremities showed bilateral talipes and overriding fifth toes, which had resolved upon follow-up at the age of 4 years (Fig. 3c).</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001883</infon>
+                    <location length="7" offset="39"/>
+                    <text>talipes</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001845</infon>
+                    <location length="21" offset="51"/>
+                    <text>overriding fifth toes</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>400</offset>
+                <text>She suffered from conductive hearing loss.</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000405</infon>
+                    <location length="23" offset="18"/>
+                    <text>conductive hearing loss</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

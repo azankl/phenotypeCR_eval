@@ -1,0 +1,120 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This was a male, 2-month-old baby, the first&#13;
+child of a non-consanguineous couple, with&#13;
+no relevant perinatal history, born at term by&#13;
+C-section due to lack of labor progression.</text>
+            </sentence>
+            <sentence>
+                <offset>183</offset>
+                <text>At 20 days of age, he was admitted to the&#13;
+general pediatric ward for an episode of choking&#13;
+during approximately 1 minute in the context&#13;
+of feeding, associated with hypertonia and&#13;
+generalized florid complexion of spontaneous&#13;
+resolution.</text>
+            </sentence>
+            <sentence>
+                <offset>424</offset>
+                <text>The event was interpreted as a highrisk, brief, resolved, unexplained event (BRUE)&#13;
+because it occurred in an infant less than 1 month&#13;
+old.</text>
+            </sentence>
+            <sentence>
+                <offset>565</offset>
+                <text>The lab tests did not show any pathological&#13;
+finding.</text>
+            </sentence>
+            <sentence>
+                <offset>619</offset>
+                <text>Gastroesophageal reflux disease was&#13;
+ruled out and he was assessed by the Department&#13;
+of Neurology due to a suspected seizure episode,&#13;
+which was ruled out because he had a normal&#13;
+electroencephalogram.</text>
+            </sentence>
+            <sentence>
+                <offset>823</offset>
+                <text>After this event, his parents made several&#13;
+outpatient consultations due to his inconsolable&#13;
+crying.</text>
+            </sentence>
+            <sentence>
+                <offset>925</offset>
+                <text>His crying was interpreted as colic of&#13;
+gastrointestinal origin, and the type of feeding&#13;
+formula was changed.</text>
+            </sentence>
+            <sentence>
+                <offset>1036</offset>
+                <text>Due to the lack of response,&#13;
+a new healthcare provider was consulted.</text>
+            </sentence>
+            <sentence>
+                <offset>1107</offset>
+                <text>During&#13;
+the consultation, upon questioning, the parents reported that the crying worsened when picking&#13;
+him up or changing his diaper or clothes.</text>
+            </sentence>
+            <sentence>
+                <offset>1254</offset>
+                <text>On physical examination, the patient was&#13;
+crying with painful facies that were relieved by&#13;
+rest.</text>
+            </sentence>
+            <sentence>
+                <offset>1352</offset>
+                <text>He remained still, with lower limb abduction,&#13;
+upper limb extension, and minimal head rotation&#13;
+during eye tracking, and he did not rotate or lift&#13;
+his head while in the ventral decubitus position;&#13;
+his hand movements were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1584</offset>
+                <text>On palpation, a mass was noted on the&#13;
+anterior aspect of the right tibia, with no signs of&#13;
+inflammation in the skin.</text>
+            </sentence>
+            <sentence>
+                <offset>1703</offset>
+                <text>The rest of the physical&#13;
+exam was unremarkable.</text>
+            </sentence>
+            <sentence>
+                <offset>1752</offset>
+                <text>In the anthropometric&#13;
+assessment, his height and weight were observed&#13;
+to be adequate for his age.</text>
+            </sentence>
+            <sentence>
+                <offset>1853</offset>
+                <text>A fracture was suspected, even though his&#13;
+parents denied the possibility of trauma, so&#13;
+X-rays were requested.</text>
+            </sentence>
+            <sentence>
+                <offset>1965</offset>
+                <text>These showed evidence&#13;
+of diaphyseal polyostotic involvement with&#13;
+lesions compatible with cortical involvement in&#13;
+the tibiae, humeri, radii, and clavicles (Figures 1&#13;
+and 2).</text>
+            </sentence>
+            <sentence>
+                <offset>2142</offset>
+                <text>It was decided to hospitalize him for pain&#13;
+management and etiological diagnosis</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

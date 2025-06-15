@@ -1,0 +1,32 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 8 had a lower eyelid coloboma and sparse lower eyelashes (Fig. 1e), and was diagnosed with a blocked nasolacrimal duct.</text>
+            </sentence>
+            <sentence>
+                <offset>128</offset>
+                <text>He had micrognathia, choanal stenosis and a tracheoesophageal fistula, and required a tracheostoma for airway management.</text>
+            </sentence>
+            <sentence>
+                <offset>250</offset>
+                <text>The ears were small and dysplastic.</text>
+            </sentence>
+            <sentence>
+                <offset>286</offset>
+                <text>On the right hand, he had a bifid thumb (Fig. 2n).</text>
+            </sentence>
+            <sentence>
+                <offset>337</offset>
+                <text>He suffered from a coarctation of the aorta.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

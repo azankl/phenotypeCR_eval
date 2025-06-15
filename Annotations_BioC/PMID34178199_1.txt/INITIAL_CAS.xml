@@ -1,0 +1,88 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The proband is the second child of non-consanguineous Caucasian parents.</text>
+            </sentence>
+            <sentence>
+                <offset>73</offset>
+                <text>Antenatal scans were normal, and his birth weight was 3.48 Kg (25th-50th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>156</offset>
+                <text>By the time he was two and a half years old, he had developmental delay and pectus excavatum.</text>
+            </sentence>
+            <sentence>
+                <offset>250</offset>
+                <text>His height was on the ninth centile and head circumference on the 75th centile.</text>
+            </sentence>
+            <sentence>
+                <offset>330</offset>
+                <text>An echocardiogram was reported to be normal.</text>
+            </sentence>
+            <sentence>
+                <offset>375</offset>
+                <text>He went on to have multiple hospital admissions for breathing difficulties, including one admission to intensive care due to a Grade 1 subglottic stenosis.</text>
+            </sentence>
+            <sentence>
+                <offset>531</offset>
+                <text>He was later diagnosed with asthma and moderate obstructive sleep apnoea.</text>
+            </sentence>
+            <sentence>
+                <offset>605</offset>
+                <text>The sleep apnoea did not improve despite adenotonsillectomy and he continues to require nocturnal CPAP.</text>
+            </sentence>
+            <sentence>
+                <offset>709</offset>
+                <text>He has also developed extropia following correction for hyperopia.</text>
+            </sentence>
+            <sentence>
+                <offset>776</offset>
+                <text>His hair is coarse and becomes wiry as it grows longer.</text>
+            </sentence>
+            <sentence>
+                <offset>832</offset>
+                <text>He has a mild to moderate degree of learning difficulty.</text>
+            </sentence>
+            <sentence>
+                <offset>892</offset>
+                <text>At age 11 years, his height is on the second centile and he has relative macrocephaly, with a head circumference on the 91st centile and weight between the 75th to 91st centiles.</text>
+            </sentence>
+            <sentence>
+                <offset>1071</offset>
+                <text>Clinically he has mild mesomelic shortening, more evident in his upper limbs, and brachydactyly (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>1180</offset>
+                <text>Due to his short stature, a skeletal survey (Fig. 2, Table 1) was requested.</text>
+            </sentence>
+            <sentence>
+                <offset>1257</offset>
+                <text>Imaging of the upper limbs revealed mild mesomelic shortening, short and broad phalanges and metacarpals with typical cone shaped epiphyses.</text>
+            </sentence>
+            <sentence>
+                <offset>1398</offset>
+                <text>Vertebral bodies were pear shaped with a shorter posterior versus anterior height.</text>
+            </sentence>
+            <sentence>
+                <offset>1481</offset>
+                <text>Mild supra-acetabular notching was identified.</text>
+            </sentence>
+            <sentence>
+                <offset>1528</offset>
+                <text>The radiological appearances were thought to be consistent with a mild form of AMDM.</text>
+            </sentence>
+            <sentence>
+                <offset>1613</offset>
+                <text>Bone biochemistry was normal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

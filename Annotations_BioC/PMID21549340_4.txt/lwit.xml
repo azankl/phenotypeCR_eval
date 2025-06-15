@@ -1,0 +1,181 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>we were consulted about a newborn for whom a Desbuquois dysplasia was suspected; the newborn (patient 4) had been born at 36 weeks, with a length of 42 cm and a head circumference of 33 cm, to healthy parents from the Kerala region of India.</text>
+            </sentence>
+            <sentence>
+                <offset>242</offset>
+                <text>Growth retardation had been noted in the sixth month of pregnancy via ultrasonography.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001510</infon>
+                    <location length="18" offset="0"/>
+                    <text>Growth retardation</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>329</offset>
+                <text>At birth, he was noted to have prominent eyes, a flat face, severe micrognathia with posterior cleft palate, dislocation of both knees, limited extension at both elbows, and a peculiar abduction (lateral deviation) of the fifth toes bilaterally (Figure 1).</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000520</infon>
+                    <location length="14" offset="31"/>
+                    <text>prominent eyes</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012368</infon>
+                    <location length="9" offset="49"/>
+                    <text>flat face</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000347</infon>
+                    <location length="12" offset="67"/>
+                    <text>micrognathia</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <location length="12" offset="95"/>
+                    <text>cleft palate</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004976</infon>
+                    <location length="25" offset="109"/>
+                    <text>dislocation of both knees</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="136"/>
+                    <text>limited extension</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="162"/>
+                    <text>elbows</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100346</infon>
+                    <location length="36" offset="196"/>
+                    <text>lateral deviation) of the fifth toes</text>
+                </annotation>
+                <relation id="8">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001377</infon>
+                    <node refid="9" role="source"/>
+                    <node refid="7" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>586</offset>
+                <text>Radiographic examination showed short metacarpals and phalanges with an accessory ossification center at the base of the first metacarpal in the left hand, whereas the right hand showed splitting of the first metacarpal in two parts (Figure 2).</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010049</infon>
+                    <location length="17" offset="32"/>
+                    <text>short metacarpals</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="32"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="54"/>
+                    <text>phalanges</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="29" offset="72"/>
+                    <text>accessory ossification center</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="121"/>
+                    <text>first metacarpal</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010022</infon>
+                    <location length="33" offset="186"/>
+                    <text>splitting of the first metacarpal</text>
+                </annotation>
+                <relation id="13">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009803</infon>
+                    <node refid="14" role="source"/>
+                    <node refid="12" role="target"/>
+                </relation>
+                <relation id="16">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010022</infon>
+                    <node refid="17" role="source"/>
+                    <node refid="15" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>831</offset>
+                <text>There was moderate shortening of the long bones and subluxation of the radial heads.</text>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003026</infon>
+                    <location length="28" offset="19"/>
+                    <text>shortening of the long bones</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="31" offset="52"/>
+                    <text>subluxation of the radial heads</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>916</offset>
+                <text>The vertebral contour was irregular, but clefting was not observed.</text>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="4"/>
+                    <text>vertebral contour</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="26"/>
+                    <text>irregular</text>
+                </annotation>
+                <relation id="23">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004582</infon>
+                    <node refid="21" role="source"/>
+                    <node refid="22" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>984</offset>
+                <text>Unfortunately, the boy succumbed to aspiration pneumonia as a complication of his palatal cleft on day 5.</text>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011951</infon>
+                    <location length="20" offset="36"/>
+                    <text>aspiration pneumonia</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <location length="13" offset="82"/>
+                    <text>palatal cleft</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

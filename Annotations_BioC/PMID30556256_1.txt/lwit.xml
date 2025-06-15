@@ -1,0 +1,158 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This male patient was born to consanguineous parents (second cousins) of North-West Pakistani origin.</text>
+            </sentence>
+            <sentence>
+                <offset>102</offset>
+                <text>The pregnancy was uncomplicated.</text>
+            </sentence>
+            <sentence>
+                <offset>135</offset>
+                <text>He was delivered at 35 weeks by elective cesarean section and birth weight was 3.40 kg (98th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>238</offset>
+                <text>He spent 1 day following birth in Special Care due to hypoglycemia.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001943</infon>
+                    <location length="12" offset="54"/>
+                    <text>hypoglycemia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>306</offset>
+                <text>He first sat upright at 1 year of age, walked at 2 years, and first words were at 18 months of age.</text>
+            </sentence>
+            <sentence>
+                <offset>409</offset>
+                <text>He was initially referred to his local Genetics service at the age of 13 years and 8 months, with severe learning disability and a diagnosis of Autism Spectrum Disorder.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001328</infon>
+                    <location length="19" offset="105"/>
+                    <text>learning disability</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000717</infon>
+                    <location length="24" offset="144"/>
+                    <text>Autism Spectrum Disorder</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>579</offset>
+                <text>His verbal communication was limited to sentences of a few words.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="20" offset="4"/>
+                    <text>verbal communication</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="29"/>
+                    <text>limited</text>
+                </annotation>
+                <relation id="6">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002465</infon>
+                    <node refid="4" role="source"/>
+                    <node refid="5" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>648</offset>
+                <text>On examination, he had blue irides, synophrys, downslanting palpebral fissures, macroglossia, high arched palate, everted lower lip, low set ears, narrow chest, generalized joint laxity, adducted halluces (Figure 1), and an intention tremor.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000635</infon>
+                    <location length="11" offset="23"/>
+                    <text>blue irides</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000664</infon>
+                    <location length="9" offset="36"/>
+                    <text>synophrys</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000494</infon>
+                    <location length="31" offset="47"/>
+                    <text>downslanting palpebral fissures</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000158</infon>
+                    <location length="12" offset="80"/>
+                    <text>macroglossia</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000218</infon>
+                    <location length="18" offset="94"/>
+                    <text>high arched palate</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000232</infon>
+                    <location length="17" offset="114"/>
+                    <text>everted lower lip</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000369</infon>
+                    <location length="12" offset="133"/>
+                    <text>low set ears</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000774</infon>
+                    <location length="12" offset="147"/>
+                    <text>narrow chest</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002761</infon>
+                    <location length="24" offset="161"/>
+                    <text>generalized joint laxity</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008080</infon>
+                    <location length="17" offset="187"/>
+                    <text>adducted halluces</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002080</infon>
+                    <location length="16" offset="224"/>
+                    <text>intention tremor</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>890</offset>
+                <text>Head circumference was on the 91st centile, height on the 98th centile, and weight between the 50th and 75th centiles.</text>
+            </sentence>
+            <sentence>
+                <offset>1009</offset>
+                <text>MRI brain and spine at the age of 10 years demonstrated low lying cerebellar tonsils.</text>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [Neurology]</infon>
+                    <location length="28" offset="56"/>
+                    <text>low lying cerebellar tonsils</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

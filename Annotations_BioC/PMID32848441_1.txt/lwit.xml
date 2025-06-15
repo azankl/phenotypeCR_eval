@@ -1,0 +1,331 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A 32-yeat old pregnant woman with no relevant past medical history underwent a routine ultrasound scan showing a foetus of 29 weeks of gestational age (WGA).</text>
+            </sentence>
+            <sentence>
+                <offset>158</offset>
+                <text>Findings included frontal prominence and a cloverleaf skull suggestive of craniosynostosis and hypoplastic nasal bone (Figure 1).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002007</infon>
+                    <location length="18" offset="18"/>
+                    <text>frontal prominence</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002676</infon>
+                    <location length="16" offset="43"/>
+                    <text>cloverleaf skull</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001363</infon>
+                    <location length="16" offset="74"/>
+                    <text>craniosynostosis</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025707</infon>
+                    <location length="22" offset="95"/>
+                    <text>hypoplastic nasal bone</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>288</offset>
+                <text>In this ultrasound scan, feet and hands had no abnormalities.</text>
+            </sentence>
+            <sentence>
+                <offset>350</offset>
+                <text>The woman was considered high-risk pregnancy and was referred to a tertiary care center for her weekly follow-up and the caesarean was scheduled at 38 WGA.</text>
+            </sentence>
+            <sentence>
+                <offset>506</offset>
+                <text>After delivery, the female newborn had APGAR scores of 8, 9 and 10 at minutes 1, 5 and 10, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>611</offset>
+                <text>Birth weight was 2862 grams, height was 48 cm and hear circumference was 33 centimeters.</text>
+            </sentence>
+            <sentence>
+                <offset>700</offset>
+                <text>The physical exam showed a cloverleaf skull, hypertelorism, facial hypoplasia, low ears, exophthalmos, sacral dimple, and wide, short and deviated thumbs and hallux (Figure 2).</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002676</infon>
+                    <location length="16" offset="27"/>
+                    <text>cloverleaf skull</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="45"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000274</infon>
+                    <location length="17" offset="60"/>
+                    <text>facial hypoplasia</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000369</infon>
+                    <location length="8" offset="79"/>
+                    <text>low ears</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000520</infon>
+                    <location length="12" offset="89"/>
+                    <text>exophthalmos</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000960</infon>
+                    <location length="13" offset="103"/>
+                    <text>sacral dimple</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="122"/>
+                    <text>wide</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="122"/>
+                    <text>wide</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="128"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="128"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009603</infon>
+                    <location length="15" offset="138"/>
+                    <text>deviated thumbs</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="138"/>
+                    <text>deviated</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="147"/>
+                    <text>thumbs</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="147"/>
+                    <text>thumbs</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="158"/>
+                    <text>hallux</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="158"/>
+                    <text>hallux</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="158"/>
+                    <text>hallux</text>
+                </annotation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011304</infon>
+                    <node refid="13" role="source"/>
+                    <node refid="11" role="target"/>
+                </relation>
+                <relation id="15">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010055</infon>
+                    <node refid="16" role="source"/>
+                    <node refid="14" role="target"/>
+                </relation>
+                <relation id="18">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009778</infon>
+                    <node refid="19" role="source"/>
+                    <node refid="17" role="target"/>
+                </relation>
+                <relation id="21">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010109</infon>
+                    <node refid="22" role="source"/>
+                    <node refid="20" role="target"/>
+                </relation>
+                <relation id="25">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010051</infon>
+                    <node refid="26" role="source"/>
+                    <node refid="24" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>880</offset>
+                <text>The 3D CT head scan confirmed the cloverleaf skull, complete bilateral frontoparietal craniosynostosis, incomplete craniosynostosis of the sagittal and bilateral lambdoid suture, orbital alteration with bilateral proptosis secondary to hypertelorism and trans ependymal edema (Figure 2).</text>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002676</infon>
+                    <location length="16" offset="34"/>
+                    <text>cloverleaf skull</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004440</infon>
+                    <location length="31" offset="71"/>
+                    <text>frontoparietal craniosynostosis</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="115"/>
+                    <text>craniosynostosis</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="115"/>
+                    <text>craniosynostosis</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="139"/>
+                    <text>sagittal</text>
+                </annotation>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="162"/>
+                    <text>lambdoid suture</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_3000030</infon>
+                    <location length="18" offset="179"/>
+                    <text>orbital alteration</text>
+                </annotation>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000520</infon>
+                    <location length="9" offset="213"/>
+                    <text>proptosis</text>
+                </annotation>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="236"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="38">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002181</infon>
+                    <infon key="Comment">! Add term declined, https://github.com/obophenotype/human-phenotype-ontology/issues/10404</infon>
+                    <location length="21" offset="254"/>
+                    <text>trans ependymal edema</text>
+                </annotation>
+                <relation id="31">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004442</infon>
+                    <node refid="32" role="source"/>
+                    <node refid="29" role="target"/>
+                </relation>
+                <relation id="33">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004443</infon>
+                    <node refid="34" role="source"/>
+                    <node refid="30" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1168</offset>
+                <text>The neonatal cranial sonography showed dysgenesis of corpus callosum with tentorium cerebelli high implantation.</text>
+                <annotation id="39">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006989</infon>
+                    <location length="29" offset="39"/>
+                    <text>dysgenesis of corpus callosum</text>
+                </annotation>
+                <annotation id="40">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="37" offset="74"/>
+                    <text>tentorium cerebelli high implantation</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1281</offset>
+                <text>She also had persistent arterial ductus with bidirectional shunt without hemodynamic instability.</text>
+                <annotation id="41">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001643</infon>
+                    <location length="15" offset="24"/>
+                    <text>arterial ductus</text>
+                </annotation>
+                <annotation id="42">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012383</infon>
+                    <location length="19" offset="45"/>
+                    <text>bidirectional shunt</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1379</offset>
+                <text>There were no renal and ophthalmic malformations.</text>
+            </sentence>
+            <sentence>
+                <offset>1432</offset>
+                <text>At the time of the writing this report, the patient was 12 months and was diagnosed with psychomotor development retardation.</text>
+                <annotation id="43">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001263</infon>
+                    <location length="35" offset="89"/>
+                    <text>psychomotor development retardation</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1558</offset>
+                <text>A polysomnogram diagnosed sleep apnea-hypopnea syndrome.</text>
+                <annotation id="44">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010535</infon>
+                    <location length="20" offset="26"/>
+                    <text>sleep apnea-hypopnea</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1615</offset>
+                <text>A nasolaryngoscopy showed multiple turbinoseptal synechiae and right choana atresia.</text>
+                <annotation id="45">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [ENT]</infon>
+                    <location length="23" offset="35"/>
+                    <text>turbinoseptal synechiae</text>
+                </annotation>
+                <annotation id="46">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000453</infon>
+                    <location length="14" offset="69"/>
+                    <text>choana atresia</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

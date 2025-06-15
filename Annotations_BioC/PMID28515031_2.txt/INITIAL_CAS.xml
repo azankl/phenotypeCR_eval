@@ -1,0 +1,68 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 is the mother of patient 1 (17).</text>
+            </sentence>
+            <sentence>
+                <offset>43</offset>
+                <text>She presented at the age of 8.8 years.</text>
+            </sentence>
+            <sentence>
+                <offset>82</offset>
+                <text>At presentation, she had macrocephaly with frontal bossing, midfacial hypoplasia, and small broad hands and feet with brittle nails (Figure 1B).</text>
+            </sentence>
+            <sentence>
+                <offset>227</offset>
+                <text>The big toe of both feet appeared hyperplastic.</text>
+            </sentence>
+            <sentence>
+                <offset>275</offset>
+                <text>The patient had a height between the 3rd and 10th percentiles, a body weight at the 50th percentile, and a head circumference above the 97th percentile.</text>
+            </sentence>
+            <sentence>
+                <offset>428</offset>
+                <text>Radiographs showed severe brachydactyly with short metacarpals II-V, metatarsals II-IV and phalanges, first ray hyperplasia of the foot, cone-shaped epiphyses, and early epiphyseal fusion (Figure 2B).</text>
+            </sentence>
+            <sentence>
+                <offset>629</offset>
+                <text>Bone age was accelerated by 3 years.</text>
+            </sentence>
+            <sentence>
+                <offset>666</offset>
+                <text>Magnetic resonance imaging of the head showed a thickened calvarium, as well as a 2 cm supracerebellar arachnoid cyst and a lipoma at the corpus callosum as incidental findings.</text>
+            </sentence>
+            <sentence>
+                <offset>844</offset>
+                <text>Furthermore, a heart defect with septal aneurysm and atrioventricular valve defect was diagnosed.</text>
+            </sentence>
+            <sentence>
+                <offset>942</offset>
+                <text>At initial presentation, laboratory investigations showed normal thyroid function tests, a normal PTH, and adequate calcium and phosphate levels.</text>
+            </sentence>
+            <sentence>
+                <offset>1088</offset>
+                <text>In the further course, she developed autoimmune thyroiditis as well as vitamin D deficiency.</text>
+            </sentence>
+            <sentence>
+                <offset>1181</offset>
+                <text>According to the medical history, she had started speaking at the age of 4 years.</text>
+            </sentence>
+            <sentence>
+                <offset>1263</offset>
+                <text>However, her further mental development was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1315</offset>
+                <text>She graduated from high school and momentarily studies law at the university.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

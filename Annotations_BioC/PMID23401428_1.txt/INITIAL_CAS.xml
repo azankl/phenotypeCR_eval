@@ -1,0 +1,98 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The first child was a male born by repeat cesarean at 27 weeks and 3 days gestation to a 35-year-old, G10P7-8 mother after she presented with premature rupture of membranes 4 days prior to delivery.</text>
+            </sentence>
+            <sentence>
+                <offset>199</offset>
+                <text>The mother had received limited prenatal care; however, she did have three sonograms that reportedly did not reveal any abnormalities.</text>
+            </sentence>
+            <sentence>
+                <offset>334</offset>
+                <text>The mother had three prior cesareans and had a marginal placenta previa during this pregnancy that resolved.</text>
+            </sentence>
+            <sentence>
+                <offset>443</offset>
+                <text>The infant emerged floppy and with poor respiratory effort and Apgar scores were 3, 5, and 6 at 1, 5, and 10 min, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>571</offset>
+                <text>The birth weight was 1,030 g (50th centile), length was 31 cm (≪3rd centile), and head circumference (OFC) was 25 cm (50th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>704</offset>
+                <text>He was noted to have multiple craniofacial anomalies with proptosis, hypertelorism, downslanting palpebral fissures, a bifid left ear lobe, a cleft of the primary and secondary palate, and retromicrognathia (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>921</offset>
+                <text>His skeletal findings comprised rhizomelic shortening of the extremities that was more notable in the upper extremities, limited extension of the elbows and knees with mild webbing, a pectus excavatum, dislocated hips, bilateral talipes equinovarus, brachydactyly that was most marked for digits 3–5, short and broad thumbs, and bridged transverse palmar creases.</text>
+            </sentence>
+            <sentence>
+                <offset>1285</offset>
+                <text>He had a large patent ductus arteriosus (PDA) that was treated with Indomethacin.</text>
+            </sentence>
+            <sentence>
+                <offset>1367</offset>
+                <text>A skeletal survey revealed shortening of the humeri with distal hypoplasia, angulated clavicles, hypoplasia of the pelvis and spine, and absent fibulae (Fig. 2).</text>
+            </sentence>
+            <sentence>
+                <offset>1529</offset>
+                <text>The skull, tarsal bones, and phalanges of the feet were underossified&#13;
+&#13;
+He had respiratory failure from birth that required mechanical ventilation and increasing ventilatory support.</text>
+            </sentence>
+            <sentence>
+                <offset>1713</offset>
+                <text>He was unable to tolerate his own secretions, resulting in desaturations and bradycardia and requiring frequent and extensive suctioning.</text>
+            </sentence>
+            <sentence>
+                <offset>1851</offset>
+                <text>He had an event at 58 days of life that required chest compressions after he self-extubated and an anesthesiologist was required for re-intubation.</text>
+            </sentence>
+            <sentence>
+                <offset>1999</offset>
+                <text>At 61 days of life, he failed a trial of pressure support that resulted in profound apnea.</text>
+            </sentence>
+            <sentence>
+                <offset>2090</offset>
+                <text>At 78 days of life, the patient was transitioned to comfort care.</text>
+            </sentence>
+            <sentence>
+                <offset>2156</offset>
+                <text>An obstructive breathing pattern was noted shortly after extubation.</text>
+            </sentence>
+            <sentence>
+                <offset>2225</offset>
+                <text>After about 15 min, the patient became apneic from hypoxia and died shortly thereafter.</text>
+            </sentence>
+            <sentence>
+                <offset>2313</offset>
+                <text>Autopsy confirmed AO type I, with findings as described above, and bronchopulmonary dysplasia.</text>
+            </sentence>
+            <sentence>
+                <offset>2408</offset>
+                <text>Bone histology showed large, atypical, giant chondrocytes within areas of relatively acellular cartilage matrix in the right femur and humerus.</text>
+            </sentence>
+            <sentence>
+                <offset>2555</offset>
+                <text>The clinical features of the propositus were suggestive of atelosteogenesis (AO) type I.</text>
+            </sentence>
+            <sentence>
+                <offset>2644</offset>
+                <text>A post-mortem skeletal survey showed abnormal cartilage of the femur, fibula, and humerus that was characterized by giant chondrocytes in a relatively acellular matrix.</text>
+            </sentence>
+            <sentence>
+                <offset>2813</offset>
+                <text>Testing for Filamin B (FLNB) mutations showed c.542G &gt; A, predicting p.Gly181Asp in exon 3 of the FLNB gene.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

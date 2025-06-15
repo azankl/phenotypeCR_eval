@@ -1,0 +1,64 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 1 is a 10-year-old boy and the first child to non-consanguineous Argentinian parents.</text>
+            </sentence>
+            <sentence>
+                <offset>94</offset>
+                <text>Prenatal ultrasound at 16 weeks’ gestation showed a cystic hygroma.</text>
+            </sentence>
+            <sentence>
+                <offset>162</offset>
+                <text>He was born after term following an uncomplicated pregnancy, with a birth weight of 4.25 kg (&gt;97th centile), a birth length of 50 cm (50th centile) and a head circumference of 35 cm (50th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>360</offset>
+                <text>His craniofacial features are typical of CED, namely: long face, high forehead with frontal bossing, telecanthus, epicanthic folds bilaterally, a broad nasal bridge, long philtrum, everted lower lip, retrognathia, and prominent, low-set ears.</text>
+            </sentence>
+            <sentence>
+                <offset>603</offset>
+                <text>Notably, he did not have craniosynostosis.</text>
+            </sentence>
+            <sentence>
+                <offset>646</offset>
+                <text>Additional clinical features include small teeth, fine, sparse hair, a short neck with excess skin folds, and brachysyndactyly with bilateral fifth finger clinodactyly.</text>
+            </sentence>
+            <sentence>
+                <offset>815</offset>
+                <text>In the first year of life, he had frequent respiratory infections.</text>
+            </sentence>
+            <sentence>
+                <offset>882</offset>
+                <text>Cystic fibrosis was, therefore, excluded.</text>
+            </sentence>
+            <sentence>
+                <offset>924</offset>
+                <text>Hepatomegaly was first diagnosed when he was 8 months old and the subsequent liver biopsy showed mild chronic hepatitis in cirrhotic evolution.</text>
+            </sentence>
+            <sentence>
+                <offset>1068</offset>
+                <text>He had a normal male karyotype (46,XY) and ophthalmological examination showed no evidence of retinal dystrophy.</text>
+            </sentence>
+            <sentence>
+                <offset>1181</offset>
+                <text>Blood tests at the age of 9 years revealed elevated creatinine values.</text>
+            </sentence>
+            <sentence>
+                <offset>1252</offset>
+                <text>Ultrasound scans showed a small liver, splenomegaly, and normal-sized kidneys.</text>
+            </sentence>
+            <sentence>
+                <offset>1334</offset>
+                <text>At the age of 9 years and 7 months, his growth and mental and motor development are normal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

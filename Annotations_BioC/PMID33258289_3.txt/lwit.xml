@@ -1,0 +1,142 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Case 3 was the affected sibling of Case 2.</text>
+            </sentence>
+            <sentence>
+                <offset>44</offset>
+                <text>She was born at 38 weeks of gestation via caesarean section.</text>
+            </sentence>
+            <sentence>
+                <offset>105</offset>
+                <text>Birth weight and length were 2,300 g (−2.12 SDS) and 42 cm (−3.17 SDS), respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>192</offset>
+                <text>On physical examination at the age of 22 months, her weight, height, and head circumference were 7.7 kg (−3.14 SDS), 63 cm (−6.46 SDS), and 46 cm (−1.25 SDS), respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>365</offset>
+                <text>Relative macrocephaly, triangular face, frontal bossing, midface hypoplasia, bulbous nose, anteverted nares, pointed, and prominent chin were observed.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000256</infon>
+                    <location length="12" offset="9"/>
+                    <text>macrocephaly</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000325</infon>
+                    <location length="15" offset="23"/>
+                    <text>triangular face</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002007</infon>
+                    <location length="15" offset="40"/>
+                    <text>frontal bossing</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011800</infon>
+                    <location length="18" offset="57"/>
+                    <text>midface hypoplasia</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000414</infon>
+                    <location length="12" offset="77"/>
+                    <text>bulbous nose</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000463</infon>
+                    <location length="16" offset="91"/>
+                    <text>anteverted nares</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="109"/>
+                    <text>pointed</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000303</infon>
+                    <location length="14" offset="122"/>
+                    <text>prominent chin</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="132"/>
+                    <text>chin</text>
+                </annotation>
+                <relation id="8">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000307</infon>
+                    <node refid="9" role="source"/>
+                    <node refid="7" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>517</offset>
+                <text>She had also hyperlordosis, pes planus, prominent heels, and joint laxity.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003307</infon>
+                    <location length="13" offset="13"/>
+                    <text>hyperlordosis</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001763</infon>
+                    <location length="10" offset="28"/>
+                    <text>pes planus</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012428</infon>
+                    <location length="15" offset="40"/>
+                    <text>prominent heels</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001382</infon>
+                    <location length="12" offset="61"/>
+                    <text>joint laxity</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>592</offset>
+                <text>Her neuromotor development was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>631</offset>
+                <text>Her skeletal survey was found to be normal.</text>
+            </sentence>
+            <sentence>
+                <offset>676</offset>
+                <text>Serum basal GH level and peak GH responses to GH stimulation test were found to be low.</text>
+            </sentence>
+            <sentence>
+                <offset>764</offset>
+                <text>An rhGH therapy (45 μg/kg/day) was administered due to low GH levels and decreased growth velocity (3.2 cm/year, −3.56 SDS) (Table 1).</text>
+            </sentence>
+            <sentence>
+                <offset>899</offset>
+                <text>At the age of 5 years, GH therapy is still continuing, and her recent annual growth velocity was 7.6 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>1004</offset>
+                <text>The baseline height SDS was −6.46, following treatment period, has decreased to −3.94.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

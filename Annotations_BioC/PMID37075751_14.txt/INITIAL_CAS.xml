@@ -1,0 +1,48 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 14 is a 6-month-old male with craniofacial anomalies, hypotonia, failure to thrive requiring gastrostomy tube placement, unilateral (left) cryptorchidism, right sided inguinal hernia, and developmental delay.</text>
+            </sentence>
+            <sentence>
+                <offset>220</offset>
+                <text>On exam he had hypertelorism and telecanthus with a broad and flat nasal bridge with an upturned nasal tip and anteverted nares, bilateral epicanthal folds, upslanting palpebral fissures, micrognathia, and low-set ears.</text>
+            </sentence>
+            <sentence>
+                <offset>440</offset>
+                <text>He had trigonocephaly due to metopic craniosynostosis that was confirmed on a magnetic resonance imaging (MRI) scan of the brain and for which he underwent surgical repair with a strip craniectomy.</text>
+            </sentence>
+            <sentence>
+                <offset>638</offset>
+                <text>MRI brain also showed a cavum septum pellucidum.</text>
+            </sentence>
+            <sentence>
+                <offset>687</offset>
+                <text>Echocardiogram was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>714</offset>
+                <text>At 6 months, his head circumference was 42 cm (15th centile), length 60 cm (&lt;3rd centile), and weight 6.68 kg (3-15th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>842</offset>
+                <text>He developed focal epilepsy at 2 months of age which is treated with Keppra.</text>
+            </sentence>
+            <sentence>
+                <offset>919</offset>
+                <text>Trio exome sequencing (UCSF Genomic Medical Laboratory) identified a de novo variant in POLR1A, c.3988_3990delGAG; p.</text>
+            </sentence>
+            <sentence>
+                <offset>1036</offset>
+                <text>(Glu1330del)</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

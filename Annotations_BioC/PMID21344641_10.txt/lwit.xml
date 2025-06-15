@@ -1,0 +1,162 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 10 is now 12-year old.</text>
+            </sentence>
+            <sentence>
+                <offset>31</offset>
+                <text>She had been macrosomic (birth weight of 2.2 kg at 30 weeks of gestation) and generalized hypertrichosis was present at birth and remained prominent.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001520</infon>
+                    <location length="10" offset="13"/>
+                    <text>macrosomic</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000998</infon>
+                    <location length="14" offset="90"/>
+                    <text>hypertrichosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>181</offset>
+                <text>A patent ductus arteriosus was ligated on day 17 of life.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001643</infon>
+                    <location length="24" offset="2"/>
+                    <text>patent ductus arteriosus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>239</offset>
+                <text>She developed pulmonary hypertension of unknown cause and this was a significant problem in the second year of life.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0033635</infon>
+                    <location length="22" offset="14"/>
+                    <text>pulmonary hypertension</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>356</offset>
+                <text>This appeared to be steroid-responsive and gradually improved in the third year of life when steroid therapy was discontinued.</text>
+            </sentence>
+            <sentence>
+                <offset>483</offset>
+                <text>A lung biopsy showed normal histology.</text>
+            </sentence>
+            <sentence>
+                <offset>525</offset>
+                <text>At age 4 years she developed communicating hydrocephalus treated with a ventriculo-peritoneal shunt.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000238</infon>
+                    <location length="13" offset="43"/>
+                    <text>hydrocephalus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>626</offset>
+                <text>Her subsequent clinical course was dominated by respiratory disease.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002091</infon>
+                    <location length="19" offset="48"/>
+                    <text>respiratory disease</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>695</offset>
+                <text>She had recurrent upper and lower respiratory tract infections and at age 7 years presented with hemoptysis.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0200117</infon>
+                    <location length="44" offset="18"/>
+                    <text>upper and lower respiratory tract infections</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002105</infon>
+                    <location length="10" offset="97"/>
+                    <text>hemoptysis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>804</offset>
+                <text>Magnetic resonance angiography (MRA) demonstrated multiple tortuous arteriovenous communications in both lungs (Fig. 6).</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="28" offset="68"/>
+                    <text>arteriovenous communications</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="105"/>
+                    <text>lungs</text>
+                </annotation>
+                <relation id="10">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006548</infon>
+                    <node refid="11" role="source"/>
+                    <node refid="9" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>925</offset>
+                <text>A number of these were thorascopically ligated.</text>
+            </sentence>
+            <sentence>
+                <offset>973</offset>
+                <text>However, she continued to have recurrent hemoptysis over the next 12 months, until at the age of 8, she was found to be IgG deficient.</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002105</infon>
+                    <location length="10" offset="41"/>
+                    <text>hemoptysis</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004315</infon>
+                    <location length="13" offset="120"/>
+                    <text>IgG deficient</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1108</offset>
+                <text>IgA and IgM levels were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1140</offset>
+                <text>Total IgG was 5.62 g/L (7.0–16.0 g/L).</text>
+            </sentence>
+            <sentence>
+                <offset>1179</offset>
+                <text>IgG subclasses: IgG1 3.88 g/L (4.0–10.8); IgG2 1.37 g/L (0.85–4.1); IgG3 0.25 g/L (0.13–1.42); and IgG4 0.11 g/L (0.03–1.89).</text>
+            </sentence>
+            <sentence>
+                <offset>1305</offset>
+                <text>Although the levels were only mildly low, a decision was made to commence monthly intravenous immunoglobulin infusions at 0.4 g/kg with marked improvement in her condition, improved growth, and cessation of recurrent respiratory infections.</text>
+            </sentence>
+            <sentence>
+                <offset>1546</offset>
+                <text>When the infusions were reduced to every other month, she started having recurrent respiratory infections and her FEV1 dropped from 90% to 70% of predicted.</text>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002205</infon>
+                    <location length="22" offset="83"/>
+                    <text>respiratory infections</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

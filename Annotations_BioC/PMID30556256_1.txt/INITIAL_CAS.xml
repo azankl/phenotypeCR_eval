@@ -1,0 +1,52 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This male patient was born to consanguineous parents (second cousins) of North-West Pakistani origin.</text>
+            </sentence>
+            <sentence>
+                <offset>102</offset>
+                <text>The pregnancy was uncomplicated.</text>
+            </sentence>
+            <sentence>
+                <offset>135</offset>
+                <text>He was delivered at 35 weeks by elective cesarean section and birth weight was 3.40 kg (98th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>238</offset>
+                <text>He spent 1 day following birth in Special Care due to hypoglycemia.</text>
+            </sentence>
+            <sentence>
+                <offset>306</offset>
+                <text>He first sat upright at 1 year of age, walked at 2 years, and first words were at 18 months of age.</text>
+            </sentence>
+            <sentence>
+                <offset>409</offset>
+                <text>He was initially referred to his local Genetics service at the age of 13 years and 8 months, with severe learning disability and a diagnosis of Autism Spectrum Disorder.</text>
+            </sentence>
+            <sentence>
+                <offset>579</offset>
+                <text>His verbal communication was limited to sentences of a few words.</text>
+            </sentence>
+            <sentence>
+                <offset>648</offset>
+                <text>On examination, he had blue irides, synophrys, downslanting palpebral fissures, macroglossia, high arched palate, everted lower lip, low set ears, narrow chest, generalized joint laxity, adducted halluces (Figure 1), and an intention tremor.</text>
+            </sentence>
+            <sentence>
+                <offset>890</offset>
+                <text>Head circumference was on the 91st centile, height on the 98th centile, and weight between the 50th and 75th centiles.</text>
+            </sentence>
+            <sentence>
+                <offset>1009</offset>
+                <text>MRI brain and spine at the age of 10 years demonstrated low lying cerebellar tonsils.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

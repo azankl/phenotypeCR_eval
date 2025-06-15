@@ -1,0 +1,44 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The son of the proposita presented with a painful and swollen right leg and was easily fatigued.</text>
+            </sentence>
+            <sentence>
+                <offset>97</offset>
+                <text>At examination he showed no dysmorphic features and had a normal gait.</text>
+            </sentence>
+            <sentence>
+                <offset>168</offset>
+                <text>Initially, it was thought that his symptoms were caused by traumas, as he practiced kickboxing as a hobby.</text>
+            </sentence>
+            <sentence>
+                <offset>275</offset>
+                <text>Radiologically, in retrospect, the typical, symmetrical, cortical thickening of the diaphysis of the lower extremities was observed (Fig. 2).</text>
+            </sentence>
+            <sentence>
+                <offset>417</offset>
+                <text>He also showed sclerosis of the metacarpalia of the left hand.</text>
+            </sentence>
+            <sentence>
+                <offset>480</offset>
+                <text>The presence of radiologically confirmed bone abnormalities in the proposita (Fig. 1) as well as in her son (Fig. 2) suggested an autosomal dominant inheritance pattern.</text>
+            </sentence>
+            <sentence>
+                <offset>650</offset>
+                <text>Consequently, we could rule out melorheostosis (which are mostly sporadic cases) as well as van Buchem’s disease (autosomal recessive inheritance) as possible diagnoses.</text>
+            </sentence>
+            <sentence>
+                <offset>820</offset>
+                <text>This led us to the diagnosis of Camurati–Engelmann Disease (CED).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,68 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This is a male child of unaffected, unrelated parents.</text>
+            </sentence>
+            <sentence>
+                <offset>55</offset>
+                <text>He was born at full term with normal birth parameters of OFC 35 cm, weight 2,750 g, and length 48 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>157</offset>
+                <text>Apparent hypertelorism was evident at birth, together with a rigid neck, and wide alveolar ridges.</text>
+            </sentence>
+            <sentence>
+                <offset>256</offset>
+                <text>Bilateral facial palsy was diagnosed soon after birth and respiratory problems with nasal obstruction and feeding difficulties manifested during the first months of life.</text>
+            </sentence>
+            <sentence>
+                <offset>427</offset>
+                <text>Skull hyperostosis and modeling defects of the femora were noted at the age of 1 year (Figs. 1a–c and 2a,b).</text>
+            </sentence>
+            <sentence>
+                <offset>536</offset>
+                <text>Cranial MRI showed a structurally normal CNS, but evoked potentials showed impairment of cranial nerves IX, X, XI, and XII (Fig. 2a,b).</text>
+            </sentence>
+            <sentence>
+                <offset>672</offset>
+                <text>A moderate conductive hearing loss was noted at the age of 30 months.</text>
+            </sentence>
+            <sentence>
+                <offset>742</offset>
+                <text>At this age, radiographs of the long bones showed modifications of the metaphyseal shape (Fig. 1c).</text>
+            </sentence>
+            <sentence>
+                <offset>842</offset>
+                <text>At the age of 6 years, his height was 115 cm (∼50th centile) and skull circumference was 54 cm (&gt;97th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>954</offset>
+                <text>Although the facial palsy resolved with age, the hearing loss worsened and at the age of 12 years he required a hearing aid.</text>
+            </sentence>
+            <sentence>
+                <offset>1079</offset>
+                <text>An altered shape of the middle ear cavity and the ossicles was noted on CT scans (images not available).</text>
+            </sentence>
+            <sentence>
+                <offset>1184</offset>
+                <text>He had malocclusion and crowding of the teeth.</text>
+            </sentence>
+            <sentence>
+                <offset>1231</offset>
+                <text>The parathyroid hormone (14 pg/ml, reference range 10–65 pg/ml) and vitamin D3 (11 pg/ml, reference range 10–30 pg/ml) levels were normal, while osteocalcin (82 ng/ml, reference range &lt;70 ng/ml) and alkaline phosphatase levels (533 IU/L, reference range 125–410 IU/L) were high suggesting increased bone formation.</text>
+            </sentence>
+            <sentence>
+                <offset>1546</offset>
+                <text>Although the patient manifested behavioral and language difficulties, he met normal developmental milestones.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

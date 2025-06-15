@@ -1,0 +1,100 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Case 1 is a male infant born at 42.5 weeks' gestation to a healthy 29-year-old gravida 1, para 0-1 mother.</text>
+            </sentence>
+            <sentence>
+                <offset>107</offset>
+                <text>The mother reported no exposures to drugs or alcohol, but took antibiotics for a sinus infection at ∼32–34 weeks' gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>232</offset>
+                <text>Pregnancy was complicated by the first-trimester finding of a presumed fraternal twin gestation with subsequent in utero demise.</text>
+            </sentence>
+            <sentence>
+                <offset>361</offset>
+                <text>A follow-up ultrasound 4 weeks later showed a singleton pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>428</offset>
+                <text>Repeat ultrasonographic examinations at 20 and 30 weeks of gestation demonstrated no anomalies.</text>
+            </sentence>
+            <sentence>
+                <offset>524</offset>
+                <text>Labor was induced at 42½ weeks' gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>567</offset>
+                <text>During active labor there was evidence of fetal distress, and concern was raised about a breech presentation (soft presenting body part on vaginal exam).</text>
+            </sentence>
+            <sentence>
+                <offset>721</offset>
+                <text>A flat-plate radiograph obtained in the delivery room confirmed a vertex presentation.</text>
+            </sentence>
+            <sentence>
+                <offset>808</offset>
+                <text>The baby then developed fetal distress with evidence of placental abruption and was delivered under general anesthesia by cesarean section with a birth weight of 7 lb 4 oz.</text>
+            </sentence>
+            <sentence>
+                <offset>981</offset>
+                <text>The infant was in the vertex position.</text>
+            </sentence>
+            <sentence>
+                <offset>1020</offset>
+                <text>Shortly after birth he was found to have nearly complete absence of a mineralized calvaria.</text>
+            </sentence>
+            <sentence>
+                <offset>1112</offset>
+                <text>Screening laboratory test results for levels of alkaline phosphatase, magnesium, free thyroxine (T4), thyroid-stimulating hormone (TSH), and calcium were all within normal limits.</text>
+            </sentence>
+            <sentence>
+                <offset>1292</offset>
+                <text>At 4 days of age a craniofacial examination revealed hypertelorism, a depressed nasal bridge, and, most notably, a complete absence of the parietal bones and severely hypoplasic frontal, temporal, and occipital bones.</text>
+            </sentence>
+            <sentence>
+                <offset>1510</offset>
+                <text>The gyri and sulci of the cortex were easily palpated through the scalp.</text>
+            </sentence>
+            <sentence>
+                <offset>1583</offset>
+                <text>The findings of the remainder of the examination were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1645</offset>
+                <text>The infant was vigorous and was fitted for a soft-form helmet and observed for secondary calvarial growth.</text>
+            </sentence>
+            <sentence>
+                <offset>1752</offset>
+                <text>Radiographic imaging included 2- and 3-dimensional (3D) computed tomography (CT) scans that documented complete absence of the parietal bones and zygomatic arch clefts at birth (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>1939</offset>
+                <text>Subsequent imaging studies showed a unilateral pseudarthrosis of the clavicle and decreased mineralization of the pubic symphysis (not shown).</text>
+            </sentence>
+            <sentence>
+                <offset>2082</offset>
+                <text>By 9 months of age, a repeat CT scan showed new bone formation in the parietal area.</text>
+            </sentence>
+            <sentence>
+                <offset>2167</offset>
+                <text>By 14 months of age, he had developed mild brachycephaly, progressive hypertelorism, and an increased anterior-posterior diameter of the thorax.</text>
+            </sentence>
+            <sentence>
+                <offset>2312</offset>
+                <text>His hearing is normal, and he has met all of his developmental milestones.</text>
+            </sentence>
+            <sentence>
+                <offset>2387</offset>
+                <text>His family history revealed a father, 2 paternal uncles, and a paternal first cousin who had short stature and delayed closure of the anterior fontanel.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

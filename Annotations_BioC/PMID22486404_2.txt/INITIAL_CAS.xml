@@ -1,0 +1,40 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 was born to non-consanguineous parents.</text>
+            </sentence>
+            <sentence>
+                <offset>50</offset>
+                <text>She had dolichocephaly, craniosynostosis, bilateral nystagmus, short limbs, brachydactyly, fine sparse hair, frontal bossing, micrognathia, low-set ears and widely spaced teeth (Fig. 1f,g).</text>
+            </sentence>
+            <sentence>
+                <offset>240</offset>
+                <text>Renal dysfunction was noted at the age of 14 months.</text>
+            </sentence>
+            <sentence>
+                <offset>293</offset>
+                <text>She received a kidney transplant at the age of 5 years.</text>
+            </sentence>
+            <sentence>
+                <offset>349</offset>
+                <text>Hepatic cystic disease was detected at the age of 4 years.</text>
+            </sentence>
+            <sentence>
+                <offset>408</offset>
+                <text>Psychomotor development was delayed (walking at the age of 3 years and no words at the age of 5 years).</text>
+            </sentence>
+            <sentence>
+                <offset>512</offset>
+                <text>A brain MRI scan at the age of 4 years revealed no abnormalities.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

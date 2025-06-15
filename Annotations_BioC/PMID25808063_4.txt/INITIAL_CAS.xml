@@ -1,0 +1,40 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This boy was the second child of healthy consanguineous Turkish parents.</text>
+            </sentence>
+            <sentence>
+                <offset>73</offset>
+                <text>The prenatal history was unremarkable but congenital cataracts were noted at birth.</text>
+            </sentence>
+            <sentence>
+                <offset>157</offset>
+                <text>At the time of last examination (3 years), the growth parameters were normal: height 99 cm (25th centile), weight 14 kg (10th–25th centile) and head circumference 48.5 cm (3rd–10th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>348</offset>
+                <text>The only dysmorphic feature was forward facing ear lobes and no dental anomalies were noted.</text>
+            </sentence>
+            <sentence>
+                <offset>441</offset>
+                <text>There was bilateral genu valgum (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>483</offset>
+                <text>Intelligence was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>508</offset>
+                <text>Abdominal and heart ultrasounds were normal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

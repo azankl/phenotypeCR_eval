@@ -1,0 +1,60 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 4 is an 18-month-old male who presented to genetics for evaluation of bilateral vocal cord paralysis, feeding difficulties, and hypotonia.</text>
+            </sentence>
+            <sentence>
+                <offset>150</offset>
+                <text>He was born at term with birth weight 2.7 kg, length 49.5 cm, and HC 35 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>226</offset>
+                <text>Vocal cord paralysis and a glottic web were diagnosed during an evaluation for inspiratory stridor.</text>
+            </sentence>
+            <sentence>
+                <offset>326</offset>
+                <text>He required gastrostomy tube placement due to aspiration, and ultimately required tracheostomy for airway management.</text>
+            </sentence>
+            <sentence>
+                <offset>444</offset>
+                <text>His physical exam was notable for long tapered fingers with bilateral fifth finger clinodactyly and single palmar crease on the right, mild toenail hypoplasia, and nevus flammeus on his forehead.</text>
+            </sentence>
+            <sentence>
+                <offset>640</offset>
+                <text>He had tall and wide palpebral fissures, a short nose with upturned tip, and small slightly low-set ears.</text>
+            </sentence>
+            <sentence>
+                <offset>746</offset>
+                <text>Echocardiogram demonstrated anomalous origin of the right coronary artery from the left cusp.</text>
+            </sentence>
+            <sentence>
+                <offset>840</offset>
+                <text>Clinical trio exome sequencing (GeneDx, Gaithersburg, MD) identified a maternally inherited variant in POLR1A c.1178G&gt;A; p.</text>
+            </sentence>
+            <sentence>
+                <offset>963</offset>
+                <text>(Arg393His) and a maternally inherited variant in PHEX c.160T&gt;C; p.</text>
+            </sentence>
+            <sentence>
+                <offset>1030</offset>
+                <text>(Cys54Arg) (NM_000444.6, GRCH 38), both variants of uncertain significance.</text>
+            </sentence>
+            <sentence>
+                <offset>1106</offset>
+                <text>Clinical SNP microarray was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1142</offset>
+                <text>Pathogenic variants in PHEX are associated with X-linked dominant hypophosphatemic rickets and the referring clinician for Individual 4 and his mother (Individual 5) felt that this did not fit their phenotype</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

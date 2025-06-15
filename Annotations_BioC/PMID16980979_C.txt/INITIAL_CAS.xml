@@ -1,0 +1,64 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>At examination, he was a 43-year-old man born from unrelated parents.</text>
+            </sentence>
+            <sentence>
+                <offset>70</offset>
+                <text>A family history did not reveal evidence of craniofacial or skeletal abnormalities and both parents died of unrelated disorders.</text>
+            </sentence>
+            <sentence>
+                <offset>199</offset>
+                <text>Since early childhood, paranasal bossing and apparent hypertelorism were noted.</text>
+            </sentence>
+            <sentence>
+                <offset>279</offset>
+                <text>Nasopharyngoscopy showed bilateral narrowing of nasal passages and posterior choanae due to bony overgrowth.</text>
+            </sentence>
+            <sentence>
+                <offset>388</offset>
+                <text>Skull radiographs performed at 14 years of age showed hyperostosis (Fig. 1g,h).</text>
+            </sentence>
+            <sentence>
+                <offset>468</offset>
+                <text>He had a delay in primary dentition and malocclusion.</text>
+            </sentence>
+            <sentence>
+                <offset>522</offset>
+                <text>At age 30 years, he underwent multiple tooth extractions and implantations.</text>
+            </sentence>
+            <sentence>
+                <offset>598</offset>
+                <text>The diagnosis of CMD was suggested at the age of 40 years based on clinical history, facial dysmorphism, and radiographic features including widening of the metaphyses with cortical thinning, more evident at the distal femurs (Fig. 1i).</text>
+            </sentence>
+            <sentence>
+                <offset>835</offset>
+                <text>The patient underwent regular follow-up including yearly audiogram to monitor mild conductive deafness diagnosed at the age of 30 years by audiometry.</text>
+            </sentence>
+            <sentence>
+                <offset>986</offset>
+                <text>At age 43 years, a cranial CT scan showed a thickened calvaria (Fig. 2c–f).</text>
+            </sentence>
+            <sentence>
+                <offset>1062</offset>
+                <text>At this time, he complained of tinnitus and worsening of hearing loss.</text>
+            </sentence>
+            <sentence>
+                <offset>1133</offset>
+                <text>High-resolution temporal CT scan showed narrowing of the middle ear cavities with bilateral fixation of the body of the incus to the lateral attic wall (Fig. 2e).</text>
+            </sentence>
+            <sentence>
+                <offset>1296</offset>
+                <text>His final height was 168 cm (10th–25th centile).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,32 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 11 is an 11-year-old male with mild hypertelorism, gross motor delay, and spastic dystonia of the legs requiring tendon surgery.</text>
+            </sentence>
+            <sentence>
+                <offset>140</offset>
+                <text>Otherwise, he had no intellectual problems and attends normal school.</text>
+            </sentence>
+            <sentence>
+                <offset>210</offset>
+                <text>He had a normal brain MRI and normal EEG.</text>
+            </sentence>
+            <sentence>
+                <offset>252</offset>
+                <text>Trio exome sequencing was performed as part of a research project identifying genes responsible for movement-disorder phenotypes (Helmholtz Center Munich and Technical University of Munich, Munich, Germany), and identified a de novo missense variant in POLR1A c.3721G&gt;A; p.</text>
+            </sentence>
+            <sentence>
+                <offset>525</offset>
+                <text>(Val1241Ile).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

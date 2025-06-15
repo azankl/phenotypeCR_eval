@@ -1,0 +1,102 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>BAB4878 is a female diagnosed soon after birth with DRS.</text>
+            </sentence>
+            <sentence>
+                <offset>57</offset>
+                <text>At birth she weighed 3.26 kg (18%);&#13;
+length 49.5 cm (17%); OFC 34.3 cm (40%).</text>
+            </sentence>
+            <sentence>
+                <offset>135</offset>
+                <text>She was born with a ventricular septal defect (VSD)&#13;
+surgical repaired.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001629</infon>
+                    <location length="25" offset="20"/>
+                    <text>ventricular septal defect</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001629</infon>
+                    <infon key="Comment">! Abbreviation</infon>
+                    <location length="3" offset="47"/>
+                    <text>VSD</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>207</offset>
+                <text>As a child she presented with recurrent urinary tract infections with urinary&#13;
+reflux and gastroesophageal reflux, and recurrent otitis media (ear tubes).</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000010</infon>
+                    <location length="24" offset="40"/>
+                    <text>urinary tract infections</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000076</infon>
+                    <location length="15" offset="70"/>
+                    <text>urinary&#13;
+reflux</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002020</infon>
+                    <location length="23" offset="90"/>
+                    <text>gastroesophageal reflux</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000388</infon>
+                    <location length="12" offset="129"/>
+                    <text>otitis media</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>362</offset>
+                <text>At age 1 year she&#13;
+weighed 8 kg (4%); height 71.1 cm (17%); OFC 48cm (98%).</text>
+            </sentence>
+            <sentence>
+                <offset>438</offset>
+                <text>She started having breathing&#13;
+problems that got worse with age and she needed continuous positive airway pressure (CPAP)&#13;
+during sleep.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002094</infon>
+                    <location length="19" offset="19"/>
+                    <text>breathing&#13;
+problems</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>574</offset>
+                <text>She recently had a surgery to correct her prognathism and correct her airway&#13;
+passage with great success.</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000303</infon>
+                    <location length="11" offset="42"/>
+                    <text>prognathism</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>680</offset>
+                <text>It is noteworthy that she has an IQ of 160.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

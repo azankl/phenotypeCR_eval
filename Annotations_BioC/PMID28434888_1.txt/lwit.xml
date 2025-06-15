@@ -1,0 +1,300 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This 14-year-old American boy was admitted in 2014 to the Center for Metabolic Bone Disease and Molecular Research, Shriners Hospital for Children, St.</text>
+            </sentence>
+            <sentence>
+                <offset>152</offset>
+                <text>Louis, MO, USA.</text>
+            </sentence>
+            <sentence>
+                <offset>171</offset>
+                <text>He was born at term after an uncomplicated pregnancy for a 33-year-old, gravida 2, para 1–2 mother.</text>
+            </sentence>
+            <sentence>
+                <offset>271</offset>
+                <text>The father was 37 years old.</text>
+            </sentence>
+            <sentence>
+                <offset>300</offset>
+                <text>At birth, a unilateral nevus covered much of his right posterior scalp, neck, thorax, flank, and lumbar region, and extended to his right thumb.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003764</infon>
+                    <location length="5" offset="23"/>
+                    <text>nevus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>445</offset>
+                <text>At 6 months-of-age, the dermatosis was diagnosed as a LEN that respected the midline.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011121</infon>
+                    <location length="10" offset="24"/>
+                    <text>dermatosis</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [Dermatology], ! Abbreviation</infon>
+                    <location length="3" offset="54"/>
+                    <text>LEN</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>534</offset>
+                <text>At 7 years-of-age, radiographs obtained after trauma reportedly showed a left tibial fracture and fibrous dysplasia.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0041143</infon>
+                    <location length="15" offset="78"/>
+                    <text>tibial fracture</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010734</infon>
+                    <location length="17" offset="98"/>
+                    <text>fibrous dysplasia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>651</offset>
+                <text>Soon after, the findings were reinterpreted as MEL that was also found in his right rib cage and right femur.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested, ! Abbreviation</infon>
+                    <location length="3" offset="47"/>
+                    <text>MEL</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>764</offset>
+                <text>At 14 years-of-age, the patient told us that he had chronic intermittent pain in his left tibia.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="73"/>
+                    <text>pain</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="90"/>
+                    <text>tibia</text>
+                </annotation>
+                <relation id="8">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002653</infon>
+                    <node refid="9" role="source"/>
+                    <node refid="7" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>861</offset>
+                <text>Physical examination revealed mild scoliosis, a two-centimeter leg-length discrepancy, and a shoe-size two greater on the right versus left in keeping with MEL (Figure 1).(1–4) A large LEN extended from his right scalp and posterior neck to his right thorax, flank, and lumbar region following Blaschko lines (Figure 2A,B).</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002650</infon>
+                    <location length="9" offset="35"/>
+                    <text>scoliosis</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100559</infon>
+                    <location length="22" offset="63"/>
+                    <text>leg-length discrepancy</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested, ! Abbreviation</infon>
+                    <location length="3" offset="156"/>
+                    <text>MEL</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [Dermatology], ! Abbreviation</infon>
+                    <location length="3" offset="185"/>
+                    <text>LEN</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1185</offset>
+                <text>Additionally, a large SLS lesion consisting of an atrophic hyperpigmented plaque (Figure 2C) extended from his right lumbar region to his right lateral thigh overlying radiographic changes of MEL (see Radiological Findings).</text>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100324</infon>
+                    <infon key="Comment">! Abbreviation</infon>
+                    <location length="10" offset="22"/>
+                    <text>SLS lesion</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [Dermatology]</infon>
+                    <location length="30" offset="50"/>
+                    <text>atrophic hyperpigmented plaque</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1410</offset>
+                <text>Routine laboratory studies showed no disturbance of mineral homeostasis, including in fasting serum a normal level of fibroblast growth factor 23 (FGF23), i.e., intact molecule and c-terminal fragment, of 158 RU/ml (Nl, 44–215: LabCorp; Burlington, NC, USA) and repeatedly normal phosphorus levels.</text>
+            </sentence>
+            <sentence>
+                <offset>1712</offset>
+                <text>The patient’s radiographic skeletal survey revealed bony changes most consistent with MEL in his right wrist, right ribs (#s 4, 6, 7, 9), right iliac bone, right proximal femur up to the femoral neck, both tibias (left worse than right), and left fibula (Figure 5).</text>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested, ! Abbreviation</infon>
+                    <location length="3" offset="86"/>
+                    <text>MEL</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1978</offset>
+                <text>A few OPK densities were noted in his left wrist and right distal femoral epiphysis&#13;
+&#13;
+CT of his left leg showed a thickened cortex in the mid shaft of the tibia, including external cortical thickening and obliteration of the medullary cavity, consistent with MEL.</text>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="6"/>
+                    <text>OPK densities</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="13" offset="6"/>
+                    <text>OPK densities</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="43"/>
+                    <text>wrist</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="66"/>
+                    <text>femoral</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="115"/>
+                    <text>thickened cortex</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="22" offset="139"/>
+                    <text>mid shaft of the tibia</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100039</infon>
+                    <location length="28" offset="173"/>
+                    <text>external cortical thickening</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0032458</infon>
+                    <location length="36" offset="206"/>
+                    <text>obliteration of the medullary cavity</text>
+                </annotation>
+                <relation id="18">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004289</infon>
+                    <node refid="19" role="source"/>
+                    <node refid="17" role="target"/>
+                </relation>
+                <relation id="21">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="22" role="source"/>
+                    <node refid="20" role="target"/>
+                </relation>
+                <relation id="24">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005791</infon>
+                    <node refid="25" role="source"/>
+                    <node refid="23" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2243</offset>
+                <text>Additionally, dilated vascular channels were noted in the tibial cortex&#13;
+&#13;
+The patient’s LEN, having classic appearance on inspection, was not studied histologically, and therefore we did not explore any potential impact on it from the subsequently discovered germline LEMD3 mutation.</text>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Too rare</infon>
+                    <location length="25" offset="14"/>
+                    <text>dilated vascular channels</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="58"/>
+                    <text>tibial cortex</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [Dermatology], ! Abbreviation</infon>
+                    <location length="3" offset="89"/>
+                    <text>LEN</text>
+                </annotation>
+                <relation id="29">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="30" role="source"/>
+                    <node refid="28" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2528</offset>
+                <text>His scleroderma-like dermatosis showed a normal epidermis with intact rete ridges.</text>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100324</infon>
+                    <location length="27" offset="4"/>
+                    <text>scleroderma-like dermatosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2611</offset>
+                <text>The reticular dermis was expanded by collagen that extended into the subcutaneous fat with no involvement of adnexal structures (Figure 6).</text>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [Dermatology]</infon>
+                    <location length="16" offset="4"/>
+                    <text>reticular dermis</text>
+                </annotation>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="20" offset="25"/>
+                    <text>expanded by collagen</text>
+                </annotation>
+                <relation id="35">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="33" role="source"/>
+                    <node refid="34" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2751</offset>
+                <text>Collagen fibers appeared normal with no significant thickening or homogenization.</text>
+            </sentence>
+            <sentence>
+                <offset>2833</offset>
+                <text>Elastic tissue staining highlighted a slightly decreased number of normal-appearing elastic fibers within the dermis in areas where the collagen was expanded.</text>
+            </sentence>
+            <sentence>
+                <offset>2992</offset>
+                <text>Dermal mucin was not significantly increased with colloidal iron staining.</text>
+            </sentence>
+            <sentence>
+                <offset>3067</offset>
+                <text>The findings were consistent with reports of the SLS overlying MEL.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

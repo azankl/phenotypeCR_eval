@@ -1,0 +1,112 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The 29-year-old male patient is the first child of healthy unrelated Lithuanian parents.</text>
+            </sentence>
+            <sentence>
+                <offset>89</offset>
+                <text>The proband was born at full term.</text>
+            </sentence>
+            <sentence>
+                <offset>124</offset>
+                <text>Psychomotor development of the proband was delayed.</text>
+            </sentence>
+            <sentence>
+                <offset>176</offset>
+                <text>He attended a regular school until the age of 16 years and was further educated in a professional school.</text>
+            </sentence>
+            <sentence>
+                <offset>282</offset>
+                <text>An IQ evaluation at the age of 20 showed a score of 69.</text>
+            </sentence>
+            <sentence>
+                <offset>338</offset>
+                <text>At his latest evaluation at the age of 29 years, his height was 164 cm, his weight was 85 kg, his BMI was 31 kg/m2, and the circumference of his head was 60 cm (90 centile).</text>
+            </sentence>
+            <sentence>
+                <offset>512</offset>
+                <text>Other anthropometric measurements were thus: total upper limb length of 66 cm, upper arm length of 35 cm, forearm length of 25 cm, hand length of 15 cm, palm length of 8.5 cm, middle finger length of 6.5 cm, total lower limb length of 87 cm on the left and 86 cm on the right, thigh length of 42 cm on both sides, calf length of 45 cm on the left and 44 cm on the right, and feet length of 23 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>909</offset>
+                <text>The patient has minor facial anomalies (Fig. 1), including flat face, sloping forehead with prominent supraorbital ridges, sparse and broad brows, depressed nasal ridge, short nose, long philtrum, and malar hypoplasia.</text>
+            </sentence>
+            <sentence>
+                <offset>1128</offset>
+                <text>Additionally, dental malocclusion, parodontosis, red and sparse scalp hair, male pattern baldness, and short neck are apparent.</text>
+            </sentence>
+            <sentence>
+                <offset>1256</offset>
+                <text>The patient is overweight and has limited elbow extension, brachydactyly of both hands, short rectangular nails, a single palmar crease, valgus deformation of the knees, brachydactyly of toes II–V of both feet, short rectangular toenails, and relative hyperplasia of the halluces (Fig. 2).</text>
+            </sentence>
+            <sentence>
+                <offset>1546</offset>
+                <text>The patient complained of premature tiredness, excessive perspiration, and poor fine motor function.</text>
+            </sentence>
+            <sentence>
+                <offset>1647</offset>
+                <text>He has primary arterial hypertension, and a cardiac ultrasound showed a mitral valve prolapse.</text>
+            </sentence>
+            <sentence>
+                <offset>1742</offset>
+                <text>An ophthalmological examination revealed hypermetropia.</text>
+            </sentence>
+            <sentence>
+                <offset>1798</offset>
+                <text>Hormonal screening was remarkable for elevated levels of serum PTH (13.9 pmol/l (n = 1.6–7.3 pmol/l)) and somatotropin (12.2 mIU/l (n &lt; 9.0 mIU/l)).</text>
+            </sentence>
+            <sentence>
+                <offset>1947</offset>
+                <text>Elevated PTH levels were probably secondary to vit.</text>
+            </sentence>
+            <sentence>
+                <offset>1999</offset>
+                <text>D deficiency.</text>
+            </sentence>
+            <sentence>
+                <offset>2013</offset>
+                <text>TSH, T3, T4, FSH, LH, testosterone, cortisole and ACTH were within normal limits. 25-OH vitamin D was 51.4 nmol/l (n = 75–100 nmol/l), serum calcium was 2.58 mmol/l (n = 2.10–2.55 mmol/l), serum phosphorus 0.82 mmol/l (n = 0.74–1.52 mmol/l), serum glucose was 6.09 mmol/l (n = 4.2–6.1 mmol/l).</text>
+            </sentence>
+            <sentence>
+                <offset>2307</offset>
+                <text>The glucose tolerance test was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>2346</offset>
+                <text>The ultrasound of the thyroid gland and MRI scan of the hypophyseal gland showed no abnormalities.</text>
+            </sentence>
+            <sentence>
+                <offset>2445</offset>
+                <text>The X-ray of the hands showed very short and broad tubular bones.</text>
+            </sentence>
+            <sentence>
+                <offset>2511</offset>
+                <text>Metacarpals II–V are proximally pointed.</text>
+            </sentence>
+            <sentence>
+                <offset>2552</offset>
+                <text>Coning of phalanges are present in the middle and proximal phalanges of the second to fifth fingers.</text>
+            </sentence>
+            <sentence>
+                <offset>2653</offset>
+                <text>There is relative sparing of the thumb.</text>
+            </sentence>
+            <sentence>
+                <offset>2693</offset>
+                <text>The metatarsal bones and phalanges are markedly shortened and there is disproportionate plumpness of the tubular bones of the hallux (Fig. ​</text>
+            </sentence>
+            <sentence>
+                <offset>2833</offset>
+                <text>(Fig.2).2).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

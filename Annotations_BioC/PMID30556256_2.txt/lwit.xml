@@ -1,0 +1,202 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 is the brother of Patient 1.</text>
+            </sentence>
+            <sentence>
+                <offset>39</offset>
+                <text>The pregnancy was unremarkable.</text>
+            </sentence>
+            <sentence>
+                <offset>71</offset>
+                <text>He was delivered at 42 weeks by emergency cesarean section due to cephalopelvic disproportion, with a birth weight of 4.89 kg (98th–99.6th centiles).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003521</infon>
+                    <location length="27" offset="66"/>
+                    <text>cephalopelvic disproportion</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>221</offset>
+                <text>He had bilateral talipes equinovarus.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001762</infon>
+                    <location length="19" offset="17"/>
+                    <text>talipes equinovarus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>259</offset>
+                <text>He first smiled at the age of 6 months, walked at 7 years, and first words were at 4 years of age.</text>
+            </sentence>
+            <sentence>
+                <offset>361</offset>
+                <text>On assessment at the age of 29 years, he had synophrys, arched eyebrows, mild hypertelorism, “cupid's bow” upper lip, everted lower lip, high narrow palate, grooved tip of the tongue, and low-set ears.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000664</infon>
+                    <location length="9" offset="45"/>
+                    <text>synophrys</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002553</infon>
+                    <location length="15" offset="56"/>
+                    <text>arched eyebrows</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="78"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002263</infon>
+                    <location length="22" offset="94"/>
+                    <text>cupid's bow” upper lip</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000232</infon>
+                    <location length="17" offset="118"/>
+                    <text>everted lower lip</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002705</infon>
+                    <location length="18" offset="137"/>
+                    <text>high narrow palate</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="157"/>
+                    <text>grooved</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="176"/>
+                    <text>tongue</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000369</infon>
+                    <location length="12" offset="188"/>
+                    <text>low-set ears</text>
+                </annotation>
+                <relation id="10">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000221</infon>
+                    <node refid="11" role="source"/>
+                    <node refid="9" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>563</offset>
+                <text>There was hypermobility of the distal joints of the hands, and he had a left-sided Sprengel deformity clinically (Figure 1).</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0020152</infon>
+                    <location length="47" offset="10"/>
+                    <text>hypermobility of the distal joints of the hands</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000912</infon>
+                    <location length="18" offset="83"/>
+                    <text>Sprengel deformity</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>688</offset>
+                <text>His head circumference was on the 99.6th centile.</text>
+            </sentence>
+            <sentence>
+                <offset>738</offset>
+                <text>His behavior was generally affable.</text>
+            </sentence>
+            <sentence>
+                <offset>777</offset>
+                <text>A chest radiograph (Figure 2) demonstrated a dorsal scoliosis concave to the right, fused left 4th and 5th ribs posteriorly, and an unossified posterior end of the left 6th rib.</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002650</infon>
+                    <location length="9" offset="52"/>
+                    <text>scoliosis</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="84"/>
+                    <text>fused</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="107"/>
+                    <text>ribs</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="132"/>
+                    <text>unossified</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="3" offset="173"/>
+                    <text>rib</text>
+                </annotation>
+                <relation id="17">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000902</infon>
+                    <node refid="18" role="source"/>
+                    <node refid="16" role="target"/>
+                </relation>
+                <relation id="20">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012306</infon>
+                    <node refid="21" role="source"/>
+                    <node refid="19" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>955</offset>
+                <text>There was also a bony bridge leading to posterior fusion of the left 7th and 8th ribs.</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="50"/>
+                    <text>fusion</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="81"/>
+                    <text>ribs</text>
+                </annotation>
+                <relation id="23">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000902</infon>
+                    <node refid="24" role="source"/>
+                    <node refid="22" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1042</offset>
+                <text>CT head demonstrated agenesis of the corpus callosum.</text>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001274</infon>
+                    <location length="31" offset="21"/>
+                    <text>agenesis of the corpus callosum</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,74 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 1 is the older brother of individual 2.</text>
+            </sentence>
+            <sentence>
+                <offset>51</offset>
+                <text>He had bilateral cleft lip and palate, metopic craniosynostosis, and bilateral hydroceles.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0410030</infon>
+                    <location length="9" offset="17"/>
+                    <text>cleft lip</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="17"/>
+                    <text>cleft</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="31"/>
+                    <text>palate</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011330</infon>
+                    <location length="24" offset="39"/>
+                    <text>metopic craniosynostosis</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000034</infon>
+                    <location length="10" offset="79"/>
+                    <text>hydroceles</text>
+                </annotation>
+                <relation id="3">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <node refid="4" role="source"/>
+                    <node refid="2" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>142</offset>
+                <text>Echocardiogram obtained to evaluate a murmur was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>199</offset>
+                <text>He had a clinical single nucleotide polymorphism (SNP) microarray which identified a likely benign 220 kb deletion at 7p12.3.</text>
+            </sentence>
+            <sentence>
+                <offset>325</offset>
+                <text>He died unexpectedly at age 3 months after undergoing cleft lip repair.</text>
+            </sentence>
+            <sentence>
+                <offset>397</offset>
+                <text>Postmortem testing confirmed he shares the POLR1A c.176A&gt;T; p.</text>
+            </sentence>
+            <sentence>
+                <offset>459</offset>
+                <text>(Asp59Val) variant identified in his brother (Individual 2).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

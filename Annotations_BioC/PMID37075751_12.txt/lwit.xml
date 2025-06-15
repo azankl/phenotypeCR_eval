@@ -1,0 +1,98 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 12 is a 4.25-year-old male with multiple anomalies including left hemifacial microsomia, unilateral radial aplasia (left), several small ventricular septal defects, and pulmonary artery stenosis.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011332</infon>
+                    <location length="21" offset="77"/>
+                    <text>hemifacial microsomia</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003974</infon>
+                    <location length="14" offset="111"/>
+                    <text>radial aplasia</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001629</infon>
+                    <location length="26" offset="148"/>
+                    <text>ventricular septal defects</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004415</infon>
+                    <location length="25" offset="180"/>
+                    <text>pulmonary artery stenosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>207</offset>
+                <text>Additionally, he had left diaphragmatic eventration, left enophthalmia with ptosis, left partial hearing loss, difficulty gaining weight but normal psychomotor development and learning.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009110</infon>
+                    <location length="25" offset="26"/>
+                    <text>diaphragmatic eventration</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000490</infon>
+                    <location length="12" offset="58"/>
+                    <text>enophthalmia</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000508</infon>
+                    <location length="7" offset="76"/>
+                    <text>ptosis,</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000365</infon>
+                    <location length="12" offset="97"/>
+                    <text>hearing loss</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>393</offset>
+                <text>At 4 years 3 months weight is 12kg (-3.2 SD), height is 97 cm (-1.6 SD) and HC 48 cm (-2 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>487</offset>
+                <text>Prenatal history was significant for intrauterine growth retardation.</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001511</infon>
+                    <location length="31" offset="37"/>
+                    <text>intrauterine growth retardation</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>557</offset>
+                <text>Exome sequencing identified a maternally inherited variant in POLR1A, c. 3850C&gt;T; p.</text>
+            </sentence>
+            <sentence>
+                <offset>641</offset>
+                <text>(Gln1284*).</text>
+            </sentence>
+            <sentence>
+                <offset>653</offset>
+                <text>Individual 12’s mother is healthy and without congenital anomalies.</text>
+            </sentence>
+            <sentence>
+                <offset>721</offset>
+                <text>Review of confirmatory Sanger chromatogram demonstrated no evidence for maternal mosaicism, with equal-sized peaks in mother and proband.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

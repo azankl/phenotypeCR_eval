@@ -1,0 +1,128 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Prenatal ultrasonography at 18 weeks showed body wall and scalp edema, cystic hygroma, echogenic kidneys, hepatomegaly, and polyhydramnios.</text>
+            </sentence>
+            <sentence>
+                <offset>140</offset>
+                <text>At 25 weeks of gestation there was hydrops and polyhydramnios suggesting non-immune hydrops.</text>
+            </sentence>
+            <sentence>
+                <offset>233</offset>
+                <text>Results of analysis of chromosomes from amniocytes, rapid FISH and viral PCR were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>323</offset>
+                <text>Follow-up ultrasound study at 36 weeks showed resolution of hydrops.</text>
+            </sentence>
+            <sentence>
+                <offset>392</offset>
+                <text>At birth this male was noted to have multiple anomalies and growth restriction (II-I).</text>
+            </sentence>
+            <sentence>
+                <offset>479</offset>
+                <text>He was born at 41 weeks of gestation, and had a birth weight of 2,579 g.</text>
+            </sentence>
+            <sentence>
+                <offset>552</offset>
+                <text>He had a poor respiratory effort aggravated by a posteriorly placed tongue and microretrognathia.</text>
+            </sentence>
+            <sentence>
+                <offset>650</offset>
+                <text>He was also noted to have a small chest.</text>
+            </sentence>
+            <sentence>
+                <offset>691</offset>
+                <text>Apgar scores were 5 and 8 at 1 and 5 min, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>747</offset>
+                <text>His OFC was 37 cm (75th centile), and length 47 cm (10th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>814</offset>
+                <text>He had a tall forehead, an occiput prominent superiorly and flattened inferiorly, overlapping sutures, low-set ears, micrognathia, high palate, multiple neck skin folds, narrow chest, brachydactyly, post-axial polydactyly in the left foot, and single transverse palmar creases.</text>
+            </sentence>
+            <sentence>
+                <offset>1092</offset>
+                <text>He required mechanical ventilation and any efforts to wean off or switch to CPAP were unsuccessful (Fig. 2).He had a seizure possibly due to a hypoxic episode and metabolic decompensation.</text>
+            </sentence>
+            <sentence>
+                <offset>1281</offset>
+                <text>An eye examination showed congenital nystagmus.</text>
+            </sentence>
+            <sentence>
+                <offset>1329</offset>
+                <text>Placement of a G-button was required for feeding and growth purposes.</text>
+            </sentence>
+            <sentence>
+                <offset>1399</offset>
+                <text>At age 2 months he developed acute renal failure.</text>
+            </sentence>
+            <sentence>
+                <offset>1449</offset>
+                <text>He had persistent nonunion gap acidosis and was diagnosed with type 1 distal renal tubular acidosis (RTA), which was treated with a citric acid and sodium citrate mix to alkalinize the urine.</text>
+            </sentence>
+            <sentence>
+                <offset>1641</offset>
+                <text>He had elevated liver enzymes.</text>
+            </sentence>
+            <sentence>
+                <offset>1672</offset>
+                <text>Limited X-ray studies showed shortened tibia and fibula on the left side, and a bell-shaped chest.</text>
+            </sentence>
+            <sentence>
+                <offset>1771</offset>
+                <text>Head CT scan at 2 months showed increased AP diameter, closed sagittal suture with patency of coronal and lambdoid sutures.</text>
+            </sentence>
+            <sentence>
+                <offset>1895</offset>
+                <text>Echocardiography showed mild thickening of mitral and tricuspid valves, a patent foramen ovale (PFO) and a small aortic isthmus.A liver biopsy at 3months showed early biliary cirrhosis, severe cholestasis with extensive bile duct proliferation and acute cholangitis.</text>
+            </sentence>
+            <sentence>
+                <offset>2162</offset>
+                <text>The portal tracts were extensively widened by a complex proliferative pattern of bile ducts and an increase in fibrotic tissue and inflammatory infiltrates.</text>
+            </sentence>
+            <sentence>
+                <offset>2319</offset>
+                <text>The architectural pattern of the epithelium was described as markedly bizarre due to complex infolding and branching.</text>
+            </sentence>
+            <sentence>
+                <offset>2437</offset>
+                <text>Trichrome stain showed increased collagen in the portal tracts and around the bile ducts.</text>
+            </sentence>
+            <sentence>
+                <offset>2527</offset>
+                <text>At age 4 months a rib cartilage biopsy was performed that showed no architectural cartilage abnormalities and normal appearing chondrocytes.</text>
+            </sentence>
+            <sentence>
+                <offset>2668</offset>
+                <text>The only abnormalities seen included mild dilatation of the rough endoplasmic reticulum with mild to moderate accumulation of lipids in the chondrocytes.</text>
+            </sentence>
+            <sentence>
+                <offset>2822</offset>
+                <text>At age 5 months he underwent surgery to correct sagittal synostosis.</text>
+            </sentence>
+            <sentence>
+                <offset>2891</offset>
+                <text>He never left the hospital.</text>
+            </sentence>
+            <sentence>
+                <offset>2919</offset>
+                <text>At 9 months he developed severe desaturations and bradycardias that escalated into multiple asystoles and apneic episodes.</text>
+            </sentence>
+            <sentence>
+                <offset>3042</offset>
+                <text>He did not respond to resuscitation.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

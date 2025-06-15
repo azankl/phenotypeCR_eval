@@ -1,0 +1,204 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This child was the first born of a healthy consanguineous Turkish couple.</text>
+            </sentence>
+            <sentence>
+                <offset>74</offset>
+                <text>The perinatal period was unremarkable and the growth parameters at birth were normal (length 49 cm, weight 2.8 kg, head circumference 35 cm).</text>
+            </sentence>
+            <sentence>
+                <offset>216</offset>
+                <text>Cataracts and glaucoma were detected at 2 months of age.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000518</infon>
+                    <location length="9" offset="0"/>
+                    <text>Cataracts</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000501</infon>
+                    <location length="8" offset="14"/>
+                    <text>glaucoma</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>273</offset>
+                <text>On examination at 3.5 years, his growth remained normal (height 107.2 cm, weight 18.6 kg and head circumference 50.8 cm).</text>
+            </sentence>
+            <sentence>
+                <offset>395</offset>
+                <text>He was non-dysmorphic and had no dental anomalies.</text>
+            </sentence>
+            <sentence>
+                <offset>446</offset>
+                <text>He had bilateral genu valgum.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002857</infon>
+                    <location length="11" offset="17"/>
+                    <text>genu valgum</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>476</offset>
+                <text>Intelligence and hearing tests were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>520</offset>
+                <text>Cardiac ultrasound revealed only a patent foramen ovale.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001655</infon>
+                    <location length="20" offset="35"/>
+                    <text>patent foramen ovale</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>577</offset>
+                <text>The most recent height measurement at age 8 years, 3 months was 120.8 cm (10th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>666</offset>
+                <text>Radiographic features were consistent with CODAS syndrome.</text>
+            </sentence>
+            <sentence>
+                <offset>725</offset>
+                <text>There was no platyspondyly but there was a suggestion of a resolved coronal cleft in L3 (indentation).</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003417</infon>
+                    <location length="13" offset="68"/>
+                    <text>coronal cleft</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>828</offset>
+                <text>There was a generalized epiphyseal problem most evident at the hips and knees.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005930</infon>
+                    <location length="18" offset="24"/>
+                    <text>epiphyseal problem</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>907</offset>
+                <text>At the hips, the capital femoral epiphyses were small, flat, and fragmented.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="25" offset="17"/>
+                    <text>capital femoral epiphyses</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="25" offset="17"/>
+                    <text>capital femoral epiphyses</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="48"/>
+                    <text>small</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="55"/>
+                    <text>flat</text>
+                </annotation>
+                <relation id="10">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005003</infon>
+                    <node refid="7" role="source"/>
+                    <node refid="9" role="target"/>
+                </relation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003370</infon>
+                    <node refid="8" role="source"/>
+                    <node refid="11" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>984</offset>
+                <text>The femoral necks were short and broad.</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="4"/>
+                    <text>femoral necks</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="4"/>
+                    <text>femoral necks</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="23"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="33"/>
+                    <text>broad</text>
+                </annotation>
+                <relation id="16">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100864</infon>
+                    <node refid="13" role="source"/>
+                    <node refid="15" role="target"/>
+                </relation>
+                <relation id="18">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006429</infon>
+                    <node refid="14" role="source"/>
+                    <node refid="17" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1024</offset>
+                <text>The distal femoral metaphyses had a small but acute chevron deformity and small epiphyses.</text>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="25" offset="4"/>
+                    <text>distal femoral metaphyses</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="4"/>
+                    <text>distal femoral</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="17" offset="52"/>
+                    <text>chevron deformity</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="74"/>
+                    <text>small epiphyses</text>
+                </annotation>
+                <relation id="22">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="19" role="source"/>
+                    <node refid="21" role="target"/>
+                </relation>
+                <relation id="24">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012283</infon>
+                    <node refid="20" role="source"/>
+                    <node refid="23" role="target"/>
+                </relation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

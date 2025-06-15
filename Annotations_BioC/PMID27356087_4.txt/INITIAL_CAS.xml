@@ -1,0 +1,72 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 4 (Fig. 2D), a 13-year-old boy, is the brother of patient 3.</text>
+            </sentence>
+            <sentence>
+                <offset>69</offset>
+                <text>He was born with multiple congenital anomalies, including a cleft lip and cleft palate, blepharophimosis, and bilateral ptosis.</text>
+            </sentence>
+            <sentence>
+                <offset>197</offset>
+                <text>His fronto-orbital contour is asymmetric with narrowing in the bitemporal region.</text>
+            </sentence>
+            <sentence>
+                <offset>279</offset>
+                <text>The patient has a flat nasal bridge.</text>
+            </sentence>
+            <sentence>
+                <offset>316</offset>
+                <text>He has retrusion of the frontal eyebrow regions, long eyelashes, micromelia, and clinodactyly and syndactyly of the second and third toes.</text>
+            </sentence>
+            <sentence>
+                <offset>455</offset>
+                <text>He has hypoplastic nipples and umbilicus, narrow shoulders, narrow chest, and a sacral dimple with a small sacral skin tag.</text>
+            </sentence>
+            <sentence>
+                <offset>579</offset>
+                <text>He has an alveolar cleft with an anterior palatal fistula.</text>
+            </sentence>
+            <sentence>
+                <offset>638</offset>
+                <text>Speech evaluation reveals hypernasality.</text>
+            </sentence>
+            <sentence>
+                <offset>679</offset>
+                <text>Also notable are the residual cleft lip and nasal deformity with some elevation of the lip philtral column compared with the contralateral side and some excess tissue in the vermilion.</text>
+            </sentence>
+            <sentence>
+                <offset>864</offset>
+                <text>The nasal sill is displaced.</text>
+            </sentence>
+            <sentence>
+                <offset>893</offset>
+                <text>There is asymmetry of the left naris.</text>
+            </sentence>
+            <sentence>
+                <offset>931</offset>
+                <text>He has a Sprengel's deformity and hypoplastic scapula.</text>
+            </sentence>
+            <sentence>
+                <offset>986</offset>
+                <text>In 2008, he received ptosis surgery and cleft lip and nasal revision.</text>
+            </sentence>
+            <sentence>
+                <offset>1056</offset>
+                <text>He has a history of mild conductive hearing loss bilaterally but, as of 2014, had balanced resonance.</text>
+            </sentence>
+            <sentence>
+                <offset>1158</offset>
+                <text>He is learning at grade level and receiving mostly As and Bs.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

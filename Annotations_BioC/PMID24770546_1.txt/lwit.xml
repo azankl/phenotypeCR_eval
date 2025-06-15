@@ -1,0 +1,314 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Our index patient was a 9-year-old boy referred to our clinic with hypernasal speech and cleft lip palate.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001611</infon>
+                    <location length="17" offset="68"/>
+                    <text>hypernasal speech</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0410030</infon>
+                    <location length="9" offset="90"/>
+                    <text>cleft lip</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="90"/>
+                    <text>cleft</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="100"/>
+                    <text>palate</text>
+                </annotation>
+                <relation id="4">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <node refid="5" role="source"/>
+                    <node refid="3" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>108</offset>
+                <text>Physical examinations showed craniofacial dysmorphic features including microcephaly, round face, a flat nasal bridge, hypertelorism, bilateral cleft lip palate (that had been operated on several times previously), an hypoplastic maxilla, telecanthus, bilateral ptosis with right-sided visual impairment, long philtrum, low-set protruding small ears and a short neck (Fig. 1a).</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000929</infon>
+                    <location length="32" offset="29"/>
+                    <text>craniofacial dysmorphic features</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000252</infon>
+                    <location length="12" offset="72"/>
+                    <text>microcephaly</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000311</infon>
+                    <location length="10" offset="86"/>
+                    <text>round face</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005280</infon>
+                    <location length="17" offset="100"/>
+                    <text>flat nasal bridge</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="119"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0410030</infon>
+                    <location length="9" offset="144"/>
+                    <text>cleft lip</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="144"/>
+                    <text>cleft</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="154"/>
+                    <text>palate</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000327</infon>
+                    <location length="19" offset="218"/>
+                    <text>hypoplastic maxilla</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000506</infon>
+                    <location length="11" offset="239"/>
+                    <text>telecanthus</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000508</infon>
+                    <location length="6" offset="262"/>
+                    <text>ptosis</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000505</infon>
+                    <location length="17" offset="286"/>
+                    <text>visual impairment</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000343</infon>
+                    <location length="13" offset="305"/>
+                    <text>long philtrum</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="320"/>
+                    <text>low-set</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="328"/>
+                    <text>protruding</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008551</infon>
+                    <location length="10" offset="339"/>
+                    <text>small ears</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="345"/>
+                    <text>ears</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="345"/>
+                    <text>ears</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000470</infon>
+                    <location length="10" offset="356"/>
+                    <text>short neck</text>
+                </annotation>
+                <relation id="13">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <node refid="14" role="source"/>
+                    <node refid="12" role="target"/>
+                </relation>
+                <relation id="21">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000369</infon>
+                    <node refid="22" role="source"/>
+                    <node refid="20" role="target"/>
+                </relation>
+                <relation id="24">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000411</infon>
+                    <node refid="25" role="source"/>
+                    <node refid="23" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>486</offset>
+                <text>Anthropometric examination at 6 years of age had indicated that height (113 cm), weight (19 kg) and head circumference (49 cm) were below the third percentile.</text>
+            </sentence>
+            <sentence>
+                <offset>646</offset>
+                <text>Small hands, interdigital webbing, clinodactyly and metatarsus adductus were also identified.</text>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0200055</infon>
+                    <location length="11" offset="0"/>
+                    <text>Small hands</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006101</infon>
+                    <location length="20" offset="13"/>
+                    <text>interdigital webbing</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030084</infon>
+                    <location length="12" offset="35"/>
+                    <text>clinodactyly</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001840</infon>
+                    <location length="19" offset="52"/>
+                    <text>metatarsus adductus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>741</offset>
+                <text>X-ray examination and a cranial CT scan showed a bone right-sided palatal discontinuity of 7 mm.</text>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <location length="21" offset="66"/>
+                    <text>palatal discontinuity</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>838</offset>
+                <text>An ectopic tooth in the nasal entry was found to be causing a septum right-sided deviation (Fig. 1b).</text>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_4000093</infon>
+                    <location length="13" offset="3"/>
+                    <text>ectopic tooth</text>
+                </annotation>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="62"/>
+                    <text>septum</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="81"/>
+                    <text>deviation</text>
+                </annotation>
+                <relation id="36">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004411</infon>
+                    <node refid="34" role="source"/>
+                    <node refid="35" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>940</offset>
+                <text>Laboratory investigations revealed the hereditary coagulation abnormality von Willebrand disease.</text>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008330</infon>
+                    <location length="22" offset="74"/>
+                    <text>von Willebrand disease</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1038</offset>
+                <text>Further blood parameters showed no further anomalies.</text>
+            </sentence>
+            <sentence>
+                <offset>1093</offset>
+                <text>Teachers described the 9-year-old index patient as a distractible child who found it difficult to perform tasks requiring concentration.</text>
+                <annotation id="38">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000736</infon>
+                    <location length="12" offset="53"/>
+                    <text>distractible</text>
+                </annotation>
+                <annotation id="39">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="85"/>
+                    <text>difficult</text>
+                </annotation>
+                <annotation id="41">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="122"/>
+                    <text>concentration</text>
+                </annotation>
+                <relation id="40">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031987</infon>
+                    <node refid="41" role="source"/>
+                    <node refid="39" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1230</offset>
+                <text>Neurocognitive examination using Kaufman Assessment Battery for Children for intelligence assessment [7] and HAWIK-III, Hamburger-Wechsler-Intelligence Test for Children (http://diagnostik.sdbb.ch/sites/testraum.localhost/files/Label_HAWIK-III_090818.pdf) revealed an IQ score of 70.</text>
+            </sentence>
+            <sentence>
+                <offset>1514</offset>
+                <text>Psychological testing, using the Rating Scale for Attention Deficit Hyperactivity Disorder as a part of the Diagnostic System for Mental Disorders in Childhood and Adolescence [5] had indicated a three factor structure with hyperactivity, impulsivity and inattention consistent with ADHD.</text>
+                <annotation id="42">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000752</infon>
+                    <location length="13" offset="224"/>
+                    <text>hyperactivity</text>
+                </annotation>
+                <annotation id="43">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100710</infon>
+                    <location length="11" offset="239"/>
+                    <text>impulsivity</text>
+                </annotation>
+                <annotation id="44">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_5200044</infon>
+                    <location length="11" offset="255"/>
+                    <text>inattention</text>
+                </annotation>
+                <annotation id="45">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007018</infon>
+                    <location length="4" offset="283"/>
+                    <text>ADHD</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

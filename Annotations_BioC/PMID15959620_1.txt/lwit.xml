@@ -1,0 +1,254 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A 28-year-old woman was admitted to her district hospital in 1985 with a painful and swollen left leg.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="73"/>
+                    <text>painful</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="85"/>
+                    <text>swollen</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="3" offset="98"/>
+                    <text>leg</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="3" offset="98"/>
+                    <text>leg</text>
+                </annotation>
+                <relation id="2">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012514</infon>
+                    <node refid="3" role="source"/>
+                    <node refid="1" role="target"/>
+                </relation>
+                <relation id="5">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010741</infon>
+                    <node refid="6" role="source"/>
+                    <node refid="4" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>103</offset>
+                <text>Histological examination of a biopsy was recognized by the Committee for Bone Tumors as an osteoid osteoma, for which she underwent an operation with an osteosynthesis.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030433</infon>
+                    <location length="15" offset="91"/>
+                    <text>osteoid osteoma</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>272</offset>
+                <text>The complaints disappeared and the osteosynthesis material could be removed.</text>
+            </sentence>
+            <sentence>
+                <offset>352</offset>
+                <text>In March 2000 she was seen again, this time with a painful and swollen right leg.</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="51"/>
+                    <text>painful</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="63"/>
+                    <text>swollen</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="3" offset="77"/>
+                    <text>leg</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="3" offset="77"/>
+                    <text>leg</text>
+                </annotation>
+                <relation id="9">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012514</infon>
+                    <node refid="10" role="source"/>
+                    <node refid="8" role="target"/>
+                </relation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010741</infon>
+                    <node refid="13" role="source"/>
+                    <node refid="11" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>434</offset>
+                <text>The patient had periods of feeling feverish, without objective measurement of her body temperature.</text>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001945</infon>
+                    <location length="8" offset="35"/>
+                    <text>feverish</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>534</offset>
+                <text>She had no complaints of night sweating.</text>
+            </sentence>
+            <sentence>
+                <offset>575</offset>
+                <text>There was no history of trauma.</text>
+            </sentence>
+            <sentence>
+                <offset>607</offset>
+                <text>On physical examination she had a body-mass index (BMI) of 27.0 kg/m2 (normal range 18.0–24.0 kg/m2).</text>
+            </sentence>
+            <sentence>
+                <offset>709</offset>
+                <text>Except for the swollen, red right leg, no other abnormalities could be observed.</text>
+            </sentence>
+            <sentence>
+                <offset>790</offset>
+                <text>Laboratory tests showed a slightly elevated erythrocyte sedimentation rate and C-reactive protein.</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003565</infon>
+                    <location length="39" offset="35"/>
+                    <text>elevated erythrocyte sedimentation rate</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="35"/>
+                    <text>elevated</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="18" offset="79"/>
+                    <text>C-reactive protein</text>
+                </annotation>
+                <relation id="17">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011227</infon>
+                    <node refid="18" role="source"/>
+                    <node refid="16" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>889</offset>
+                <text>Kidney function, liver enzymes, alkaline phosphatase, hemoglobin, and thyroid function were all normal.</text>
+            </sentence>
+            <sentence>
+                <offset>993</offset>
+                <text>No elevated bone turnover could be detected by urine analysis (normal hydroxyproline).</text>
+            </sentence>
+            <sentence>
+                <offset>1080</offset>
+                <text>Serology for Brucella spp., Coxiella burnetii and hepatitis-C was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1154</offset>
+                <text>Total-body technetium bone scintigraphy, however, showed increased uptake in the right tibia and also some uptake in the left tibia (Fig. 1a).</text>
+            </sentence>
+            <sentence>
+                <offset>1298</offset>
+                <text>The patient underwent a bone biopsy for microbiological culture as well as for histological examination.</text>
+            </sentence>
+            <sentence>
+                <offset>1403</offset>
+                <text>The microbiological culture of the bone biopsy did not yield any growth of bacteria.</text>
+            </sentence>
+            <sentence>
+                <offset>1488</offset>
+                <text>The Committee for Bone Tumors proposed the diagnosis chronic osteomyelitis, after histological examination of the bone biopsy.</text>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002754</infon>
+                    <location length="13" offset="61"/>
+                    <text>osteomyelitis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1615</offset>
+                <text>This was based on the following findings in the biopsy: reactive changes with elevated bone turnover and new bone formation in the periosteum, focally some lymphocytes and plasma cells and fields of marrow fibrosis.</text>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000939</infon>
+                    <location length="22" offset="78"/>
+                    <text>elevated bone turnover</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="18" offset="105"/>
+                    <text>new bone formation</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="131"/>
+                    <text>periosteum</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011974</infon>
+                    <location length="15" offset="199"/>
+                    <text>marrow fibrosis</text>
+                </annotation>
+                <relation id="22">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031485</infon>
+                    <node refid="23" role="source"/>
+                    <node refid="21" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1831</offset>
+                <text>The Committee for Bone Tumors suggested that the osteomyelitis could have been caused by bone infarction, as can be seen, for example, in sickle-cell anemia (not present in our patient).</text>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002754</infon>
+                    <location length="13" offset="49"/>
+                    <text>osteomyelitis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2018</offset>
+                <text>Since the proposed diagnosis of (chronic) osteomyelitis was not completely consistent with the patient’s complaints, she was referred to our institute for re-assessment.</text>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002754</infon>
+                    <location length="13" offset="42"/>
+                    <text>osteomyelitis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2188</offset>
+                <text>At examination she showed no dysmorphic features and her gait was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>2262</offset>
+                <text>X-ray examination showed cortical hyperostosis of the right tibia (Fig. 1b).</text>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100774</infon>
+                    <location length="12" offset="34"/>
+                    <text>hyperostosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2339</offset>
+                <text>On the basis of this finding, we considered melorheostosis and van Buchem’s disease as possible diagnoses.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

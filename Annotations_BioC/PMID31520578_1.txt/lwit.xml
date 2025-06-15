@@ -1,0 +1,248 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The patient is a male born on September 12, 2017 from a Chinese family.</text>
+            </sentence>
+            <sentence>
+                <offset>72</offset>
+                <text>His parents were not consanguineously married and were healthy.</text>
+            </sentence>
+            <sentence>
+                <offset>136</offset>
+                <text>Shortly after birth, the proband had repeat cardiac and respiratory arrests after crying and was diagnosed with ventricular septal defect (VSD) and pulmonary hypertension at a local hospital.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="44"/>
+                    <text>cardiac</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005943</infon>
+                    <location length="19" offset="56"/>
+                    <text>respiratory arrests</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="68"/>
+                    <text>arrests</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001629</infon>
+                    <location length="25" offset="112"/>
+                    <text>ventricular septal defect</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001629</infon>
+                    <infon key="Comment">! Abbreviation</infon>
+                    <location length="3" offset="139"/>
+                    <text>VSD</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002092</infon>
+                    <location length="22" offset="148"/>
+                    <text>pulmonary hypertension</text>
+                </annotation>
+                <relation id="4">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001695</infon>
+                    <node refid="1" role="source"/>
+                    <node refid="3" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>331</offset>
+                <text>After hospitalization in the cardiothoracic surgery department at Children's Hospital of Fudan University in March 2018, the proband was found to have special facial features, including golden hair, midface dysplasia, depressed nasal bridge, and gray irides (Figure 1a,b).</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011800</infon>
+                    <location length="17" offset="199"/>
+                    <text>midface dysplasia</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005280</infon>
+                    <location length="22" offset="218"/>
+                    <text>depressed nasal bridge</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>604</offset>
+                <text>We also found the proband had short and broad hands with a single transverse palmar crease, while no significant abnormalities in the feet were found (Figure 1c,e).</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="30"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001169</infon>
+                    <location length="11" offset="40"/>
+                    <text>broad hands</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="46"/>
+                    <text>hands</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000954</infon>
+                    <location length="31" offset="59"/>
+                    <text>single transverse palmar crease</text>
+                </annotation>
+                <relation id="11">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004279</infon>
+                    <node refid="12" role="source"/>
+                    <node refid="10" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>769</offset>
+                <text>Then, we retrospected his medical history and improved the relevant examinations.</text>
+            </sentence>
+            <sentence>
+                <offset>851</offset>
+                <text>Nasopharyngeal CT indicated the patient exhibits nasal septal dysplasia (Figure 1g).</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000419</infon>
+                    <location length="22" offset="49"/>
+                    <text>nasal septal dysplasia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>936</offset>
+                <text>Chest and abdomen radiograph showed the patient had bronchopneumonia (Figure 1h).</text>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002090</infon>
+                    <location length="16" offset="52"/>
+                    <text>bronchopneumonia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1018</offset>
+                <text>VSD, pulmonary hypertension, and right ventricular enlargement were also confirmed by echocardiogram and electrocardiogram examination of the proband (Figure 1f,i).</text>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001629</infon>
+                    <infon key="Comment">! Abbreviation</infon>
+                    <location length="3" offset="0"/>
+                    <text>VSD</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002092</infon>
+                    <location length="22" offset="5"/>
+                    <text>pulmonary hypertension</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005133</infon>
+                    <location length="29" offset="33"/>
+                    <text>right ventricular enlargement</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1184</offset>
+                <text>Endocrinological findings showed that the free thyroxin (FT4) level was decreased, but free triiodothyronine (FT3) and TSH values were normal, which did not reveal the characteristic TSH hormone resistance.</text>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="25" offset="42"/>
+                    <text>free thyroxin (FT4) level</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="72"/>
+                    <text>decreased</text>
+                </annotation>
+                <relation id="22">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031507</infon>
+                    <node refid="20" role="source"/>
+                    <node refid="21" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1391</offset>
+                <text>Increased serum phosphorus and decreased phosphaturia may suggest decreased PTH secretion or PTH resistance.</text>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002905</infon>
+                    <location length="26" offset="0"/>
+                    <text>Increased serum phosphorus</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012365</infon>
+                    <location length="22" offset="31"/>
+                    <text>decreased phosphaturia</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031817</infon>
+                    <location length="23" offset="66"/>
+                    <text>decreased PTH secretion</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [Endocrinology]</infon>
+                    <location length="14" offset="93"/>
+                    <text>PTH resistance</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1500</offset>
+                <text>Elevated lactate dehydrogenase and creatine kinase isoenzyme MB (CK-MB) suggest that the patient may have myocardial injury.</text>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025435</infon>
+                    <location length="30" offset="0"/>
+                    <text>Elevated lactate dehydrogenase</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="0"/>
+                    <text>Elevated</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="28" offset="35"/>
+                    <text>creatine kinase isoenzyme MB</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001658</infon>
+                    <location length="17" offset="106"/>
+                    <text>myocardial injury</text>
+                </annotation>
+                <relation id="29">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0032232</infon>
+                    <node refid="30" role="source"/>
+                    <node refid="28" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1625</offset>
+                <text>The patient had a height of 63 cm and weight of 7.4 kg, possessing a normal body mass index of 18.6, which is in accordance with normal human growth factor levels (Table 1).</text>
+            </sentence>
+            <sentence>
+                <offset>1799</offset>
+                <text>Immunological examinations showed no obvious abnormalities for the patient in addition to CD3+, CD19+, and CD45+ absolute counts (Table S1).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

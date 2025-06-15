@@ -1,0 +1,76 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿The fetus described was of the first pregnancy of non-consanguineous, healthy Colombian parents; the mother and father were 26 and 28 years old, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>160</offset>
+                <text>The family history was unremarkable.</text>
+            </sentence>
+            <sentence>
+                <offset>197</offset>
+                <text>During an apparently normal pregnancy, ultrasound examination results at a gestational age (GA) of 14 weeks revealed fetal nuchal translucency of 4.3 mm, a normal thorax, and short extremities.</text>
+            </sentence>
+            <sentence>
+                <offset>391</offset>
+                <text>Ultrasound at GA 20+1 showed a male fetus with a bell-shaped trunk, narrow thorax, absent stomach pouch, and severe limb shortening.</text>
+            </sentence>
+            <sentence>
+                <offset>524</offset>
+                <text>A diagnosis of lethal skeletal dysplasia was suggested.</text>
+            </sentence>
+            <sentence>
+                <offset>580</offset>
+                <text>WES of amniotic fluid revealed a diagnosis of ACG1A.</text>
+            </sentence>
+            <sentence>
+                <offset>633</offset>
+                <text>The parents received genetic and psychological counseling.</text>
+            </sentence>
+            <sentence>
+                <offset>692</offset>
+                <text>However, the mother decided to continue the pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>747</offset>
+                <text>At GA 28 weeks, the fetus was vaginally delivered with a weight of 1122 g (49th centile), a height of 28.5 cm (1st centile), and a head circumference of 25 cm (19th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>922</offset>
+                <text>Following delivery, the fetus manifested shortness of breath and died after a few minutes.</text>
+            </sentence>
+            <sentence>
+                <offset>1013</offset>
+                <text>Genetic counseling was given to the parents and their families.</text>
+            </sentence>
+            <sentence>
+                <offset>1078</offset>
+                <text>Postmortem X-rays and autopsy were performed (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>1135</offset>
+                <text>Findings showed turricephaly, cerebral gyrus flattening, a hypoplastic nasal bridge, short neck and trunk, short and bowed extremities, club foot, and hypoplastic lungs.</text>
+            </sentence>
+            <sentence>
+                <offset>1305</offset>
+                <text>The external genitalia were unremarkable.</text>
+            </sentence>
+            <sentence>
+                <offset>1347</offset>
+                <text>Postmortem radiography showed deficient mineralization of the calvaria and vertebral bodies, unossified sacrum, hypoplastic thorax, and markedly short and beaded ribs with flared and spurred ends.</text>
+            </sentence>
+            <sentence>
+                <offset>1544</offset>
+                <text>Pathological examination of the fetal sternum and femur tissue with hematoxylin–eosin staining demonstrated hypercellularity of bone and myxoid cartilage matrix; cytoplasmic inclusions were noted and described as “vacuolated chondrocytes”</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

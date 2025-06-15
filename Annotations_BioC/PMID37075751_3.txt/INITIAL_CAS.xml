@@ -1,0 +1,56 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 3 was the first child to non-consanguineous parents, delivered at term following an uncomplicated pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>120</offset>
+                <text>Birth parameters were weight 3.145kg (40th centile), length 30.7cm (40th centile), head circumference 33.5cm (40th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>245</offset>
+                <text>She was noted to have congenital moderate-tosevere sensorineural hearing loss in the newborn period and was admitted to intensive care at 6 weeks of age due to poor feeding, lethargy and respiratory distress.</text>
+            </sentence>
+            <sentence>
+                <offset>454</offset>
+                <text>She was found to have hypertrophic cardiomyopathy and elevated lactate.</text>
+            </sentence>
+            <sentence>
+                <offset>526</offset>
+                <text>Physical exam was notable for microcephaly, congenital nevus on the scalp, hypotonia and micrognathia.</text>
+            </sentence>
+            <sentence>
+                <offset>629</offset>
+                <text>Head circumference was 34.7 cm (&lt;3rd centile) and weight was 3.26 kg (&lt;3rd centile).</text>
+            </sentence>
+            <sentence>
+                <offset>714</offset>
+                <text>She had a normal brain MRI.</text>
+            </sentence>
+            <sentence>
+                <offset>742</offset>
+                <text>Clinical trio genome sequencing was performed as part of the Acute Care Genomics study (Victorian Clinical Genetics Services, Australia) and identified a de novo frameshift variant in POLR1A c.190delT; p.</text>
+            </sentence>
+            <sentence>
+                <offset>946</offset>
+                <text>(Cys64Alafs*42).</text>
+            </sentence>
+            <sentence>
+                <offset>963</offset>
+                <text>RNA sequencing was uninformative.</text>
+            </sentence>
+            <sentence>
+                <offset>997</offset>
+                <text>She died at 8 weeks of age after a 2-week hospitalization for management of respiratory distress and heart failure</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

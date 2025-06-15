@@ -1,0 +1,197 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A Japanese female infant was born at 37 weeks gestational age with a body weight of 2226 g without asphyxia in a non-consanguineous family.</text>
+            </sentence>
+            <sentence>
+                <offset>140</offset>
+                <text>She had no family history of kidney disease.</text>
+            </sentence>
+            <sentence>
+                <offset>185</offset>
+                <text>Prenatal ultrasound revealed bilateral enlarged and hyperechogenic kidneys.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="39"/>
+                    <text>enlarged</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004719</infon>
+                    <location length="22" offset="52"/>
+                    <text>hyperechogenic kidneys</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="67"/>
+                    <text>kidneys</text>
+                </annotation>
+                <relation id="2">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000105</infon>
+                    <node refid="3" role="source"/>
+                    <node refid="1" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>261</offset>
+                <text>During the neonatal period, she displayed dyspnoea and severe hypertension.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002094</infon>
+                    <location length="8" offset="42"/>
+                    <text>dyspnoea</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000822</infon>
+                    <location length="12" offset="62"/>
+                    <text>hypertension</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>337</offset>
+                <text>At 2 months old, her serum creatinine was 0.41 mg/dL.</text>
+            </sentence>
+            <sentence>
+                <offset>391</offset>
+                <text>Her renal function deteriorated gradually and, at 11 months old, she progressed to ESRD (serum creatinine 1.84 mg/dL) and peritoneal dialysis was initiated.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000083</infon>
+                    <location length="27" offset="4"/>
+                    <text>renal function deteriorated</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003774</infon>
+                    <infon key="Comment">! Abbreviation</infon>
+                    <location length="4" offset="83"/>
+                    <text>ESRD</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>548</offset>
+                <text>At 2 years old, acute pancreatitis due to haemorrhage of congenital pancreatic cysts prevented peritoneal dialysis and thereafter intermittent haemodialysis was initiated.</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001733</infon>
+                    <location length="12" offset="22"/>
+                    <text>pancreatitis</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001737</infon>
+                    <location length="16" offset="68"/>
+                    <text>pancreatic cysts</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>720</offset>
+                <text>Ultrasound at two and a half years old revealed bilateral enlarged kidneys with diffuse microcysts (Fig. 2A, B), which resembled the salt-and-pepper appearance displayed by the kidneys of patients with ARPKD.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000105</infon>
+                    <location length="16" offset="58"/>
+                    <text>enlarged kidneys</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="67"/>
+                    <text>kidneys</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="88"/>
+                    <text>microcysts</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Sonographic renal salt and pepper pattern HP:6000368</infon>
+                    <location length="15" offset="133"/>
+                    <text>salt-and-pepper</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="177"/>
+                    <text>kidneys</text>
+                </annotation>
+                <relation id="14">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000107</infon>
+                    <node refid="12" role="source"/>
+                    <node refid="13" role="target"/>
+                </relation>
+                <relation id="16">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="17" role="source"/>
+                    <node refid="15" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>929</offset>
+                <text>However, she was suspected to have ciliopathies other than ARPKD due to extrarenal manifestations including skeletal disorders (dolichocephaly, narrow thorax, polydactyly, and short stature) (Fig. 2C, D, E), congenital pancreatic cysts (Fig. 2F), retinal dystrophy, hydrocephalus, and psychomotor retardation in addition to Caroli disease (Fig. 2G).</text>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000268</infon>
+                    <location length="14" offset="128"/>
+                    <text>dolichocephaly</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000774</infon>
+                    <location length="13" offset="144"/>
+                    <text>narrow thorax</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010442</infon>
+                    <location length="11" offset="159"/>
+                    <text>polydactyly</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004322</infon>
+                    <location length="13" offset="176"/>
+                    <text>short stature</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001737</infon>
+                    <location length="16" offset="219"/>
+                    <text>pancreatic cysts</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000556</infon>
+                    <location length="17" offset="247"/>
+                    <text>retinal dystrophy</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000238</infon>
+                    <location length="13" offset="266"/>
+                    <text>hydrocephalus</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001263</infon>
+                    <location length="23" offset="285"/>
+                    <text>psychomotor retardation</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1279</offset>
+                <text>Based on these manifestations, she was diagnosed with Sensenbrenner syndrome</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

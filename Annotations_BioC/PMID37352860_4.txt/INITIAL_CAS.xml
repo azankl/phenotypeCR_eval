@@ -1,0 +1,52 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 4
+
+The male child was noted to have severe intrauterine growth retardation.</text>
+            </sentence>
+            <sentence>
+                <offset>87</offset>
+                <text>He was born prematurely and had postnatal growth restriction with short stature.</text>
+            </sentence>
+            <sentence>
+                <offset>168</offset>
+                <text>His past medical history included mild conductive hearing loss of left ear, delayed dentition with abnormal enamel and eruption, kidney hydronephrosis with grade 5 vesicoureteral reflux, small atrial septal defect, 2 small ventricular septal defects and a prominent aortic root.</text>
+            </sentence>
+            <sentence>
+                <offset>447</offset>
+                <text>He had generalized hypotonia, delayed motor milestones, delayed speech.</text>
+            </sentence>
+            <sentence>
+                <offset>519</offset>
+                <text>His failure to thrive was severe and he passed away at 26 months.</text>
+            </sentence>
+            <sentence>
+                <offset>586</offset>
+                <text>Examination showed dysmorphic facial features (trigonocephaly, frontal bossing, small jaw, sparse hair, small and low-set ear, posteriorly rotated, prominent pre-maxilla and a recessed chin retrognathia).</text>
+            </sentence>
+            <sentence>
+                <offset>791</offset>
+                <text>He had puffy hands and feet, nonpitting edema, and undescended testes.</text>
+            </sentence>
+            <sentence>
+                <offset>862</offset>
+                <text>Limb anomalies included dysplastic digits of both feet (rudimentary 2nd and 3rd toes and absent 4th and 5th toes on the left, right foot with 4th and 5th toe syndactyly)
+
+Skeletal abnormalities including pectus carinatum deformity, skeletal dysplasia (osteopenia, wormian bones, severely delayed bone age).</text>
+            </sentence>
+            <sentence>
+                <offset>1170</offset>
+                <text>There were no hematological anomalies.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

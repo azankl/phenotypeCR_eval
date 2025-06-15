@@ -1,0 +1,52 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 was born with short stature, micrognathia and posterior cleft palate (the Pierre Robin sequence), bilateral knee dislocation, and marked lateral deviation of her fifth toes.</text>
+            </sentence>
+            <sentence>
+                <offset>184</offset>
+                <text>Her forehead was high, her eyes were prominent, her nose and mouth were small, and her mandible was small (Figures 1A and 1C).</text>
+            </sentence>
+            <sentence>
+                <offset>311</offset>
+                <text>Coronal craniosynostosis was diagnosed at 1 year of age.</text>
+            </sentence>
+            <sentence>
+                <offset>368</offset>
+                <text>Both craniosynostosis and knee dislocations were surgically repaired with various procedures at different ages.</text>
+            </sentence>
+            <sentence>
+                <offset>480</offset>
+                <text>There was mild hypoacusis, but speech development was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>542</offset>
+                <text>Her intellectual development was moderately delayed.</text>
+            </sentence>
+            <sentence>
+                <offset>595</offset>
+                <text>Radiographic findings are shown in Figure 2.</text>
+            </sentence>
+            <sentence>
+                <offset>640</offset>
+                <text>The most significant findings were short metacarpals, irregular size of the metacarpal epiphyses, hamate-capitate fusion, and supernumerary carpal ossification centers (Figure 2B); however, carpal age at birth and in the first two years of life was not accelerated.</text>
+            </sentence>
+            <sentence>
+                <offset>906</offset>
+                <text>There was dysplasia of the hip acetabulum and the proximal femoral epiphyses, as well as dislocation of the knees (Figure 2E).</text>
+            </sentence>
+            <sentence>
+                <offset>1033</offset>
+                <text>A moderate reduction of the intervertebral spaces was observed, but unlike in Desbusquois dysplasia or recessive Larsen syndrome, vertebral clefts were not observed.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

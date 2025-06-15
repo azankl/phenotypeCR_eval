@@ -1,0 +1,76 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 is the second child born to a non-consanguineous 23-year-old-mother and 29-year-old father of Northern European heritage who is no longer involved in the relationship.</text>
+            </sentence>
+            <sentence>
+                <offset>178</offset>
+                <text>Prenatal ultrasound studies of patient two detected hydrops and polyhydramnios, but no fetal structural abnormalities.</text>
+            </sentence>
+            <sentence>
+                <offset>297</offset>
+                <text>The child was delivered at 39 weeks of gestation by repeat C-section with Apgar scores of 8 and 9 at 1 and 5 min, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>425</offset>
+                <text>The birth weight was 3,600 g and length 52 cm (both 90th centile), although the OFC was 32.5 cm (10th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>537</offset>
+                <text>A syndrome was suggested by the “cloverleaf” small cranium, bitemporal narrowness, tall forehead, and posteriorly displaced anterior fontanel (approximately 2 cm × 2 cm) with slightly low set ears, markedly upslanted palpebral fissures, large palpebral fissures (inner canthal distance ∼2.5 cm and outer canthal distance ∼7.5 cm, both more than 2 SD for age), flat nasal bridge, upturned nares, and epicanthal folds.</text>
+            </sentence>
+            <sentence>
+                <offset>954</offset>
+                <text>The philtrum was long and smooth with a somewhat thin vermilion of the upper lip, and chin was small.</text>
+            </sentence>
+            <sentence>
+                <offset>1056</offset>
+                <text>Scalp hair, brows, and lashes were sparse.</text>
+            </sentence>
+            <sentence>
+                <offset>1099</offset>
+                <text>The neck skin was redundant, and fingers were short and broad, limbs were short (Fig. 2).</text>
+            </sentence>
+            <sentence>
+                <offset>1192</offset>
+                <text>Treatment included a gastrostomy button, a ventriculoperitoneal shunt at age 2.5 months followed by a revision, and a craniectomy to release multisutural craniosynostoses at 4.5 months.</text>
+            </sentence>
+            <sentence>
+                <offset>1381</offset>
+                <text>At 4 months, he was hypotonic with global developmental delays, and was being treated for seizures.</text>
+            </sentence>
+            <sentence>
+                <offset>1481</offset>
+                <text>His head shape remained severely oxycephalic and the left pinna was small, thin and prominent (Fig. 2a,b).</text>
+            </sentence>
+            <sentence>
+                <offset>1588</offset>
+                <text>At 8 months, he developed hypertension.</text>
+            </sentence>
+            <sentence>
+                <offset>1628</offset>
+                <text>Results of auditory brainstem response testing were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1691</offset>
+                <text>Imaging included a CT scan of the head which showed multiple suture synostoses with closure of the metopic, left coronal and sagittal suture, and partial closure of the left lambdoid suture.</text>
+            </sentence>
+            <sentence>
+                <offset>1882</offset>
+                <text>MRI scan noted slight dilation of ventricles, more prominent in the frontal horns and a large draining scalp vein in the right occipital region.</text>
+            </sentence>
+            <sentence>
+                <offset>2030</offset>
+                <text>We were not able to perform studies of cilia in the tissue and cells of either patient as this material was unavailable to us.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

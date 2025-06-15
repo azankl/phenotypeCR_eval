@@ -1,0 +1,76 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿The patient was born of healthy first-cousin Turkish parents who previously had two miscarriages, one termination of pregnancy for severe neural tube defect and a healthy daughter.</text>
+            </sentence>
+            <sentence>
+                <offset>182</offset>
+                <text>The father was 33 and the mother 29 years old when she was referred to our Prenatal Diagnosis and Fetal Medicine Center at 14–15 weeks of gestation for cystic hygroma and bowed femora (Fig. 1A).</text>
+            </sentence>
+            <sentence>
+                <offset>377</offset>
+                <text>At 22 weeks a double outlet right ventricle was detected.</text>
+            </sentence>
+            <sentence>
+                <offset>435</offset>
+                <text>At 28 weeks abnormal skull shape with irregular outlines, easily visible brain structures (Fig. 1B), and bowing of the femora raised the question of osteogenesis imperfecta.</text>
+            </sentence>
+            <sentence>
+                <offset>609</offset>
+                <text>This hypothesis was reinforced by the fetal CT scan which confirmed the skeletal anomalies and suggested a depressed fracture of the skull (Fig. 1C).</text>
+            </sentence>
+            <sentence>
+                <offset>759</offset>
+                <text>Fetal karyotype was 46,XX and results of 22q11.2 FISH analysis were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>835</offset>
+                <text>The female baby was delivered by cesarean at 38 weeks of gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>903</offset>
+                <text>Her birth weight was 4.5 kg (&gt; 95th centile), length 52 cm (≈95th centile) and OFC 33.5 cm (25–50th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>1013</offset>
+                <text>The Apgar scores were 9 and 10 at 1 and 5 min, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>1074</offset>
+                <text>The infant had small fontanelles and abnormal shape of skull caused by metopic synostosis and partial sagittal and left lambdoid synostosis.</text>
+            </sentence>
+            <sentence>
+                <offset>1215</offset>
+                <text>She also had a depressed nasal bridge, upslanted palpebral fissures, widely spaced eyes, epicanthal folds, low-set and posteriorly rotated ears, broad nasal tip, anteverted nares, smooth philtrum, and a narrow mouth.</text>
+            </sentence>
+            <sentence>
+                <offset>1432</offset>
+                <text>We also noted short and broad neck, widely spaced nipples, umbilical hernia, and limb abnormalities (Fig. 2 A–D).</text>
+            </sentence>
+            <sentence>
+                <offset>1546</offset>
+                <text>Examination and radiographs of the hands showed brachydactylies with small middle phalanges, broad thumbs with dislocated proximal phalanx, and multiple clinodactylies (Fig. 2 E–G).</text>
+            </sentence>
+            <sentence>
+                <offset>1728</offset>
+                <text>She also had bowed femora and tibiae, short feet and toes, cutaneous syndactylies, duplicated halluces, and absence of the middle phalanx of the second to the fifth toes (Fig. 2 H–L).</text>
+            </sentence>
+            <sentence>
+                <offset>1912</offset>
+                <text>Neonatal neurologic examination was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1956</offset>
+                <text>These data excluded osteogenesis imperfecta and lead to the diagnosis of CS.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

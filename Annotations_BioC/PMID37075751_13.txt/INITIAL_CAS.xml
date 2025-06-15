@@ -1,0 +1,68 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 13 is a 24-year-old male with intellectual disability (non-verbal), autism, global developmental delay, hypotonia, ataxic gait, and generalized epilepsy (multi-drug resistant).</text>
+            </sentence>
+            <sentence>
+                <offset>188</offset>
+                <text>Epilepsy began at age 6.</text>
+            </sentence>
+            <sentence>
+                <offset>213</offset>
+                <text>Height is 162.6 cm (-1.98 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>244</offset>
+                <text>He struggles to maintain his weight, which is 49 kg (-2.69 SD) (body mass index 18.5).</text>
+            </sentence>
+            <sentence>
+                <offset>331</offset>
+                <text>Physical exam was notable for ptosis, low-set ears, small feet with high arches and hammertoes, asymmetric thumb nailbeds with left wider than right, hypotonia, and poor coordination.</text>
+            </sentence>
+            <sentence>
+                <offset>515</offset>
+                <text>Brain MRI was reportedly normal.</text>
+            </sentence>
+            <sentence>
+                <offset>548</offset>
+                <text>Trio exome sequencing (GeneDx, Gaithersburg, MD) identified a de novo variant in POLR1A c.3988_3990delGAG; p.</text>
+            </sentence>
+            <sentence>
+                <offset>658</offset>
+                <text>(Glu1330del) as well as a de novo variant in ATP1A1 c.2769C&gt;A; p.</text>
+            </sentence>
+            <sentence>
+                <offset>723</offset>
+                <text>(Phe923Leu) (NM_000701.8, GRCH38).</text>
+            </sentence>
+            <sentence>
+                <offset>758</offset>
+                <text>Both are classified as likely pathogenic.</text>
+            </sentence>
+            <sentence>
+                <offset>800</offset>
+                <text>Heterozygous variants in ATP1A1 have recently been associated with a small number of cases of variable neurologic phenotypes ranging from Charcot-Marie-Tooth (peripheral neuropathy) to seizures and intellectual disability4-6 .</text>
+            </sentence>
+            <sentence>
+                <offset>1027</offset>
+                <text>Thus, it is possible that both de novo variants contribute to this individual’s phenotype (ATP1A1 and POLR1A to neurodevelopmental abnormalities, ATP1A1 to hammer toes and high arches, POLR1A to craniofacial features and wide left thumb nailbed).</text>
+            </sentence>
+            <sentence>
+                <offset>1274</offset>
+                <text>Of note, an individual with a missense variant in ATP1A1 at the same codon c.2768T&gt;A, encoding p.</text>
+            </sentence>
+            <sentence>
+                <offset>1371</offset>
+                <text>(Phe923Tyr) and reported by Dohrn et al (2022), did not have epilepsy.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

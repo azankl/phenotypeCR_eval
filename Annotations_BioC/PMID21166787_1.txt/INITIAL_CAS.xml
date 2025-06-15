@@ -1,0 +1,76 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿The patient was delivered by caesarean section at 36 weeks of gestation without a family history of 3M syndrome (Fig. 1a).</text>
+            </sentence>
+            <sentence>
+                <offset>124</offset>
+                <text>His birth weight was 1000 g (−4.8 SD), length 33.0 cm (−6.8 SD), head circumference 30.2 cm (−1.5 SD), and Apgar score 7/9.</text>
+            </sentence>
+            <sentence>
+                <offset>248</offset>
+                <text>Feeding difficulty was noted during the neonatal period.</text>
+            </sentence>
+            <sentence>
+                <offset>305</offset>
+                <text>He remained in a neonatal intensive care unit for 2 months and was referred to our group because of developmental delay and muscle hypotonia at 4 months.</text>
+            </sentence>
+            <sentence>
+                <offset>459</offset>
+                <text>The patient displayed anomalies including hypospadias, inguinal hernia, hydrocele testis, inverted triangular gloomy face, malar hypoplasia, long eyelashes, epicanthal folds, short nose, anteverted nares, full lips, long philtrum, pointed chin, short chest, grooved lower anterior thorax, hypermobility of joints, and slender long bones (Fig. 1a,b).</text>
+            </sentence>
+            <sentence>
+                <offset>809</offset>
+                <text>Mild ventricular enlargement was observed by neuroradiological studies.</text>
+            </sentence>
+            <sentence>
+                <offset>881</offset>
+                <text>His growth was severely retarded.</text>
+            </sentence>
+            <sentence>
+                <offset>920</offset>
+                <text>At 2 years 9 months, his height, weight, and head circumference were 69.3 cm (−4.6 SD), 6.8 kg (−6.7 SD), and 48 cm (−1.2 SD), respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>1061</offset>
+                <text>His head size was disproportionately large compared to his height.</text>
+            </sentence>
+            <sentence>
+                <offset>1128</offset>
+                <text>Thus the patient was diagnosed as suffering from 3M syndrome.</text>
+            </sentence>
+            <sentence>
+                <offset>1190</offset>
+                <text>He could understand simple sentences, but could not speak nor sit alone.</text>
+            </sentence>
+            <sentence>
+                <offset>1263</offset>
+                <text>Partial growth hormone (GH) deficiency was noted.</text>
+            </sentence>
+            <sentence>
+                <offset>1313</offset>
+                <text>GH replacement therapy was started from 2 years.</text>
+            </sentence>
+            <sentence>
+                <offset>1362</offset>
+                <text>GH was effective without side effects.</text>
+            </sentence>
+            <sentence>
+                <offset>1401</offset>
+                <text>At 5 years, his height and weight were 84.8 cm (−5.9 SD) and 10 kg (−3 SD), respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>1491</offset>
+                <text>He was moderately mentally retarded.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,194 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 1, a girl, was born to a normal 25-year-old woman and her healthy and nonconsanguineous 27-year-old husband.</text>
+            </sentence>
+            <sentence>
+                <offset>117</offset>
+                <text>Pregnancy was unremarkable and delivery was at term through cesarean.</text>
+            </sentence>
+            <sentence>
+                <offset>187</offset>
+                <text>BW was 3.4 kg, BL 48 cm and OFC 36 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>226</offset>
+                <text>She had a normal brother.</text>
+            </sentence>
+            <sentence>
+                <offset>252</offset>
+                <text>Clinical examination at age 11 years: height 130 cm (slightly below 3rd centile), weight 27.7 kg (10th centile), OFC 52 cm (25–50th centile), inner canthal distance (ICD) 34 mm (75–98th centile), outer canthal distance (OCD) 74 mm (3rd centile), palpebral fissure length (PFL) 22 mm (well below 3rd centile).</text>
+            </sentence>
+            <sentence>
+                <offset>561</offset>
+                <text>The girl presented with telecanthus secondary to the blepharophimosis, blepharoptosis (mainly at left), down slanted palpebral fissures, arched eyebrows, bilateral repaired cleft lip and palate (Fig. 1), narrow ear canals, umbilical hernia, periumbilical depression, bilateral limited supination-pronation of the forearms and elbow extension, and wide gap between first and second toes bilaterally.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000506</infon>
+                    <location length="11" offset="24"/>
+                    <text>telecanthus</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000581</infon>
+                    <location length="16" offset="53"/>
+                    <text>blepharophimosis</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000508</infon>
+                    <location length="14" offset="71"/>
+                    <text>blepharoptosis</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000494</infon>
+                    <location length="31" offset="104"/>
+                    <text>down slanted palpebral fissures</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002553</infon>
+                    <location length="15" offset="137"/>
+                    <text>arched eyebrows</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0410030</infon>
+                    <location length="9" offset="173"/>
+                    <text>cleft lip</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="173"/>
+                    <text>cleft</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="187"/>
+                    <text>palate</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000402</infon>
+                    <location length="17" offset="204"/>
+                    <text>narrow ear canals</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001537</infon>
+                    <location length="16" offset="223"/>
+                    <text>umbilical hernia</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="24" offset="241"/>
+                    <text>periumbilical depression</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006394</infon>
+                    <location length="44" offset="277"/>
+                    <text>limited supination-pronation of the forearms</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="277"/>
+                    <text>limited</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="326"/>
+                    <text>elbow extension</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="347"/>
+                    <text>wide gap</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="21" offset="364"/>
+                    <text>first and second toes</text>
+                </annotation>
+                <relation id="8">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <node refid="9" role="source"/>
+                    <node refid="7" role="target"/>
+                </relation>
+                <relation id="15">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001377</infon>
+                    <node refid="16" role="source"/>
+                    <node refid="14" role="target"/>
+                </relation>
+                <relation id="18">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001852</infon>
+                    <node refid="19" role="source"/>
+                    <node refid="17" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>960</offset>
+                <text>Tanner's stage: M2, P2.</text>
+            </sentence>
+            <sentence>
+                <offset>984</offset>
+                <text>Intelligence was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1009</offset>
+                <text>Audiological evaluation disclosed bilateral mixed hearing loss.</text>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000410</infon>
+                    <location length="18" offset="44"/>
+                    <text>mixed hearing loss</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1073</offset>
+                <text>Ophthalmological examination documented nasolacrimal duct obstruction and severe hypermetropia and astigmatism.</text>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000579</infon>
+                    <location length="29" offset="40"/>
+                    <text>nasolacrimal duct obstruction</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000540</infon>
+                    <location length="13" offset="81"/>
+                    <text>hypermetropia</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000483</infon>
+                    <location length="11" offset="99"/>
+                    <text>astigmatism</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1185</offset>
+                <text>Roentgenograms showed bilateral radioulnar synostosis.</text>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002974</infon>
+                    <location length="21" offset="32"/>
+                    <text>radioulnar synostosis</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

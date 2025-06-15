@@ -1,0 +1,76 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A girl was delivered by spontaneous normal vaginal delivery at 38 weeks gestation after an unremarkable pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>115</offset>
+                <text>She was 3.5 kg in weight (25-50 percentile), the head circumference was 33 cm (25-50 percentile), and the height at birth was 52 cm (25-50 percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>267</offset>
+                <text>Her mother is a gravid 4, para 3, 40 yr-old Korean woman.</text>
+            </sentence>
+            <sentence>
+                <offset>325</offset>
+                <text>Her parents are both phenotypically normal and nonconsanguineous.</text>
+            </sentence>
+            <sentence>
+                <offset>391</offset>
+                <text>The patient is the 2nd among 3 children and is the only affected child.</text>
+            </sentence>
+            <sentence>
+                <offset>466</offset>
+                <text>Upon birth, the infant demonstrated bilaterally fused coronal sutures, mild proptosis, and maxillary hypoplasia (Fig. 1A).</text>
+            </sentence>
+            <sentence>
+                <offset>589</offset>
+                <text>The soft tissues of her 2nd, 3rd and 4th fingers were fused bilaterally to the proximal portion of distal phalanx and her bilateral thumbs were broad and deviated radially (Fig. 1B).</text>
+            </sentence>
+            <sentence>
+                <offset>772</offset>
+                <text>Syndactyly of the feet involving all 5 toes was observed (Fig. 1C).</text>
+            </sentence>
+            <sentence>
+                <offset>840</offset>
+                <text>The infant demonstrated evidence of respiratory distress with choanal hypoplasia.</text>
+            </sentence>
+            <sentence>
+                <offset>922</offset>
+                <text>There was no deformity or motion limitation of bilateral elbows or shoulder joints.</text>
+            </sentence>
+            <sentence>
+                <offset>1009</offset>
+                <text>Computed tomogram (CT) and magnetic resonance imaging (MRI) studies of the cranium revealed no other abnormalities except for the presence of craniosynostosis.</text>
+            </sentence>
+            <sentence>
+                <offset>1169</offset>
+                <text>Three-dimensional reconstruction CT showed 3-dimensional virtual images of the bilaterally fused coronal sutures (Fig. 2A) but that the sagittal and lambdoid suture were open more than normal to compensate for the small intracranial space, and resulting overall in a brachycephalic head shape (Fig. 2B).</text>
+            </sentence>
+            <sentence>
+                <offset>1473</offset>
+                <text>Plain radiography of her hands and feet showed no bony fusion between the phalanges (Fig. 3).</text>
+            </sentence>
+            <sentence>
+                <offset>1567</offset>
+                <text>Three-dimensional CT image of choanal air airway showed small and narrow airway of choanal space (Fig. 4).</text>
+            </sentence>
+            <sentence>
+                <offset>1674</offset>
+                <text>She did not have any visceral abnormality upon ultrasonographic examination of the abdomen and heart.</text>
+            </sentence>
+            <sentence>
+                <offset>1779</offset>
+                <text>The patient had a decompressive endoscopic tunnel craniectomy at 4 weeks of age, and is planned for second surgical correction of craniosynostosis, followed by additional correction procedure for the finger and craniofacial anomalies at a later date.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

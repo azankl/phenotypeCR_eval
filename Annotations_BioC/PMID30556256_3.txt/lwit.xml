@@ -1,0 +1,336 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 3 is the brother of Patients 1 and 2.</text>
+            </sentence>
+            <sentence>
+                <offset>46</offset>
+                <text>Antenatal ultrasound had demonstrated an abnormal bladder, polyhydramnios, kinking of the thoracic spine and an enlarged 3rd cerebral ventricle.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025487</infon>
+                    <location length="16" offset="41"/>
+                    <text>abnormal bladder</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001561</infon>
+                    <location length="14" offset="59"/>
+                    <text>polyhydramnios</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002943</infon>
+                    <location length="29" offset="75"/>
+                    <text>kinking of the thoracic spine</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007082</infon>
+                    <location length="31" offset="112"/>
+                    <text>enlarged 3rd cerebral ventricle</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>191</offset>
+                <text>He was delivered at 38 weeks by elective cesarean section, with a birth weight of 4.02 kg (91st–98th centiles).</text>
+            </sentence>
+            <sentence>
+                <offset>303</offset>
+                <text>At birth he was noted to have scoliosis, prominent left-sided ribs, left talipes equinovarus, a systolic heart murmur, and congenital macrocephaly (above 99.6th centile).</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002650</infon>
+                    <location length="9" offset="30"/>
+                    <text>scoliosis</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="41"/>
+                    <text>prominent</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="62"/>
+                    <text>ribs</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001762</infon>
+                    <location length="19" offset="73"/>
+                    <text>talipes equinovarus</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031664</infon>
+                    <location length="21" offset="96"/>
+                    <text>systolic heart murmur</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000256</infon>
+                    <location length="12" offset="134"/>
+                    <text>macrocephaly</text>
+                </annotation>
+                <relation id="7">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000885</infon>
+                    <node refid="8" role="source"/>
+                    <node refid="6" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>474</offset>
+                <text>His length at birth was on the 97th centile.</text>
+            </sentence>
+            <sentence>
+                <offset>522</offset>
+                <text>He also had a left-sided inguinal hernia, undescended left testis, Fallot's tetralogy and scoliosis, all of which required surgical treatment.</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000023</infon>
+                    <location length="15" offset="25"/>
+                    <text>inguinal hernia</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="42"/>
+                    <text>undescended</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="59"/>
+                    <text>testis</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001636</infon>
+                    <location length="18" offset="67"/>
+                    <text>Fallot's tetralogy</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002650</infon>
+                    <location length="9" offset="90"/>
+                    <text>scoliosis</text>
+                </annotation>
+                <relation id="14">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000028</infon>
+                    <node refid="15" role="source"/>
+                    <node refid="13" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>665</offset>
+                <text>He had severe congenital bilateral sensorineural hearing loss and severe developmental delay.</text>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000407</infon>
+                    <location length="26" offset="35"/>
+                    <text>sensorineural hearing loss</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001263</infon>
+                    <location length="19" offset="73"/>
+                    <text>developmental delay</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>759</offset>
+                <text>He first sat upright at the age of 6 years and has never walked, but is able to bottom shuffle.</text>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002540</infon>
+                    <location length="12" offset="51"/>
+                    <text>never walked</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>855</offset>
+                <text>He is nonverbal, and cannot feed himself.</text>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001344</infon>
+                    <location length="9" offset="6"/>
+                    <text>nonverbal</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>900</offset>
+                <text>On assessment at the age of 26 years, he had synophrys, mild hypertelorism, “cupid's bow” upper lip, everted lower lip, low set and posteriorly rotated ears, gingival hypertrophy, a short neck, and an intention tremor (Figure 1).</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000664</infon>
+                    <location length="9" offset="45"/>
+                    <text>synophrys</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="61"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002263</infon>
+                    <location length="22" offset="77"/>
+                    <text>cupid's bow” upper lip</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000232</infon>
+                    <location length="17" offset="101"/>
+                    <text>everted lower lip</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="120"/>
+                    <text>low set</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000358</infon>
+                    <location length="24" offset="132"/>
+                    <text>posteriorly rotated ears</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="152"/>
+                    <text>ears</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000212</infon>
+                    <location length="20" offset="158"/>
+                    <text>gingival hypertrophy</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000470</infon>
+                    <location length="10" offset="182"/>
+                    <text>short neck</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002080</infon>
+                    <location length="16" offset="201"/>
+                    <text>intention tremor</text>
+                </annotation>
+                <relation id="27">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000369</infon>
+                    <node refid="28" role="source"/>
+                    <node refid="26" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1130</offset>
+                <text>He still has his primary dentition.</text>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="3"/>
+                    <text>still</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="17"/>
+                    <text>primary dentition</text>
+                </annotation>
+                <relation id="34">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006335</infon>
+                    <node refid="35" role="source"/>
+                    <node refid="33" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1166</offset>
+                <text>His head circumference was between the 75th and 91st centiles.</text>
+            </sentence>
+            <sentence>
+                <offset>1232</offset>
+                <text>Chest and spinal radiographs showed abnormalities of the spine with multiple block vertebrae in the midthoracic region associated with scoliosis.</text>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000925</infon>
+                    <location length="26" offset="36"/>
+                    <text>abnormalities of the spine</text>
+                </annotation>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003305</infon>
+                    <location length="15" offset="77"/>
+                    <text>block vertebrae</text>
+                </annotation>
+                <annotation id="38">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002650</infon>
+                    <location length="9" offset="135"/>
+                    <text>scoliosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1378</offset>
+                <text>Posterior fusion defects were seen in the cervical spine, and there were multiple bifid ribs.</text>
+                <annotation id="39">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="10"/>
+                    <text>fusion defects</text>
+                </annotation>
+                <annotation id="41">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="51"/>
+                    <text>spine</text>
+                </annotation>
+                <annotation id="42">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000892</infon>
+                    <location length="10" offset="82"/>
+                    <text>bifid ribs</text>
+                </annotation>
+                <relation id="40">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002948</infon>
+                    <node refid="41" role="source"/>
+                    <node refid="39" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1472</offset>
+                <text>CT head demonstrated enlarged ventricles and subarachnoid space.</text>
+                <annotation id="43">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002119</infon>
+                    <location length="19" offset="21"/>
+                    <text>enlarged ventricles</text>
+                </annotation>
+                <annotation id="44">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="21"/>
+                    <text>enlarged</text>
+                </annotation>
+                <annotation id="46">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="18" offset="45"/>
+                    <text>subarachnoid space</text>
+                </annotation>
+                <relation id="45">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012704</infon>
+                    <node refid="46" role="source"/>
+                    <node refid="44" role="target"/>
+                </relation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

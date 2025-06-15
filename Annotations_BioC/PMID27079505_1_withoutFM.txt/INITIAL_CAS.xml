@@ -1,0 +1,120 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A male infant, twin B of monochorionic, diamniotic twins, was born at 33 weeks gestation via emergency cesarean section for preterm labor.</text>
+            </sentence>
+            <sentence>
+                <offset>139</offset>
+                <text>The mother was 36 years old and the father’s age was unknown.</text>
+            </sentence>
+            <sentence>
+                <offset>201</offset>
+                <text>Her obstetric history was gravida 4, para 1, with a history of 2 elective terminations.</text>
+            </sentence>
+            <sentence>
+                <offset>289</offset>
+                <text>Antepartum history included moderate polyhydramnios detected at the 26th week of gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>381</offset>
+                <text>Normal sequential maternal screen including normal nuchal translucency for both twin A and B was reported.</text>
+            </sentence>
+            <sentence>
+                <offset>488</offset>
+                <text>The mother declined additional prenatal genetic testing.</text>
+            </sentence>
+            <sentence>
+                <offset>545</offset>
+                <text>There was no evidence of antenatal craniosynostosis on a fetal sonogram at 31 weeks gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>643</offset>
+                <text>Birth weight of twin B was 2470 gm (94th percentile), 44.4 cm in length (60th percentile) with a head circumference of 34 cm (99th percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>787</offset>
+                <text>Apgar scores were 1, 3, and 5 at 1, 5, and 10 minutes, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>856</offset>
+                <text>The patient was transferred to our neonatal intensive care unit.</text>
+            </sentence>
+            <sentence>
+                <offset>924</offset>
+                <text>Physical examination revealed craniotabes with a widely separated sagittal suture, an enlarged anterior fontanelle extending over the nasal bridge, and frontal bossing with cutis gyrata over the forehead and bilaterally in the preauricular areas.</text>
+            </sentence>
+            <sentence>
+                <offset>1171</offset>
+                <text>The infant’s mid-facial region showed severe proptosis bilaterally and ocular hypertelorism, a flattened nasal bridge, and low-set anterior and posterior hairlines.</text>
+            </sentence>
+            <sentence>
+                <offset>1336</offset>
+                <text>He was also noted to have hypoplastic nipples, a bifid scrotum, and hypospadias.</text>
+            </sentence>
+            <sentence>
+                <offset>1417</offset>
+                <text>The palms and soles bilaterally had thickened skin with deep creases, and the fingers were short.</text>
+            </sentence>
+            <sentence>
+                <offset>1515</offset>
+                <text>The back was intact with bogginess over the lower lumbosacral area of the spine.</text>
+            </sentence>
+            <sentence>
+                <offset>1596</offset>
+                <text>The patient was intubated immediately after birth due to respiratory distress.</text>
+            </sentence>
+            <sentence>
+                <offset>1675</offset>
+                <text>On day two of life, otolaryngology was consulted due to difficulty passing a suction catheter through both nostrils.</text>
+            </sentence>
+            <sentence>
+                <offset>1792</offset>
+                <text>Suspected bilateral choanal atresia was confirmed with a CT scan, which also revealed bilateral intraventricular hemorrhage but no evidence of craniosynostosis.</text>
+            </sentence>
+            <sentence>
+                <offset>1956</offset>
+                <text>The patient was subsequently transferred to another facility for specialized surgery for repair of choanal atresia.</text>
+            </sentence>
+            <sentence>
+                <offset>2072</offset>
+                <text>However, this was unsuccessful due to mid-face hypoplasia.</text>
+            </sentence>
+            <sentence>
+                <offset>2131</offset>
+                <text>Tracheostomy was placed and the baby was transferred back to our NICU for further management.</text>
+            </sentence>
+            <sentence>
+                <offset>2225</offset>
+                <text>The patient was discovered to have a natal tooth encompassed by a cyst, which required extraction.</text>
+            </sentence>
+            <sentence>
+                <offset>2324</offset>
+                <text>Pathology revealed normal human tooth histology.</text>
+            </sentence>
+            <sentence>
+                <offset>2373</offset>
+                <text>The remainder of his course was significant for development of hydrocephalus secondary to aqueductal stenosis.</text>
+            </sentence>
+            <sentence>
+                <offset>2484</offset>
+                <text>Due to these findings, the patient was transferred for neurosurgical evaluation.</text>
+            </sentence>
+            <sentence>
+                <offset>2568</offset>
+                <text>BSS was suspected clinically and confirmed by sequence analysis of the FGFR2 gene, which revealed a heterozygous Tyr375Cys missense mutation of exon 9.</text>
+            </sentence>
+            <sentence>
+                <offset>2720</offset>
+                <text>This mutation has been reported in other cases of BSS (Table 1).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,322 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿A 7-month-old female baby and her mother visited the surgical outpatient clinic of Kilimanjaro Christian Medical Center in Moshi, Tanzania.</text>
+            </sentence>
+            <sentence>
+                <offset>141</offset>
+                <text>This is a referral hospital in Northern Tanzania.</text>
+            </sentence>
+            <sentence>
+                <offset>191</offset>
+                <text>She reported that her child was born with an abnormal head size and shape with abnormal fingers and toes, but otherwise developing well.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000240</infon>
+                    <location length="18" offset="45"/>
+                    <text>abnormal head size</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="45"/>
+                    <text>abnormal head</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="68"/>
+                    <text>shape</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001167</infon>
+                    <location length="16" offset="79"/>
+                    <text>abnormal fingers</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="79"/>
+                    <text>abnormal</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="100"/>
+                    <text>toes</text>
+                </annotation>
+                <relation id="3">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000929</infon>
+                    <node refid="4" role="source"/>
+                    <node refid="2" role="target"/>
+                </relation>
+                <relation id="7">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001780</infon>
+                    <node refid="8" role="source"/>
+                    <node refid="6" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>328</offset>
+                <text>It is the firstborn child to the parents, born at term by an uncomplicated vaginal delivery and with a birth weight of 4,000 g (above 90th percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>480</offset>
+                <text>The mother had an uneventful pregnancy, but reported a miscarriage 2 years earlier at 10-weeks of gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>590</offset>
+                <text>On examination, the child was 10.5 kg (97th percentile) with a length of 69 cm (47th percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>688</offset>
+                <text>Weight for length was above 98th percentile (indicating obesity).</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001513</infon>
+                    <location length="7" offset="56"/>
+                    <text>obesity</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>754</offset>
+                <text>She was able to sit without support, crawled, responded to visual, and acoustic stimuli, recognized her parents and did not like to be held by others.</text>
+            </sentence>
+            <sentence>
+                <offset>905</offset>
+                <text>She followed objects, grabbed, and held them with her hands.</text>
+            </sentence>
+            <sentence>
+                <offset>966</offset>
+                <text>Examination of the head showed an asymmetric skull with cloverleaf shape, metopic ridge and temporal bulging, arched eyebrows, telecanthus, epicanthal folds, down slanting palpebral fissures, and anteverted nares (Figure 1).</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="45"/>
+                    <text>skull</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="56"/>
+                    <text>cloverleaf shape</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005487</infon>
+                    <location length="13" offset="74"/>
+                    <text>metopic ridge</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0032569</infon>
+                    <location length="16" offset="92"/>
+                    <text>temporal bulging</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002553</infon>
+                    <location length="15" offset="110"/>
+                    <text>arched eyebrows</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000506</infon>
+                    <location length="11" offset="127"/>
+                    <text>telecanthus</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000286</infon>
+                    <location length="16" offset="140"/>
+                    <text>epicanthal folds</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000494</infon>
+                    <location length="32" offset="158"/>
+                    <text>down slanting palpebral fissures</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000463</infon>
+                    <location length="16" offset="196"/>
+                    <text>anteverted nares</text>
+                </annotation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002676</infon>
+                    <node refid="10" role="source"/>
+                    <node refid="11" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1191</offset>
+                <text>Upon abdominal examination, there was a reducible umbilical hernia of 2 cm in diameter (Figure 1).</text>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001537</infon>
+                    <location length="16" offset="50"/>
+                    <text>umbilical hernia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1290</offset>
+                <text>The external female genitalia were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1333</offset>
+                <text>Musculoskeletal examination of the limbs showed broad thumbs with brachydactyly, syndactyly, and polydactyly.</text>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011304</infon>
+                    <location length="12" offset="48"/>
+                    <text>broad thumbs</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001156</infon>
+                    <location length="13" offset="66"/>
+                    <text>brachydactyly</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001159</infon>
+                    <location length="10" offset="81"/>
+                    <text>syndactyly</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010442</infon>
+                    <location length="11" offset="97"/>
+                    <text>polydactyly</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1443</offset>
+                <text>The feet showed broad halluces and bilateral talipes equinovarus (Figure 1).A plain chest X-ray was essentially normal with clear lung fields and normal appearing cardiac shadow.</text>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010055</infon>
+                    <location length="14" offset="16"/>
+                    <text>broad halluces</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001762</infon>
+                    <location length="19" offset="45"/>
+                    <text>talipes equinovarus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1622</offset>
+                <text>Cardiac and abdominal–pelvic ultrasonography studies showed no abnormalities.</text>
+            </sentence>
+            <sentence>
+                <offset>1700</offset>
+                <text>Plain X-ray of hands and feet revealed postaxial polydactyly (Figure 1).</text>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="15"/>
+                    <text>hands</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="25"/>
+                    <text>feet</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="21" offset="39"/>
+                    <text>postaxial polydactyly</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="21" offset="39"/>
+                    <text>postaxial polydactyly</text>
+                </annotation>
+                <relation id="31">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001830</infon>
+                    <node refid="28" role="source"/>
+                    <node refid="29" role="target"/>
+                </relation>
+                <relation id="32">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001162</infon>
+                    <node refid="27" role="source"/>
+                    <node refid="30" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1773</offset>
+                <text>Head CT-scan showed hydrocephalus with dilated lateral and third ventricles with posterior fossa crowding and craniosynostosis.</text>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000238</infon>
+                    <location length="13" offset="20"/>
+                    <text>hydrocephalus</text>
+                </annotation>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="39"/>
+                    <text>dilated lateral</text>
+                </annotation>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="39"/>
+                    <text>dilated</text>
+                </annotation>
+                <annotation id="39">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="59"/>
+                    <text>third ventricles</text>
+                </annotation>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="65"/>
+                    <text>ventricles</text>
+                </annotation>
+                <annotation id="40">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0040010</infon>
+                    <location length="24" offset="81"/>
+                    <text>posterior fossa crowding</text>
+                </annotation>
+                <annotation id="41">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001363</infon>
+                    <location length="16" offset="110"/>
+                    <text>craniosynostosis</text>
+                </annotation>
+                <relation id="35">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006956</infon>
+                    <node refid="36" role="source"/>
+                    <node refid="34" role="target"/>
+                </relation>
+                <relation id="38">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007082</infon>
+                    <node refid="39" role="source"/>
+                    <node refid="37" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1901</offset>
+                <text>Three-dimensional (3D) virtual-reconstruction images showed the cloverleaf shaped skull bone configuration (Figure 1).</text>
+                <annotation id="42">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002676</infon>
+                    <location length="23" offset="64"/>
+                    <text>cloverleaf shaped skull</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

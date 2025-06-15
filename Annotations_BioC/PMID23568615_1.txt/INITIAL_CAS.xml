@@ -1,0 +1,24 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 1 had macrostomia, a cleft palate, maxillar and mandibular hypoplasia, sparse lower eyelashes and was reported to have problems with tear production (Fig. 1a).</text>
+            </sentence>
+            <sentence>
+                <offset>168</offset>
+                <text>On the right hand, he had preaxial polydactyly (thumb duplication) with syndactyly (Fig. 2a), and on the left, he had thumb aplasia (Fig. 2b).</text>
+            </sentence>
+            <sentence>
+                <offset>311</offset>
+                <text>In addition, overlapping toes and a low-positioned kidney discovered in the abdominal ultrasound were present.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

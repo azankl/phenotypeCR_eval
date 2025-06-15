@@ -1,0 +1,64 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The propositus was delivered by cesarean for a dizygotic twin pregnancy at term to a 40-year-old, G3 P2-4 mother and a 48-year-old father.</text>
+            </sentence>
+            <sentence>
+                <offset>139</offset>
+                <text>Birth parameters were weight 3,860 g (75–90th centile for a singleton male), length 51 cm (50–75th centile for a singleton male) and head circumference 36.5 cm (75–90th centile for a singleton male).</text>
+            </sentence>
+            <sentence>
+                <offset>339</offset>
+                <text>Striking craniofacial features were present, including ocular proptosis with hypoplasia of the supraorbital ridges, hypertelorism with a divergent strabismus, deep creases below his eyes, a high nasal bridge, midface hypoplasia, complete atresia of the external ear canals with a left preauricular pit and bilateral ear creases.</text>
+            </sentence>
+            <sentence>
+                <offset>668</offset>
+                <text>There were multiple neonatal teeth, gingival hyperplasia and a high-arched, narrow palate with a bifid uvula.</text>
+            </sentence>
+            <sentence>
+                <offset>778</offset>
+                <text>Cutaneous features included cutis gyrata and acanthosis nigricans of the posterior scalp, small skin tags at the corners of the mouth, excess neck skin and a prominent umbilicus with redundant skin.</text>
+            </sentence>
+            <sentence>
+                <offset>977</offset>
+                <text>A sacral tag, hypospadias and a prominent scrotal raphé were present.</text>
+            </sentence>
+            <sentence>
+                <offset>1047</offset>
+                <text>Examination of the hands and feet showed redundant palmar and plantar skin, slightly broad thumbs and halluces and mild skin syndactyly of the second and third toes with overlapping fourth toes.</text>
+            </sentence>
+            <sentence>
+                <offset>1242</offset>
+                <text>Investigations for a flat occiput and a prominent forehead at four months of age showed fusion of the posterior aspect of the sagittal and the proximal lambdoid sutures and cranial vault remodeling was performed at seven months.</text>
+            </sentence>
+            <sentence>
+                <offset>1471</offset>
+                <text>Bilateral choanal stenosis and a mild to moderate mixed hearing loss requiring hearing aids were present.</text>
+            </sentence>
+            <sentence>
+                <offset>1577</offset>
+                <text>Ophthalmological examination detected mild optic nerve hypoplasia and high myopia with astigmatism requiring corrective lenses.</text>
+            </sentence>
+            <sentence>
+                <offset>1705</offset>
+                <text>Obstructive sleep apnea was treated with a tracheostomy and a ventriculoperitoneal shunt was placed because of an Arnold-Chiari malformation with hydrocephalus.</text>
+            </sentence>
+            <sentence>
+                <offset>1866</offset>
+                <text>His length was 107 cm at age six years (3rd centile), but his other growth parameters were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1965</offset>
+                <text>He has had initial mild motor delays, but the propositus’ neurodevelopmental progress was normal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

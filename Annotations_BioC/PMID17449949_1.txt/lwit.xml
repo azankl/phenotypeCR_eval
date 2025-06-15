@@ -1,0 +1,424 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The patient was a Korean male infant born at the 39th week of gestation via vaginal delivery at a regional maternity hospital.</text>
+            </sentence>
+            <sentence>
+                <offset>127</offset>
+                <text>His mother was a 32-yr-old women and his father was a 50-yr-old man.</text>
+            </sentence>
+            <sentence>
+                <offset>196</offset>
+                <text>His mother's obstetric history was gravida 2, para 1, and was otherwise unremarkable.</text>
+            </sentence>
+            <sentence>
+                <offset>282</offset>
+                <text>Although the mother had undergone no antenatal care, her current pregnancy had been otherwise free of complications.</text>
+            </sentence>
+            <sentence>
+                <offset>399</offset>
+                <text>In addition, neither side of the family had any history of consanguinity, structural anomalies, or genetic disorders.</text>
+            </sentence>
+            <sentence>
+                <offset>520</offset>
+                <text>The patient's Apgar scores were 6 and 8 at 1 and 5 min, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>590</offset>
+                <text>Ten minutes after birth, the infant exhibited some signs of mild respiratory distress, including nasal flaring, grunting, stridor, and tachypnea.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002098</infon>
+                    <location length="20" offset="65"/>
+                    <text>respiratory distress</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030863</infon>
+                    <location length="13" offset="97"/>
+                    <text>nasal flaring</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030829</infon>
+                    <location length="8" offset="112"/>
+                    <text>grunting</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010307</infon>
+                    <location length="7" offset="122"/>
+                    <text>stridor</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002789</infon>
+                    <location length="9" offset="135"/>
+                    <text>tachypnea</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>736</offset>
+                <text>The patient was thus transferred to the Ansan Hospital, Korea University Medical Center.</text>
+            </sentence>
+            <sentence>
+                <offset>828</offset>
+                <text>Upon arrival at the neonatal intensive care unit, the patient exhibited coarse breathing sounds, and arterial oxygen saturation decreased gradually.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030830</infon>
+                    <location length="23" offset="72"/>
+                    <text>coarse breathing sounds</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012418</infon>
+                    <location length="27" offset="110"/>
+                    <text>oxygen saturation decreased</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>977</offset>
+                <text>The infant was therefore treated with continuous positive airway pressure, with extra oxygen being delivered via nasal prongs.</text>
+            </sentence>
+            <sentence>
+                <offset>1104</offset>
+                <text>A whole body radiograph revealed a cloverleaf-shaped skull deformity, and faint air bronchogram in both of the patient's central lungs.</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002676</infon>
+                    <location length="23" offset="35"/>
+                    <text>cloverleaf-shaped skull</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1243</offset>
+                <text>The infant weighed 4,460 g (above 97th percentile), was 56 cm long (above 97th percentile), and had a head circumference of 36.5 cm (90-97th percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>1397</offset>
+                <text>On physical examination, the combination of a frontal and bitemporal prominence, and a wide anterior fontanel (5×5 cm), gave the patient's skull an appearance reminiscent of a cloverleaf.</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="46"/>
+                    <text>frontal</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0032569</infon>
+                    <location length="21" offset="58"/>
+                    <text>bitemporal prominence</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="69"/>
+                    <text>prominence</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000260</infon>
+                    <location length="22" offset="87"/>
+                    <text>wide anterior fontanel</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="139"/>
+                    <text>skull</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="176"/>
+                    <text>cloverleaf</text>
+                </annotation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002007</infon>
+                    <node refid="9" role="source"/>
+                    <node refid="11" role="target"/>
+                </relation>
+                <relation id="16">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002676</infon>
+                    <node refid="14" role="source"/>
+                    <node refid="15" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1585</offset>
+                <text>The patient also suffered from hydrocephalus, resulting in a soft contour scalp without palpable suture lines.</text>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000238</infon>
+                    <location length="13" offset="31"/>
+                    <text>hydrocephalus</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000929</infon>
+                    <location length="18" offset="61"/>
+                    <text>soft contour scalp</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1696</offset>
+                <text>We noted severe ocular proptosis and ocular hypertelorism, and the patient exhibited exophthalmos, which was aggravated when the infant cried.</text>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000520</infon>
+                    <location length="9" offset="23"/>
+                    <text>proptosis</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="44"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000520</infon>
+                    <location length="12" offset="85"/>
+                    <text>exophthalmos</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1839</offset>
+                <text>The patient's mid-facial region was hypoplastic, with a small nose and a depressed nasal bridge.</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="14"/>
+                    <text>mid-facial</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="36"/>
+                    <text>hypoplastic</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003196</infon>
+                    <location length="10" offset="56"/>
+                    <text>small nose</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005280</infon>
+                    <location length="22" offset="73"/>
+                    <text>depressed nasal bridge</text>
+                </annotation>
+                <relation id="24">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011800</infon>
+                    <node refid="22" role="source"/>
+                    <node refid="23" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1936</offset>
+                <text>The infant's ears were angulated posteriorly, and were significantly lowset, with deep vertical furrows appearing in the pre-auricular area (Fig. 1).</text>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="13"/>
+                    <text>ears</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="13"/>
+                    <text>ears</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="21" offset="23"/>
+                    <text>angulated posteriorly</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="69"/>
+                    <text>lowset</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="96"/>
+                    <text>furrows</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="18" offset="121"/>
+                    <text>pre-auricular area</text>
+                </annotation>
+                <relation id="30">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000358</infon>
+                    <node refid="27" role="source"/>
+                    <node refid="29" role="target"/>
+                </relation>
+                <relation id="32">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000369</infon>
+                    <node refid="28" role="source"/>
+                    <node refid="31" role="target"/>
+                </relation>
+                <relation id="34">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004450</infon>
+                    <node refid="35" role="source"/>
+                    <node refid="33" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2086</offset>
+                <text>A skull anteroposterior view (Fig. 2) revealed severe temporal bulging, typical of a "cloverleaf" skull, as well as a 'scooping-out' effect apparent in the lacunar skull.</text>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0032569</infon>
+                    <location length="16" offset="54"/>
+                    <text>temporal bulging</text>
+                </annotation>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002676</infon>
+                    <location length="17" offset="86"/>
+                    <text>cloverleaf" skull</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2257</offset>
+                <text>The patient's maxillary bones were also found to be hypoplastic.</text>
+                <annotation id="38">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="14"/>
+                    <text>maxillary bones</text>
+                </annotation>
+                <annotation id="39">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="52"/>
+                    <text>hypoplastic</text>
+                </annotation>
+                <relation id="40">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009117</infon>
+                    <node refid="38" role="source"/>
+                    <node refid="39" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2323</offset>
+                <text>On the 3rd day of birth, the infant manifested respiratory difficulty.</text>
+                <annotation id="41">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002094</infon>
+                    <location length="22" offset="47"/>
+                    <text>respiratory difficulty</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2394</offset>
+                <text>Upon examination, the infant was feverish with purulent sputum, and exhibited inspiratory crackles with a mild intercostal retraction.</text>
+                <annotation id="42">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001945</infon>
+                    <location length="8" offset="33"/>
+                    <text>feverish</text>
+                </annotation>
+                <annotation id="43">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0034777</infon>
+                    <location length="15" offset="47"/>
+                    <text>purulent sputum</text>
+                </annotation>
+                <annotation id="44">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031996</infon>
+                    <location length="20" offset="78"/>
+                    <text>inspiratory crackles</text>
+                </annotation>
+                <annotation id="45">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030864</infon>
+                    <location length="22" offset="111"/>
+                    <text>intercostal retraction</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2529</offset>
+                <text>At that time, the patient's chest radiography indicated mild bronchopneumonia.</text>
+                <annotation id="46">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012387</infon>
+                    <location length="16" offset="61"/>
+                    <text>bronchopneumonia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2608</offset>
+                <text>The patient was able to maintain normal oxygen saturations only when administered with oxygen with FiO2 40%, via intubation.</text>
+            </sentence>
+            <sentence>
+                <offset>2733</offset>
+                <text>We noted no abrupt symptomatic changes in the patient's condition, but observed a gradual and steady course of deterioration.</text>
+            </sentence>
+            <sentence>
+                <offset>2859</offset>
+                <text>The patient developed pneumonia, which was followed by the emergence of sepsis.</text>
+                <annotation id="47">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002090</infon>
+                    <location length="9" offset="22"/>
+                    <text>pneumonia</text>
+                </annotation>
+                <annotation id="48">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100806</infon>
+                    <location length="6" offset="72"/>
+                    <text>sepsis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2939</offset>
+                <text>At 21 days after birth, the patient went into cardio-respiratory arrest and expired.</text>
+                <annotation id="49">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005943</infon>
+                    <location length="25" offset="46"/>
+                    <text>cardio-respiratory arrest</text>
+                </annotation>
+                <annotation id="50">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001695</infon>
+                    <location length="25" offset="46"/>
+                    <text>cardio-respiratory arrest</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>3024</offset>
+                <text>Mid-brain compression due to the craniosynostosis, which eventually resulted in central respiratory depression, was considered to be the underlying cause of death.</text>
+                <annotation id="51">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002512</infon>
+                    <location length="21" offset="0"/>
+                    <text>Mid-brain compression</text>
+                </annotation>
+                <annotation id="52">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001363</infon>
+                    <location length="16" offset="33"/>
+                    <text>craniosynostosis</text>
+                </annotation>
+                <annotation id="53">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002791</infon>
+                    <location length="22" offset="88"/>
+                    <text>respiratory depression</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

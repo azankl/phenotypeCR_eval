@@ -1,0 +1,347 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A fifty-two-day-old boy was referred to our&#13;
+hospital, with a complaint of restlessness and&#13;
+swelling over his shins noticed by the mother&#13;
+one week before.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000711</infon>
+                    <location length="12" offset="75"/>
+                    <text>restlessness</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="8" offset="93"/>
+                    <text>swelling</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="111"/>
+                    <text>shins</text>
+                </annotation>
+                <relation id="3">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="4" role="source"/>
+                    <node refid="2" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>157</offset>
+                <text>He was born after a normal&#13;
+pregnancy period, full term by normal vaginal&#13;
+delivery and his birth weight was 2.8 kg.</text>
+            </sentence>
+            <sentence>
+                <offset>275</offset>
+                <text>Routine prenatal follow-up and ultrasounds&#13;
+were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>332</offset>
+                <text>There was no history of child&#13;
+abuse, trauma and fever.</text>
+            </sentence>
+            <sentence>
+                <offset>388</offset>
+                <text>He was only breast&#13;
+fed and was having vitamin-D supplement 400&#13;
+U/day.</text>
+            </sentence>
+            <sentence>
+                <offset>460</offset>
+                <text>The mother and father was the first&#13;
+cousin once removed.</text>
+            </sentence>
+            <sentence>
+                <offset>522</offset>
+                <text>On physical examination of the patient, he was&#13;
+irritable, crying when lower limbs were touched.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000737</infon>
+                    <location length="9" offset="48"/>
+                    <text>irritable</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>620</offset>
+                <text>All vital signs were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>649</offset>
+                <text>His weight, length&#13;
+and head circumference percentiles were 50-&#13;
+75p, 10-25p and 10-25 p, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>753</offset>
+                <text>There&#13;
+was bilateral swelling and tenderness over his&#13;
+shins, without any erythema or ecchymosis.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="8" offset="21"/>
+                    <text>swelling</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="34"/>
+                    <text>tenderness</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="55"/>
+                    <text>shins</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="55"/>
+                    <text>shins</text>
+                </annotation>
+                <relation id="7">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="8" role="source"/>
+                    <node refid="6" role="target"/>
+                </relation>
+                <relation id="10">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012514</infon>
+                    <node refid="11" role="source"/>
+                    <node refid="9" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>851</offset>
+                <text>He&#13;
+kept his lower limbs at flexion posture.</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005750</infon>
+                    <location length="30" offset="13"/>
+                    <text>lower limbs at flexion posture</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>896</offset>
+                <text>The&#13;
+remaining systemic examinations were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>947</offset>
+                <text>Laboratory investigations showed elevated levels&#13;
+of erythrocyte sedimentation rate (ESR, 60&#13;
+mm/hr) and alkaline phosphatase (537 IU/L),&#13;
+and a mild thrombocytosis (572.000 /mm3).</text>
+            </sentence>
+            <sentence>
+                <offset>1129</offset>
+                <text>Peripheral blood smear showed hypo chromic&#13;
+red cells, target cells and thrombocytosis with&#13;
+no other abnormality.</text>
+            </sentence>
+            <sentence>
+                <offset>1244</offset>
+                <text>Serum C-reactive protein&#13;
+(CRP), calcium, amylase, parathormone, 25-OH&#13;
+vitamin-D levels and the other biochemical and&#13;
+hematological evaluations were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1403</offset>
+                <text>Patient’s&#13;
+and the mother’s serology for syphilis (VDRL)&#13;
+was nonreactive.</text>
+            </sentence>
+            <sentence>
+                <offset>1478</offset>
+                <text>Serum immunoglobulin and&#13;
+urine analyses were normal, and serology for&#13;
+viral infections was negative.</text>
+            </sentence>
+            <sentence>
+                <offset>1581</offset>
+                <text>Radiological&#13;
+examination showed cortical thickening, sub&#13;
+periosteal reaction and new bone formation&#13;
+in the mandible, bilateral clavicles and long&#13;
+bones (Fig. 1a and b).</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="19" offset="33"/>
+                    <text>cortical thickening</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="19" offset="33"/>
+                    <text>cortical thickening</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="19" offset="33"/>
+                    <text>cortical thickening</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="24" offset="54"/>
+                    <text>sub&#13;
+periosteal reaction</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="24" offset="54"/>
+                    <text>sub&#13;
+periosteal reaction</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="24" offset="54"/>
+                    <text>sub&#13;
+periosteal reaction</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="18" offset="83"/>
+                    <text>new bone formation</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="18" offset="83"/>
+                    <text>new bone formation</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="18" offset="83"/>
+                    <text>new bone formation</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="110"/>
+                    <text>mandible</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="110"/>
+                    <text>mandible</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="110"/>
+                    <text>mandible</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="130"/>
+                    <text>clavicles</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="130"/>
+                    <text>clavicles</text>
+                </annotation>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="130"/>
+                    <text>clavicles</text>
+                </annotation>
+                <annotation id="39">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="144"/>
+                    <text>long&#13;
+bones</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="144"/>
+                    <text>long&#13;
+bones</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="144"/>
+                    <text>long&#13;
+bones</text>
+                </annotation>
+                <relation id="16">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="17" role="source"/>
+                    <node refid="15" role="target"/>
+                </relation>
+                <relation id="18">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="19" role="source"/>
+                    <node refid="14" role="target"/>
+                </relation>
+                <relation id="20">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000935</infon>
+                    <node refid="21" role="source"/>
+                    <node refid="13" role="target"/>
+                </relation>
+                <relation id="25">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031485</infon>
+                    <node refid="26" role="source"/>
+                    <node refid="24" role="target"/>
+                </relation>
+                <relation id="27">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031485</infon>
+                    <node refid="28" role="source"/>
+                    <node refid="23" role="target"/>
+                </relation>
+                <relation id="29">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031485</infon>
+                    <node refid="30" role="source"/>
+                    <node refid="22" role="target"/>
+                </relation>
+                <relation id="34">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031485</infon>
+                    <node refid="35" role="source"/>
+                    <node refid="33" role="target"/>
+                </relation>
+                <relation id="36">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031485</infon>
+                    <node refid="37" role="source"/>
+                    <node refid="32" role="target"/>
+                </relation>
+                <relation id="38">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031485</infon>
+                    <node refid="39" role="source"/>
+                    <node refid="31" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1755</offset>
+                <text>With all of these clinical, physical examination,&#13;
+laboratory, and radiological findings, the patient&#13;
+was diagnosed with Caffey disease.</text>
+            </sentence>
+            <sentence>
+                <offset>1893</offset>
+                <text>In genetic&#13;
+investigation, heterozygous missense mutation&#13;
+(c.3040C&gt;T) in COL1A1 gene was detected&#13;
+in our patient with sequence analyzes method&#13;
+(Fig. 2).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

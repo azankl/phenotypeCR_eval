@@ -1,0 +1,120 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 16 is a 3-year-old male with hypertelorism, hypotonia, and feeding difficulties requiring gastrostomy tube.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="40"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001252</infon>
+                    <location length="9" offset="55"/>
+                    <text>hypotonia</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011968</infon>
+                    <location length="20" offset="70"/>
+                    <text>feeding difficulties</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>119</offset>
+                <text>Infantile spasms began at 3 months of age and progressed to multi-drug resistant epilepsy (absence, myoclonic, and generalized tonic-clonic seizures).</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012469</infon>
+                    <location length="16" offset="0"/>
+                    <text>Infantile spasms</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001250</infon>
+                    <location length="8" offset="81"/>
+                    <text>epilepsy</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011147</infon>
+                    <location length="7" offset="91"/>
+                    <text>absence</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="100"/>
+                    <text>myoclonic</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025190</infon>
+                    <location length="33" offset="115"/>
+                    <text>generalized tonic-clonic seizures</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="140"/>
+                    <text>seizures</text>
+                </annotation>
+                <relation id="8">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0032794</infon>
+                    <node refid="9" role="source"/>
+                    <node refid="7" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>270</offset>
+                <text>Trio exome sequencing identified a de novo variant in POLR1A, c.4685G&gt;T; p.</text>
+            </sentence>
+            <sentence>
+                <offset>345</offset>
+                <text>(Cys1562Phe).</text>
+            </sentence>
+            <sentence>
+                <offset>359</offset>
+                <text>At age 3, he is non-verbal and is unable to sit independently.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001344</infon>
+                    <location length="10" offset="16"/>
+                    <text>non-verbal</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="34"/>
+                    <text>unable</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="44"/>
+                    <text>sit independently</text>
+                </annotation>
+                <relation id="13">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025336</infon>
+                    <node refid="14" role="source"/>
+                    <node refid="12" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>422</offset>
+                <text>His height is 86.7 cm (-2.28 SD) and his head circumference is 46.1 cm (&lt;-2 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>503</offset>
+                <text>He had an MRI which demonstrated peritrigonal high signal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

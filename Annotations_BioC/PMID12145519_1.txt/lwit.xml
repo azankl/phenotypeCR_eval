@@ -1,0 +1,216 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The patient was a female infant born in the 39th week of gestation via an uneventful vaginal delivery.</text>
+            </sentence>
+            <sentence>
+                <offset>103</offset>
+                <text>Her family had no history of congenital anomalies.</text>
+            </sentence>
+            <sentence>
+                <offset>154</offset>
+                <text>At birth, her head circumference was 33 cm and her body weight was 3,342 g.</text>
+            </sentence>
+            <sentence>
+                <offset>230</offset>
+                <text>Her Apgar score at 5 min was 9.</text>
+            </sentence>
+            <sentence>
+                <offset>262</offset>
+                <text>She had ocular proptosis, a red nevus with skin tags on her forehead, furrowed palms and soles and an umbilical stump (fig. 1a–c).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000520</infon>
+                    <location length="9" offset="15"/>
+                    <text>proptosis</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003764</infon>
+                    <location length="5" offset="32"/>
+                    <text>nevus</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010609</infon>
+                    <location length="9" offset="43"/>
+                    <text>skin tags</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007469</infon>
+                    <location length="14" offset="70"/>
+                    <text>furrowed palms</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="70"/>
+                    <text>furrowed</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="89"/>
+                    <text>soles</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001544</infon>
+                    <location length="15" offset="102"/>
+                    <text>umbilical stump</text>
+                </annotation>
+                <relation id="6">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007469</infon>
+                    <node refid="7" role="source"/>
+                    <node refid="5" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>393</offset>
+                <text>She also had obstructive respiration, so that her treatment at our newborn infant care unit included intubation.</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006536</infon>
+                    <location length="23" offset="13"/>
+                    <text>obstructive respiration</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>506</offset>
+                <text>Since she could not nurse or drink milk from a bottle, she was fed by gastric tube.</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="3" offset="16"/>
+                    <text>not</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="29"/>
+                    <text>drink</text>
+                </annotation>
+                <relation id="11">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030082</infon>
+                    <node refid="12" role="source"/>
+                    <node refid="10" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>590</offset>
+                <text>Three-dimensional computed tomography at 3 months of age revealed early closures of the coronal, squamous and lambdoid sutures (fig. 2).</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001363</infon>
+                    <location length="60" offset="66"/>
+                    <text>early closures of the coronal, squamous and lambdoid sutures</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>727</offset>
+                <text>MRI at 3 months of age showed exophthalmos, tonsilar herniation, ventricular enlargement and brachycephaly (fig. 3).</text>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000520</infon>
+                    <location length="12" offset="30"/>
+                    <text>exophthalmos</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [Neurology]</infon>
+                    <location length="19" offset="44"/>
+                    <text>tonsilar herniation</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002119</infon>
+                    <location length="23" offset="65"/>
+                    <text>ventricular enlargement</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000248</infon>
+                    <location length="13" offset="93"/>
+                    <text>brachycephaly</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>844</offset>
+                <text>At 3 months of age, the patient required a tracheotomy.</text>
+            </sentence>
+            <sentence>
+                <offset>900</offset>
+                <text>She also developed progressive ocular proptosis and ventricular enlargement.</text>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000520</infon>
+                    <location length="9" offset="38"/>
+                    <text>proptosis</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002119</infon>
+                    <location length="23" offset="52"/>
+                    <text>ventricular enlargement</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>977</offset>
+                <text>We performed fronto-orbital advancement at 4 months of age and a ventriculoperitoneal shunt procedure at 8 months of age.</text>
+            </sentence>
+            <sentence>
+                <offset>1099</offset>
+                <text>Her maxillary bone development was severely disturbed so that she needed a face and head monoblock advancement with LeFort III osteotomy at 20 months of age.</text>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="26" offset="4"/>
+                    <text>maxillary bone development</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="44"/>
+                    <text>disturbed</text>
+                </annotation>
+                <relation id="22">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000326</infon>
+                    <node refid="20" role="source"/>
+                    <node refid="21" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1257</offset>
+                <text>In spite of these treatments, she had severe mental and motor impairment.</text>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="45"/>
+                    <text>mental</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002275</infon>
+                    <location length="16" offset="56"/>
+                    <text>motor impairment</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="62"/>
+                    <text>impairment</text>
+                </annotation>
+                <relation id="24">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001249</infon>
+                    <node refid="25" role="source"/>
+                    <node refid="23" role="target"/>
+                </relation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,84 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>V-1 both arms showed cubitus varus deformity.</text>
+            </sentence>
+            <sentence>
+                <offset>46</offset>
+                <text>Proximal and middle phalanges were missing.</text>
+            </sentence>
+            <sentence>
+                <offset>90</offset>
+                <text>Distal non-functional phalanges with intact nails were present.</text>
+            </sentence>
+            <sentence>
+                <offset>154</offset>
+                <text>Post-axial polydactyly was observed in left hand.</text>
+            </sentence>
+            <sentence>
+                <offset>204</offset>
+                <text>Humerus was short; ulnae and radii were bowed and deformed.</text>
+            </sentence>
+            <sentence>
+                <offset>264</offset>
+                <text>Lower limbs showed short femurs, tibia and fibula.</text>
+            </sentence>
+            <sentence>
+                <offset>315</offset>
+                <text>Both feet had metatarsus adductus deformity (Fig. 3c).The right foot was mildly club shaped in supernatant form (Fig. 3a).</text>
+            </sentence>
+            <sentence>
+                <offset>439</offset>
+                <text>Radiographic analysis of affected member showed normal skull, trunk region and spinal cord.</text>
+            </sentence>
+            <sentence>
+                <offset>531</offset>
+                <text>Pelvic region showed deformities including femoral head epiphysis (left femur head displaced from acetabulum), very short or missing femoral neck region, and femur head showing coxa vulga deformity.</text>
+            </sentence>
+            <sentence>
+                <offset>730</offset>
+                <text>Obturator foramen and pelvic inlet (superior aperture) were normal (Fig. 3f).</text>
+            </sentence>
+            <sentence>
+                <offset>808</offset>
+                <text>Knee joints were dislocated and showed fixed flexion deformity.</text>
+            </sentence>
+            <sentence>
+                <offset>872</offset>
+                <text>Radii and ulna were deformed with right arm showing dislocated ulna head.</text>
+            </sentence>
+            <sentence>
+                <offset>946</offset>
+                <text>In the affected member V-1, carpals and metacarpals were completely fused having no connection with the phalanges.</text>
+            </sentence>
+            <sentence>
+                <offset>1061</offset>
+                <text>Proximal and intermediated phalanges were missing; only non-functional distal phalanges were present (Fig. 3g).</text>
+            </sentence>
+            <sentence>
+                <offset>1173</offset>
+                <text>Tibia and fibula were very short, completely fused and deformed.</text>
+            </sentence>
+            <sentence>
+                <offset>1238</offset>
+                <text>Tarsals, metatarsals, tibiotalar joints, calcaneum, navicular, cuboid and cuneiform bones were completely fused (Fig. 3h).</text>
+            </sentence>
+            <sentence>
+                <offset>1361</offset>
+                <text>The affected member had normal trunk, skull, facial structure and eyesight.</text>
+            </sentence>
+            <sentence>
+                <offset>1437</offset>
+                <text>Intellectual disability was not observed.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

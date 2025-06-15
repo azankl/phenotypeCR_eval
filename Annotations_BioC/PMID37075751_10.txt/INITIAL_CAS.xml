@@ -1,0 +1,68 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 10, previously reported in a cohort of congenital limb deficiency (da Rocha et al., 2021)2 is a 7- year-old female born at 39 weeks gestation to healthy, non-consanguineous parents.</text>
+            </sentence>
+            <sentence>
+                <offset>193</offset>
+                <text>Birth parameters were within normal range (weight 3.38 kg, 50th centile; length 47 cm, 10th centile; HC 35 cm, 75th centile, WHO growth chart).</text>
+            </sentence>
+            <sentence>
+                <offset>337</offset>
+                <text>Fetal upper limb defects were diagnosed during the pregnancy and prenatal karyotype was normal female.</text>
+            </sentence>
+            <sentence>
+                <offset>440</offset>
+                <text>At birth she was noted to have a posterior cleft palate, micrognathia, radial dysplasia, and club feet.</text>
+            </sentence>
+            <sentence>
+                <offset>544</offset>
+                <text>Physical examination at 9 months of age disclosed a weight of 7.5 kg (10th-25th centiles), length of 68 cm (25th centile), HC of 45 cm (50th centile), facial dysmorphisms (epicanthus, left palpebral ptosis, short nose, hypoplastic alae nasi, long philtrum, retro-micrognathia, posterior cleft palate); short and bowed forearms, with right preaxial polydactyly, adducted left thumb and 5th finger clinodactyly; mild clubbing of the feet.</text>
+            </sentence>
+            <sentence>
+                <offset>981</offset>
+                <text>X-rays demonstrate duplication of the right thumb with bifid distal phalanx, short medial phalanx of the 5th fingers, radial hemimelia, as well as triphalangeal halluces.</text>
+            </sentence>
+            <sentence>
+                <offset>1152</offset>
+                <text>She had a normal abdominal ultrasound, echocardiogram, and cranial computed tomography (CT) scan.</text>
+            </sentence>
+            <sentence>
+                <offset>1250</offset>
+                <text>Surgical procedures were performed to correct the cleft palate, as well as strabismus.</text>
+            </sentence>
+            <sentence>
+                <offset>1337</offset>
+                <text>She evolved with normal growth and development but presenting language impairment.</text>
+            </sentence>
+            <sentence>
+                <offset>1420</offset>
+                <text>Genetic tests disclosed normal chromosomal microarray and normal number of repeats in 5´UTR of EIF4A3 (for Richieri-Costa-Pereira syndrome).</text>
+            </sentence>
+            <sentence>
+                <offset>1561</offset>
+                <text>Exome sequencing disclosed a heterozygous, frameshift variant in POLR1A, c.3649delC; p.</text>
+            </sentence>
+            <sentence>
+                <offset>1648</offset>
+                <text>(Gln1217Argfs*10), previously reported (Weaver et al., 2015)3 , and classified as pathogenic.</text>
+            </sentence>
+            <sentence>
+                <offset>1742</offset>
+                <text>Segregation analysis of this variant in the parents by Sanger sequencing showed its presence in her apparently unaffected father.</text>
+            </sentence>
+            <sentence>
+                <offset>1872</offset>
+                <text>Review of confirmatory Sanger chromatogram demonstrated no evidence for paternal mosaicism, with equal-sized peaks in father and proband</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

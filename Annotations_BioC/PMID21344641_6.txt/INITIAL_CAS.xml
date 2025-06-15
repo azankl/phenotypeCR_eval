@@ -1,0 +1,52 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 6 is the first child of nonconsanguineous parents.</text>
+            </sentence>
+            <sentence>
+                <offset>59</offset>
+                <text>He was born at 31 weeks of gestation weighing 2.336 kg (&gt;97th centile) with a head circumference of 30.6 cm (90th centile), following a pregnancy complicated by pre-eclampsia.</text>
+            </sentence>
+            <sentence>
+                <offset>235</offset>
+                <text>He has two younger sibs who are well and both of these pregnancies were also complicated by pre-eclampsia.</text>
+            </sentence>
+            <sentence>
+                <offset>342</offset>
+                <text>He was initially noted to have a patent ductus arteriosus but this closed spontaneously.</text>
+            </sentence>
+            <sentence>
+                <offset>431</offset>
+                <text>His cranial ultrasound images showed a right choroid plexus cyst and a very small resolving left germinal matrix hemorrhage.</text>
+            </sentence>
+            <sentence>
+                <offset>559</offset>
+                <text>Motor and speech development were delayed, he crawled at 16 months, and walked at 2 years.</text>
+            </sentence>
+            <sentence>
+                <offset>650</offset>
+                <text>However, on review at age 4 years he had made considerable developmental progress and following his pre-school assessment it was decided that he did not need a statement of educational needs.</text>
+            </sentence>
+            <sentence>
+                <offset>842</offset>
+                <text>His clinical findings are illustrated in Figures 3c,d, 4c,d, and 5c.</text>
+            </sentence>
+            <sentence>
+                <offset>911</offset>
+                <text>Age 4 years his head circumference is &gt;97th centile with his height and weight on 75th and 98th centiles, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>1031</offset>
+                <text>His mother's head circumference is also &gt;97th centile with no other features of Cantú syndrome.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

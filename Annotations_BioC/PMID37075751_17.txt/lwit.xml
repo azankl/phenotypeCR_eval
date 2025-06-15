@@ -1,0 +1,144 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 17 is a 7-year-old female with craniofacial anomalies, aqueductal stenosis (requiring a shunt), multiple vertebral anomalies, and developmental delay.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000929</infon>
+                    <location length="22" offset="42"/>
+                    <text>craniofacial anomalies</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002410</infon>
+                    <location length="19" offset="66"/>
+                    <text>aqueductal stenosis</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003468</infon>
+                    <location length="19" offset="116"/>
+                    <text>vertebral anomalies</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001263</infon>
+                    <location length="19" offset="141"/>
+                    <text>developmental delay</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>162</offset>
+                <text>Craniofacial anomalies include cleft palate, bilateral preauricular tags, cleft tragus, cleft eyelids, epibulbar dermoids, right ear canal atresia, and cupshaped ears.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <location length="12" offset="31"/>
+                    <text>cleft palate</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000384</infon>
+                    <location length="17" offset="55"/>
+                    <text>preauricular tags</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011269</infon>
+                    <location length="12" offset="74"/>
+                    <text>cleft tragus</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000625</infon>
+                    <location length="13" offset="88"/>
+                    <text>cleft eyelids</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001140</infon>
+                    <location length="18" offset="103"/>
+                    <text>epibulbar dermoids</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000413</infon>
+                    <location length="17" offset="129"/>
+                    <text>ear canal atresia</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000378</infon>
+                    <location length="14" offset="152"/>
+                    <text>cupshaped ears</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>330</offset>
+                <text>She also had hearing loss, primarily in the left ear with conductive loss on right due to canal atresia.</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="13"/>
+                    <text>hearing loss</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000365</infon>
+                    <location length="12" offset="13"/>
+                    <text>hearing loss</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="58"/>
+                    <text>conductive</text>
+                </annotation>
+                <relation id="15">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000405</infon>
+                    <node refid="12" role="source"/>
+                    <node refid="14" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>435</offset>
+                <text>She has generalized epilepsy well controlled on lamotrigine.</text>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002197</infon>
+                    <location length="20" offset="8"/>
+                    <text>generalized epilepsy</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>496</offset>
+                <text>She required a gastrostomy tube for poor feeding.</text>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011968</infon>
+                    <location length="12" offset="36"/>
+                    <text>poor feeding</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>546</offset>
+                <text>Exome sequencing (GeneDx, Gaithersburg, MD) of individual 14 identified a POLR1A variant c.4891G&gt;A; p.</text>
+            </sentence>
+            <sentence>
+                <offset>648</offset>
+                <text>(Val1631Met) which was not maternally inherited.</text>
+            </sentence>
+            <sentence>
+                <offset>697</offset>
+                <text>Paternal testing was not performed.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

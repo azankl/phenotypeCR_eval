@@ -1,0 +1,76 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A 19-yr-old Korean male with a history of abnormal gait since the age of 2 was referred for molecular genetic testing.</text>
+            </sentence>
+            <sentence>
+                <offset>119</offset>
+                <text>His symptoms included wide base waddling gait, proximal muscle weakness, pain in the extremities, and easy fatigability.</text>
+            </sentence>
+            <sentence>
+                <offset>240</offset>
+                <text>He had no history of trauma, infection, or systemic illness.</text>
+            </sentence>
+            <sentence>
+                <offset>301</offset>
+                <text>Physical examination showed no abnormalities in his reflexes and he was able to walk independently.</text>
+            </sentence>
+            <sentence>
+                <offset>403</offset>
+                <text>Radiographs of the proband showed cortical, periosteal, and endosteal bony thickening with narrowing of the medullary spaces confined to the diaphyses of the femur, tibia, and fibula (Fig. 2A).</text>
+            </sentence>
+            <sentence>
+                <offset>597</offset>
+                <text>The epiphyses and metaphyses of the long bones are relatively spared.</text>
+            </sentence>
+            <sentence>
+                <offset>667</offset>
+                <text>In the upper extremity, the ulna is rather severely affected than the radius (Fig. 2B, C).</text>
+            </sentence>
+            <sentence>
+                <offset>758</offset>
+                <text>The humerus showed only mild cortical thickening.</text>
+            </sentence>
+            <sentence>
+                <offset>808</offset>
+                <text>Some curvature changes were seen in both tibias with genu valgus changes of both knees.</text>
+            </sentence>
+            <sentence>
+                <offset>896</offset>
+                <text>Scoliosis of the thoracic and lumbar spines with mild kyphosis of the thoracic spines was also observed.</text>
+            </sentence>
+            <sentence>
+                <offset>1001</offset>
+                <text>No other gross bony abnormality was seen in the skull (Fig. 2D).</text>
+            </sentence>
+            <sentence>
+                <offset>1066</offset>
+                <text>The chest radiography was unremarkable.</text>
+            </sentence>
+            <sentence>
+                <offset>1109</offset>
+                <text>Laboratory findings in the patient indicated normal values for serum levels of electrolytes, calcium, and phosphate.</text>
+            </sentence>
+            <sentence>
+                <offset>1226</offset>
+                <text>Serum alkaline phosphatase was mildly elevated (139 IU/L; reference range, 42-117 IU/L) and peripheral blood analysis showed slight increase in ESR level (24 mm/hr; reference range, 0-15 mm/hr).</text>
+            </sentence>
+            <sentence>
+                <offset>1424</offset>
+                <text>Muscle biopsy was performed at the patient's right vastus lateralis, which did not show any pathologic findings.</text>
+            </sentence>
+            <sentence>
+                <offset>1537</offset>
+                <text>Degenerating or regenerating fibers were not seen and immunohistochemical staining for dystrophin was normal along the membranes of the muscle fibers.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

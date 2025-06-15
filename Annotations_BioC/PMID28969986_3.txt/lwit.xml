@@ -1,0 +1,152 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 3 was a 20-month-old boy.</text>
+            </sentence>
+            <sentence>
+                <offset>35</offset>
+                <text>His height was 69 cm (− 4.4 SD) and his weight was 7 kg.</text>
+            </sentence>
+            <sentence>
+                <offset>92</offset>
+                <text>Ultrasound scan was done at 6 months' gestation and showed short limbs.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009826</infon>
+                    <location length="11" offset="59"/>
+                    <text>short limbs</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>164</offset>
+                <text>At birth, he was 43 cm long and 2200 g weight.</text>
+            </sentence>
+            <sentence>
+                <offset>211</offset>
+                <text>Growth was consistently slow since birth.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="0"/>
+                    <text>Growth</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="24"/>
+                    <text>slow</text>
+                </annotation>
+                <relation id="4">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001510</infon>
+                    <node refid="2" role="source"/>
+                    <node refid="3" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>253</offset>
+                <text>He had triangular face, presence of lower eyelid fat pads, low nasal bridge and pointed chin.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000325</infon>
+                    <location length="15" offset="7"/>
+                    <text>triangular face</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001114</infon>
+                    <location length="21" offset="36"/>
+                    <text>lower eyelid fat pads</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005280</infon>
+                    <location length="16" offset="59"/>
+                    <text>low nasal bridge</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000307</infon>
+                    <location length="12" offset="80"/>
+                    <text>pointed chin</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>347</offset>
+                <text>Skeletal survey revealed a pectus excavatum, rib hypoplasia, spondyloepiphyseal dysplasia, claw hand, pes planus.</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000767</infon>
+                    <location length="16" offset="27"/>
+                    <text>pectus excavatum</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000773</infon>
+                    <location length="14" offset="45"/>
+                    <text>rib hypoplasia</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002655</infon>
+                    <location length="28" offset="61"/>
+                    <text>spondyloepiphyseal dysplasia</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0034337</infon>
+                    <location length="9" offset="91"/>
+                    <text>claw hand</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001763</infon>
+                    <location length="10" offset="102"/>
+                    <text>pes planus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>461</offset>
+                <text>He also had abnormal gingival hyperplasia enlarged, abdomen and unilateral cryptorchidism.</text>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000212</infon>
+                    <location length="20" offset="21"/>
+                    <text>gingival hyperplasia</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001538</infon>
+                    <location length="17" offset="42"/>
+                    <text>enlarged, abdomen</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000028</infon>
+                    <location length="14" offset="75"/>
+                    <text>cryptorchidism</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>552</offset>
+                <text>He had one episode of pneumonia at newborn period.</text>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002090</infon>
+                    <location length="9" offset="22"/>
+                    <text>pneumonia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>603</offset>
+                <text>His development and bone age were normal at 20 months of age.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

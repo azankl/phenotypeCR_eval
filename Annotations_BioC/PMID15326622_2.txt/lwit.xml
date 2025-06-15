@@ -1,0 +1,453 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Case 2 is the mother of Case 1.</text>
+            </sentence>
+            <sentence>
+                <offset>32</offset>
+                <text>She was well until the age of 18 when she began to have pain and weakness in her lower limbs that were aggravated by activity and stress.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="56"/>
+                    <text>pain</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="65"/>
+                    <text>weakness</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="81"/>
+                    <text>lower limbs</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="81"/>
+                    <text>lower limbs</text>
+                </annotation>
+                <relation id="2">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012514</infon>
+                    <node refid="3" role="source"/>
+                    <node refid="1" role="target"/>
+                </relation>
+                <relation id="5">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007340</infon>
+                    <node refid="6" role="source"/>
+                    <node refid="4" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>170</offset>
+                <text>The pain worsened at night and was only minimally relieved by non-steroidal anti-inflammatory drugs.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="4"/>
+                    <text>pain</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term accepted, HP:6000707, https://github.com/obophenotype/human-phenotype-ontology/issues/10488</infon>
+                    <location length="5" offset="21"/>
+                    <text>night</text>
+                </annotation>
+                <relation id="9">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="7" role="source"/>
+                    <node refid="8" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>274</offset>
+                <text>At age 37 years she was diagnosed with PDD following the diagnosis of her son.</text>
+            </sentence>
+            <sentence>
+                <offset>353</offset>
+                <text>She had mild genua valga, pes planus, decreased strength in the proximal lower limbs, and a wide-based gait.</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002857</infon>
+                    <location length="11" offset="13"/>
+                    <text>genua valga</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001763</infon>
+                    <location length="10" offset="26"/>
+                    <text>pes planus</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008994</infon>
+                    <location length="46" offset="38"/>
+                    <text>decreased strength in the proximal lower limbs</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002136</infon>
+                    <location length="15" offset="92"/>
+                    <text>wide-based gait</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>462</offset>
+                <text>Her physical exam was otherwise normal.</text>
+            </sentence>
+            <sentence>
+                <offset>502</offset>
+                <text>Her calcium, phosphorus, and alkaline phosphatase were within normal limits.</text>
+            </sentence>
+            <sentence>
+                <offset>579</offset>
+                <text>Her roentgenograms showed hyperostosis of the femora, left tibia, left ulna, and skull.</text>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100774</infon>
+                    <location length="12" offset="26"/>
+                    <text>hyperostosis</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="26"/>
+                    <text>hyperostosis</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="26"/>
+                    <text>hyperostosis</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="26"/>
+                    <text>hyperostosis</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="6" offset="46"/>
+                    <text>femora</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="5" offset="59"/>
+                    <text>tibia</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="71"/>
+                    <text>ulna</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="81"/>
+                    <text>skull</text>
+                </annotation>
+                <relation id="15">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004437</infon>
+                    <node refid="16" role="source"/>
+                    <node refid="14" role="target"/>
+                </relation>
+                <relation id="20">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003993</infon>
+                    <node refid="21" role="source"/>
+                    <node refid="19" role="target"/>
+                </relation>
+                <relation id="22">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="23" role="source"/>
+                    <node refid="17" role="target"/>
+                </relation>
+                <relation id="24">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="25" role="source"/>
+                    <node refid="18" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>667</offset>
+                <text>The right tibia and right ulna were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>714</offset>
+                <text>At age 47 years she presented with a severe episode of low back and right hip pain with difficulty in walking.</text>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="55"/>
+                    <text>low back</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030838</infon>
+                    <location length="8" offset="74"/>
+                    <text>hip pain</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="78"/>
+                    <text>pain</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002355</infon>
+                    <location length="21" offset="88"/>
+                    <text>difficulty in walking</text>
+                </annotation>
+                <relation id="27">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003419</infon>
+                    <node refid="28" role="source"/>
+                    <node refid="26" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>825</offset>
+                <text>She was taking up to 3,900 mg/day of aspirin.</text>
+            </sentence>
+            <sentence>
+                <offset>871</offset>
+                <text>Her erythrocyte sedimentation rate (ESR) was 108 mm/h (normal &lt; 20 mm/h), and an antinuclear antibody test was reported positive; the titer was not documented.</text>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="25" offset="81"/>
+                    <text>antinuclear antibody test</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="120"/>
+                    <text>positive</text>
+                </annotation>
+                <relation id="33">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003493</infon>
+                    <node refid="31" role="source"/>
+                    <node refid="32" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1031</offset>
+                <text>She was diagnosed with systemic lupus erythematosus.</text>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002725</infon>
+                    <location length="28" offset="23"/>
+                    <text>systemic lupus erythematosus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1084</offset>
+                <text>She was treated with 15 mg/day of prednisone with rapid resolution of her symptoms.</text>
+            </sentence>
+            <sentence>
+                <offset>1171</offset>
+                <text>At age 48 years, she reported a 10 month history of aches in her thighs requiring bed rest 2–3 days a week.</text>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="52"/>
+                    <text>aches</text>
+                </annotation>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="65"/>
+                    <text>thighs</text>
+                </annotation>
+                <relation id="36">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003326</infon>
+                    <node refid="37" role="source"/>
+                    <node refid="35" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1279</offset>
+                <text>She was receiving weekly cortisone injections and taking carisoprodol/aspirin and acetaminophen.</text>
+            </sentence>
+            <sentence>
+                <offset>1376</offset>
+                <text>She had 4/5 strength in the proximal muscles of the upper and lower limbs.</text>
+            </sentence>
+            <sentence>
+                <offset>1451</offset>
+                <text>The electromyogram (EMG) findings were suggestive of myopathic changes in the proximal muscles of the upper and lower limbs.</text>
+                <annotation id="38">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003458</infon>
+                    <location length="17" offset="53"/>
+                    <text>myopathic changes</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1576</offset>
+                <text>A muscle biopsy from the left deltoid was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1626</offset>
+                <text>She was diagnosed with polymyositis and treated with 15 mg/day of prednisone.</text>
+                <annotation id="39">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100614</infon>
+                    <location length="12" offset="23"/>
+                    <text>polymyositis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1707</offset>
+                <text>She continued to have pain that was treated with aspirin, acetaminophen, and occasional oxycodone with aspirin.</text>
+                <annotation id="40">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012531</infon>
+                    <location length="4" offset="22"/>
+                    <text>pain</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1819</offset>
+                <text>She developed decreased range of motion at the ankles, tenderness to palpation over the lower limbs, hyperactive reflexes, and patellar clonus.</text>
+                <annotation id="41">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="25" offset="14"/>
+                    <text>decreased range of motion</text>
+                </annotation>
+                <annotation id="43">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="47"/>
+                    <text>ankles</text>
+                </annotation>
+                <annotation id="44">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="55"/>
+                    <text>tenderness</text>
+                </annotation>
+                <annotation id="46">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="88"/>
+                    <text>lower limbs</text>
+                </annotation>
+                <annotation id="47">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001347</infon>
+                    <location length="20" offset="101"/>
+                    <text>hyperactive reflexes</text>
+                </annotation>
+                <annotation id="48">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011449</infon>
+                    <location length="15" offset="127"/>
+                    <text>patellar clonus</text>
+                </annotation>
+                <relation id="42">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010505</infon>
+                    <node refid="43" role="source"/>
+                    <node refid="41" role="target"/>
+                </relation>
+                <relation id="45">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012514</infon>
+                    <node refid="46" role="source"/>
+                    <node refid="44" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1963</offset>
+                <text>Radiographs showed slightly widened bone shafts.</text>
+                <annotation id="49">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005019</infon>
+                    <location length="19" offset="28"/>
+                    <text>widened bone shafts</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2012</offset>
+                <text>No new bones were involved.</text>
+            </sentence>
+            <sentence>
+                <offset>2043</offset>
+                <text>At age 73 years, she reported a 4-year history of left hip and low back pain associated with several falls, in addition to episodes of vertigo, headache, and tinnitus that lasted for several days.</text>
+                <annotation id="50">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="3" offset="55"/>
+                    <text>hip</text>
+                </annotation>
+                <annotation id="53">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003419</infon>
+                    <location length="13" offset="63"/>
+                    <text>low back pain</text>
+                </annotation>
+                <annotation id="52">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="72"/>
+                    <text>pain</text>
+                </annotation>
+                <annotation id="54">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002321</infon>
+                    <location length="7" offset="135"/>
+                    <text>vertigo</text>
+                </annotation>
+                <annotation id="55">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002315</infon>
+                    <location length="8" offset="144"/>
+                    <text>headache</text>
+                </annotation>
+                <annotation id="56">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000360</infon>
+                    <location length="8" offset="158"/>
+                    <text>tinnitus</text>
+                </annotation>
+                <relation id="51">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030838</infon>
+                    <node refid="52" role="source"/>
+                    <node refid="50" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2240</offset>
+                <text>On exam she had thoracic kyphosis and lumbar lordosis.</text>
+                <annotation id="57">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002942</infon>
+                    <location length="17" offset="16"/>
+                    <text>thoracic kyphosis</text>
+                </annotation>
+                <annotation id="58">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002938</infon>
+                    <location length="15" offset="38"/>
+                    <text>lumbar lordosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2295</offset>
+                <text>The ESR was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>2315</offset>
+                <text>A head CT scan showed skull hyperostosis with involvement of the internal auditory canals.</text>
+                <annotation id="59">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004437</infon>
+                    <location length="18" offset="22"/>
+                    <text>skull hyperostosis</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

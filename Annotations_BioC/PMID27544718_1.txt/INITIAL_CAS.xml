@@ -1,0 +1,96 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿A 14-day-old boy was referred to our clinic because of dysmorphic facial features (Figure 1A).</text>
+            </sentence>
+            <sentence>
+                <offset>96</offset>
+                <text>He was born by cesarean section that was performed because of breech presentation at term.</text>
+            </sentence>
+            <sentence>
+                <offset>187</offset>
+                <text>He had an apparently healthy elder brother and there was no relevant family history.</text>
+            </sentence>
+            <sentence>
+                <offset>272</offset>
+                <text>There was no consanguinity between parents.</text>
+            </sentence>
+            <sentence>
+                <offset>317</offset>
+                <text>Birth weight was 3100 g (25–50th centile), height was 47 cm (3–10th centile) and head circumference was 34 cm (50th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>443</offset>
+                <text>Physical examination revealed a large anterior fontanel of 3.5×5 cm, large metopic suture, widow’s peak, hypertelorism, low-back rotated ears, broad-depressed nasal bridge, short nose, high arched palate, brachydactyly, bilateral simian line and unilateral cryptorchidism.</text>
+            </sentence>
+            <sentence>
+                <offset>716</offset>
+                <text>The complete blood count, liver enzymes, electrolytes, renal function tests, thyroid function tests, creatine kinase, alkaline phosphatase, 25-hydroxyvitamin D3 lactic acid, pyruvic acid, ammonia and tandem mass were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>941</offset>
+                <text>Karyotype was normal 46,XY.</text>
+            </sentence>
+            <sentence>
+                <offset>969</offset>
+                <text>Ophthalmologic examination, eye fundoscopy and hearing test were intended to be normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1057</offset>
+                <text>Abdominal ultrasonography and electrocardiogram were evaluated as normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1131</offset>
+                <text>X-ray radiography revealed relatively short proximal long bones (femur and humerus), with enlarged diaphysis and brachydactyly of hands.</text>
+            </sentence>
+            <sentence>
+                <offset>1268</offset>
+                <text>X-ray craniography, cranial ultrasonography and cranial scintigraphy imaging showed a large sagittal suture, a large metopic suture and a large anterior fontanel.</text>
+            </sentence>
+            <sentence>
+                <offset>1431</offset>
+                <text>Cranial magnetic resonance imaging (MRI) was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1484</offset>
+                <text>With these findings the case clinically diagnosed as Robinow syndrome.</text>
+            </sentence>
+            <sentence>
+                <offset>1556</offset>
+                <text>When the patient as 20 months old, his weight was 10 kg (25–50th centile) and his height was 79 cm (10–25th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>1674</offset>
+                <text>At follow-up at 20 months of age, the anterior fontanel was closed (Figure 1B).</text>
+            </sentence>
+            <sentence>
+                <offset>1754</offset>
+                <text>He was operated on because of cryptorchidism.</text>
+            </sentence>
+            <sentence>
+                <offset>1800</offset>
+                <text>Mental-motor development was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1837</offset>
+                <text>Shawl scrotum was noted.</text>
+            </sentence>
+            <sentence>
+                <offset>1862</offset>
+                <text>Control radiographies of long bones were revealed to be normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1926</offset>
+                <text>There were no additional findings at physical examination but facial changes and normal radiographs of long bones canalized to change the diagnosis to ASS.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

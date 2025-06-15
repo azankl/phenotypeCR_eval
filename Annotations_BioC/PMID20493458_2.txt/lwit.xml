@@ -1,0 +1,148 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Her brother (patient 2) was born after an uncomplicated pregnancy with a birth weight of 3.5 kg (50th centile) and body length of 54 cm (90th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>152</offset>
+                <text>Dysmorphic features were nearly identical to those of his sister (Figure 1B and Table 1).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Phenotypic abnormality HP:0000118</infon>
+                    <location length="19" offset="0"/>
+                    <text>Dysmorphic features</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>242</offset>
+                <text>Blood tests at the age of 29 days revealed elevated creatinine values.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003259</infon>
+                    <location length="26" offset="43"/>
+                    <text>elevated creatinine values</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>313</offset>
+                <text>Renal function deteriorated rapidly over the following months, and by the age of 3.5 years he had developed end-stage renal failure, and peritoneal dialysis was started.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000083</infon>
+                    <location length="27" offset="0"/>
+                    <text>Renal function deteriorated</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000083</infon>
+                    <location length="13" offset="118"/>
+                    <text>renal failure</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>483</offset>
+                <text>Ultrasound scans showed decreased size of both kidneys with increased echogenicity.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="24"/>
+                    <text>decreased size</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004719</infon>
+                    <location length="35" offset="47"/>
+                    <text>kidneys with increased echogenicity</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="47"/>
+                    <text>kidneys</text>
+                </annotation>
+                <relation id="6">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000089</infon>
+                    <node refid="7" role="source"/>
+                    <node refid="5" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>567</offset>
+                <text>The liver was enlarged and showed structural heterogeneity with hypoechogenic streaked foci along the strongly hyperechogenic portal vessels.</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="4"/>
+                    <text>liver</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="4"/>
+                    <text>liver</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="4"/>
+                    <text>liver</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="14"/>
+                    <text>enlarged</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="24" offset="34"/>
+                    <text>structural heterogeneity</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="27" offset="64"/>
+                    <text>hypoechogenic streaked foci</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [GE]</infon>
+                    <location length="29" offset="111"/>
+                    <text>hyperechogenic portal vessels</text>
+                </annotation>
+                <relation id="13">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002240</infon>
+                    <node refid="9" role="source"/>
+                    <node refid="12" role="target"/>
+                </relation>
+                <relation id="15">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031142</infon>
+                    <node refid="10" role="source"/>
+                    <node refid="14" role="target"/>
+                </relation>
+                <relation id="17">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031143</infon>
+                    <node refid="11" role="source"/>
+                    <node refid="16" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>709</offset>
+                <text>Mental and motor development were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>751</offset>
+                <text>Ophthalmological examination showed no evidence of retinal dystrophy.</text>
+            </sentence>
+            <sentence>
+                <offset>821</offset>
+                <text>Chromosome analysis revealed a normal male karyotype (46, XY).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

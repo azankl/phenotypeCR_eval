@@ -1,0 +1,271 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>This male newborn was the fifth child to his first cousin Saudi parents who have only one living healthy child because of three neonatal deaths, all reportedly with the same presentation as the index.</text>
+            </sentence>
+            <sentence>
+                <offset>201</offset>
+                <text>Pregnancy was notable for abnormal ultrasounds documenting micromelic fetus.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002983</infon>
+                    <location length="10" offset="59"/>
+                    <text>micromelic</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>278</offset>
+                <text>However, parents decided to carry on with the pregnancy and the patient was born via full term spontaneous vertex delivery.</text>
+            </sentence>
+            <sentence>
+                <offset>402</offset>
+                <text>Apgar scores were 6 and 8 at 1 and 5 min, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>458</offset>
+                <text>Severe growth retardation was evident, particularly his linear growth (weight 2.1 Kg, length 36.2 cm, OFC 32 cm).</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001510</infon>
+                    <location length="18" offset="7"/>
+                    <text>growth retardation</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>572</offset>
+                <text>In addition, he was admitted to nursery because of mild respiratory distress that necessitated oxygen supplementation.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002098</infon>
+                    <location length="20" offset="56"/>
+                    <text>respiratory distress</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>691</offset>
+                <text>His clinical examination revealed abnormally short extremities and clubfeet.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009826</infon>
+                    <location length="17" offset="45"/>
+                    <text>short extremities</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001762</infon>
+                    <location length="8" offset="67"/>
+                    <text>clubfeet</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>768</offset>
+                <text>He also had dysmorphic facial features including rounded face, depressed nasal bridge, long philtrum, micrognathia and significant bilateral bluish corneal haziness (Fig. 1).</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000311</infon>
+                    <location length="12" offset="49"/>
+                    <text>rounded face</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005280</infon>
+                    <location length="22" offset="63"/>
+                    <text>depressed nasal bridge</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000343</infon>
+                    <location length="13" offset="87"/>
+                    <text>long philtrum</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000347</infon>
+                    <location length="12" offset="102"/>
+                    <text>micrognathia</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000592</infon>
+                    <location length="23" offset="141"/>
+                    <text>bluish corneal haziness</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>943</offset>
+                <text>Additional clinical findings included hypotonia, short neck, small chest, widely spaced nipples, and protuberant abdomen.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001252</infon>
+                    <location length="9" offset="38"/>
+                    <text>hypotonia</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000470</infon>
+                    <location length="10" offset="49"/>
+                    <text>short neck</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005257</infon>
+                    <location length="11" offset="61"/>
+                    <text>small chest</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006610</infon>
+                    <location length="21" offset="74"/>
+                    <text>widely spaced nipples</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001538</infon>
+                    <location length="19" offset="101"/>
+                    <text>protuberant abdomen</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1065</offset>
+                <text>There was no cardiac murmur, organomegaly, or genital abnormalities.</text>
+            </sentence>
+            <sentence>
+                <offset>1134</offset>
+                <text>Radiographic studies exhibited short tubular bones and typical, albeit severe, Desbuquois hand findings in the form of short metacarpals (especially the first), two extra ossification centers distal to the second and third metacarpals, delta phalanx formation in the first proximal phalanx in addition to several phalangeal dislocations (Fig. 2).</text>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003026</infon>
+                    <location length="19" offset="31"/>
+                    <text>short tubular bones</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="119"/>
+                    <text>short metacarpals</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="26" offset="165"/>
+                    <text>extra ossification centers</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="26" offset="165"/>
+                    <text>extra ossification centers</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="206"/>
+                    <text>second</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="217"/>
+                    <text>third metacarpals</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="223"/>
+                    <text>metacarpals</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009774</infon>
+                    <location length="23" offset="236"/>
+                    <text>delta phalanx formation</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004097</infon>
+                    <location length="23" offset="313"/>
+                    <text>phalangeal dislocations</text>
+                </annotation>
+                <relation id="20">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010223</infon>
+                    <node refid="21" role="source"/>
+                    <node refid="18" role="target"/>
+                </relation>
+                <relation id="22">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006179</infon>
+                    <node refid="23" role="source"/>
+                    <node refid="19" role="target"/>
+                </relation>
+                <relation id="25">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="23" role="source"/>
+                    <node refid="24" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1481</offset>
+                <text>The vertebral bodies showed coronal clefting (Fig. 2).</text>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003417</infon>
+                    <location length="16" offset="28"/>
+                    <text>coronal clefting</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1536</offset>
+                <text>Similarly characteristic findings were the broad proximal femur with spur-like projection of the lesser trochanters giving some resemblance to “monkey-wrench” or “Swedish key” appearance, in addition to tall ilia and flat acetabular roof.</text>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0033102</infon>
+                    <location length="143" offset="43"/>
+                    <text>broad proximal femur with spur-like projection of the lesser trochanters giving some resemblance to “monkey-wrench” or “Swedish key” appearance</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008808</infon>
+                    <location length="9" offset="203"/>
+                    <text>tall ilia</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003180</infon>
+                    <location length="20" offset="217"/>
+                    <text>flat acetabular roof</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1775</offset>
+                <text>He had normal hematology indices and renal and liver function tests.</text>
+            </sentence>
+            <sentence>
+                <offset>1844</offset>
+                <text>Furthermore, echocardiogram, renal ultrasound and brain CT scan have all shown normal results.</text>
+            </sentence>
+            <sentence>
+                <offset>1939</offset>
+                <text>Ophthalmologic evaluation demonstrates bilateral congenital glaucoma.</text>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000501</infon>
+                    <location length="8" offset="60"/>
+                    <text>glaucoma</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2009</offset>
+                <text>The patient expired at one month of age from severe respiratory distress.</text>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002098</infon>
+                    <location length="20" offset="52"/>
+                    <text>respiratory distress</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

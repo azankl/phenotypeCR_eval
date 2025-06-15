@@ -1,0 +1,40 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 1 is the older brother of individual 2.</text>
+            </sentence>
+            <sentence>
+                <offset>51</offset>
+                <text>He had bilateral cleft lip and palate, metopic craniosynostosis, and bilateral hydroceles.</text>
+            </sentence>
+            <sentence>
+                <offset>142</offset>
+                <text>Echocardiogram obtained to evaluate a murmur was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>199</offset>
+                <text>He had a clinical single nucleotide polymorphism (SNP) microarray which identified a likely benign 220 kb deletion at 7p12.3.</text>
+            </sentence>
+            <sentence>
+                <offset>325</offset>
+                <text>He died unexpectedly at age 3 months after undergoing cleft lip repair.</text>
+            </sentence>
+            <sentence>
+                <offset>397</offset>
+                <text>Postmortem testing confirmed he shares the POLR1A c.176A&gt;T; p.</text>
+            </sentence>
+            <sentence>
+                <offset>459</offset>
+                <text>(Asp59Val) variant identified in his brother (Individual 2).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

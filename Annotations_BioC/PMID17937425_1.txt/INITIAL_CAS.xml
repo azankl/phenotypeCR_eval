@@ -1,0 +1,56 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 1, a girl, was born to a normal 25-year-old woman and her healthy and nonconsanguineous 27-year-old husband.</text>
+            </sentence>
+            <sentence>
+                <offset>117</offset>
+                <text>Pregnancy was unremarkable and delivery was at term through cesarean.</text>
+            </sentence>
+            <sentence>
+                <offset>187</offset>
+                <text>BW was 3.4 kg, BL 48 cm and OFC 36 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>226</offset>
+                <text>She had a normal brother.</text>
+            </sentence>
+            <sentence>
+                <offset>252</offset>
+                <text>Clinical examination at age 11 years: height 130 cm (slightly below 3rd centile), weight 27.7 kg (10th centile), OFC 52 cm (25–50th centile), inner canthal distance (ICD) 34 mm (75–98th centile), outer canthal distance (OCD) 74 mm (3rd centile), palpebral fissure length (PFL) 22 mm (well below 3rd centile).</text>
+            </sentence>
+            <sentence>
+                <offset>561</offset>
+                <text>The girl presented with telecanthus secondary to the blepharophimosis, blepharoptosis (mainly at left), down slanted palpebral fissures, arched eyebrows, bilateral repaired cleft lip and palate (Fig. 1), narrow ear canals, umbilical hernia, periumbilical depression, bilateral limited supination-pronation of the forearms and elbow extension, and wide gap between first and second toes bilaterally.</text>
+            </sentence>
+            <sentence>
+                <offset>960</offset>
+                <text>Tanner's stage: M2, P2.</text>
+            </sentence>
+            <sentence>
+                <offset>984</offset>
+                <text>Intelligence was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1009</offset>
+                <text>Audiological evaluation disclosed bilateral mixed hearing loss.</text>
+            </sentence>
+            <sentence>
+                <offset>1073</offset>
+                <text>Ophthalmological examination documented nasolacrimal duct obstruction and severe hypermetropia and astigmatism.</text>
+            </sentence>
+            <sentence>
+                <offset>1185</offset>
+                <text>Roentgenograms showed bilateral radioulnar synostosis.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

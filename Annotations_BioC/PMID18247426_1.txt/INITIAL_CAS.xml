@@ -1,0 +1,84 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The proposita was the product of a 37.5 weeks of gestation to a G3P2Ab1 33-year-old mother and a 37-year-old unrelated father.</text>
+            </sentence>
+            <sentence>
+                <offset>127</offset>
+                <text>Pregnancy was uneventful until the day before birth when an ultrasound was performed, which demonstrated cerebral ventricular dilatation (maximum ventricular diameter, 25 mm).</text>
+            </sentence>
+            <sentence>
+                <offset>303</offset>
+                <text>Delivery was by cesarian section because of hydrocephalus and breech presentation.</text>
+            </sentence>
+            <sentence>
+                <offset>386</offset>
+                <text>At birth, the head circumference was 33 cm (10th–25th centile), birth weight was 2,753 g (10th–25th centile), and birth length was 45 cm (3rd centile).</text>
+            </sentence>
+            <sentence>
+                <offset>538</offset>
+                <text>Clinical examination showed craniosynostosis, cloverleaf skull, cutis gyrata of the posterior scalp, redundant skin on the nape of the neck, hypertelorism, prominent eyes, ptosis of the eyelids, downslanting palpebral fissures, mildface hypoplasia, low nasal bridge, anteverted nares, small mouth, posteriorly angulated ears, preauricular creases (Fig. 1), slightly prominent umbilical stump, hypoplastic nails, hypoplastic labia majora, and anteriorly placed anus.</text>
+            </sentence>
+            <sentence>
+                <offset>1004</offset>
+                <text>She was admitted to a neonatal intensive care unit and ventilated for 8 days.</text>
+            </sentence>
+            <sentence>
+                <offset>1082</offset>
+                <text>She was fed with maternal milk until the 9th day after birth when she started tube feeding.</text>
+            </sentence>
+            <sentence>
+                <offset>1174</offset>
+                <text>Sucking and deglutition were never achieved.</text>
+            </sentence>
+            <sentence>
+                <offset>1219</offset>
+                <text>Arterial hypertension was diagnosed and was assumed to be adrenergic.</text>
+            </sentence>
+            <sentence>
+                <offset>1289</offset>
+                <text>A ventriculo-peritoneal shunt was placed 6 days after birth.</text>
+            </sentence>
+            <sentence>
+                <offset>1350</offset>
+                <text>She was discharged at the age of 1 month, 11 days; her weight was 3,440 g (10th–25th centile), length was 51 cm (10th–25th centile), and head circumference was 33.5 cm (3rd centile).</text>
+            </sentence>
+            <sentence>
+                <offset>1533</offset>
+                <text>Fifteen days after discharge, she was hospitalized for 20 days for respiratory distress and she needed ventilation and finally tracheostomy.</text>
+            </sentence>
+            <sentence>
+                <offset>1674</offset>
+                <text>After the second discharge, she was re-admitted 28 days later with arterial hypertension (134/75 mmHg).</text>
+            </sentence>
+            <sentence>
+                <offset>1778</offset>
+                <text>At this time she was noted to be developmentally delayed, had no spontaneous movements, no suck, and she had optic atrophy.</text>
+            </sentence>
+            <sentence>
+                <offset>1902</offset>
+                <text>At 4 months, she underwent a craniectomy to repair her cloverleaf skull.</text>
+            </sentence>
+            <sentence>
+                <offset>1975</offset>
+                <text>She was ventilated, but did not recover.</text>
+            </sentence>
+            <sentence>
+                <offset>2016</offset>
+                <text>A CT scan disclosed Arnold-Chiari malformation and following re-operation, she expired.</text>
+            </sentence>
+            <sentence>
+                <offset>2104</offset>
+                <text>Permission for postmortem examination was denied.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

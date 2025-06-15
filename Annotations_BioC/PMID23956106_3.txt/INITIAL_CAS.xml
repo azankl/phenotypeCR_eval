@@ -1,0 +1,88 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 3 was a male fetus from the third pregnancy of a nonconsanguineous healthy Caucasian couple.</text>
+            </sentence>
+            <sentence>
+                <offset>102</offset>
+                <text>US examination at GA 18 + 5 showed short limbs, bowed femora, absent vertebral ossification, a narrow thorax (thoracic circumference: 5th centile for GA), and short ribs (Fig. 1B–D).</text>
+            </sentence>
+            <sentence>
+                <offset>285</offset>
+                <text>However, the facial appearance was unremarkable, the calvaria were normally ossified, and the trunk was normal in length.</text>
+            </sentence>
+            <sentence>
+                <offset>407</offset>
+                <text>The couple was counseled with regard to a severe, possibly lethal skeletal dysplasia, and they decided to terminate the pregnancy at GA 20 + 3.</text>
+            </sentence>
+            <sentence>
+                <offset>551</offset>
+                <text>The postnatal examination confirmed the prenatal US findings (Fig. 2D,E).</text>
+            </sentence>
+            <sentence>
+                <offset>625</offset>
+                <text>Autopsy showed normal internal organs.</text>
+            </sentence>
+            <sentence>
+                <offset>664</offset>
+                <text>The lungs were small, but not hypoplastic (lung/body weight ratio 0.024, normal value &gt;0.015).</text>
+            </sentence>
+            <sentence>
+                <offset>759</offset>
+                <text>Histological examination of the growth plates from ribs, clavicles and femur showed hypercellularity of resting cartilage and absence of proliferative and hypertrophic zones.</text>
+            </sentence>
+            <sentence>
+                <offset>934</offset>
+                <text>Cytoplasmic inclusion bodies were not found (not shown).</text>
+            </sentence>
+            <sentence>
+                <offset>991</offset>
+                <text>Skeletal radiographs confirmed absent ossification of the vertebral bodies and sacrum.</text>
+            </sentence>
+            <sentence>
+                <offset>1078</offset>
+                <text>Ossification of the neural arches was present in the cervical, upper, and middle thoracic spine.</text>
+            </sentence>
+            <sentence>
+                <offset>1175</offset>
+                <text>The skull appeared normal in ossification.</text>
+            </sentence>
+            <sentence>
+                <offset>1218</offset>
+                <text>Only 11 pairs of ossified ribs were present.</text>
+            </sentence>
+            <sentence>
+                <offset>1263</offset>
+                <text>The ribs were short but finely modeled without a beaded appearance.</text>
+            </sentence>
+            <sentence>
+                <offset>1331</offset>
+                <text>The scapulae were mildly hypoplastic.</text>
+            </sentence>
+            <sentence>
+                <offset>1369</offset>
+                <text>The ilia were small and crescent shaped.</text>
+            </sentence>
+            <sentence>
+                <offset>1410</offset>
+                <text>The pubic and ischial rami were not ossified.</text>
+            </sentence>
+            <sentence>
+                <offset>1456</offset>
+                <text>The tubular bones were short and bowed with flared, cupped metaphyses and longitudinally oriented large metaphyseal spurs (Fig. 3C).</text>
+            </sentence>
+            <sentence>
+                <offset>1589</offset>
+                <text>The short tubular bones were relatively well ossified.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

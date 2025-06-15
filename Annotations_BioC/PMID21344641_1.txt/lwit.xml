@@ -1,0 +1,226 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 1 is the second child of nonconsanguineous Caucasian parents.</text>
+            </sentence>
+            <sentence>
+                <offset>70</offset>
+                <text>She was born at 35 weeks gestation following a pregnancy complicated by polyhydramnios.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001561</infon>
+                    <location length="14" offset="72"/>
+                    <text>polyhydramnios</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>158</offset>
+                <text>At birth she was edematous with a distinctive facial appearance (Fig. 1a) and generalized hypertrichosis.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000969</infon>
+                    <location length="9" offset="17"/>
+                    <text>edematous</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000998</infon>
+                    <location length="14" offset="90"/>
+                    <text>hypertrichosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>264</offset>
+                <text>An echocardiogram showed a patent ductus arteriosus (ligated at age 9 months) and a thickened inter-ventricular septum (10 mm).</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001643</infon>
+                    <location length="24" offset="27"/>
+                    <text>patent ductus arteriosus</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005144</infon>
+                    <location length="34" offset="84"/>
+                    <text>thickened inter-ventricular septum</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>395</offset>
+                <text>Her motor development was delayed due to low muscle tone and joint laxity.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="4"/>
+                    <text>motor development</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="26"/>
+                    <text>delayed</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001252</infon>
+                    <location length="15" offset="41"/>
+                    <text>low muscle tone</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001382</infon>
+                    <location length="12" offset="61"/>
+                    <text>joint laxity</text>
+                </annotation>
+                <relation id="8">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001270</infon>
+                    <node refid="6" role="source"/>
+                    <node refid="7" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>470</offset>
+                <text>When reviewed at age 15 months she was unable to stand but her speech development was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>564</offset>
+                <text>She was of muscular build with height and weight on the 25th centile and head circumference on 50th centile.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="14" offset="11"/>
+                    <text>muscular build</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>673</offset>
+                <text>She experienced several episodes of hematemesis with evidence of duodenitis and ulceration, and, associated Helicobacter pylori infection.</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002248</infon>
+                    <location length="11" offset="36"/>
+                    <text>hematemesis</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0033117</infon>
+                    <location length="10" offset="65"/>
+                    <text>duodenitis</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0034274</infon>
+                    <location length="10" offset="80"/>
+                    <text>ulceration</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>812</offset>
+                <text>This did not recur following treatment.</text>
+            </sentence>
+            <sentence>
+                <offset>852</offset>
+                <text>She also had marked mood swings, especially early in the morning, and was investigated for hypoglycemia; however, this was not substantiated as glucose and insulin levels were normal.</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000712</infon>
+                    <location length="11" offset="20"/>
+                    <text>mood swings</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1036</offset>
+                <text>Her liver was palpable 3 cm below the costal margin at 15 months and 2 years 7 months of age with no signs of cardiac failure.</text>
+            </sentence>
+            <sentence>
+                <offset>1163</offset>
+                <text>Her facial appearance at age 19 months is shown in Figure 2a.</text>
+            </sentence>
+            <sentence>
+                <offset>1228</offset>
+                <text>She is now 15-year old.</text>
+            </sentence>
+            <sentence>
+                <offset>1252</offset>
+                <text>Her hypertrophic cardiomyopathy has remained stable and she does not have hepatomegaly.</text>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001639</infon>
+                    <location length="27" offset="4"/>
+                    <text>hypertrophic cardiomyopathy</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1340</offset>
+                <text>From the age of 12 years she has had recurrent episodes of ankle and lower limb swelling with normal albumin and complement levels and normal flow in the inferior vena cava, leg veins, and pelvis.</text>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="19" offset="69"/>
+                    <text>lower limb swelling</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1537</offset>
+                <text>A lymphoscintigram was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1568</offset>
+                <text>She has continued to have reflux esophagitis.</text>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100633</infon>
+                    <location length="11" offset="33"/>
+                    <text>esophagitis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1614</offset>
+                <text>Her cognitive problems are mild and she has coped well in mainstream school with 12 hr of extra help each week.</text>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100543</infon>
+                    <location length="18" offset="4"/>
+                    <text>cognitive problems</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1726</offset>
+                <text>Her main problems at school have been poor concentration, low self-esteem and extreme tiredness.</text>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031987</infon>
+                    <location length="18" offset="38"/>
+                    <text>poor concentration</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031469</infon>
+                    <location length="15" offset="58"/>
+                    <text>low self-esteem</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012378</infon>
+                    <location length="9" offset="86"/>
+                    <text>tiredness</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1823</offset>
+                <text>At age 15 years her head circumference is 59.9 cm (&gt;98th centile) with her height and weight on 50th–75th and 75th centiles, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>1962</offset>
+                <text>The mid-parental height is 173 cm (91st centile).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

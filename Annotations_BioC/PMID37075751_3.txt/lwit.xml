@@ -1,0 +1,138 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 3 was the first child to non-consanguineous parents, delivered at term following an uncomplicated pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>120</offset>
+                <text>Birth parameters were weight 3.145kg (40th centile), length 30.7cm (40th centile), head circumference 33.5cm (40th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>245</offset>
+                <text>She was noted to have congenital moderate-tosevere sensorineural hearing loss in the newborn period and was admitted to intensive care at 6 weeks of age due to poor feeding, lethargy and respiratory distress.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000407</infon>
+                    <location length="26" offset="51"/>
+                    <text>sensorineural hearing loss</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011968</infon>
+                    <location length="12" offset="160"/>
+                    <text>poor feeding</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001254</infon>
+                    <location length="8" offset="174"/>
+                    <text>lethargy</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002098</infon>
+                    <location length="20" offset="187"/>
+                    <text>respiratory distress</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>454</offset>
+                <text>She was found to have hypertrophic cardiomyopathy and elevated lactate.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001639</infon>
+                    <location length="27" offset="22"/>
+                    <text>hypertrophic cardiomyopathy</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002151</infon>
+                    <location length="16" offset="54"/>
+                    <text>elevated lactate</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>526</offset>
+                <text>Physical exam was notable for microcephaly, congenital nevus on the scalp, hypotonia and micrognathia.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000252</infon>
+                    <location length="12" offset="30"/>
+                    <text>microcephaly</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="55"/>
+                    <text>nevus</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="68"/>
+                    <text>scalp</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001252</infon>
+                    <location length="9" offset="75"/>
+                    <text>hypotonia</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000347</infon>
+                    <location length="13" offset="89"/>
+                    <text>micrognathia.</text>
+                </annotation>
+                <relation id="9">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003764</infon>
+                    <node refid="10" role="source"/>
+                    <node refid="8" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>629</offset>
+                <text>Head circumference was 34.7 cm (&lt;3rd centile) and weight was 3.26 kg (&lt;3rd centile).</text>
+            </sentence>
+            <sentence>
+                <offset>714</offset>
+                <text>She had a normal brain MRI.</text>
+            </sentence>
+            <sentence>
+                <offset>742</offset>
+                <text>Clinical trio genome sequencing was performed as part of the Acute Care Genomics study (Victorian Clinical Genetics Services, Australia) and identified a de novo frameshift variant in POLR1A c.190delT; p.</text>
+            </sentence>
+            <sentence>
+                <offset>946</offset>
+                <text>(Cys64Alafs*42).</text>
+            </sentence>
+            <sentence>
+                <offset>963</offset>
+                <text>RNA sequencing was uninformative.</text>
+            </sentence>
+            <sentence>
+                <offset>997</offset>
+                <text>She died at 8 weeks of age after a 2-week hospitalization for management of respiratory distress and heart failure</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001635</infon>
+                    <location length="20" offset="76"/>
+                    <text>respiratory distress</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001635</infon>
+                    <location length="13" offset="101"/>
+                    <text>heart failure</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

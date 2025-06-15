@@ -1,0 +1,40 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Given the diagnosis in the older brother, radiographs were taken of his younger sister (Patient 3) at age 4 months.</text>
+            </sentence>
+            <sentence>
+                <offset>116</offset>
+                <text>Prior to these exams, the parents had not suspected that the second child might have the same disorder as her brother.</text>
+            </sentence>
+            <sentence>
+                <offset>235</offset>
+                <text>However, on radiographic examination, there was a generalized epiphyseal dysplasia (no platyspondyly or coronal clefts) (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>365</offset>
+                <text>She had a somewhat flat face but this was consistent with her ethnic origin and the ears were mildly cupped but not clearly dysmorphic.</text>
+            </sentence>
+            <sentence>
+                <offset>501</offset>
+                <text>An eye examination performed at 4 months of age showed no cataracts but a repeat exam at 7 months of age detected bilateral lens opacities with the left side requiring surgical correction.</text>
+            </sentence>
+            <sentence>
+                <offset>690</offset>
+                <text>She had delayed motor milestones (standing at 26 months, ability to take one or two steps independently at 3.5 years) and delayed speech.</text>
+            </sentence>
+            <sentence>
+                <offset>828</offset>
+                <text>Cerebral MRIs at 7 months and at 2 years were normal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,32 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 was diagnosed with CHH at 3 years based on mild short stature (height Z-score −2.5 at age 1.0 year and −3.5 at 3 years), sparse hair, recurrent infections and radiographic findings of mild metaphyseal changes consistent with CHH (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>251</offset>
+                <text>Her adult height is 143.1 cm (−3.8 SDS).</text>
+            </sentence>
+            <sentence>
+                <offset>292</offset>
+                <text>She was diagnosed with asthma at 14 years.</text>
+            </sentence>
+            <sentence>
+                <offset>335</offset>
+                <text>HRCT at 15 years revealed bronchiectasis in the right middle lobe, left lingula and both lower lobes; these showed progression at 20 years.</text>
+            </sentence>
+            <sentence>
+                <offset>475</offset>
+                <text>Immunoglobulin replacement therapy was commenced based on low IgG subclass levels and bronchiectasis.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

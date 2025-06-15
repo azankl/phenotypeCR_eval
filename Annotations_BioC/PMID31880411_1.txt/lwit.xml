@@ -1,0 +1,64 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿A non-consanguineous 31-year-old couple (II-1 and II-2) was referred to the Jikei University Hospital with a neonate at 13 weeks of gestation with severe fetal hydrops (III-2) (Figure 1a).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001789</infon>
+                    <location length="13" offset="155"/>
+                    <text>fetal hydrops</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>190</offset>
+                <text>They had a previous pregnancy in which the fetus had a similar lethal phenotype (III-1).</text>
+            </sentence>
+            <sentence>
+                <offset>279</offset>
+                <text>Fetal ultrasound imaging of III-1 revealed severe limb shortening and fetal hydrops (Figure 2a,b).</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009826</infon>
+                    <location length="15" offset="50"/>
+                    <text>limb shortening</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001789</infon>
+                    <location length="13" offset="70"/>
+                    <text>fetal hydrops</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>378</offset>
+                <text>At 16 weeks of gestation, intrauterine fetal death was confirmed.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Prenatal death HP:0034241</infon>
+                    <location length="24" offset="26"/>
+                    <text>intrauterine fetal death</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>444</offset>
+                <text>Although autopsy imaging was performed after delivery, a definitive clinical diagnosis was not achieved (Figure 2c,d).</text>
+            </sentence>
+            <sentence>
+                <offset>563</offset>
+                <text>Since similar lethal malformations were detected in III-1 and III-2, an inherited autosomal recessive bone disorder was suspected.</text>
+            </sentence>
+            <sentence>
+                <offset>694</offset>
+                <text>Following genetic counseling, the couple agreed to undergo detailed molecular genetic analysis.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

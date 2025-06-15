@@ -1,0 +1,64 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A 2-year-old girl was referred to our clinic for genetic evaluation of short stature.</text>
+            </sentence>
+            <sentence>
+                <offset>86</offset>
+                <text>She was from a Caucasian descent born out of a nonconsanguineous union.</text>
+            </sentence>
+            <sentence>
+                <offset>158</offset>
+                <text>Polyhydramnios, breech presentation, and skeletal dysplasia detected by ultrasonography complicated the antenatal period and hence needed a cesarean section delivery.</text>
+            </sentence>
+            <sentence>
+                <offset>325</offset>
+                <text>At birth, the proband weighed 3.6 kg (67th centile), measured 48.3 cm (34th centile) in length, and 35 cm (57th centile) as the head circumference.</text>
+            </sentence>
+            <sentence>
+                <offset>473</offset>
+                <text>The proband was noted to have flat facies, mildly prominent eyes, flat nasal bridge, upturned nasal tip, posteriorly rotated ears, micrognathia, glossoptosis, complete cleft palate, short neck, short limbs, brachydactyly (two–five fingers), and sandal gap.</text>
+            </sentence>
+            <sentence>
+                <offset>730</offset>
+                <text>There was no limitation of joint movements, and evidence of pectus and spine abnormalities on examination.</text>
+            </sentence>
+            <sentence>
+                <offset>837</offset>
+                <text>The assessment of X-rays at birth showed poorly calcified vertebrae and vertebral bodies, short dumbbell femurs with metaphyseal flaring, short metacarpals, and phalanges.</text>
+            </sentence>
+            <sentence>
+                <offset>1009</offset>
+                <text>Also, the proband was found to have bilateral sensorineural hearing loss (SNHL) during the standard hearing screening at birth.</text>
+            </sentence>
+            <sentence>
+                <offset>1140</offset>
+                <text>At 2 months of age, although the proband had short limbs with a bowed tibia and fibula, we observed that the features of skeletal dysplasia and dysmorphic features were less obvious compared with birth.</text>
+            </sentence>
+            <sentence>
+                <offset>1343</offset>
+                <text>Unfortunately, we were not able to present with the proband's photograph/X-rays with this report.</text>
+            </sentence>
+            <sentence>
+                <offset>1441</offset>
+                <text>The proband underwent palatoplasty for the correction of cleft palate and bilateral mandibular distraction using internal distraction devices for micrognathia, yet these devices were subsequently removed.</text>
+            </sentence>
+            <sentence>
+                <offset>1646</offset>
+                <text>The proband's developmental milestones were age appropriate, and no similar disease history was noted in her siblings or other family members.</text>
+            </sentence>
+            <sentence>
+                <offset>1792</offset>
+                <text>Whole exome sequencing using available commercial methods in the proband revealed two heterozygous variants, c.190 C &gt; T and c.339_340delCCinsG in exons 2 and 3 of COL11A2 , respectively.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

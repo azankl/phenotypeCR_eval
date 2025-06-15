@@ -1,0 +1,124 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Case 2 is the mother of Case 1.</text>
+            </sentence>
+            <sentence>
+                <offset>32</offset>
+                <text>She was well until the age of 18 when she began to have pain and weakness in her lower limbs that were aggravated by activity and stress.</text>
+            </sentence>
+            <sentence>
+                <offset>170</offset>
+                <text>The pain worsened at night and was only minimally relieved by non-steroidal anti-inflammatory drugs.</text>
+            </sentence>
+            <sentence>
+                <offset>274</offset>
+                <text>At age 37 years she was diagnosed with PDD following the diagnosis of her son.</text>
+            </sentence>
+            <sentence>
+                <offset>353</offset>
+                <text>She had mild genua valga, pes planus, decreased strength in the proximal lower limbs, and a wide-based gait.</text>
+            </sentence>
+            <sentence>
+                <offset>462</offset>
+                <text>Her physical exam was otherwise normal.</text>
+            </sentence>
+            <sentence>
+                <offset>502</offset>
+                <text>Her calcium, phosphorus, and alkaline phosphatase were within normal limits.</text>
+            </sentence>
+            <sentence>
+                <offset>579</offset>
+                <text>Her roentgenograms showed hyperostosis of the femora, left tibia, left ulna, and skull.</text>
+            </sentence>
+            <sentence>
+                <offset>667</offset>
+                <text>The right tibia and right ulna were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>714</offset>
+                <text>At age 47 years she presented with a severe episode of low back and right hip pain with difficulty in walking.</text>
+            </sentence>
+            <sentence>
+                <offset>825</offset>
+                <text>She was taking up to 3,900 mg/day of aspirin.</text>
+            </sentence>
+            <sentence>
+                <offset>871</offset>
+                <text>Her erythrocyte sedimentation rate (ESR) was 108 mm/h (normal &lt; 20 mm/h), and an antinuclear antibody test was reported positive; the titer was not documented.</text>
+            </sentence>
+            <sentence>
+                <offset>1031</offset>
+                <text>She was diagnosed with systemic lupus erythematosus.</text>
+            </sentence>
+            <sentence>
+                <offset>1084</offset>
+                <text>She was treated with 15 mg/day of prednisone with rapid resolution of her symptoms.</text>
+            </sentence>
+            <sentence>
+                <offset>1171</offset>
+                <text>At age 48 years, she reported a 10 month history of aches in her thighs requiring bed rest 2–3 days a week.</text>
+            </sentence>
+            <sentence>
+                <offset>1279</offset>
+                <text>She was receiving weekly cortisone injections and taking carisoprodol/aspirin and acetaminophen.</text>
+            </sentence>
+            <sentence>
+                <offset>1376</offset>
+                <text>She had 4/5 strength in the proximal muscles of the upper and lower limbs.</text>
+            </sentence>
+            <sentence>
+                <offset>1451</offset>
+                <text>The electromyogram (EMG) findings were suggestive of myopathic changes in the proximal muscles of the upper and lower limbs.</text>
+            </sentence>
+            <sentence>
+                <offset>1576</offset>
+                <text>A muscle biopsy from the left deltoid was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1626</offset>
+                <text>She was diagnosed with polymyositis and treated with 15 mg/day of prednisone.</text>
+            </sentence>
+            <sentence>
+                <offset>1707</offset>
+                <text>She continued to have pain that was treated with aspirin, acetaminophen, and occasional oxycodone with aspirin.</text>
+            </sentence>
+            <sentence>
+                <offset>1819</offset>
+                <text>She developed decreased range of motion at the ankles, tenderness to palpation over the lower limbs, hyperactive reflexes, and patellar clonus.</text>
+            </sentence>
+            <sentence>
+                <offset>1963</offset>
+                <text>Radiographs showed slightly widened bone shafts.</text>
+            </sentence>
+            <sentence>
+                <offset>2012</offset>
+                <text>No new bones were involved.</text>
+            </sentence>
+            <sentence>
+                <offset>2043</offset>
+                <text>At age 73 years, she reported a 4-year history of left hip and low back pain associated with several falls, in addition to episodes of vertigo, headache, and tinnitus that lasted for several days.</text>
+            </sentence>
+            <sentence>
+                <offset>2240</offset>
+                <text>On exam she had thoracic kyphosis and lumbar lordosis.</text>
+            </sentence>
+            <sentence>
+                <offset>2295</offset>
+                <text>The ESR was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>2315</offset>
+                <text>A head CT scan showed skull hyperostosis with involvement of the internal auditory canals.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,338 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>We will report on the case of a 6-year-old child.</text>
+            </sentence>
+            <sentence>
+                <offset>50</offset>
+                <text>He has been followed up since birth in our hospital and by the age of 1 he was referred to the Paediatric Ophthalmology Unit as the family noticed nyctalopia and right eye nystagmus.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000662</infon>
+                    <location length="10" offset="147"/>
+                    <text>nyctalopia</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000639</infon>
+                    <location length="9" offset="172"/>
+                    <text>nystagmus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>236</offset>
+                <text>A comprehensive review of clinical history allowed the clinical diagnosis of MSS.</text>
+            </sentence>
+            <sentence>
+                <offset>318</offset>
+                <text>A multidisciplinary approach was mandatory due to systemic affection.There is no previous family history of renal, skeletal or retinal congenital anomalies.</text>
+            </sentence>
+            <sentence>
+                <offset>475</offset>
+                <text>No consanguinity is found between the parents.</text>
+            </sentence>
+            <sentence>
+                <offset>522</offset>
+                <text>No pathological findings were reported during pregnancy controls.</text>
+            </sentence>
+            <sentence>
+                <offset>588</offset>
+                <text>Uneventful caesarean delivery was performed at 38 weeks with no associated complications.</text>
+            </sentence>
+            <sentence>
+                <offset>681</offset>
+                <text>Trigonocephaly by early closure of metopic suture developed in the first few months.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000243</infon>
+                    <location length="14" offset="0"/>
+                    <text>Trigonocephaly</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011330</infon>
+                    <location length="31" offset="18"/>
+                    <text>early closure of metopic suture</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>766</offset>
+                <text>Neurosurgery was planned by computerized tomographic imaging (CTI) (Fig. 1-A and Fig. 1-B).</text>
+            </sentence>
+            <sentence>
+                <offset>858</offset>
+                <text>There was no orbital involvement despite typical cranial morphology.</text>
+            </sentence>
+            <sentence>
+                <offset>927</offset>
+                <text>After surgery, an increased extra-axial frontal-parietal space appeared (Fig. 1-C).</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012510</infon>
+                    <location length="34" offset="28"/>
+                    <text>extra-axial frontal-parietal space</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1014</offset>
+                <text>The patient showed early skeletal involvement: growth retardation, dorsal-lumbar kyphoscoliosis and cone shaped epiphysis (Fig. 1-D and Fig. 1-E).</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001510</infon>
+                    <location length="18" offset="47"/>
+                    <text>growth retardation</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003423</infon>
+                    <location length="28" offset="67"/>
+                    <text>dorsal-lumbar kyphoscoliosis</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010579</infon>
+                    <location length="21" offset="100"/>
+                    <text>cone shaped epiphysis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1161</offset>
+                <text>At the time of the last examination (6 years and 7 months old) the patient showed: 105 cm height (−1,30SD) and 18.6 kg weight (−2,87SD).</text>
+            </sentence>
+            <sentence>
+                <offset>1301</offset>
+                <text>Cystic nephropathy was assessed by an ultrasonographic examination explaining early progressive renal insufficiency.</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000107</infon>
+                    <location length="18" offset="0"/>
+                    <text>Cystic nephropathy</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000083</infon>
+                    <location length="19" offset="96"/>
+                    <text>renal insufficiency</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1418</offset>
+                <text>Cystic nephropathy required peritoneal dialysis from aged 1, followed by renal transplantation as definite treatment at aged 2.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000107</infon>
+                    <location length="18" offset="0"/>
+                    <text>Cystic nephropathy</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1549</offset>
+                <text>Coincidently, enlarged intrahepatic biliary ducts were found with abdominal ultrasonography for renal and urinary follow-up (Fig. 1-F).</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0033149</infon>
+                    <location length="35" offset="14"/>
+                    <text>enlarged intrahepatic biliary ducts</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1685</offset>
+                <text>Mild transaminase increase with no other symptomatology was found.</text>
+            </sentence>
+            <sentence>
+                <offset>1755</offset>
+                <text>No cardiovascular findings were found until 4 years old, assessing left ventricle hypertrophy secondary to systemic arterial hypertension.</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001712</infon>
+                    <location length="26" offset="67"/>
+                    <text>left ventricle hypertrophy</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000822</infon>
+                    <location length="21" offset="116"/>
+                    <text>arterial hypertension</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1894</offset>
+                <text>Hypertension may be secondary to renal artery stenosis.</text>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000822</infon>
+                    <location length="12" offset="0"/>
+                    <text>Hypertension</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001920</infon>
+                    <location length="21" offset="33"/>
+                    <text>renal artery stenosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1953</offset>
+                <text>The patient also had an episode of intracranial hypertension associated with subdural chronic hematoma, a consequence of traumatism at aged 2, requiring surgical intervention by neurosurgeons.</text>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002516</infon>
+                    <location length="25" offset="35"/>
+                    <text>intracranial hypertension</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100309</infon>
+                    <location length="25" offset="77"/>
+                    <text>subdural chronic hematoma</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2149</offset>
+                <text>Normal hearing function was assessed.</text>
+            </sentence>
+            <sentence>
+                <offset>2187</offset>
+                <text>The child shows proper academic development, cognitive abilities and social behaviour.</text>
+            </sentence>
+            <sentence>
+                <offset>2277</offset>
+                <text>The first ophthalmological examination was done after the first year of life, showing light tracking, subjective hemeralopia (referred by parents) and right eye horizontal nystagmus.</text>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012047</infon>
+                    <location length="11" offset="113"/>
+                    <text>hemeralopia</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000639</infon>
+                    <location length="9" offset="172"/>
+                    <text>nystagmus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2463</offset>
+                <text>Periodic follow-up was performed until the child was old enough to cooperate for proper ophthalmic exploration.</text>
+            </sentence>
+            <sentence>
+                <offset>2578</offset>
+                <text>Right eye nystagmus has progressively improved to total recovery.</text>
+            </sentence>
+            <sentence>
+                <offset>2644</offset>
+                <text>The best corrected visual acuity reached 0.15/0.22 LogMAR respectively in both eyes by aged 6.</text>
+            </sentence>
+            <sentence>
+                <offset>2739</offset>
+                <text>His current refraction is: +6.5, −2.5 × 180°/+6.75, −3 x 5°.</text>
+            </sentence>
+            <sentence>
+                <offset>2803</offset>
+                <text>Ocular adnexa and anterior segment showed no pathology.</text>
+            </sentence>
+            <sentence>
+                <offset>2859</offset>
+                <text>Electroretinography was not contributory due to lack of cooperation.</text>
+            </sentence>
+            <sentence>
+                <offset>2931</offset>
+                <text>Posterior pole wide field imaging showed healthy papillae, altered posterior internal limiting membrane macular reflex, preserved vessels in posterior pole with vasculature thinning in peripheral retina and diffuse peripheral pigmentary changes in the peripheral retina (Fig. 1-G).</text>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008046</infon>
+                    <location length="41" offset="161"/>
+                    <text>vasculature thinning in peripheral retina</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="29" offset="215"/>
+                    <text>peripheral pigmentary changes</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="263"/>
+                    <text>retina</text>
+                </annotation>
+                <relation id="23">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007703</infon>
+                    <node refid="24" role="source"/>
+                    <node refid="22" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>3216</offset>
+                <text>Autofluorescence imaging evidenced a bull's eye pattern with increase signal surrounding the macula and central hypofluorescence.</text>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="18" offset="37"/>
+                    <text>bull's eye pattern</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="93"/>
+                    <text>macula</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025159</infon>
+                    <location length="24" offset="104"/>
+                    <text>central hypofluorescence</text>
+                </annotation>
+                <relation id="26">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011504</infon>
+                    <node refid="27" role="source"/>
+                    <node refid="25" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>3346</offset>
+                <text>The macular hypofluorescent area shows a characteristic sharped upper edge and rounded lower edge.</text>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030632</infon>
+                    <location length="23" offset="4"/>
+                    <text>macular hypofluorescent</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>3445</offset>
+                <text>A mottled autofluorescent pattern was found in the peripheral retina (Fig. 1-H).</text>
+            </sentence>
+            <sentence>
+                <offset>3529</offset>
+                <text>OCT imaging shows an absence of outer retinal layers and thinning of the perimacular retina with a preserved central area (Fig. 1-I).</text>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [Ophthalmology]</infon>
+                    <location length="31" offset="21"/>
+                    <text>absence of outer retinal layers</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030607</infon>
+                    <location length="34" offset="57"/>
+                    <text>thinning of the perimacular retina</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>3666</offset>
+                <text>Adequate hyperopic correction was prescribed.</text>
+            </sentence>
+            <sentence>
+                <offset>3712</offset>
+                <text>Selective filter adaptation is recommended for this patient in order to enhance contrast sensitivity and reduce glare in photopic conditions.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,132 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Case 3 is a male in his 20s born to Swiss unrelated parents.</text>
+            </sentence>
+            <sentence>
+                <offset>62</offset>
+                <text>He was born by caesarean section at term with a weight of 2570 g and a length of 45 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>150</offset>
+                <text>Postaxial polydactyly of the hands, preaxial polydactyly of the feet, and facial dysmorphism such as a bulging forehead with receding hair line, bilateral epicanthus, mild down-slant of narrow palpebral fissures, hypertelorism, scarce upper eyelashes and absent lower eyelashes, convergent strabismus and bilateral pits of the ear lobes were noted.</text>
+            </sentence>
+            <sentence>
+                <offset>499</offset>
+                <text>Moreover, he had pseudarthrosis of the right clavicle, hypospadias, bilateral inguinal hernias, right-sided cryptorchidism, widely spaced nipples, a large fontanel (6×6 cm), bifid uvula, and a short neck.</text>
+            </sentence>
+            <sentence>
+                <offset>704</offset>
+                <text>The diagnosis of ACLS was proposed.</text>
+            </sentence>
+            <sentence>
+                <offset>740</offset>
+                <text>Cerebral ultrasound investigations revealed enlarged lateral ventricles and a suspicion of corpus callosum hypoplasia, which was said to have been confirmed by Computed Tomography (CT) imaging during childhood.</text>
+            </sentence>
+            <sentence>
+                <offset>951</offset>
+                <text>At the age of 4 months, measurements were 61 cm length (3rd centile), 6020 g weight (10th centile), 42.5 cm HC (25th centile), and a 7×8 cm open fontanel.</text>
+            </sentence>
+            <sentence>
+                <offset>1106</offset>
+                <text>Already at this time, a developmental delay of 2 months was noted and a hypoplastic optic nerve disc was mentioned.</text>
+            </sentence>
+            <sentence>
+                <offset>1222</offset>
+                <text>At the age of 7 years, when the boy was given to foster parents, he could hardly walk, had hardly any speech, and very low vision.</text>
+            </sentence>
+            <sentence>
+                <offset>1353</offset>
+                <text>At the age of 14 years, he underwent normal puberty.</text>
+            </sentence>
+            <sentence>
+                <offset>1406</offset>
+                <text>Since the age of 15 years he had bladder control both day and night and no longer needed diapers (nappies).</text>
+            </sentence>
+            <sentence>
+                <offset>1514</offset>
+                <text>At the age of 18 years he still had limited beard growth and scarce axillary hair.</text>
+            </sentence>
+            <sentence>
+                <offset>1597</offset>
+                <text>It was said that he had tunnel vision and that an electroretinogram at the age of 5.75 years had shown abnormal results, arguing for a retinopathy.</text>
+            </sentence>
+            <sentence>
+                <offset>1745</offset>
+                <text>His height was reported to be 185 cm (90th centile), weight 7.2 kg (75–90th centile), and HC 58 cm (75–90th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>1863</offset>
+                <text>Ear length was asymmetric with 7 cm on the left side and 6.3 cm on the right side.</text>
+            </sentence>
+            <sentence>
+                <offset>1946</offset>
+                <text>Ears were low set and posteriorly rotated, with an underfolded apical helix and hypoplastic lobes.</text>
+            </sentence>
+            <sentence>
+                <offset>2045</offset>
+                <text>The forehead was high and broad, palpebral fissures were narrow with mild epicanthal folds and mild down-slant.</text>
+            </sentence>
+            <sentence>
+                <offset>2157</offset>
+                <text>The nasal bridge was broad, and the philtrum short and prominent.</text>
+            </sentence>
+            <sentence>
+                <offset>2223</offset>
+                <text>Lips were full and everted with a median groove in the upper lip, and the tongue was large.</text>
+            </sentence>
+            <sentence>
+                <offset>2315</offset>
+                <text>The neck was short with a low hair line and a flat occiput.</text>
+            </sentence>
+            <sentence>
+                <offset>2375</offset>
+                <text>Fingers were tapering with limited distal interphalangeal joint mobility of the fifth fingers.</text>
+            </sentence>
+            <sentence>
+                <offset>2470</offset>
+                <text>He was said to occasionally have temper tantrums with destructiveness.</text>
+            </sentence>
+            <sentence>
+                <offset>2541</offset>
+                <text>At the age of 21 years he was able to walk freely, but in small steps with flexion contracture of knees up to 1 km, to ride a tandem bike, to swim, to get himself dressed apart from closing zippers and putting on socks, and to cut food.</text>
+            </sentence>
+            <sentence>
+                <offset>2778</offset>
+                <text>Due to calcaneous-valgus deformity, he needed ortheses.</text>
+            </sentence>
+            <sentence>
+                <offset>2834</offset>
+                <text>He had a limited vision with very high myopia, nystagmus, and nasal, inarticulate speech.</text>
+            </sentence>
+            <sentence>
+                <offset>2924</offset>
+                <text>He had a good memory, was able to count to 30 and to communicate well, but was unable to read or write.</text>
+            </sentence>
+            <sentence>
+                <offset>3028</offset>
+                <text>He had become obese with a height of 183 cm (&gt;75th centile) and weight of 94.5 kg (&gt;97th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>3127</offset>
+                <text>We identified two KIF7 heterozygous mutations: a substitution at the acceptor splice site of intron 12 c.2593-3C&gt;G inherited from the father, and a nonsense mutation in exon 15 (c.3001C&gt;T, p.Gln1001X) inherited from his mother.</text>
+            </sentence>
+            <sentence>
+                <offset>3356</offset>
+                <text>The c.2593-3C&gt;G variation is absent from SNP databases and 1000 genomes, and its in silico analysis by Human Splicing Finder (see URLs) shows a reduced score of intron 12 acceptor splice site from 86 to 74, while it is abolished with NNSPLICE 0.9 (see URLs).</text>
+            </sentence>
+            <sentence>
+                <offset>3616</offset>
+                <text>The sister of the mother also had a daughter with polydactyly and a clinical diagnosis of acrocallosal or Mohr syndrome, but was not interested in further investigations.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

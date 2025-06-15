@@ -1,0 +1,290 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>She is the first child of non-consanguineous healthy Thai parents.</text>
+            </sentence>
+            <sentence>
+                <offset>67</offset>
+                <text>The pregnancy was unremarkable and she was born without complications at 38 weeks of gestation with a birth weight of 3,260 g (50th centile) and Apgar scores of 10 and 10.</text>
+            </sentence>
+            <sentence>
+                <offset>239</offset>
+                <text>At eight months of age, she was referred due to deformities of her extremities, difficulty sitting up, and gross motor delay (Figure 1).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0040064</infon>
+                    <location length="30" offset="48"/>
+                    <text>deformities of her extremities</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025336</infon>
+                    <location length="21" offset="80"/>
+                    <text>difficulty sitting up</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002194</infon>
+                    <location length="17" offset="107"/>
+                    <text>gross motor delay</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>376</offset>
+                <text>Her weight was 5,900 g (&lt; 3rd centile); length 59 cm (&lt; 3rd centile); and head circumference 41 cm (10–25th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>494</offset>
+                <text>On physical exam, she had marked limb deformities, bluish sclerae, depressed nasal bridge, broad face, angulated ankles, broad fingers and toes, and relatively long fingers.</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0040064</infon>
+                    <location length="16" offset="33"/>
+                    <text>limb deformities</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000592</infon>
+                    <location length="14" offset="51"/>
+                    <text>bluish sclerae</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005280</infon>
+                    <location length="22" offset="67"/>
+                    <text>depressed nasal bridge</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000283</infon>
+                    <location length="10" offset="91"/>
+                    <text>broad face</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="16" offset="103"/>
+                    <text>angulated ankles</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001500</infon>
+                    <location length="13" offset="121"/>
+                    <text>broad fingers</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="121"/>
+                    <text>broad</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="139"/>
+                    <text>toes</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100807</infon>
+                    <location length="12" offset="160"/>
+                    <text>long fingers</text>
+                </annotation>
+                <relation id="11">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001837</infon>
+                    <node refid="12" role="source"/>
+                    <node refid="10" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>668</offset>
+                <text>The deformed limbs were not tender or swollen.</text>
+            </sentence>
+            <sentence>
+                <offset>715</offset>
+                <text>Dentinogenesis imperfecta was absent (Figure 1f).</text>
+            </sentence>
+            <sentence>
+                <offset>765</offset>
+                <text>On skeletal survey, she had generalized osteopenia, numerous deformities of the long bones with flaring, sclerosis, and irregularity of metaphyses, popcorn epiphyses, and significant angulation at the junction of metaphyses and diaphyses of the forearm and leg bones including ulnae, radii, tibiae, and fibulae (Figure 2a–g).</text>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000938</infon>
+                    <location length="10" offset="40"/>
+                    <text>osteopenia</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011314</infon>
+                    <location length="29" offset="61"/>
+                    <text>deformities of the long bones</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="80"/>
+                    <text>long bones</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="80"/>
+                    <text>long bones</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="96"/>
+                    <text>flaring</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="105"/>
+                    <text>sclerosis</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003025</infon>
+                    <location length="26" offset="120"/>
+                    <text>irregularity of metaphyses</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="17" offset="148"/>
+                    <text>popcorn epiphyses</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="183"/>
+                    <text>angulation</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="183"/>
+                    <text>angulation</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="183"/>
+                    <text>angulation</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="183"/>
+                    <text>angulation</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="277"/>
+                    <text>ulnae</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="284"/>
+                    <text>radii</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="291"/>
+                    <text>tibiae</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="303"/>
+                    <text>fibulae</text>
+                </annotation>
+                <relation id="19">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003015</infon>
+                    <node refid="16" role="source"/>
+                    <node refid="18" role="target"/>
+                </relation>
+                <relation id="21">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006392</infon>
+                    <node refid="17" role="source"/>
+                    <node refid="20" role="target"/>
+                </relation>
+                <relation id="28">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003031</infon>
+                    <node refid="29" role="source"/>
+                    <node refid="27" role="target"/>
+                </relation>
+                <relation id="30">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002986</infon>
+                    <node refid="31" role="source"/>
+                    <node refid="26" role="target"/>
+                </relation>
+                <relation id="32">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002982</infon>
+                    <node refid="33" role="source"/>
+                    <node refid="25" role="target"/>
+                </relation>
+                <relation id="34">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010502</infon>
+                    <node refid="35" role="source"/>
+                    <node refid="24" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1091</offset>
+                <text>She had fractures with callus formation at the metadiaphyseal junctions of the ulnae and right humerus and vertebral compression fractures (Figure 2h, i).</text>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="8"/>
+                    <text>fractures</text>
+                </annotation>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="8"/>
+                    <text>fractures</text>
+                </annotation>
+                <annotation id="38">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="79"/>
+                    <text>ulnae</text>
+                </annotation>
+                <annotation id="40">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="95"/>
+                    <text>humerus</text>
+                </annotation>
+                <annotation id="42">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002953</infon>
+                    <location length="31" offset="107"/>
+                    <text>vertebral compression fractures</text>
+                </annotation>
+                <relation id="39">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003987</infon>
+                    <node refid="36" role="source"/>
+                    <node refid="38" role="target"/>
+                </relation>
+                <relation id="41">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0041055</infon>
+                    <node refid="37" role="source"/>
+                    <node refid="40" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1246</offset>
+                <text>She had an open anterior fontanelle (2 × 3 cm) and a closed posterior fontanelle.</text>
+            </sentence>
+            <sentence>
+                <offset>1328</offset>
+                <text>Wormian bones and hydrocephalus were not detected via radiological studies</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

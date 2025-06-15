@@ -1,0 +1,100 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The patient, now 15 years of age, was initially referred for medical genetics consultation at age 10 regarding short stature, renal cysts, and dental anomalies.</text>
+            </sentence>
+            <sentence>
+                <offset>161</offset>
+                <text>He was born after an uneventful pregnancy in Pakistan, but birth records are not available.</text>
+            </sentence>
+            <sentence>
+                <offset>253</offset>
+                <text>He had one early hospitalization for a febrile illness, but otherwise his early childhood, including achievement of developmental milestones, was completely normal.</text>
+            </sentence>
+            <sentence>
+                <offset>418</offset>
+                <text>His parents are both originally from Pakistan and are fourth cousins.</text>
+            </sentence>
+            <sentence>
+                <offset>488</offset>
+                <text>He has two healthy younger siblings and there is no family history of dental or renal anomalies.</text>
+            </sentence>
+            <sentence>
+                <offset>588</offset>
+                <text>He was evaluated by nephrology and urology after initially presenting with enuresis.</text>
+            </sentence>
+            <sentence>
+                <offset>673</offset>
+                <text>Investigations revealed multiple small renal cysts, chronic renal failure, and hypertension.</text>
+            </sentence>
+            <sentence>
+                <offset>766</offset>
+                <text>On presentation at age 12, a 24 hr urine analysis showed a creatinine clearance of 86 ml/min/1.73m2 with a urine output of 1264 ml/m2/d.</text>
+            </sentence>
+            <sentence>
+                <offset>903</offset>
+                <text>Further, testing showed that his kidney function is declining at a rate of approximately 7 ml/min/1.73m2/year and he will be expected to require renal replacement therapy at the age of 23 years with this rate of decline.</text>
+            </sentence>
+            <sentence>
+                <offset>1124</offset>
+                <text>His urinalysis has been normal with a normal protein: creatinine ratio of 15 mg:mmol.</text>
+            </sentence>
+            <sentence>
+                <offset>1210</offset>
+                <text>Serial imaging of his liver has identified multiple regions of abnormal echogenicity, but despite that, liver function tests have been repeatedly normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1364</offset>
+                <text>He is also missing several permanent teeth.</text>
+            </sentence>
+            <sentence>
+                <offset>1408</offset>
+                <text>An ophthalmology examination by a retinal specialist at age 15 revealed normal eyes, normal vision, and no clinical evidence of retinal disease.</text>
+            </sentence>
+            <sentence>
+                <offset>1553</offset>
+                <text>On initial presentation at age 12 his height was 110 cm (−5 SD), weight was 20 kg (−3 SD), and head circumference was 51.5 cm (25th percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>1698</offset>
+                <text>On examination at age 15 he has short stature (height of 126 cm (−6 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>1771</offset>
+                <text>Head shape is normal, as is hair texture and distribution.</text>
+            </sentence>
+            <sentence>
+                <offset>1830</offset>
+                <text>He has epicanthal folds and multiple missing teeth but no other craniofacial differences.</text>
+            </sentence>
+            <sentence>
+                <offset>1920</offset>
+                <text>He has a narrow chest (Fig. 1), with chest circumference 58.8 cm (&lt;3 percentile) and inter-nipple distance 12 cm (&lt;3rd percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>2052</offset>
+                <text>He has small hands (hand length 13.8 cm and palm length of 8 cm, both well below 3rd centile) and feet (foot length 17 cm) and a muscular build.</text>
+            </sentence>
+            <sentence>
+                <offset>2197</offset>
+                <text>Further, investigations reveal a delayed bone age and a number of non-specific findings on skeletal survey including short ribs, fusion of L4, and L5 vertebral bodies, relative shortening of the tubular bones and distal phalanges of the feet (Fig. 2).</text>
+            </sentence>
+            <sentence>
+                <offset>2449</offset>
+                <text>Despite, his small size he is active and a remarkable athlete, and participates in competitive sports.</text>
+            </sentence>
+            <sentence>
+                <offset>2552</offset>
+                <text>He has no major issues with school performance.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

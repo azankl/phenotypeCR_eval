@@ -1,0 +1,206 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 is a 3-year-old girl and the first child to healthy, non-consanguineous Argentinian parents.</text>
+            </sentence>
+            <sentence>
+                <offset>103</offset>
+                <text>She was born as term following an uncomplicated pregnancy with a birth weight of 3.15 kg (50th centile), birth length of 49 cm (50th centile), and a head circumference of 37 cm (+ 2SD).</text>
+            </sentence>
+            <sentence>
+                <offset>289</offset>
+                <text>She had a mild persistent ductus arteriosus.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001643</infon>
+                    <location length="28" offset="15"/>
+                    <text>persistent ductus arteriosus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>334</offset>
+                <text>A complex, multi-sutural craniosynostosis was diagnosed during the second month of life.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001363</infon>
+                    <location length="16" offset="25"/>
+                    <text>craniosynostosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>423</offset>
+                <text>Surgical intervention was undertaken in two stages, namely, at 2 and 15 months, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>517</offset>
+                <text>She has macrocephaly, dolichocephaly, a high forehead, telecanthus, epicanthic folds, broad nasal bridge, a long philtrum, full cheeks, and an everted lower lip.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000256</infon>
+                    <location length="12" offset="8"/>
+                    <text>macrocephaly</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000268</infon>
+                    <location length="14" offset="22"/>
+                    <text>dolichocephaly</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000348</infon>
+                    <location length="13" offset="40"/>
+                    <text>high forehead</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000506</infon>
+                    <location length="11" offset="55"/>
+                    <text>telecanthus</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000286</infon>
+                    <location length="16" offset="68"/>
+                    <text>epicanthic folds</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000431</infon>
+                    <location length="18" offset="86"/>
+                    <text>broad nasal bridge</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000343</infon>
+                    <location length="13" offset="108"/>
+                    <text>long philtrum</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000293</infon>
+                    <location length="11" offset="123"/>
+                    <text>full cheeks</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000232</infon>
+                    <location length="17" offset="143"/>
+                    <text>everted lower lip</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>679</offset>
+                <text>She has small teeth with enamel dysplasia.</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000691</infon>
+                    <location length="11" offset="8"/>
+                    <text>small teeth</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000682</infon>
+                    <location length="16" offset="25"/>
+                    <text>enamel dysplasia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>722</offset>
+                <text>Like Patient 1, her hair is fine and sparse hair, a short neck with excess skin folds, and brachysyndactyly with fifth finger clinodactyly bilaterally (Fig. 2).</text>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="28"/>
+                    <text>fine</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008070</infon>
+                    <location length="11" offset="37"/>
+                    <text>sparse hair</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="44"/>
+                    <text>hair</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000470</infon>
+                    <location length="10" offset="52"/>
+                    <text>short neck</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005989</infon>
+                    <location length="27" offset="58"/>
+                    <text>neck with excess skin folds</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001159</infon>
+                    <location length="16" offset="91"/>
+                    <text>brachysyndactyly</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001156</infon>
+                    <location length="16" offset="91"/>
+                    <text>brachysyndactyly</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004209</infon>
+                    <location length="25" offset="113"/>
+                    <text>fifth finger clinodactyly</text>
+                </annotation>
+                <relation id="15">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002213</infon>
+                    <node refid="16" role="source"/>
+                    <node refid="14" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>883</offset>
+                <text>In the first year of life she also developed frequent respiratory infections, and testing for cystic fibrosis was negative.</text>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011947</infon>
+                    <location length="22" offset="54"/>
+                    <text>respiratory infections</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1007</offset>
+                <text>Her renal function was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1038</offset>
+                <text>Renal ultrasound scan showed normal size of both kidneys.</text>
+            </sentence>
+            <sentence>
+                <offset>1099</offset>
+                <text>At the age of 2 years and 5 months, she remains macrocephalic with normal weight and height.</text>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000256</infon>
+                    <location length="13" offset="48"/>
+                    <text>macrocephalic</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1192</offset>
+                <text>Her psychomotor development is normal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

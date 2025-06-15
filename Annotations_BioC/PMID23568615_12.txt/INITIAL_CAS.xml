@@ -1,0 +1,36 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 12 was the child of first cousins as well.</text>
+            </sentence>
+            <sentence>
+                <offset>51</offset>
+                <text>He had facial asymmetry and downslanting palpebral fissures, micrognathia and a cleft palate (Fig. 1i).</text>
+            </sentence>
+            <sentence>
+                <offset>155</offset>
+                <text>Ears were low set and posteriorly rotated.</text>
+            </sentence>
+            <sentence>
+                <offset>198</offset>
+                <text>On the left arm, there was a thumb and radius aplasia and aplasia of the fifth finger (Fig. 2v).</text>
+            </sentence>
+            <sentence>
+                <offset>295</offset>
+                <text>On the right hand, he exhibited brachydactyly and 3–4 partial syndactyly (Fig. 2u).</text>
+            </sentence>
+            <sentence>
+                <offset>379</offset>
+                <text>His psychomotor development was delayed.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

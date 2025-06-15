@@ -1,0 +1,52 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 50 [a]and his family were previously reported.12 His facial features represent one of the most impressive and characteristic pictures of the AAS facial phenotype.</text>
+            </sentence>
+            <sentence>
+                <offset>172</offset>
+                <text>He was a 29-year-old man of low normal intelligence (WISC-R scale: IQ 82).</text>
+            </sentence>
+            <sentence>
+                <offset>247</offset>
+                <text>His weight was 75 kg and height was 160.5 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>293</offset>
+                <text>He was socially well integrated, married, and no behavioural problems were noted.</text>
+            </sentence>
+            <sentence>
+                <offset>375</offset>
+                <text>At the age of 13 years a hydrocoele communicans was corrected.</text>
+            </sentence>
+            <sentence>
+                <offset>438</offset>
+                <text>Oligoasthenozoospermia was found in the spermatogram.</text>
+            </sentence>
+            <sentence>
+                <offset>492</offset>
+                <text>Molecular analysis revealed a single nucleotide insertion in exon 3 (528insC) that caused a frameshift after codon 176 and a predicted premature termination at codon 216.</text>
+            </sentence>
+            <sentence>
+                <offset>663</offset>
+                <text>Further molecular analysis of family members showed a heterozygote pattern in his normal mother and sister.</text>
+            </sentence>
+            <sentence>
+                <offset>771</offset>
+                <text>No mutation was found in the unaffected brother.</text>
+            </sentence>
+            <sentence>
+                <offset>821</offset>
+                <text>[a]bad description</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

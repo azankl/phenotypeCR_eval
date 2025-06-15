@@ -1,0 +1,36 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 7 is the mother of individual 6.</text>
+            </sentence>
+            <sentence>
+                <offset>44</offset>
+                <text>She also has a cleft palate and similar facial features to Individual 6, as well as normal echocardiogram.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <location length="12" offset="15"/>
+                    <text>cleft palate</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001999</infon>
+                    <location length="15" offset="40"/>
+                    <text>facial features</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>151</offset>
+                <text>At age 44 years, her head circumference is 57 cm (+2 SD), height is 160 cm, and weight is 110 kg.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

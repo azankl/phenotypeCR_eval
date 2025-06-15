@@ -1,0 +1,84 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Our female proband was born at 38 weeks of gestation to healthy non consanguineous Chinese parents.</text>
+            </sentence>
+            <sentence>
+                <offset>100</offset>
+                <text>IUGR was evidenced during the third trimester.</text>
+            </sentence>
+            <sentence>
+                <offset>147</offset>
+                <text>Her birthweight was 1,940 g (&lt;3rd centile), length was 43 cm (&lt;5th centile), and cranial circumference (OFC) was 31 cm (&lt;5th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>282</offset>
+                <text>She was admitted to a tertiary care center for the first step of a surgical correction of a bilateral cleft lip/palate at the age of 4 months.</text>
+            </sentence>
+            <sentence>
+                <offset>428</offset>
+                <text>At clinical evaluation (7 months) she showed a weight of 5,680 g (−2.6 SD), a length of 61.5 cm (−2.6 SD), and an OFC of 43.5 cm (+ 0.3 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>569</offset>
+                <text>Facial dysmorphism included blepharophimosis, blepharoptosis, epicanthus inversus, telecanthus, and a bilateral cleft lip and palate (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>712</offset>
+                <text>The anterior fontanel was extremely large (Fig. 2).</text>
+            </sentence>
+            <sentence>
+                <offset>764</offset>
+                <text>She also showed low-set ears, two accessory nipples, a tuberous angioma on the thorax, and a peculiar supra-umbilical depression of about 1 × 2 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>912</offset>
+                <text>Hands were small, with a bilaterally short fifth finger, and feet were broad.</text>
+            </sentence>
+            <sentence>
+                <offset>990</offset>
+                <text>A severe axial hypotonia was also scored.</text>
+            </sentence>
+            <sentence>
+                <offset>1032</offset>
+                <text>At 19 months, she could walk alone, and needed nocturnal gavage feeding.</text>
+            </sentence>
+            <sentence>
+                <offset>1105</offset>
+                <text>At the last clinical assessment, 2 and 10/12 years, weight was 9,100 g (−2.9 SD), height 81.5 cm (−2.7 SD), and OFC 47.7 cm (−0.6 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>1240</offset>
+                <text>Facial dysmorphism included an extremely large anterior fontanelle (9 × 4 cm), eyelid triad with telecanthus, unilateral ptosis, low-set ears, and micrognathia (Fig. 3).</text>
+            </sentence>
+            <sentence>
+                <offset>1410</offset>
+                <text>The median, supra-umbilical depression was of about 2 × 4 cm (Fig. 4).</text>
+            </sentence>
+            <sentence>
+                <offset>1481</offset>
+                <text>Her psychomotor development was mildly retarded, except for language that was completely absent.</text>
+            </sentence>
+            <sentence>
+                <offset>1578</offset>
+                <text>Audiometric evaluation disclosed a moderate, bilateral conductive loss.</text>
+            </sentence>
+            <sentence>
+                <offset>1650</offset>
+                <text>Results of routine biochemical investigations, high-resolution karyotype (600 bands), metaphasic FISH analysis for 22q11 deletion, Wolff-Hirschhorn critical region, subtelomeric rearrangements (ToTelVysion® kit, Abbott, Downers Grove), serum transferrin isoelectric focusing, cranial ultrasonography, and radiological skeletal studies were otherwise normal.</text>
+            </sentence>
+            <sentence>
+                <offset>2008</offset>
+                <text>Brain CT scan, echocardiography, abdominal ultrasound scan, FISH analysis of chromosomal regions were normal.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

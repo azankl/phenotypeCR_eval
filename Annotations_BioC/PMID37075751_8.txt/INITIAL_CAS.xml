@@ -1,0 +1,84 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 8 is a 2-year-old boy (now deceased) who was born at 37 weeks gestation to his parents.</text>
+            </sentence>
+            <sentence>
+                <offset>99</offset>
+                <text>Prenatally, polyhydramnios was present, as well as concern for micrognathia and craniosynostosis.</text>
+            </sentence>
+            <sentence>
+                <offset>197</offset>
+                <text>At birth, he was noted to have craniofacial anomalies including partial acalvaria, marked hypertelorism and telecanthus, ablepharon with bilateral upper eyelid colobomas, low-set anteriorly placed ears with thickened helices and left ear pit, and retrognathia.</text>
+            </sentence>
+            <sentence>
+                <offset>458</offset>
+                <text>He had a broad nasal bridge, short columella and large, anteverted nares.</text>
+            </sentence>
+            <sentence>
+                <offset>532</offset>
+                <text>He had sparse eyelashes and arched eyebrows with short, neutral palpebral fissures.</text>
+            </sentence>
+            <sentence>
+                <offset>616</offset>
+                <text>His second toe overlapped third toe on the right, and his left fourth toe was displaced inferiorly with third and fifth toes overlapping it.</text>
+            </sentence>
+            <sentence>
+                <offset>757</offset>
+                <text>Additionally, he had bilateral cryptorchidism, an atrial septal defect, and right-sided hydronephrosis.</text>
+            </sentence>
+            <sentence>
+                <offset>861</offset>
+                <text>Brain MRI at six days of life demonstrated right parietal ischemia and posterior fossa subdural hemorrhage.</text>
+            </sentence>
+            <sentence>
+                <offset>969</offset>
+                <text>Head CT at 3 days of life revealed almost completely absent ossified calvarium above the posterior fossa (Figure S1-B).</text>
+            </sentence>
+            <sentence>
+                <offset>1089</offset>
+                <text>At four weeks of age, he began having seizures, requiring multiple antiepileptic drugs.</text>
+            </sentence>
+            <sentence>
+                <offset>1177</offset>
+                <text>He also had significant neuro-irritability.</text>
+            </sentence>
+            <sentence>
+                <offset>1221</offset>
+                <text>Clinical trio exome sequencing (Children’s Mercy Hospital, MO) identified a de novo missense variant in POLR1A c.1488G&gt;T; p.</text>
+            </sentence>
+            <sentence>
+                <offset>1345</offset>
+                <text>(Met496Ile).</text>
+            </sentence>
+            <sentence>
+                <offset>1358</offset>
+                <text>At age 2 years, his development globally delayed.</text>
+            </sentence>
+            <sentence>
+                <offset>1408</offset>
+                <text>He was able to make sounds, laugh, roll over, sit with support, enjoy tastes by mouth, and bring items to midline and pass between his hands.</text>
+            </sentence>
+            <sentence>
+                <offset>1550</offset>
+                <text>Growth parameters at this time were a head circumference of 55.5cm (-2.31 SD), length of 82 cm (-2.21 SD), and weight of 9.6kg (-3.15 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>1689</offset>
+                <text>Subsequent head CT scans showed mild progression of skull ossification (Figure S1-C).</text>
+            </sentence>
+            <sentence>
+                <offset>1775</offset>
+                <text>He passed away at 33 months of age in his sleep</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

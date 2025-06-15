@@ -1,0 +1,154 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 1A
+
+She was born at term and she had bilateral severe vesicoureteral reflux causing antenatally diagnosed hydronephrosis, which required bilateral reimplantation.</text>
+            </sentence>
+            <sentence>
+                <offset>174</offset>
+                <text>She has asthma, partial conductive hearing loss, hypernasal speech, radial head dislocation, scoliosis and vertebral anomalies.</text>
+            </sentence>
+            <sentence>
+                <offset>302</offset>
+                <text>She has chronic intermittent right hip pain, with decreased range of motion.</text>
+            </sentence>
+            <sentence>
+                <offset>379</offset>
+                <text>She has joint stiffness especially in the morning, treated with ibuprofen.</text>
+            </sentence>
+            <sentence>
+                <offset>454</offset>
+                <text>She has recurrent gingival infections.</text>
+            </sentence>
+            <sentence>
+                <offset>493</offset>
+                <text>She has a past medical history of bronchitis, mastitis, and a Bartholin cyst.</text>
+            </sentence>
+            <sentence>
+                <offset>571</offset>
+                <text>She has a normal intelligence.</text>
+            </sentence>
+            <sentence>
+                <offset>602</offset>
+                <text>She enjoys cycling, talking walks and painting.</text>
+            </sentence>
+            <sentence>
+                <offset>650</offset>
+                <text>She works as a babysitter and in a shop.</text>
+            </sentence>
+            <sentence>
+                <offset>692</offset>
+                <text>Examination: Height 112 cm (-8 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>728</offset>
+                <text>Weight 24 kg (-5 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>750</offset>
+                <text>Head circumference 50.6 cm (-3.5 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>788</offset>
+                <text>Hands 12 cm (-6 SD), feet 13 cm (-8 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>829</offset>
+                <text>Face is long and narrow.</text>
+            </sentence>
+            <sentence>
+                <offset>854</offset>
+                <text>She has proptosis with slightly upslanting palpebral fissures and full eyebrows.</text>
+            </sentence>
+            <sentence>
+                <offset>935</offset>
+                <text>Zygomatic hypoplasia.</text>
+            </sentence>
+            <sentence>
+                <offset>957</offset>
+                <text>Prominent alveolar processes of the maxilla and mandibule.</text>
+            </sentence>
+            <sentence>
+                <offset>1016</offset>
+                <text>Facial features are somewhat coarse.</text>
+            </sentence>
+            <sentence>
+                <offset>1053</offset>
+                <text>The speech is hypernasal.</text>
+            </sentence>
+            <sentence>
+                <offset>1079</offset>
+                <text>The ears are low-set and small.</text>
+            </sentence>
+            <sentence>
+                <offset>1111</offset>
+                <text>Dolicocephaly.</text>
+            </sentence>
+            <sentence>
+                <offset>1126</offset>
+                <text>Limited elbow extension (150 degrees).</text>
+            </sentence>
+            <sentence>
+                <offset>1165</offset>
+                <text>Limited hip abduction.</text>
+            </sentence>
+            <sentence>
+                <offset>1188</offset>
+                <text>Joint hypermobility wrists and fingers.</text>
+            </sentence>
+            <sentence>
+                <offset>1228</offset>
+                <text>On the right, she has only one phalanx on the thumb; she has clinodactyly with ulnar deviation of the 2nd and 3rd fingers at the level of the PIP, she has a short 5th finger with clinodactyly (radial deviation).</text>
+            </sentence>
+            <sentence>
+                <offset>1440</offset>
+                <text>On the left hand, she has clinodactyly with ulnar deviation of the 3rd finger at the level of the PIP and she has a short 5th finger with clinodactyly (radial deviation).</text>
+            </sentence>
+            <sentence>
+                <offset>1611</offset>
+                <text>She has pes planus with prominent heels.</text>
+            </sentence>
+            <sentence>
+                <offset>1652</offset>
+                <text>She has large 2nd toes, and syndactyly of the 2nd and 3rd toes on the right, and 4th and 5th toes on the left.</text>
+            </sentence>
+            <sentence>
+                <offset>1764</offset>
+                <text>Radiology: Decreased tubulation of long bones with decreased medullary space.</text>
+            </sentence>
+            <sentence>
+                <offset>1842</offset>
+                <text>Hypoplastic femoral heads.Bilateral radioulnar subluxation.</text>
+            </sentence>
+            <sentence>
+                <offset>1902</offset>
+                <text>Dextroconvex lumbar scoliosis.</text>
+            </sentence>
+            <sentence>
+                <offset>1933</offset>
+                <text>Increased height of the vertebrae, with decreased anterior-posterior diameter.</text>
+            </sentence>
+            <sentence>
+                <offset>2012</offset>
+                <text>Narrow metacarpal bones.</text>
+            </sentence>
+            <sentence>
+                <offset>2037</offset>
+                <text>Bone mineral density at the lower limit of normal, no fractures.</text>
+            </sentence>
+            <sentence>
+                <offset>2103</offset>
+                <text>There were no hematological anomalies.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

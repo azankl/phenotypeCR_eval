@@ -1,0 +1,84 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿A 7-month-old female baby and her mother visited the surgical outpatient clinic of Kilimanjaro Christian Medical Center in Moshi, Tanzania.</text>
+            </sentence>
+            <sentence>
+                <offset>141</offset>
+                <text>This is a referral hospital in Northern Tanzania.</text>
+            </sentence>
+            <sentence>
+                <offset>191</offset>
+                <text>She reported that her child was born with an abnormal head size and shape with abnormal fingers and toes, but otherwise developing well.</text>
+            </sentence>
+            <sentence>
+                <offset>328</offset>
+                <text>It is the firstborn child to the parents, born at term by an uncomplicated vaginal delivery and with a birth weight of 4,000 g (above 90th percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>480</offset>
+                <text>The mother had an uneventful pregnancy, but reported a miscarriage 2 years earlier at 10-weeks of gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>590</offset>
+                <text>On examination, the child was 10.5 kg (97th percentile) with a length of 69 cm (47th percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>688</offset>
+                <text>Weight for length was above 98th percentile (indicating obesity).</text>
+            </sentence>
+            <sentence>
+                <offset>754</offset>
+                <text>She was able to sit without support, crawled, responded to visual, and acoustic stimuli, recognized her parents and did not like to be held by others.</text>
+            </sentence>
+            <sentence>
+                <offset>905</offset>
+                <text>She followed objects, grabbed, and held them with her hands.</text>
+            </sentence>
+            <sentence>
+                <offset>966</offset>
+                <text>Examination of the head showed an asymmetric skull with cloverleaf shape, metopic ridge and temporal bulging, arched eyebrows, telecanthus, epicanthal folds, down slanting palpebral fissures, and anteverted nares (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>1191</offset>
+                <text>Upon abdominal examination, there was a reducible umbilical hernia of 2 cm in diameter (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>1290</offset>
+                <text>The external female genitalia were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>1333</offset>
+                <text>Musculoskeletal examination of the limbs showed broad thumbs with brachydactyly, syndactyly, and polydactyly.</text>
+            </sentence>
+            <sentence>
+                <offset>1443</offset>
+                <text>The feet showed broad halluces and bilateral talipes equinovarus (Figure 1).A plain chest X-ray was essentially normal with clear lung fields and normal appearing cardiac shadow.</text>
+            </sentence>
+            <sentence>
+                <offset>1622</offset>
+                <text>Cardiac and abdominal–pelvic ultrasonography studies showed no abnormalities.</text>
+            </sentence>
+            <sentence>
+                <offset>1700</offset>
+                <text>Plain X-ray of hands and feet revealed postaxial polydactyly (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>1773</offset>
+                <text>Head CT-scan showed hydrocephalus with dilated lateral and third ventricles with posterior fossa crowding and craniosynostosis.</text>
+            </sentence>
+            <sentence>
+                <offset>1901</offset>
+                <text>Three-dimensional (3D) virtual-reconstruction images showed the cloverleaf shaped skull bone configuration (Figure 1).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

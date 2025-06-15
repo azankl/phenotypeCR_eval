@@ -1,0 +1,234 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The proband (II-1), a 6-month-old female infant, was referred for evaluation of swelling and deformity in both legs and forearms noted since the age of 3 months.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="8" offset="80"/>
+                    <text>swelling</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="8" offset="80"/>
+                    <text>swelling</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="93"/>
+                    <text>deformity</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="93"/>
+                    <text>deformity</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="111"/>
+                    <text>legs</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="111"/>
+                    <text>legs</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="120"/>
+                    <text>forearms</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="120"/>
+                    <text>forearms</text>
+                </annotation>
+                <relation id="3">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="4" role="source"/>
+                    <node refid="2" role="target"/>
+                </relation>
+                <relation id="5">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="6" role="source"/>
+                    <node refid="1" role="target"/>
+                </relation>
+                <relation id="9">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0040069</infon>
+                    <node refid="10" role="source"/>
+                    <node refid="7" role="target"/>
+                </relation>
+                <relation id="11">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0040070</infon>
+                    <node refid="12" role="source"/>
+                    <node refid="8" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>162</offset>
+                <text>The antenatal, perinatal, and neonatal periods had been uneventful, and all developmental milestones had been attained normally.</text>
+            </sentence>
+            <sentence>
+                <offset>291</offset>
+                <text>Her parents stated that they had no history of leg swelling during infancy or childhood.</text>
+            </sentence>
+            <sentence>
+                <offset>380</offset>
+                <text>Radiographs of the bones revealed cortical bone thickening of both femora, tibiae, radii, ulnae, and swelling of the surrounding soft tissues (Table 1, Fig. 1).</text>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="24" offset="34"/>
+                    <text>cortical bone thickening</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="24" offset="34"/>
+                    <text>cortical bone thickening</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="24" offset="34"/>
+                    <text>cortical bone thickening</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="24" offset="34"/>
+                    <text>cortical bone thickening</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="67"/>
+                    <text>femora</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="75"/>
+                    <text>tibiae</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="83"/>
+                    <text>radii</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="90"/>
+                    <text>ulnae</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="8" offset="101"/>
+                    <text>swelling</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="129"/>
+                    <text>soft tissues</text>
+                </annotation>
+                <relation id="17">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="18" role="source"/>
+                    <node refid="13" role="target"/>
+                </relation>
+                <relation id="19">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="20" role="source"/>
+                    <node refid="16" role="target"/>
+                </relation>
+                <relation id="21">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="22" role="source"/>
+                    <node refid="15" role="target"/>
+                </relation>
+                <relation id="23">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="24" role="source"/>
+                    <node refid="14" role="target"/>
+                </relation>
+                <relation id="26">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="27" role="source"/>
+                    <node refid="25" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>541</offset>
+                <text>The diagnosis of Caffey disease was made on the basis of symptoms, signs, and radiographic findings; periodic examination was continued without medication.</text>
+            </sentence>
+            <sentence>
+                <offset>697</offset>
+                <text>The swelling resolved spontaneously at the age of 1 year and 6 months.</text>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term requested</infon>
+                    <location length="8" offset="4"/>
+                    <text>swelling</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>768</offset>
+                <text>Serial radiographs revealed periosteal thickening and widening of the long bones over 3 years (Fig. 1).</text>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="21" offset="28"/>
+                    <text>periosteal thickening</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005622</infon>
+                    <location length="26" offset="54"/>
+                    <text>widening of the long bones</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="70"/>
+                    <text>long bones</text>
+                </annotation>
+                <relation id="30">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006465</infon>
+                    <node refid="31" role="source"/>
+                    <node refid="29" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>872</offset>
+                <text>She developed recurrence at the age of 11 years, which resolved again spontaneously.</text>
+            </sentence>
+            <sentence>
+                <offset>957</offset>
+                <text>She is now 12 years old with no medical problems except for mild deformity of her legs.</text>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0040069</infon>
+                    <location length="21" offset="65"/>
+                    <text>deformity of her legs</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1045</offset>
+                <text>She has had no features of osteogenesis imperfecta such as bone fracture, ligamentous and joint laxity, blue sclerae, deafness, and dentinogenesis imperfecta.</text>
+            </sentence>
+            <sentence>
+                <offset>1204</offset>
+                <text>The growth parameters were appropriate for her age; height 148 cm (−0.3 SD) and body weight 39.2 kg (−0.4 SD).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

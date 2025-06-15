@@ -1,0 +1,280 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 10, previously reported in a cohort of congenital limb deficiency (da Rocha et al., 2021)2 is a 7- year-old female born at 39 weeks gestation to healthy, non-consanguineous parents.</text>
+            </sentence>
+            <sentence>
+                <offset>193</offset>
+                <text>Birth parameters were within normal range (weight 3.38 kg, 50th centile; length 47 cm, 10th centile; HC 35 cm, 75th centile, WHO growth chart).</text>
+            </sentence>
+            <sentence>
+                <offset>337</offset>
+                <text>Fetal upper limb defects were diagnosed during the pregnancy and prenatal karyotype was normal female.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002817</infon>
+                    <location length="18" offset="6"/>
+                    <text>upper limb defects</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>440</offset>
+                <text>At birth she was noted to have a posterior cleft palate, micrognathia, radial dysplasia, and club feet.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <location length="12" offset="43"/>
+                    <text>cleft palate</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000347</infon>
+                    <location length="12" offset="57"/>
+                    <text>micrognathia</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006433</infon>
+                    <location length="16" offset="71"/>
+                    <text>radial dysplasia</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001762</infon>
+                    <location length="9" offset="93"/>
+                    <text>club feet</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>544</offset>
+                <text>Physical examination at 9 months of age disclosed a weight of 7.5 kg (10th-25th centiles), length of 68 cm (25th centile), HC of 45 cm (50th centile), facial dysmorphisms (epicanthus, left palpebral ptosis, short nose, hypoplastic alae nasi, long philtrum, retro-micrognathia, posterior cleft palate); short and bowed forearms, with right preaxial polydactyly, adducted left thumb and 5th finger clinodactyly; mild clubbing of the feet.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001999</infon>
+                    <location length="19" offset="151"/>
+                    <text>facial dysmorphisms</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000286</infon>
+                    <location length="10" offset="172"/>
+                    <text>epicanthus</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000508</infon>
+                    <location length="16" offset="189"/>
+                    <text>palpebral ptosis</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003196</infon>
+                    <location length="10" offset="207"/>
+                    <text>short nose</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000430</infon>
+                    <location length="21" offset="219"/>
+                    <text>hypoplastic alae nasi</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000343</infon>
+                    <location length="13" offset="242"/>
+                    <text>long philtrum</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000308</infon>
+                    <location length="18" offset="257"/>
+                    <text>retro-micrognathia</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <location length="12" offset="287"/>
+                    <text>cleft palate</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="302"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003956</infon>
+                    <location length="14" offset="312"/>
+                    <text>bowed forearms</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="318"/>
+                    <text>forearms</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100258</infon>
+                    <location length="20" offset="339"/>
+                    <text>preaxial polydactyly</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001181</infon>
+                    <location length="19" offset="361"/>
+                    <text>adducted left thumb</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004209</infon>
+                    <location length="23" offset="385"/>
+                    <text>5th finger clinodactyly</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="415"/>
+                    <text>clubbing</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="431"/>
+                    <text>feet</text>
+                </annotation>
+                <relation id="15">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005773</infon>
+                    <node refid="16" role="source"/>
+                    <node refid="14" role="target"/>
+                </relation>
+                <relation id="22">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001762</infon>
+                    <node refid="23" role="source"/>
+                    <node refid="21" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>981</offset>
+                <text>X-rays demonstrate duplication of the right thumb with bifid distal phalanx, short medial phalanx of the 5th fingers, radial hemimelia, as well as triphalangeal halluces.</text>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="19"/>
+                    <text>duplication</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="44"/>
+                    <text>thumb</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="44"/>
+                    <text>thumb</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="20" offset="55"/>
+                    <text>bifid distal phalanx</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="20" offset="77"/>
+                    <text>short medial phalanx</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="105"/>
+                    <text>5th fingers</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006501</infon>
+                    <location length="16" offset="118"/>
+                    <text>radial hemimelia</text>
+                </annotation>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0032612</infon>
+                    <location length="22" offset="147"/>
+                    <text>triphalangeal halluces</text>
+                </annotation>
+                <relation id="25">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009942</infon>
+                    <node refid="26" role="source"/>
+                    <node refid="24" role="target"/>
+                </relation>
+                <relation id="28">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009611</infon>
+                    <node refid="29" role="source"/>
+                    <node refid="27" role="target"/>
+                </relation>
+                <relation id="31">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009803</infon>
+                    <node refid="32" role="source"/>
+                    <node refid="30" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1152</offset>
+                <text>She had a normal abdominal ultrasound, echocardiogram, and cranial computed tomography (CT) scan.</text>
+            </sentence>
+            <sentence>
+                <offset>1250</offset>
+                <text>Surgical procedures were performed to correct the cleft palate, as well as strabismus.</text>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <location length="12" offset="50"/>
+                    <text>cleft palate</text>
+                </annotation>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000486</infon>
+                    <location length="10" offset="75"/>
+                    <text>strabismus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1337</offset>
+                <text>She evolved with normal growth and development but presenting language impairment.</text>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002463</infon>
+                    <location length="20" offset="62"/>
+                    <text>language impairment.</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1420</offset>
+                <text>Genetic tests disclosed normal chromosomal microarray and normal number of repeats in 5´UTR of EIF4A3 (for Richieri-Costa-Pereira syndrome).</text>
+            </sentence>
+            <sentence>
+                <offset>1561</offset>
+                <text>Exome sequencing disclosed a heterozygous, frameshift variant in POLR1A, c.3649delC; p.</text>
+            </sentence>
+            <sentence>
+                <offset>1648</offset>
+                <text>(Gln1217Argfs*10), previously reported (Weaver et al., 2015)3 , and classified as pathogenic.</text>
+            </sentence>
+            <sentence>
+                <offset>1742</offset>
+                <text>Segregation analysis of this variant in the parents by Sanger sequencing showed its presence in her apparently unaffected father.</text>
+            </sentence>
+            <sentence>
+                <offset>1872</offset>
+                <text>Review of confirmatory Sanger chromatogram demonstrated no evidence for paternal mosaicism, with equal-sized peaks in father and proband</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

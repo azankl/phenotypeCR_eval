@@ -1,0 +1,86 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>He was born after a pregnancy complicated by lack of prenatatal care by normal spontaneous&#13;
+delivery at 40 weeks gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>124</offset>
+                <text>He is the second child born to nonconsanguineous parents of&#13;
+Turkish descent and has two healthy female siblings.</text>
+            </sentence>
+            <sentence>
+                <offset>238</offset>
+                <text>He was hospitalized for 20 days during the&#13;
+newborn period due to facial dysmorphic features, micropenis, vesicourethral reflux (VUR) and&#13;
+medullar nephrocalcinosis.</text>
+            </sentence>
+            <sentence>
+                <offset>404</offset>
+                <text>At the age of 6.5 months, at his initial examination at the genetics&#13;
+outpatient clinics, he showed OFC 48 cm (98%), a large anterior fontanel (7x7 cm) and facial&#13;
+dysmorphisms as displayed in table 1.</text>
+            </sentence>
+            <sentence>
+                <offset>606</offset>
+                <text>As increased skull bone density was noted in two other&#13;
+individuals with a DVL1 mutation, bone density in this individual was subsequently assessed by&#13;
+DEXA scan and showed increased general bone density.</text>
+            </sentence>
+            <sentence>
+                <offset>811</offset>
+                <text>He had umbilical hernia, crytorchidism,&#13;
+micropenis (1.5 cm) and glandular hypospadias.</text>
+            </sentence>
+            <sentence>
+                <offset>899</offset>
+                <text>He experienced recurrent urinary system&#13;
+infections and a radionuclide scan showed scar lesions bilaterally, a large right kidney and small&#13;
+left kidney with reduced function.</text>
+            </sentence>
+            <sentence>
+                <offset>1075</offset>
+                <text>He had surgery for cryptorchidism (3 times), umbilical hernia&#13;
+and VUR.</text>
+            </sentence>
+            <sentence>
+                <offset>1147</offset>
+                <text>After the VUR operation, enuresis regressed, urinary system infections disappeared&#13;
+and hydronephrosis improved.</text>
+            </sentence>
+            <sentence>
+                <offset>1260</offset>
+                <text>He experienced two seizures at the age of 15 years.</text>
+            </sentence>
+            <sentence>
+                <offset>1312</offset>
+                <text>He is treated&#13;
+with Depakine (500 mg/day) and remains seizure-free.</text>
+            </sentence>
+            <sentence>
+                <offset>1380</offset>
+                <text>At 15 years and 6 months he had a height&#13;
+of 178.5 cm (80%) and an OFC of 63.5 cm (+4.2SD).</text>
+            </sentence>
+            <sentence>
+                <offset>1472</offset>
+                <text>He showed a normal neurodevelopment&#13;
+and was a very social adolescent with intellectual performance at upper limits (not tested)&#13;
+attending high school with good grades.</text>
+            </sentence>
+            <sentence>
+                <offset>1642</offset>
+                <text>He was diagnosed as AD Robinow initially, ROR2 and&#13;
+also WNT5 mutation testing had been negative.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

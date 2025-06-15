@@ -1,0 +1,494 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>2</offset>
+                <text>The subject was a male baby who was born after a full-term pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>72</offset>
+                <text>His mother and father were 31 and 34 years of age, respectively, at the time of his birth.</text>
+            </sentence>
+            <sentence>
+                <offset>163</offset>
+                <text>The parents were not consanguineous.</text>
+            </sentence>
+            <sentence>
+                <offset>200</offset>
+                <text>The family history was not contributory.</text>
+            </sentence>
+            <sentence>
+                <offset>241</offset>
+                <text>There was no maternal illness or drug usage during pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>303</offset>
+                <text>The pregnancy was uneventful until week 25 of gestation, when a cloverleaf skull was diagnosed by prenatal ultrasonography.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002676</infon>
+                    <location length="16" offset="64"/>
+                    <text>cloverleaf skull</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>427</offset>
+                <text>The infant weighed 2980 g and was 47 cm long at birth.</text>
+            </sentence>
+            <sentence>
+                <offset>482</offset>
+                <text>Clinical examination showed a cloverleaf skull caused by premature closure of multiple cranial sutures.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002676</infon>
+                    <location length="16" offset="30"/>
+                    <text>cloverleaf skull</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="57"/>
+                    <text>premature closure</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="87"/>
+                    <text>cranial sutures</text>
+                </annotation>
+                <relation id="4">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001363</infon>
+                    <node refid="5" role="source"/>
+                    <node refid="3" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>586</offset>
+                <text>The skin overlying the scalp, face, ears, upper lips and limbs was markedly corrugated (Fig. 1a).</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="4"/>
+                    <text>skin</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="23"/>
+                    <text>scalp</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="76"/>
+                    <text>corrugated</text>
+                </annotation>
+                <relation id="7">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="8" role="source"/>
+                    <node refid="6" role="target"/>
+                </relation>
+                <relation id="10">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010541</infon>
+                    <node refid="8" role="source"/>
+                    <node refid="9" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>684</offset>
+                <text>These deep furrows were vertically arranged.</text>
+            </sentence>
+            <sentence>
+                <offset>729</offset>
+                <text>The mid-facial region was hypoplastic with a small nose and depressed nasal bridge.</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="4"/>
+                    <text>mid-facial</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="26"/>
+                    <text>hypoplastic</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003196</infon>
+                    <location length="10" offset="45"/>
+                    <text>small nose</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005280</infon>
+                    <location length="22" offset="60"/>
+                    <text>depressed nasal bridge</text>
+                </annotation>
+                <relation id="13">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011800</infon>
+                    <node refid="11" role="source"/>
+                    <node refid="12" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>813</offset>
+                <text>There was choanal stenosis that resulted in breathing difficulty.</text>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000452</infon>
+                    <location length="16" offset="10"/>
+                    <text>choanal stenosis</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002094</infon>
+                    <location length="20" offset="44"/>
+                    <text>breathing difficulty</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>879</offset>
+                <text>The subject's eyes were proptotic.</text>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000520</infon>
+                    <location length="9" offset="24"/>
+                    <text>proptotic</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>914</offset>
+                <text>Hypertelorism, downslanting palpebral fissures were also present.</text>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="0"/>
+                    <text>Hypertelorism</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000494</infon>
+                    <location length="31" offset="15"/>
+                    <text>downslanting palpebral fissures</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>980</offset>
+                <text>The subject's ears were low set and malformed with deep vertical furrows in the pre-auricular area (Fig. 1b).</text>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="14"/>
+                    <text>ears</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="14"/>
+                    <text>ears</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="24"/>
+                    <text>low set</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="36"/>
+                    <text>malformed</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="65"/>
+                    <text>furrows</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="80"/>
+                    <text>pre-auricular</text>
+                </annotation>
+                <relation id="24">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000369</infon>
+                    <node refid="21" role="source"/>
+                    <node refid="23" role="target"/>
+                </relation>
+                <relation id="26">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031703</infon>
+                    <node refid="22" role="source"/>
+                    <node refid="25" role="target"/>
+                </relation>
+                <relation id="28">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004450</infon>
+                    <node refid="29" role="source"/>
+                    <node refid="27" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1090</offset>
+                <text>The oral cavity was small with a high, arched cleft palate.</text>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="4"/>
+                    <text>oral cavity</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="20"/>
+                    <text>small</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="33"/>
+                    <text>high</text>
+                </annotation>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000175</infon>
+                    <location length="12" offset="46"/>
+                    <text>cleft palate</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="52"/>
+                    <text>palate</text>
+                </annotation>
+                <relation id="32">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000160</infon>
+                    <node refid="30" role="source"/>
+                    <node refid="31" role="target"/>
+                </relation>
+                <relation id="34">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000218</infon>
+                    <node refid="35" role="source"/>
+                    <node refid="33" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1150</offset>
+                <text>The umbilical stump was large and protruded (Fig. 1c).</text>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="4"/>
+                    <text>umbilical stump</text>
+                </annotation>
+                <annotation id="38">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="15" offset="4"/>
+                    <text>umbilical stump</text>
+                </annotation>
+                <annotation id="39">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="24"/>
+                    <text>large</text>
+                </annotation>
+                <annotation id="41">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="34"/>
+                    <text>protruded</text>
+                </annotation>
+                <relation id="40">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001544</infon>
+                    <node refid="37" role="source"/>
+                    <node refid="39" role="target"/>
+                </relation>
+                <relation id="42">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001544</infon>
+                    <node refid="38" role="source"/>
+                    <node refid="41" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1205</offset>
+                <text>The corrugations were also present on the palms, soles and scrotal area (Fig. 1d).</text>
+                <annotation id="43">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="4"/>
+                    <text>corrugations</text>
+                </annotation>
+                <annotation id="46">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="4"/>
+                    <text>corrugations</text>
+                </annotation>
+                <annotation id="47">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="4"/>
+                    <text>corrugations</text>
+                </annotation>
+                <annotation id="49">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="42"/>
+                    <text>palms</text>
+                </annotation>
+                <annotation id="51">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="49"/>
+                    <text>soles</text>
+                </annotation>
+                <annotation id="45">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="59"/>
+                    <text>scrotal area</text>
+                </annotation>
+                <relation id="44">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012856</infon>
+                    <node refid="45" role="source"/>
+                    <node refid="43" role="target"/>
+                </relation>
+                <relation id="48">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007469</infon>
+                    <node refid="49" role="source"/>
+                    <node refid="47" role="target"/>
+                </relation>
+                <relation id="50">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0007469</infon>
+                    <node refid="51" role="source"/>
+                    <node refid="46" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1288</offset>
+                <text>Neither acanthosis nigricans nor chiari malformation were noticed.</text>
+            </sentence>
+            <sentence>
+                <offset>1355</offset>
+                <text>Chromosomal analysis using the Giema-banding technique showed a normal 46,XY karyotype.</text>
+            </sentence>
+            <sentence>
+                <offset>1446</offset>
+                <text>On admission to the present authors' neonatal intensive care unit (NICU), an oropharyngeal tube was put in place to facilitate breathing.</text>
+            </sentence>
+            <sentence>
+                <offset>1584</offset>
+                <text>Nasogastric tube feeding was required because of poor sucking and easy choking.</text>
+                <annotation id="52">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002033</infon>
+                    <location length="12" offset="49"/>
+                    <text>poor sucking</text>
+                </annotation>
+                <annotation id="53">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030842</infon>
+                    <location length="12" offset="66"/>
+                    <text>easy choking</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1664</offset>
+                <text>There were also clear fluid discharges from the subject's nose.</text>
+                <annotation id="54">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="28"/>
+                    <text>discharges</text>
+                </annotation>
+                <annotation id="56">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="58"/>
+                    <text>nose</text>
+                </annotation>
+                <relation id="55">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0031417</infon>
+                    <node refid="56" role="source"/>
+                    <node refid="54" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1728</offset>
+                <text>Cerebrospinal fluid (CSF) rhinorrhea was suspected.</text>
+                <annotation id="57">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="19" offset="0"/>
+                    <text>Cerebrospinal fluid</text>
+                </annotation>
+                <annotation id="59">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="26"/>
+                    <text>rhinorrhea</text>
+                </annotation>
+                <relation id="58">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030998</infon>
+                    <node refid="59" role="source"/>
+                    <node refid="57" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1780</offset>
+                <text>A bifrontal suture craniectomy was performed, and the naso-ethmoid encephalocele was repaired by the anterior approach to prevent downward sliding of the encephalocele and CSF leakage.</text>
+                <annotation id="60">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002084</infon>
+                    <location length="13" offset="67"/>
+                    <text>encephalocele</text>
+                </annotation>
+                <annotation id="61">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002084</infon>
+                    <location length="13" offset="154"/>
+                    <text>encephalocele</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1965</offset>
+                <text>A three-dimensional computerized tomography scan of the head done at birth showed no hydrocephalus (Fig. 2a), but markedly dilated ventricles with an obstructive hydrocephalus were revealed by 3 months of age and a V-P shunt was put in place at that time (Fig. 2b).</text>
+                <annotation id="62">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002119</infon>
+                    <location length="18" offset="123"/>
+                    <text>dilated ventricles</text>
+                </annotation>
+                <annotation id="63">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000238</infon>
+                    <location length="13" offset="162"/>
+                    <text>hydrocephalus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2231</offset>
+                <text>At one year of age, acanthosis nigricans was noted at the umbilical stump and inner upper thigh.</text>
+                <annotation id="64">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000956</infon>
+                    <location length="20" offset="20"/>
+                    <text>acanthosis nigricans</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2328</offset>
+                <text>Arnold Chiari type II malformation was also noted at follow-up brain tomography.</text>
+                <annotation id="65">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025660</infon>
+                    <location length="34" offset="0"/>
+                    <text>Arnold Chiari type II malformation</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2409</offset>
+                <text>A transfrontal orbital reconstruction and trans-oral LeFort I osteotomy and cranioplasty was performed.</text>
+            </sentence>
+            <sentence>
+                <offset>2513</offset>
+                <text>This boy is now 3 years of age and can stand with aid.</text>
+            </sentence>
+            <sentence>
+                <offset>2568</offset>
+                <text>The subject's body weight is 12 kg and his height is 91 cm.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

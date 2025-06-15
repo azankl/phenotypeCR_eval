@@ -1,0 +1,404 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A 44-year-old woman who was seeking genetic counseling was referred to the clinic for evaluation of dysmorphic features and short stature.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004322</infon>
+                    <location length="13" offset="124"/>
+                    <text>short stature</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>139</offset>
+                <text>She had been born after an uneventful pregnancy as the third child of first cousin-related parents of Turkish descent.</text>
+            </sentence>
+            <sentence>
+                <offset>258</offset>
+                <text>The remainder of the family history was non-contributory.</text>
+            </sentence>
+            <sentence>
+                <offset>316</offset>
+                <text>She had good verbal communication skills along with normal motor developmental milestones.</text>
+            </sentence>
+            <sentence>
+                <offset>407</offset>
+                <text>A formal psychometric evaluation was not made.</text>
+            </sentence>
+            <sentence>
+                <offset>454</offset>
+                <text>Unfortunately, due to social reasons, her schooling was interrupted at the elementary level.</text>
+            </sentence>
+            <sentence>
+                <offset>547</offset>
+                <text>Audiological assessment revealed bilateral, moderate degree, mixed type hearing loss.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000410</infon>
+                    <location length="23" offset="61"/>
+                    <text>mixed type hearing loss</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>633</offset>
+                <text>She had undergone one reconstructive facial operation and a series of further operations were planned.</text>
+            </sentence>
+            <sentence>
+                <offset>739</offset>
+                <text>On examination, the patient had short-limb short stature, with height of 118 cm (&lt;3rd centile).</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008873</infon>
+                    <location length="24" offset="32"/>
+                    <text>short-limb short stature</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>835</offset>
+                <text>Head circumference was 55.5 cm (0.5 SD) and weight was 17 kg (&lt;3rd centile).</text>
+            </sentence>
+            <sentence>
+                <offset>912</offset>
+                <text>There was frontal bossing, temporal baldness, vertical skin creases of forehead, high arched eyebrows, narrow palpebral fissures with deep set globes, hypertelorism, low-set ears with posterior rotation and dysplasia of conchae, ear lobe and antitragus, preauricular skin tags, narrow auditory canals, a short neck, redundant skin folds at the back, and a low posterior hairline (Fig. 1).</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002007</infon>
+                    <location length="15" offset="10"/>
+                    <text>frontal bossing</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002232</infon>
+                    <location length="17" offset="27"/>
+                    <text>temporal baldness</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011221</infon>
+                    <location length="33" offset="46"/>
+                    <text>vertical skin creases of forehead</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002553</infon>
+                    <location length="20" offset="81"/>
+                    <text>high arched eyebrows</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0045025</infon>
+                    <location length="25" offset="103"/>
+                    <text>narrow palpebral fissures</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000490</infon>
+                    <location length="15" offset="134"/>
+                    <text>deep set globes</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="151"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000369</infon>
+                    <location length="12" offset="166"/>
+                    <text>low-set ears</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="174"/>
+                    <text>ears</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="18" offset="184"/>
+                    <text>posterior rotation</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000377</infon>
+                    <location length="20" offset="207"/>
+                    <text>dysplasia of conchae</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="207"/>
+                    <text>dysplasia</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="207"/>
+                    <text>dysplasia</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="229"/>
+                    <text>ear lobe</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="242"/>
+                    <text>antitragus</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000384</infon>
+                    <location length="22" offset="254"/>
+                    <text>preauricular skin tags</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000402</infon>
+                    <location length="22" offset="278"/>
+                    <text>narrow auditory canals</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000470</infon>
+                    <location length="10" offset="304"/>
+                    <text>short neck</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001582</infon>
+                    <location length="20" offset="316"/>
+                    <text>redundant skin folds</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002162</infon>
+                    <location length="22" offset="356"/>
+                    <text>low posterior hairline</text>
+                </annotation>
+                <relation id="14">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000358</infon>
+                    <node refid="12" role="source"/>
+                    <node refid="13" role="target"/>
+                </relation>
+                <relation id="18">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000363</infon>
+                    <node refid="19" role="source"/>
+                    <node refid="17" role="target"/>
+                </relation>
+                <relation id="20">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009896</infon>
+                    <node refid="21" role="source"/>
+                    <node refid="16" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1301</offset>
+                <text>She also had extreme limitation of movement of both upper and lower extremities including fixed flexion at the elbow joints and bilateral dislocation of the hips with fixed flexion.</text>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002987</infon>
+                    <location length="33" offset="90"/>
+                    <text>fixed flexion at the elbow joints</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002827</infon>
+                    <location length="23" offset="138"/>
+                    <text>dislocation of the hips</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="157"/>
+                    <text>hips</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="13" offset="167"/>
+                    <text>fixed flexion</text>
+                </annotation>
+                <relation id="31">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003273</infon>
+                    <node refid="29" role="source"/>
+                    <node refid="30" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1484</offset>
+                <text>The main radiographic features were hypoplastic scapulae and iliac bones, short humerus and femurs, humeroradial synostosis, and mild brachydactyly (Fig. 2B,C).</text>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000882</infon>
+                    <location length="20" offset="36"/>
+                    <text>hypoplastic scapulae</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="36"/>
+                    <text>hypoplastic</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="61"/>
+                    <text>iliac bones</text>
+                </annotation>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005792</infon>
+                    <location length="13" offset="74"/>
+                    <text>short humerus</text>
+                </annotation>
+                <annotation id="37">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="74"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="39">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="92"/>
+                    <text>femurs</text>
+                </annotation>
+                <annotation id="40">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003041</infon>
+                    <location length="23" offset="100"/>
+                    <text>humeroradial synostosis</text>
+                </annotation>
+                <annotation id="41">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001156</infon>
+                    <location length="13" offset="134"/>
+                    <text>brachydactyly</text>
+                </annotation>
+                <relation id="34">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000946</infon>
+                    <node refid="35" role="source"/>
+                    <node refid="33" role="target"/>
+                </relation>
+                <relation id="38">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003097</infon>
+                    <node refid="39" role="source"/>
+                    <node refid="37" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1645</offset>
+                <text>The neurocranium appeared small, there was thickening of the cranial vault, and the facial bones were more prominent compared to the neurocranium (Fig. 2A).</text>
+                <annotation id="42">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="4"/>
+                    <text>neurocranium</text>
+                </annotation>
+                <annotation id="43">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="26"/>
+                    <text>small</text>
+                </annotation>
+                <annotation id="45">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002684</infon>
+                    <location length="31" offset="43"/>
+                    <text>thickening of the cranial vault</text>
+                </annotation>
+                <annotation id="46">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="84"/>
+                    <text>facial bones</text>
+                </annotation>
+                <annotation id="47">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="9" offset="107"/>
+                    <text>prominent</text>
+                </annotation>
+                <relation id="44">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000252</infon>
+                    <node refid="42" role="source"/>
+                    <node refid="43" role="target"/>
+                </relation>
+                <relation id="48">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004493</infon>
+                    <node refid="46" role="source"/>
+                    <node refid="47" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1802</offset>
+                <text>Cranial computerized tomography demonstrated increased pericerebral spaces, interpreted as mild atrophy of brain and cerebellum.</text>
+                <annotation id="49">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000238</infon>
+                    <location length="29" offset="45"/>
+                    <text>increased pericerebral spaces</text>
+                </annotation>
+                <annotation id="50">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012444</infon>
+                    <location length="16" offset="96"/>
+                    <text>atrophy of brain</text>
+                </annotation>
+                <annotation id="51">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="96"/>
+                    <text>atrophy</text>
+                </annotation>
+                <annotation id="53">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="117"/>
+                    <text>cerebellum</text>
+                </annotation>
+                <relation id="52">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001272</infon>
+                    <node refid="53" role="source"/>
+                    <node refid="51" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1931</offset>
+                <text>Abdominal ultrasonography revealed a hemorrhagic ovarian cyst and arcuate uterus.</text>
+                <annotation id="54">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0012886</infon>
+                    <location length="24" offset="37"/>
+                    <text>hemorrhagic ovarian cyst</text>
+                </annotation>
+                <annotation id="55">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000813</infon>
+                    <location length="14" offset="66"/>
+                    <text>arcuate uterus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2014</offset>
+                <text>Endocrine work-up including serum FSH, LH, 17-OH progesterone, cortisone, DHEA sulphate, testosterone and free testosterone levels were all within normal values.</text>
+            </sentence>
+            <sentence>
+                <offset>2176</offset>
+                <text>Renal function tests, urine analysis, and HbA1C levels were also normal.</text>
+            </sentence>
+            <sentence>
+                <offset>2252</offset>
+                <text>On the basis of characteristic clinical and radiographic features, a diagnosis of Cousin syndrome was suspected.</text>
+            </sentence>
+            <sentence>
+                <offset>2365</offset>
+                <text>With informed consent of the patient, molecular investigations were started</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

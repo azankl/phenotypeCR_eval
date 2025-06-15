@@ -1,0 +1,72 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The proband's father was noted to have hypertelorism and telecanthus with an ICD of 4.5 cm (&gt;97th centile), IPD 6.4 cm (&gt;97th centile) and OCD 10 cm (&gt;97th centile).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="39"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000506</infon>
+                    <location length="11" offset="57"/>
+                    <text>telecanthus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>166</offset>
+                <text>His head circumference was 59.5 cm (+2 SD).</text>
+            </sentence>
+            <sentence>
+                <offset>210</offset>
+                <text>He had a widow's peak and his palpebral fissures were upslanting, but his metopic suture was closed and his nose was not bifid.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000349</infon>
+                    <location length="12" offset="9"/>
+                    <text>widow's peak</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="18" offset="30"/>
+                    <text>palpebral fissures</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="54"/>
+                    <text>upslanting</text>
+                </annotation>
+                <relation id="6">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000582</infon>
+                    <node refid="4" role="source"/>
+                    <node refid="5" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>338</offset>
+                <text>His digits were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>362</offset>
+                <text>His chest showed scars from a surgery to repair a pectus carinatum.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000768</infon>
+                    <location length="16" offset="50"/>
+                    <text>pectus carinatum</text>
+                </annotation>
+            </sentence>
+        </passage>
+    </document>
+</collection>

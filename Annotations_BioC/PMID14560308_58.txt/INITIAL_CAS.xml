@@ -1,0 +1,32 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 58, the proband, was born at term by C-section because of breech presentation with a birth weight of 3.3 kg and length of 46 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>138</offset>
+                <text>No perinatal problems were noted.</text>
+            </sentence>
+            <sentence>
+                <offset>172</offset>
+                <text>The infant was in good condition at birth but he was hypotonic during the following months with mildly delayed developmental milestones (neck holding at 4 months, sitting with support at 8 months, walking at 19 months, first words at 12 months).</text>
+            </sentence>
+            <sentence>
+                <offset>418</offset>
+                <text>At the time of the examination, he presented with short stature (125 cm; 3rd percentile) and mild learning and behavioural disabilities (hyperactivity and attention deficit).</text>
+            </sentence>
+            <sentence>
+                <offset>593</offset>
+                <text>Clinical examination revealed hypertelorism (inner canthal distance 3.5 cm; 97th percentile – outer canthal distance 9.5 cm; 97th percentile), left palpebral ptosis, short nose with anteverted nostrils, long philtrum, posteriorly angulated low-set ears, prominent umbilicus, hyperextensible joints and brachydactyly with cutaneous II–V syndactyly.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

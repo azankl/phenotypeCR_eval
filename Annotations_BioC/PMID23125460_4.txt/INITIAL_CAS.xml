@@ -1,0 +1,68 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Case 4 is a male in his 20s born to Swiss unrelated parents.</text>
+            </sentence>
+            <sentence>
+                <offset>62</offset>
+                <text>The patient was born after 38 weeks of gestation with a weight of 3110 g, a length of 51 cm, and 36 cm HC.</text>
+            </sentence>
+            <sentence>
+                <offset>169</offset>
+                <text>Postnatally, hypotonia, a large fontanel of 4.5×4.5 cm, inguinal hernias, cryptorchidism, minimal postaxial soft tissue polydactyly of the left hand, a high, bulging forehead with a flat nasal root and a broad nose, hypertelorism, bilateral epicanthus, mildly down-slanting palpebral fissures, a short philtrum and narrow auditory canals were noted.</text>
+            </sentence>
+            <sentence>
+                <offset>519</offset>
+                <text>Neither thumbs nor toes were broad or otherwise abnormal.</text>
+            </sentence>
+            <sentence>
+                <offset>577</offset>
+                <text>A cerebral CT scan performed in 1983 was reported to show hypoplasia of the corpus callosum.</text>
+            </sentence>
+            <sentence>
+                <offset>670</offset>
+                <text>Psychomotor development was severely retarded with a walking age of 4 years and expressive speech limited to a few words.</text>
+            </sentence>
+            <sentence>
+                <offset>792</offset>
+                <text>Hypotonia persisted and was probably related to the development of severe scoliosis, which was operated on two times.</text>
+            </sentence>
+            <sentence>
+                <offset>910</offset>
+                <text>At the age of 26 years he still showed hypotonia, kyphoscoliosis, and hypotrophic muscles with a restricted walking distance of 1–2 km.</text>
+            </sentence>
+            <sentence>
+                <offset>1046</offset>
+                <text>It was reported that he sometimes reacted with aggressive behaviour.</text>
+            </sentence>
+            <sentence>
+                <offset>1115</offset>
+                <text>At that time, weight was 55 kg (3–10th centile), length was 160 cm (−2.3 SD; 3rd centile), and HC was 59 cm (75–90th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>1242</offset>
+                <text>He showed significant facial dysmorphism (figure 1D,E) with high broad forehead, long narrow face, short neck, laterally highly arched eyebrows, bilateral epicanthus, telecanthus with inner canthal distance of 4.5 cm (+4.3 SDS) and outer canthal distance of 9 cm (25–50th centile), broad flat nose, short philtrum, asymmetric ears with a right ear length of 7 cm (97th centile) and left ear length of 6 cm (25–50th centile), and retrognathia with a large chin.</text>
+            </sentence>
+            <sentence>
+                <offset>1703</offset>
+                <text>He also showed fetal finger pads and hypoplastic nails of the fingers and toes.</text>
+            </sentence>
+            <sentence>
+                <offset>1783</offset>
+                <text>Metabolic testing, microscopic karyotyping and high resolution molecular karyotyping using an Affymetrix Cytogenetics 2.7 array showed normal results.</text>
+            </sentence>
+            <sentence>
+                <offset>1934</offset>
+                <text>Direct sequencing of KIF7 revealed the same mutations found in case 3 but with different parental origin: the intron 12 acceptor splice mutation c.2593-3C&gt;G is inherited from his mother while the exon 15 nonsense mutation c.3001C&gt;T, p.Gln1001X is inherited from his father.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

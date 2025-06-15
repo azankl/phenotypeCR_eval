@@ -1,0 +1,280 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 1 (a boy) was the first child born to healthy nonconsanguineous Caucasian parents.</text>
+            </sentence>
+            <sentence>
+                <offset>91</offset>
+                <text>After an uneventful pregnancy of 36 + 5 weeks, he was born by vaginal delivery and vacuum extraction.</text>
+            </sentence>
+            <sentence>
+                <offset>193</offset>
+                <text>Birth weight was 2,980 g (±0.5 S.D.).</text>
+            </sentence>
+            <sentence>
+                <offset>231</offset>
+                <text>An Apgar score of 9 was assigned both at 1 and 5 minutes, but in view of increasing respiratory problems and the newborn’s dysmorphic features, he was admitted to the Emma Children’s Hospital/Academic Medical Centre in Amsterdam.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002098</infon>
+                    <location length="20" offset="84"/>
+                    <text>respiratory problems</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>461</offset>
+                <text>Two earlier pregnancies had resulted in miscarriages.</text>
+            </sentence>
+            <sentence>
+                <offset>515</offset>
+                <text>There was no family history of mental retardation or congenital malformations.</text>
+            </sentence>
+            <sentence>
+                <offset>594</offset>
+                <text>During this pregnancy, ultrasound revealed increased nuchal translucency.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010880</infon>
+                    <location length="29" offset="43"/>
+                    <text>increased nuchal translucency</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>668</offset>
+                <text>A chorionic villus biopsy was thus performed at 11 weeks’ gestation; results demonstrated a normal male karyotype.</text>
+            </sentence>
+            <sentence>
+                <offset>786</offset>
+                <text>Physical examination of the newborn revealed a cloverleaf-shaped skull, cutis gyrata on the forehead and skull (overlooked or not yet present at first examination, but later recognized on pictures taken at age 11 days), ocular hypertelorism, ocular proptosis, down-slanted palpebral fissures, low nasal bridge, and midface hypoplasia ( Fig 1 A ).</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002676</infon>
+                    <location length="23" offset="47"/>
+                    <text>cloverleaf-shaped skull</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="72"/>
+                    <text>cutis gyrata</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="105"/>
+                    <text>skull</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="227"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000520</infon>
+                    <location length="9" offset="249"/>
+                    <text>proptosis</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000494</infon>
+                    <location length="31" offset="260"/>
+                    <text>down-slanted palpebral fissures</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005280</infon>
+                    <location length="16" offset="293"/>
+                    <text>low nasal bridge</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011800</infon>
+                    <location length="18" offset="315"/>
+                    <text>midface hypoplasia</text>
+                </annotation>
+                <relation id="5">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010541</infon>
+                    <node refid="6" role="source"/>
+                    <node refid="4" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1133</offset>
+                <text>Patient 1 also had bilateral choanal atresia, a high-arched but intact palate, narrow ear canals, a sacral dimple, hypospadia, and a bifid scrotum.</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000453</infon>
+                    <location length="15" offset="29"/>
+                    <text>choanal atresia</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="48"/>
+                    <text>high-arched</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="71"/>
+                    <text>palate</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000402</infon>
+                    <location length="17" offset="79"/>
+                    <text>narrow ear canals</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000960</infon>
+                    <location length="13" offset="100"/>
+                    <text>sacral dimple</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000047</infon>
+                    <location length="10" offset="115"/>
+                    <text>hypospadia</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000048</infon>
+                    <location length="13" offset="133"/>
+                    <text>bifid scrotum</text>
+                </annotation>
+                <relation id="14">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000218</infon>
+                    <node refid="15" role="source"/>
+                    <node refid="13" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1284</offset>
+                <text>Additional investigations were performed.</text>
+            </sentence>
+            <sentence>
+                <offset>1326</offset>
+                <text>A computed tomographic scan of the head confirmed a bilateral osseous choanal atresia and a craniosynostosis with closure of all sutures except for a proximal part of the coronal suture, the metopic suture, and the distal part of the lambdoid sutures.</text>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000453</infon>
+                    <location length="15" offset="70"/>
+                    <text>choanal atresia</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001363</infon>
+                    <location length="16" offset="92"/>
+                    <text>craniosynostosis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1578</offset>
+                <text>Cranial magnetic resonance imaging (MRI) revealed a simplified gyral pattern at the level of the basal nuclei ( Fig 1 B, gyral index 1.6 [7] ), abnormal anatomy of the hippocampus on the coronal MRI ( Fig 1 C), and subdural occipital bleeding on both sides, but no tonsillar herniation ( Fig 1 D).</text>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009879</infon>
+                    <location length="24" offset="52"/>
+                    <text>simplified gyral pattern</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="144"/>
+                    <text>abnormal anatomy</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="168"/>
+                    <text>hippocampus</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="215"/>
+                    <text>subdural</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="234"/>
+                    <text>bleeding</text>
+                </annotation>
+                <relation id="24">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0025100</infon>
+                    <node refid="25" role="source"/>
+                    <node refid="23" role="target"/>
+                </relation>
+                <relation id="28">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100309</infon>
+                    <node refid="26" role="source"/>
+                    <node refid="27" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1879</offset>
+                <text>In view of the respiratory problems and the bilateral choanal atresia, patient 1 was intubated pending a decision regarding tracheostomy.</text>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002098</infon>
+                    <location length="20" offset="15"/>
+                    <text>respiratory problems</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000453</infon>
+                    <location length="15" offset="54"/>
+                    <text>choanal atresia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2017</offset>
+                <text>On the basis of the computed tomographic findings at the choanal region, it became clear that surgical correction of the choanal atresia was not an option because the stenosis of the anterior part of the nasopharynx hindered the air entry in the nose, and the narrow nasopharynx left no room laterally, vertically, or sagittally at the level of the choana.</text>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000453</infon>
+                    <location length="15" offset="121"/>
+                    <text>choanal atresia</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="167"/>
+                    <text>stenosis</text>
+                </annotation>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [ENT]</infon>
+                    <location length="11" offset="204"/>
+                    <text>nasopharynx</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Other expertise [ENT]</infon>
+                    <location length="18" offset="260"/>
+                    <text>narrow nasopharynx</text>
+                </annotation>
+                <relation id="33">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <node refid="34" role="source"/>
+                    <node refid="32" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2374</offset>
+                <text>Despite intensive care, patient 1 died at the age of 25 days.</text>
+            </sentence>
+            <sentence>
+                <offset>2439</offset>
+                <text>Postmortem DNA analysis revealed a de novo Tyr375Cys mutation in the FGFR2 gene.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

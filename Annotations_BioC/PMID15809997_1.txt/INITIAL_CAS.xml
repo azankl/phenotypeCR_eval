@@ -1,0 +1,108 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿The proband, a boy, was the first child of healthy unrelated parents (a 25-year-old mother and a 29-year-old father at the time of delivery).</text>
+            </sentence>
+            <sentence>
+                <offset>143</offset>
+                <text>Family history was unremarkable.</text>
+            </sentence>
+            <sentence>
+                <offset>176</offset>
+                <text>He was born at term by forceps for continued failure to progress.</text>
+            </sentence>
+            <sentence>
+                <offset>242</offset>
+                <text>Weight was 2.750 kg (10th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>278</offset>
+                <text>Apgar score was normal, despite the presence of a small cephalohematoma in his left parietal regions.</text>
+            </sentence>
+            <sentence>
+                <offset>380</offset>
+                <text>Neonatal moderate hypotonia and poor sucking were interpreted as the mild and temporary effects of the instrumental delivery.</text>
+            </sentence>
+            <sentence>
+                <offset>506</offset>
+                <text>In effect, developmental milestones were not delayed, although during subsequent years he experienced great and increased learning and behavior difficulties due to an inattentive, hyperactive, and impulsive conduct.</text>
+            </sentence>
+            <sentence>
+                <offset>723</offset>
+                <text>At the age of our examination (16 years), the Wechsler Intelligence Scale for Children-Revised (WISC-R) reported a verbal IQ score of 80, a performance IQ score of 75, and a full-scale IQ score of 76, in the borderline range of intelligence.</text>
+            </sentence>
+            <sentence>
+                <offset>965</offset>
+                <text>He was described by parents as being impulsive, easily distractible, with poor concentration, and oppositional behavior.</text>
+            </sentence>
+            <sentence>
+                <offset>1086</offset>
+                <text>This condition represents his main clinical problem as resulted in the impairment of school-related and social activities.</text>
+            </sentence>
+            <sentence>
+                <offset>1209</offset>
+                <text>An evaluation for ADHD was performed by a psychologist using the Diagnostic &amp; Statistical Manual for Mental Disorders [DSM-IV, 1994]: results were significant for the ADHD-combined subtype (either 6/9 inattention symptoms and 6/9 impulsivity-hyperactivity symptoms present for several years and from before the age of 7 years).</text>
+            </sentence>
+            <sentence>
+                <offset>1537</offset>
+                <text>Additionally, he was presented with marked oppositional defiant disorder (ODD), as resulted from clinical observation.</text>
+            </sentence>
+            <sentence>
+                <offset>1657</offset>
+                <text>Anthropometric examination indicated short stature (159 cm, 3rd centile), low weight (48 kg, 5th centile), and normal cephalic circumference (54 cm).</text>
+            </sentence>
+            <sentence>
+                <offset>1807</offset>
+                <text>Inner canthal distance was 2.7 cm (5th centile), interpupillary distance was 5 cm (5th centile), and outer canthal distance was 9.5 cm (90th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>1958</offset>
+                <text>He had dysmorphic features including downslanting palpebral fissures with bilateral ptosis and strabismus, broad and bulbous nose, medial extension of eyebrows, dysmorphic and low set auricles, maxillary hypoplasia, ogival palatus, protuberant lips, and relative micrognathia (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>2244</offset>
+                <text>He was hypotonic and had hyperextensible joints.</text>
+            </sentence>
+            <sentence>
+                <offset>2293</offset>
+                <text>He had brachydactyly (middle finger length 7 cm, 3rd centile; palm length 10 cm, 25th centile) with mild webbing between the third and fourth fingers and bilateral single transverse palmar creases.</text>
+            </sentence>
+            <sentence>
+                <offset>2491</offset>
+                <text>There was a prominent umbilicus and a narrow chest with pectus excavatus.</text>
+            </sentence>
+            <sentence>
+                <offset>2565</offset>
+                <text>Hypernasal speech was noted.</text>
+            </sentence>
+            <sentence>
+                <offset>2594</offset>
+                <text>ECG, cardiac ultrasound examination, plasma and urine aminoacidograms, mucopolysaccharide and oligosaccharide screen, bone age, and cytogenetic studies were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>2759</offset>
+                <text>The EEG during sleep exhibited mild and diffuse 12–16 Hz activity.</text>
+            </sentence>
+            <sentence>
+                <offset>2826</offset>
+                <text>MR examination of the patient's brain revealed enlargement of the Virchow–Robin perivascular spaces, most prominently in the putamen.</text>
+            </sentence>
+            <sentence>
+                <offset>2960</offset>
+                <text>A diagnostic hypothesis of Noonan syndrome, based on clinical features, was excluded since no causative mutation was found at the molecular investigation of the PTPN11 gene.</text>
+            </sentence>
+            <sentence>
+                <offset>3135</offset>
+                <text>As the patient expressed some features of AAS, although the clinical picture was not completely typical, we proceed with the analysis of the FGD1 gene</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

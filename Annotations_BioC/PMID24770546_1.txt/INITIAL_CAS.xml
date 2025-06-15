@@ -1,0 +1,56 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Our index patient was a 9-year-old boy referred to our clinic with hypernasal speech and cleft lip palate.</text>
+            </sentence>
+            <sentence>
+                <offset>108</offset>
+                <text>Physical examinations showed craniofacial dysmorphic features including microcephaly, round face, a flat nasal bridge, hypertelorism, bilateral cleft lip palate (that had been operated on several times previously), an hypoplastic maxilla, telecanthus, bilateral ptosis with right-sided visual impairment, long philtrum, low-set protruding small ears and a short neck (Fig. 1a).</text>
+            </sentence>
+            <sentence>
+                <offset>486</offset>
+                <text>Anthropometric examination at 6 years of age had indicated that height (113 cm), weight (19 kg) and head circumference (49 cm) were below the third percentile.</text>
+            </sentence>
+            <sentence>
+                <offset>646</offset>
+                <text>Small hands, interdigital webbing, clinodactyly and metatarsus adductus were also identified.</text>
+            </sentence>
+            <sentence>
+                <offset>741</offset>
+                <text>X-ray examination and a cranial CT scan showed a bone right-sided palatal discontinuity of 7 mm.</text>
+            </sentence>
+            <sentence>
+                <offset>838</offset>
+                <text>An ectopic tooth in the nasal entry was found to be causing a septum right-sided deviation (Fig. 1b).</text>
+            </sentence>
+            <sentence>
+                <offset>940</offset>
+                <text>Laboratory investigations revealed the hereditary coagulation abnormality von Willebrand disease.</text>
+            </sentence>
+            <sentence>
+                <offset>1038</offset>
+                <text>Further blood parameters showed no further anomalies.</text>
+            </sentence>
+            <sentence>
+                <offset>1093</offset>
+                <text>Teachers described the 9-year-old index patient as a distractible child who found it difficult to perform tasks requiring concentration.</text>
+            </sentence>
+            <sentence>
+                <offset>1230</offset>
+                <text>Neurocognitive examination using Kaufman Assessment Battery for Children for intelligence assessment [7] and HAWIK-III, Hamburger-Wechsler-Intelligence Test for Children (http://diagnostik.sdbb.ch/sites/testraum.localhost/files/Label_HAWIK-III_090818.pdf) revealed an IQ score of 70.</text>
+            </sentence>
+            <sentence>
+                <offset>1514</offset>
+                <text>Psychological testing, using the Rating Scale for Attention Deficit Hyperactivity Disorder as a part of the Diagnostic System for Mental Disorders in Childhood and Adolescence [5] had indicated a three factor structure with hyperactivity, impulsivity and inattention consistent with ADHD.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

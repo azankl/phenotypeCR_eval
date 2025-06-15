@@ -1,0 +1,64 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 73 was a 4.5-year-old affected male, born after normal pregnancy and delivery.</text>
+            </sentence>
+            <sentence>
+                <offset>88</offset>
+                <text>His birth weight was 3.4 kg, length 49 cm and head circumference 33 cm.</text>
+            </sentence>
+            <sentence>
+                <offset>160</offset>
+                <text>At birth he was noted to have short limbs and left-sided cleft lip.</text>
+            </sentence>
+            <sentence>
+                <offset>228</offset>
+                <text>Psychomotor development was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>264</offset>
+                <text>At the age of 22 months, skeletal maturation was delayed (15 months).</text>
+            </sentence>
+            <sentence>
+                <offset>334</offset>
+                <text>At the age of 3 years, his weight was 15 kg (50th percentile), height 94.5 cm (50th percentile), head circumference 48 cm (10th percentile), inner canthal distance 3.3 cm (90th percentile) and outer canthal distance 8.5 cm (&gt;97th percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>577</offset>
+                <text>The dermatoglyphics on the right and left digits were: UL, A, A, A and UL.</text>
+            </sentence>
+            <sentence>
+                <offset>652</offset>
+                <text>The clinical diagnosis of AAS was based on the presence of facial dysmorphic features (widow's peak, hypertelorism, epicanthic folds, down-slanting palpebral fissures with bilateral palpebral ptosis, short and broad nose with anteverted nostrils) associated with IVth and Vth fingers camptodactyly, shawl scrotum and inguinal hernias.</text>
+            </sentence>
+            <sentence>
+                <offset>987</offset>
+                <text>At the time of our investigation, there was mild short stature (105 cm; 10th percentile), mild hyperextensible joints and posteriorly rotated low set ears.</text>
+            </sentence>
+            <sentence>
+                <offset>1143</offset>
+                <text>Mental development was normal and no behavioural problems were reported.</text>
+            </sentence>
+            <sentence>
+                <offset>1216</offset>
+                <text>Molecular analysis identified a missense mutation in exon 6 (1328 G&gt;A) resulting in an R443H substitution.</text>
+            </sentence>
+            <sentence>
+                <offset>1323</offset>
+                <text>This single base change abolishes a CfoI restriction site present in the wild-type sequence allowing the rapid detection of the mutation.</text>
+            </sentence>
+            <sentence>
+                <offset>1461</offset>
+                <text>No other members of this family were available for further investigations.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

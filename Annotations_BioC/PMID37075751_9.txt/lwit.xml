@@ -1,0 +1,90 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Individual 9 is an almost 4-year-old male who developed epileptic encephalopathy at age 2.5 years.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0200134</infon>
+                    <location length="24" offset="56"/>
+                    <text>epileptic encephalopathy</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>99</offset>
+                <text>Epilepsy is a combination of myoclonia, atonic seizures, and multifocal epileptic activity on EEG.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001250</infon>
+                    <location length="8" offset="0"/>
+                    <text>Epilepsy</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001336</infon>
+                    <location length="9" offset="29"/>
+                    <text>myoclonia</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010819</infon>
+                    <location length="15" offset="40"/>
+                    <text>atonic seizures</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>198</offset>
+                <text>He has experienced developmental regression since seizures began but was previously developmentally normal.</text>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002376</infon>
+                    <location length="24" offset="19"/>
+                    <text>developmental regression</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001250</infon>
+                    <location length="8" offset="50"/>
+                    <text>seizures</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>306</offset>
+                <text>His epilepsy has been refractive to multiple medications and he is currently on 5 antiepileptic medications (clobazam, topiramate, phenobarbital, brivaracetam,and rufinimide) having previously tried vigabatrin (ineffective), levetiracetam (behavioral problems), and lacosmide (ineffective).</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001250</infon>
+                    <location length="8" offset="4"/>
+                    <text>epilepsy</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>597</offset>
+                <text>His head circumference is -1.3 SD and length is +2 SD.</text>
+            </sentence>
+            <sentence>
+                <offset>652</offset>
+                <text>Trio exome sequencing identified a paternally inherited truncating variant in POLR1A c.2583_2586del; p.</text>
+            </sentence>
+            <sentence>
+                <offset>755</offset>
+                <text>(Asp862*).</text>
+            </sentence>
+            <sentence>
+                <offset>766</offset>
+                <text>His father has no history of developmental abnormalities and does not have epilepsy.</text>
+            </sentence>
+            <sentence>
+                <offset>851</offset>
+                <text>Testing of paternal grandparents identified the variant in paternal grandfather as well</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

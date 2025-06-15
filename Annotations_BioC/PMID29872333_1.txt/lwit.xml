@@ -1,0 +1,274 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿The fetus described was of the first pregnancy of non-consanguineous, healthy Colombian parents; the mother and father were 26 and 28 years old, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>160</offset>
+                <text>The family history was unremarkable.</text>
+            </sentence>
+            <sentence>
+                <offset>197</offset>
+                <text>During an apparently normal pregnancy, ultrasound examination results at a gestational age (GA) of 14 weeks revealed fetal nuchal translucency of 4.3 mm, a normal thorax, and short extremities.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009826</infon>
+                    <location length="17" offset="175"/>
+                    <text>short extremities</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>391</offset>
+                <text>Ultrasound at GA 20+1 showed a male fetus with a bell-shaped trunk, narrow thorax, absent stomach pouch, and severe limb shortening.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001591</infon>
+                    <location length="17" offset="49"/>
+                    <text>bell-shaped trunk</text>
+                </annotation>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000774</infon>
+                    <location length="13" offset="68"/>
+                    <text>narrow thorax</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0100841</infon>
+                    <location length="20" offset="83"/>
+                    <text>absent stomach pouch</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009826</infon>
+                    <location length="15" offset="116"/>
+                    <text>limb shortening</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>524</offset>
+                <text>A diagnosis of lethal skeletal dysplasia was suggested.</text>
+            </sentence>
+            <sentence>
+                <offset>580</offset>
+                <text>WES of amniotic fluid revealed a diagnosis of ACG1A.</text>
+            </sentence>
+            <sentence>
+                <offset>633</offset>
+                <text>The parents received genetic and psychological counseling.</text>
+            </sentence>
+            <sentence>
+                <offset>692</offset>
+                <text>However, the mother decided to continue the pregnancy.</text>
+            </sentence>
+            <sentence>
+                <offset>747</offset>
+                <text>At GA 28 weeks, the fetus was vaginally delivered with a weight of 1122 g (49th centile), a height of 28.5 cm (1st centile), and a head circumference of 25 cm (19th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>922</offset>
+                <text>Following delivery, the fetus manifested shortness of breath and died after a few minutes.</text>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002094</infon>
+                    <location length="19" offset="41"/>
+                    <text>shortness of breath</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1013</offset>
+                <text>Genetic counseling was given to the parents and their families.</text>
+            </sentence>
+            <sentence>
+                <offset>1078</offset>
+                <text>Postmortem X-rays and autopsy were performed (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>1135</offset>
+                <text>Findings showed turricephaly, cerebral gyrus flattening, a hypoplastic nasal bridge, short neck and trunk, short and bowed extremities, club foot, and hypoplastic lungs.</text>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000262</infon>
+                    <location length="12" offset="16"/>
+                    <text>turricephaly</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001339</infon>
+                    <location length="25" offset="30"/>
+                    <text>cerebral gyrus flattening</text>
+                </annotation>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005281</infon>
+                    <location length="24" offset="59"/>
+                    <text>hypoplastic nasal bridge</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000470</infon>
+                    <location length="10" offset="85"/>
+                    <text>short neck</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="85"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="100"/>
+                    <text>trunk</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="107"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006487</infon>
+                    <location length="17" offset="117"/>
+                    <text>bowed extremities</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="11" offset="123"/>
+                    <text>extremities</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001762</infon>
+                    <location length="9" offset="136"/>
+                    <text>club foot</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002089</infon>
+                    <location length="17" offset="151"/>
+                    <text>hypoplastic lungs</text>
+                </annotation>
+                <relation id="12">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002766</infon>
+                    <node refid="13" role="source"/>
+                    <node refid="11" role="target"/>
+                </relation>
+                <relation id="15">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0009826</infon>
+                    <node refid="16" role="source"/>
+                    <node refid="14" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1305</offset>
+                <text>The external genitalia were unremarkable.</text>
+            </sentence>
+            <sentence>
+                <offset>1347</offset>
+                <text>Postmortem radiography showed deficient mineralization of the calvaria and vertebral bodies, unossified sacrum, hypoplastic thorax, and markedly short and beaded ribs with flared and spurred ends.</text>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="24" offset="30"/>
+                    <text>deficient mineralization</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="24" offset="30"/>
+                    <text>deficient mineralization</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="8" offset="62"/>
+                    <text>calvaria</text>
+                </annotation>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="16" offset="75"/>
+                    <text>vertebral bodies</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0030290</infon>
+                    <location length="17" offset="93"/>
+                    <text>unossified sacrum</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005257</infon>
+                    <location length="18" offset="112"/>
+                    <text>hypoplastic thorax</text>
+                </annotation>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="145"/>
+                    <text>short</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000923</infon>
+                    <location length="11" offset="155"/>
+                    <text>beaded ribs</text>
+                </annotation>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="162"/>
+                    <text>ribs</text>
+                </annotation>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="6" offset="172"/>
+                    <text>flared</text>
+                </annotation>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Add term accepted, HP:6000652, https://github.com/obophenotype/human-phenotype-ontology/issues/10415</infon>
+                    <location length="12" offset="183"/>
+                    <text>spurred ends</text>
+                </annotation>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="191"/>
+                    <text>ends</text>
+                </annotation>
+                <relation id="22">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005474</infon>
+                    <node refid="23" role="source"/>
+                    <node refid="20" role="target"/>
+                </relation>
+                <relation id="24">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004599</infon>
+                    <node refid="25" role="source"/>
+                    <node refid="21" role="target"/>
+                </relation>
+                <relation id="29">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000773</infon>
+                    <node refid="30" role="source"/>
+                    <node refid="28" role="target"/>
+                </relation>
+                <relation id="33">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006603</infon>
+                    <node refid="34" role="source"/>
+                    <node refid="32" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1544</offset>
+                <text>Pathological examination of the fetal sternum and femur tissue with hematoxylin–eosin staining demonstrated hypercellularity of bone and myxoid cartilage matrix; cytoplasmic inclusions were noted and described as “vacuolated chondrocytes”</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

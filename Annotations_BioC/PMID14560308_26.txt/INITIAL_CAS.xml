@@ -1,0 +1,49 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 26 was the proband of a family in which there was evidence of a family trait of short stature and brachydactyly consistent with X-linked inheritance.</text>
+            </sentence>
+            <sentence>
+                <offset>159</offset>
+                <text>At the age of 16 months, his weight was 10.75 kg (25th percentile), height 78 cm (10th percentile), head circumference 46 cm (10th percentile), inner canthal distance 3 cm (90th percentile) and outer canthal distance was 8.5 cm (90th percentile).</text>
+            </sentence>
+            <sentence>
+                <offset>406</offset>
+                <text>At the age of 3 years, he was diagnosed as having AAS based on the following features: round face, hypertelorism, epicanthic folds, widow's peak, small nose with anteverted nares, long philtrum, cutaneous syndactyly with brachydactyly and clinodactyly of the IVth and Vth fingers, right inguinal hernia, umbilical hernia, shawl scrotum, short stature and bilateral varus metatarsus.</text>
+            </sentence>
+            <sentence>
+                <offset>789</offset>
+                <text>Molecular analysis revealed a single nucleotide change in exon 5 (1139A&gt;C), predicted to generate an E380A substitution.</text>
+            </sentence>
+            <sentence>
+                <offset>910</offset>
+                <text>Subsequent mutational analysis in other individuals from the family identified the same nucleotide alteration in his mother (patient 47) and maternal aunt (patient 48), as well as in his affected cousin (patient 27, son of patient 48) and maternal grandmother (patient 46).</text>
+            </sentence>
+            <sentence>
+                <offset>1184</offset>
+                <text>The affected cousin is an 18-month-old boy presenting with similar clinical features: round face, hypertelorism, down-slanting palpebral fissures, widow's peak, small nose with anteverted nares, long philtrum, brachydactyly with interdigital webbing, inguinal and umbilical hernia that required surgical repair, shawl scrotum and short stature.</text>
+            </sentence>
+            <sentence>
+                <offset>1529</offset>
+                <text>Both affected males had normal cognitive development.</text>
+            </sentence>
+            <sentence>
+                <offset>1583</offset>
+                <text>The three carrier females had a milder phenotype with widow's peak, short stature and brachydactyly.</text>
+            </sentence>
+            <sentence>
+                <offset>1683</offset>
+                <text>[a]&#13;
+[a]multiple cases</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

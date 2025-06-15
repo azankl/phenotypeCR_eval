@@ -1,0 +1,64 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿Patient 3 (V-4) is the younger brother of Patient 2 (Fig. 1A).</text>
+            </sentence>
+            <sentence>
+                <offset>64</offset>
+                <text>His birth weight was 4 kg (75th centile), height was 50 cm (50th centile), and head circumference was 36 cm (50th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>188</offset>
+                <text>At 9 months of age, his weight was 6.5 kg (3rd centile), his height was 65 cm (10th centile), and head circumference was 42 cm (3rd centile).</text>
+            </sentence>
+            <sentence>
+                <offset>330</offset>
+                <text>He presented with a trigonocephaly, bilateral ocular proptosis, downslanting palpebral fissures, a flat nasal bridge, a small mandible, bilateral polysyndactyly of hands and feet, and right talipes equinovarus (Fig. 2A).</text>
+            </sentence>
+            <sentence>
+                <offset>551</offset>
+                <text>Bilateral microcornea was noted.</text>
+            </sentence>
+            <sentence>
+                <offset>584</offset>
+                <text>Neurologic development was normal.</text>
+            </sentence>
+            <sentence>
+                <offset>619</offset>
+                <text>Radiographs of the hands showed bilateral agenesis of the middle phalanges of the second to the fifth fingers, postaxial polydactyly with an extra phalanx of the right hand and two extra phalanges of the left hand.</text>
+            </sentence>
+            <sentence>
+                <offset>834</offset>
+                <text>Both thumbs had a delta-shaped proximal phalanx and a duplication of the distal phalanx.</text>
+            </sentence>
+            <sentence>
+                <offset>923</offset>
+                <text>Radiographs of the feet showed a duplication of both halluces, with an extra metatarsal bone articulated with an extra broad phalanx.</text>
+            </sentence>
+            <sentence>
+                <offset>1057</offset>
+                <text>The middle phalanges of the second to the fifth toes were absent.</text>
+            </sentence>
+            <sentence>
+                <offset>1123</offset>
+                <text>At 11 months of age, surgery was performed to correct the right talipes equinovarus and the syndactyly between digits 2 and 3 of the right hand, and to remove the postaxial right extra digit and both extra halluces.</text>
+            </sentence>
+            <sentence>
+                <offset>1339</offset>
+                <text>At 15 months of age, cranioplasty was performed.</text>
+            </sentence>
+            <sentence>
+                <offset>1388</offset>
+                <text>Complete synostosis of the metopic and bicoronal sutures was noted.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

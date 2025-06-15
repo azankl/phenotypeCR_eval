@@ -1,0 +1,295 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The proposita was the product of a 37.5 weeks of gestation to a G3P2Ab1 33-year-old mother and a 37-year-old unrelated father.</text>
+            </sentence>
+            <sentence>
+                <offset>127</offset>
+                <text>Pregnancy was uneventful until the day before birth when an ultrasound was performed, which demonstrated cerebral ventricular dilatation (maximum ventricular diameter, 25 mm).</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002119</infon>
+                    <location length="22" offset="114"/>
+                    <text>ventricular dilatation</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>303</offset>
+                <text>Delivery was by cesarian section because of hydrocephalus and breech presentation.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000238</infon>
+                    <location length="13" offset="44"/>
+                    <text>hydrocephalus</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>386</offset>
+                <text>At birth, the head circumference was 33 cm (10th–25th centile), birth weight was 2,753 g (10th–25th centile), and birth length was 45 cm (3rd centile).</text>
+            </sentence>
+            <sentence>
+                <offset>538</offset>
+                <text>Clinical examination showed craniosynostosis, cloverleaf skull, cutis gyrata of the posterior scalp, redundant skin on the nape of the neck, hypertelorism, prominent eyes, ptosis of the eyelids, downslanting palpebral fissures, mildface hypoplasia, low nasal bridge, anteverted nares, small mouth, posteriorly angulated ears, preauricular creases (Fig. 1), slightly prominent umbilical stump, hypoplastic nails, hypoplastic labia majora, and anteriorly placed anus.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001363</infon>
+                    <location length="16" offset="28"/>
+                    <text>craniosynostosis</text>
+                </annotation>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002676</infon>
+                    <location length="16" offset="46"/>
+                    <text>cloverleaf skull</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="12" offset="64"/>
+                    <text>cutis gyrata</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="5" offset="94"/>
+                    <text>scalp</text>
+                </annotation>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="101"/>
+                    <text>redundant skin</text>
+                </annotation>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="135"/>
+                    <text>neck</text>
+                </annotation>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="141"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000520</infon>
+                    <location length="14" offset="156"/>
+                    <text>prominent eyes</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000508</infon>
+                    <location length="6" offset="172"/>
+                    <text>ptosis</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000494</infon>
+                    <location length="31" offset="195"/>
+                    <text>downslanting palpebral fissures</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011800</infon>
+                    <infon key="Comment">! Typo</infon>
+                    <location length="19" offset="228"/>
+                    <text>mildface hypoplasia</text>
+                </annotation>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005280</infon>
+                    <location length="16" offset="249"/>
+                    <text>low nasal bridge</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000463</infon>
+                    <location length="16" offset="267"/>
+                    <text>anteverted nares</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000160</infon>
+                    <location length="11" offset="285"/>
+                    <text>small mouth</text>
+                </annotation>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000358</infon>
+                    <location length="26" offset="298"/>
+                    <text>posteriorly angulated ears</text>
+                </annotation>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004450</infon>
+                    <location length="20" offset="326"/>
+                    <text>preauricular creases</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001544</infon>
+                    <location length="25" offset="366"/>
+                    <text>prominent umbilical stump</text>
+                </annotation>
+                <annotation id="22">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0008386</infon>
+                    <location length="17" offset="393"/>
+                    <text>hypoplastic nails</text>
+                </annotation>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000059</infon>
+                    <location length="24" offset="412"/>
+                    <text>hypoplastic labia majora</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001545</infon>
+                    <location length="22" offset="442"/>
+                    <text>anteriorly placed anus</text>
+                </annotation>
+                <relation id="6">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0010541</infon>
+                    <node refid="7" role="source"/>
+                    <node refid="5" role="target"/>
+                </relation>
+                <relation id="9">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005989</infon>
+                    <node refid="10" role="source"/>
+                    <node refid="8" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1004</offset>
+                <text>She was admitted to a neonatal intensive care unit and ventilated for 8 days.</text>
+            </sentence>
+            <sentence>
+                <offset>1082</offset>
+                <text>She was fed with maternal milk until the 9th day after birth when she started tube feeding.</text>
+            </sentence>
+            <sentence>
+                <offset>1174</offset>
+                <text>Sucking and deglutition were never achieved.</text>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="0"/>
+                    <text>Sucking</text>
+                </annotation>
+                <annotation id="26">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002015</infon>
+                    <location length="11" offset="12"/>
+                    <text>deglutition</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="14" offset="29"/>
+                    <text>never achieved</text>
+                </annotation>
+                <relation id="28">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002033</infon>
+                    <node refid="25" role="source"/>
+                    <node refid="27" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>1219</offset>
+                <text>Arterial hypertension was diagnosed and was assumed to be adrenergic.</text>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000822</infon>
+                    <location length="21" offset="0"/>
+                    <text>Arterial hypertension</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1289</offset>
+                <text>A ventriculo-peritoneal shunt was placed 6 days after birth.</text>
+            </sentence>
+            <sentence>
+                <offset>1350</offset>
+                <text>She was discharged at the age of 1 month, 11 days; her weight was 3,440 g (10th–25th centile), length was 51 cm (10th–25th centile), and head circumference was 33.5 cm (3rd centile).</text>
+            </sentence>
+            <sentence>
+                <offset>1533</offset>
+                <text>Fifteen days after discharge, she was hospitalized for 20 days for respiratory distress and she needed ventilation and finally tracheostomy.</text>
+                <annotation id="30">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002098</infon>
+                    <location length="20" offset="67"/>
+                    <text>respiratory distress</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1674</offset>
+                <text>After the second discharge, she was re-admitted 28 days later with arterial hypertension (134/75 mmHg).</text>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000822</infon>
+                    <location length="21" offset="67"/>
+                    <text>arterial hypertension</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1778</offset>
+                <text>At this time she was noted to be developmentally delayed, had no spontaneous movements, no suck, and she had optic atrophy.</text>
+                <annotation id="32">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001263</infon>
+                    <location length="23" offset="33"/>
+                    <text>developmentally delayed</text>
+                </annotation>
+                <annotation id="33">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002033</infon>
+                    <location length="7" offset="88"/>
+                    <text>no suck</text>
+                </annotation>
+                <annotation id="34">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000648</infon>
+                    <location length="13" offset="109"/>
+                    <text>optic atrophy</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1902</offset>
+                <text>At 4 months, she underwent a craniectomy to repair her cloverleaf skull.</text>
+                <annotation id="35">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002676</infon>
+                    <location length="16" offset="55"/>
+                    <text>cloverleaf skull</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1975</offset>
+                <text>She was ventilated, but did not recover.</text>
+            </sentence>
+            <sentence>
+                <offset>2016</offset>
+                <text>A CT scan disclosed Arnold-Chiari malformation and following re-operation, she expired.</text>
+                <annotation id="36">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002308</infon>
+                    <location length="26" offset="20"/>
+                    <text>Arnold-Chiari malformation</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2104</offset>
+                <text>Permission for postmortem examination was denied.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

@@ -1,0 +1,52 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>An 8-y-old boy, who was the second child of non consanguineous parents, was referred for evaluation of short stature noticed since 5 y of age.</text>
+            </sentence>
+            <sentence>
+                <offset>143</offset>
+                <text>He was normal at birth except for sparse hair.</text>
+            </sentence>
+            <sentence>
+                <offset>190</offset>
+                <text>He had normal development and his scholastic performance was good.</text>
+            </sentence>
+            <sentence>
+                <offset>257</offset>
+                <text>He did not have any symptoms of immunodeficiency and malabsorption.</text>
+            </sentence>
+            <sentence>
+                <offset>325</offset>
+                <text>His parents were of normal height.</text>
+            </sentence>
+            <sentence>
+                <offset>360</offset>
+                <text>On clinical examination, his weight was 20.7 kg (3rd centile for age), height 99 cm (less than 3rd centile for age), upper segment (US): lower segment (LS) ratio 1.2:1 (infantile), and arm span 109 cm which was greater than his height.</text>
+            </sentence>
+            <sentence>
+                <offset>596</offset>
+                <text>He also had a mild scoliosis to left and brachydactyly with 5th digit clinodactyly, bilaterally.</text>
+            </sentence>
+            <sentence>
+                <offset>693</offset>
+                <text>He had sparse and light colored hair, eyebrows and eyelashes.</text>
+            </sentence>
+            <sentence>
+                <offset>755</offset>
+                <text>His blood counts, serum alkaline phosphatase (215 U/dl) and immunoglobulin profile were normal (IgG 1660 mg/dl, IgE 343 IU/ml, IgM 81.2 mg/dl and Ig A 303 mg/dl).</text>
+            </sentence>
+            <sentence>
+                <offset>918</offset>
+                <text>His radiographs revealed, widened metaphysis with irregularities and brachydactyly (Fig. 1) As the features were suggestive of cartilage hair hypoplasia, sequencing of RMRP gene was done and a homozygous g. 70 A &gt; G mutation was identified.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

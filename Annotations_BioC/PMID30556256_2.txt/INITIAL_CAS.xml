@@ -1,0 +1,60 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 is the brother of Patient 1.</text>
+            </sentence>
+            <sentence>
+                <offset>39</offset>
+                <text>The pregnancy was unremarkable.</text>
+            </sentence>
+            <sentence>
+                <offset>71</offset>
+                <text>He was delivered at 42 weeks by emergency cesarean section due to cephalopelvic disproportion, with a birth weight of 4.89 kg (98th–99.6th centiles).</text>
+            </sentence>
+            <sentence>
+                <offset>221</offset>
+                <text>He had bilateral talipes equinovarus.</text>
+            </sentence>
+            <sentence>
+                <offset>259</offset>
+                <text>He first smiled at the age of 6 months, walked at 7 years, and first words were at 4 years of age.</text>
+            </sentence>
+            <sentence>
+                <offset>361</offset>
+                <text>On assessment at the age of 29 years, he had synophrys, arched eyebrows, mild hypertelorism, “cupid's bow” upper lip, everted lower lip, high narrow palate, grooved tip of the tongue, and low-set ears.</text>
+            </sentence>
+            <sentence>
+                <offset>563</offset>
+                <text>There was hypermobility of the distal joints of the hands, and he had a left-sided Sprengel deformity clinically (Figure 1).</text>
+            </sentence>
+            <sentence>
+                <offset>688</offset>
+                <text>His head circumference was on the 99.6th centile.</text>
+            </sentence>
+            <sentence>
+                <offset>738</offset>
+                <text>His behavior was generally affable.</text>
+            </sentence>
+            <sentence>
+                <offset>777</offset>
+                <text>A chest radiograph (Figure 2) demonstrated a dorsal scoliosis concave to the right, fused left 4th and 5th ribs posteriorly, and an unossified posterior end of the left 6th rib.</text>
+            </sentence>
+            <sentence>
+                <offset>955</offset>
+                <text>There was also a bony bridge leading to posterior fusion of the left 7th and 8th ribs.</text>
+            </sentence>
+            <sentence>
+                <offset>1042</offset>
+                <text>CT head demonstrated agenesis of the corpus callosum.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

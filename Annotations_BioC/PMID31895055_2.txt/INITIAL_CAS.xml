@@ -1,0 +1,52 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>Patient 2 was delivered normally at 41 weeks 3 days gestation weighing 3.43 kg.</text>
+            </sentence>
+            <sentence>
+                <offset>80</offset>
+                <text>Antenatal scans had shown hypoplastic kidneys, a prominent cisterna magna, bilateral radioulna fusion and oligosyndactyly.</text>
+            </sentence>
+            <sentence>
+                <offset>203</offset>
+                <text>At birth, he was confirmed to have similar, almost symmetrical, limb changes to his older brother (Figs. 2 and 3).</text>
+            </sentence>
+            <sentence>
+                <offset>318</offset>
+                <text>Renal ultrasound scanning showed that the right kidney was smaller measuring 4.6 cm (fifth centile for age is 4.9 cm) as well as being low-lying and malrotated.</text>
+            </sentence>
+            <sentence>
+                <offset>479</offset>
+                <text>The left kidney measured 5.1 cm and appeared normal.</text>
+            </sentence>
+            <sentence>
+                <offset>532</offset>
+                <text>Both kidneys had simplex collecting systems.</text>
+            </sentence>
+            <sentence>
+                <offset>577</offset>
+                <text>MAG3 scanning showed that both kidneys handled tracer normally with 58% function on the left and 42% on the right.</text>
+            </sentence>
+            <sentence>
+                <offset>692</offset>
+                <text>At 2.5 years of age, he has also had symptomatic hypoglycaemias during intercurrent illnesses and is currently being investigated for suspected ketotic hypoglycaemias.</text>
+            </sentence>
+            <sentence>
+                <offset>860</offset>
+                <text>His most recent growth height at 2.7 years of age was 91.9 cm (25–50th centile) with a weight of 11.45 kg (9th centile).</text>
+            </sentence>
+            <sentence>
+                <offset>981</offset>
+                <text>He has mild global developmental delay, but is otherwise in good health.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

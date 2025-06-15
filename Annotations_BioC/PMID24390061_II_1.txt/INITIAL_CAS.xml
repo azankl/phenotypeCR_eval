@@ -1,0 +1,56 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The proband (II-1), a 6-month-old female infant, was referred for evaluation of swelling and deformity in both legs and forearms noted since the age of 3 months.</text>
+            </sentence>
+            <sentence>
+                <offset>162</offset>
+                <text>The antenatal, perinatal, and neonatal periods had been uneventful, and all developmental milestones had been attained normally.</text>
+            </sentence>
+            <sentence>
+                <offset>291</offset>
+                <text>Her parents stated that they had no history of leg swelling during infancy or childhood.</text>
+            </sentence>
+            <sentence>
+                <offset>380</offset>
+                <text>Radiographs of the bones revealed cortical bone thickening of both femora, tibiae, radii, ulnae, and swelling of the surrounding soft tissues (Table 1, Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>541</offset>
+                <text>The diagnosis of Caffey disease was made on the basis of symptoms, signs, and radiographic findings; periodic examination was continued without medication.</text>
+            </sentence>
+            <sentence>
+                <offset>697</offset>
+                <text>The swelling resolved spontaneously at the age of 1 year and 6 months.</text>
+            </sentence>
+            <sentence>
+                <offset>768</offset>
+                <text>Serial radiographs revealed periosteal thickening and widening of the long bones over 3 years (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>872</offset>
+                <text>She developed recurrence at the age of 11 years, which resolved again spontaneously.</text>
+            </sentence>
+            <sentence>
+                <offset>957</offset>
+                <text>She is now 12 years old with no medical problems except for mild deformity of her legs.</text>
+            </sentence>
+            <sentence>
+                <offset>1045</offset>
+                <text>She has had no features of osteogenesis imperfecta such as bone fracture, ligamentous and joint laxity, blue sclerae, deafness, and dentinogenesis imperfecta.</text>
+            </sentence>
+            <sentence>
+                <offset>1204</offset>
+                <text>The growth parameters were appropriate for her age; height 148 cm (−0.3 SD) and body weight 39.2 kg (−0.4 SD).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

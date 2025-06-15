@@ -1,0 +1,72 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>V-6 (25 years) had height of 90 cm, respectively.</text>
+            </sentence>
+            <sentence>
+                <offset>50</offset>
+                <text>Arm span of 30–36 cm was noted.</text>
+            </sentence>
+            <sentence>
+                <offset>82</offset>
+                <text>They exhibited short, bowed and deformed radius and ulna.</text>
+            </sentence>
+            <sentence>
+                <offset>140</offset>
+                <text>The ulnae being shorter with mildly dislocated radii.</text>
+            </sentence>
+            <sentence>
+                <offset>194</offset>
+                <text>Carpals, metacarpals, tarsals, metatarsals and phalangeal bones were very poorly ossified and underdeveloped.</text>
+            </sentence>
+            <sentence>
+                <offset>304</offset>
+                <text>Carpals and metacarpals were hypo-plastic, distorted and had no connections with the phalanges (Fig. 2k).</text>
+            </sentence>
+            <sentence>
+                <offset>410</offset>
+                <text>Radiographic examination of carpals, metacarpals and phalanges showed complete agenesis.</text>
+            </sentence>
+            <sentence>
+                <offset>499</offset>
+                <text>All five distal phalanges with intact nails were present; however, proximal and middle phalanges were completely missing (Fig. 2c–k).</text>
+            </sentence>
+            <sentence>
+                <offset>633</offset>
+                <text>Knee joints showed cubitus valgus deformity (Fig. 2j).</text>
+            </sentence>
+            <sentence>
+                <offset>688</offset>
+                <text>Angle of acetabulofemoral joint was marked as coxa valga (Fig. 2i).</text>
+            </sentence>
+            <sentence>
+                <offset>756</offset>
+                <text>Both the femurs were short, with broad distal metaphyses, and twisted left femur.</text>
+            </sentence>
+            <sentence>
+                <offset>838</offset>
+                <text>The tibiae and fibulae were bowed, twisted and extremely short.</text>
+            </sentence>
+            <sentence>
+                <offset>902</offset>
+                <text>Ankle joints showed severe valgus instability (Fig. 2j).</text>
+            </sentence>
+            <sentence>
+                <offset>962</offset>
+                <text>Polydactyly and vertebral deformity was not observed in any affected members.</text>
+            </sentence>
+            <sentence>
+                <offset>1040</offset>
+                <text>Intelligence, facial appearance, trunk, skull, spinal cord, and ribs were normal</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

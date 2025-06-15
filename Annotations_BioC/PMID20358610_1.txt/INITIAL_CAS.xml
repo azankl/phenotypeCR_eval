@@ -1,0 +1,68 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>The couple was referred to our institution at 19 weeks gestation for assessment of a possible fetal skeletal dysplasia.</text>
+            </sentence>
+            <sentence>
+                <offset>120</offset>
+                <text>The fetus was the result of the first pregnancy to nonconsanguineous Australian Caucasian parents with a maternal age of 31 and a paternal age of 37.</text>
+            </sentence>
+            <sentence>
+                <offset>270</offset>
+                <text>There was no known teratogen exposure or maternal illness and there was no family history consistent with a skeletal dysplasia.</text>
+            </sentence>
+            <sentence>
+                <offset>398</offset>
+                <text>First trimester screening for aneuploidy yielded a low risk result.</text>
+            </sentence>
+            <sentence>
+                <offset>469</offset>
+                <text>Ultrasonic findings at 19 weeks and 3 days gestation included short long bones with normal echogenicity, soft tissue oedema overlying the chest and a small thorax.</text>
+            </sentence>
+            <sentence>
+                <offset>633</offset>
+                <text>There was little limb movement and the hips were positioned in fixed abduction.</text>
+            </sentence>
+            <sentence>
+                <offset>713</offset>
+                <text>The hands were held in an unusual position with a gap between the central digits.</text>
+            </sentence>
+            <sentence>
+                <offset>795</offset>
+                <text>Chromosome analysis at the 550 band level of fetal cells from an amniocentesis revealed a normal 46, XX karyotype.</text>
+            </sentence>
+            <sentence>
+                <offset>910</offset>
+                <text>The pregnancy was interrupted at 19 weeks and 5 days gestation.</text>
+            </sentence>
+            <sentence>
+                <offset>974</offset>
+                <text>The postmortem revealed hydrops, a round face, short long bones, vertebral body hypoplasia, fixed extension of the right knee, a gap between index and middle fingers (Fig. 2c), fixed extension of the right knee, a high arched palate with no micrognathia, normal female genitalia, pulmonary hypoplasia, and no other internal organ abnormalities.</text>
+            </sentence>
+            <sentence>
+                <offset>1319</offset>
+                <text>The fetal skeletal survey identified mild shortening of the long bones, lateral dislocation of the right radial head, hypoplasia of the thumbs and great toes.</text>
+            </sentence>
+            <sentence>
+                <offset>1478</offset>
+                <text>Additionally, abnormal positioning of the second and third phalanges with an extra ossification centre distal to the second metacarpal and between the bases of the second and third fingers, normal ribs, and hypoplastic vertebral bodies with prominent coronal clefts (Fig. 1).</text>
+            </sentence>
+            <sentence>
+                <offset>1754</offset>
+                <text>Light microscopic examination identified that the femoral epiphysis appeared attenuated and there was chondrocyte hyperplasia (Fig. 4).</text>
+            </sentence>
+            <sentence>
+                <offset>1890</offset>
+                <text>Electron microscopic examination was not available.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

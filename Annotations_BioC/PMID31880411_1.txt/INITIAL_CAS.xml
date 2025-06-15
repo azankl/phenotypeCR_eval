@@ -1,0 +1,40 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>INITIAL_CAS</key>
+    <document>
+        <id>INITIAL_CAS</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>﻿A non-consanguineous 31-year-old couple (II-1 and II-2) was referred to the Jikei University Hospital with a neonate at 13 weeks of gestation with severe fetal hydrops (III-2) (Figure 1a).</text>
+            </sentence>
+            <sentence>
+                <offset>190</offset>
+                <text>They had a previous pregnancy in which the fetus had a similar lethal phenotype (III-1).</text>
+            </sentence>
+            <sentence>
+                <offset>279</offset>
+                <text>Fetal ultrasound imaging of III-1 revealed severe limb shortening and fetal hydrops (Figure 2a,b).</text>
+            </sentence>
+            <sentence>
+                <offset>378</offset>
+                <text>At 16 weeks of gestation, intrauterine fetal death was confirmed.</text>
+            </sentence>
+            <sentence>
+                <offset>444</offset>
+                <text>Although autopsy imaging was performed after delivery, a definitive clinical diagnosis was not achieved (Figure 2c,d).</text>
+            </sentence>
+            <sentence>
+                <offset>563</offset>
+                <text>Since similar lethal malformations were detected in III-1 and III-2, an inherited autosomal recessive bone disorder was suspected.</text>
+            </sentence>
+            <sentence>
+                <offset>694</offset>
+                <text>Following genetic counseling, the couple agreed to undergo detailed molecular genetic analysis.</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>

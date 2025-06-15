@@ -1,0 +1,301 @@
+
+<collection>
+    <source>hpo-corpus-1</source>
+    <date>20250615</date>
+    <key>lwit</key>
+    <document>
+        <id>lwit</id>
+        <passage>
+            <offset>0</offset>
+            <sentence>
+                <offset>0</offset>
+                <text>A 20‐month‐old girl was seen in the Neurology Department of the Teaching Hospital of Point “G”, Bamako, Mali for right body side muscle weakness.</text>
+                <annotation id="1">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001324</infon>
+                    <location length="15" offset="129"/>
+                    <text>muscle weakness</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>146</offset>
+                <text>She was born from a normal pregnancy and a non‐incidental birth.</text>
+            </sentence>
+            <sentence>
+                <offset>211</offset>
+                <text>The obstetrical ultrasounds of the three trimesters revealed no abnormalities.</text>
+            </sentence>
+            <sentence>
+                <offset>290</offset>
+                <text>There is no consanguinity between her healthy parents (aged 55 and 31 years) and she is the third and youngest child of a sibship with two healthy sisters (Figure 1A).</text>
+            </sentence>
+            <sentence>
+                <offset>458</offset>
+                <text>Her mother did not report any teratogenic drugs intake during pregnancy, but noticed a strange softness of the whole upper part of the head of her newborn and was reassured by the healthcare providers that time will address the issue as the child grows up.</text>
+            </sentence>
+            <sentence>
+                <offset>715</offset>
+                <text>Four months later, she developed muscle weakness in the right‐side of the body and started walking at 10 months age.</text>
+                <annotation id="2">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001324</infon>
+                    <location length="15" offset="33"/>
+                    <text>muscle weakness</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>832</offset>
+                <text>Her pediatrician referred her to a rehabilitation center where she underwent physical therapy.</text>
+            </sentence>
+            <sentence>
+                <offset>927</offset>
+                <text>With the persisting hemiparesis, parents decided to come to our clinic for a better care.</text>
+                <annotation id="3">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001269</infon>
+                    <location length="11" offset="20"/>
+                    <text>hemiparesis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1017</offset>
+                <text>In clinical examination she weighed 9 kg, the head circumference was 43 cm, and facial deformity characterized by a frontal bossing with midline depression and hypertelorism and midfacial hypoplasia were noted (Figure 1B,C).</text>
+                <annotation id="4">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001999</infon>
+                    <location length="16" offset="80"/>
+                    <text>facial deformity</text>
+                </annotation>
+                <annotation id="5">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002007</infon>
+                    <location length="39" offset="116"/>
+                    <text>frontal bossing with midline depression</text>
+                </annotation>
+                <annotation id="6">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000316</infon>
+                    <location length="13" offset="160"/>
+                    <text>hypertelorism</text>
+                </annotation>
+                <annotation id="7">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011800</infon>
+                    <location length="20" offset="178"/>
+                    <text>midfacial hypoplasia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1242</offset>
+                <text>At the age of eight, she was 116 cm with a standard deviation of third percentile (short stature for age).</text>
+                <annotation id="8">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0004322</infon>
+                    <location length="13" offset="83"/>
+                    <text>short stature</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1349</offset>
+                <text>There was a depression in the upper parietal and frontal posterior region measuring 21 × 15 cm but completely recovered with healthy skin and hair.</text>
+                <annotation id="9">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001362</infon>
+                    <location length="54" offset="12"/>
+                    <text>depression in the upper parietal and frontal posterior</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1497</offset>
+                <text>She was cooperative and did not have a language or behavioral disorder.</text>
+            </sentence>
+            <sentence>
+                <offset>1569</offset>
+                <text>There was a right hemiparesis with a motor strength rated 3/5 in upper and lower limbs, but walked without assistance.</text>
+                <annotation id="10">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001269</infon>
+                    <location length="11" offset="18"/>
+                    <text>hemiparesis</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1688</offset>
+                <text>The tendon reflexes were brisk in the right side with extensor plantar responses (positive Babinski sign).</text>
+                <annotation id="11">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0003487</infon>
+                    <location length="22" offset="82"/>
+                    <text>positive Babinski sign</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1795</offset>
+                <text>There were no other neurological anomalies.</text>
+            </sentence>
+            <sentence>
+                <offset>1839</offset>
+                <text>She had dental anomalies including generalized delayed teeth and unilateral maxillary endo‐alveoli associated with mandibular prognathism (Figure 1D–F).</text>
+                <annotation id="12">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000164</infon>
+                    <location length="16" offset="8"/>
+                    <text>dental anomalies</text>
+                </annotation>
+                <annotation id="13">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000684</infon>
+                    <location length="13" offset="47"/>
+                    <text>delayed teeth</text>
+                </annotation>
+                <annotation id="14">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Unclear phenotype</infon>
+                    <location length="22" offset="76"/>
+                    <text>maxillary endo‐alveoli</text>
+                </annotation>
+                <annotation id="15">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000303</infon>
+                    <location length="22" offset="115"/>
+                    <text>mandibular prognathism</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>1992</offset>
+                <text>The orthopantomogram confirmed germ retention and polyodontia with supernumerary teeth (Figure 2A).</text>
+                <annotation id="16">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000692</infon>
+                    <location length="14" offset="31"/>
+                    <text>germ retention</text>
+                </annotation>
+                <annotation id="17">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011069</infon>
+                    <location length="11" offset="50"/>
+                    <text>polyodontia</text>
+                </annotation>
+                <annotation id="18">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0011069</infon>
+                    <location length="19" offset="67"/>
+                    <text>supernumerary teeth</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2092</offset>
+                <text>Ophthalmological examination found a right exotropia with no visual impairment.</text>
+                <annotation id="19">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0000577</infon>
+                    <location length="9" offset="43"/>
+                    <text>exotropia</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2172</offset>
+                <text>ENT examination did not find any hearing impairment.</text>
+            </sentence>
+            <sentence>
+                <offset>2225</offset>
+                <text>In addition, cardiac and abdominal ultrasounds were normal.</text>
+            </sentence>
+            <sentence>
+                <offset>2285</offset>
+                <text>Blood chemistries including total cell count, serum creatinine, alkaline phosphatase and ions were normal except phosphorus levels that were slightly high at 1.84 mmol/L (normal range 0.87–1.50 mmol/L).</text>
+                <annotation id="20">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="17" offset="113"/>
+                    <text>phosphorus levels</text>
+                </annotation>
+                <annotation id="21">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="4" offset="150"/>
+                    <text>high</text>
+                </annotation>
+                <relation id="22">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002905</infon>
+                    <node refid="20" role="source"/>
+                    <node refid="21" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2488</offset>
+                <text>Spine and hands X‐rays were unremarkable, while chest and pelvic X‐rays revealed bilateral aplastic clavicles and a left coxa Vara deformation (Figure 2B,C).</text>
+                <annotation id="23">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006660</infon>
+                    <location length="18" offset="91"/>
+                    <text>aplastic clavicles</text>
+                </annotation>
+                <annotation id="24">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0002812</infon>
+                    <location length="9" offset="121"/>
+                    <text>coxa Vara</text>
+                </annotation>
+            </sentence>
+            <sentence>
+                <offset>2646</offset>
+                <text>Brain CT‐scan showed a dilatation of the occipital horns of the lateral ventricles that persisted after the 3 years of evolution (Figure 2D,E).</text>
+                <annotation id="25">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="10" offset="23"/>
+                    <text>dilatation</text>
+                </annotation>
+                <annotation id="27">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="18" offset="64"/>
+                    <text>lateral ventricles</text>
+                </annotation>
+                <relation id="26">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0006956</infon>
+                    <node refid="27" role="source"/>
+                    <node refid="25" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>2790</offset>
+                <text>The three‐dimensional CT (3D CT) reconstruction of the skull bones showed patent anterior fontanel, the absence of the posterior part of the frontal and the upper part of the parietal bones with normal facial bones and the skull base (Figure 2F,G).</text>
+                <annotation id="28">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0001476</infon>
+                    <location length="24" offset="74"/>
+                    <text>patent anterior fontanel</text>
+                </annotation>
+                <annotation id="29">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <location length="7" offset="104"/>
+                    <text>absence</text>
+                </annotation>
+                <annotation id="31">
+                    <infon key="type">webanno.custom.Phenotypes</infon>
+                    <infon key="Comment">! Closest term</infon>
+                    <location length="14" offset="175"/>
+                    <text>parietal bones</text>
+                </annotation>
+                <relation id="30">
+                    <infon key="type">webanno.custom.PhenotypeRelations</infon>
+                    <infon key="HPOterm">http://purl.obolibrary.org/obo/HP_0005623</infon>
+                    <node refid="31" role="source"/>
+                    <node refid="29" role="target"/>
+                </relation>
+            </sentence>
+            <sentence>
+                <offset>3039</offset>
+                <text>Three years later a reduction of the soft tissue from 21 × 15 cm to 14.5 × 10 cm was noticed with a notable progression of bone development (Figure 2H,I).</text>
+            </sentence>
+            <sentence>
+                <offset>3194</offset>
+                <text>These clinical and radiographic features were consistent with CCD.</text>
+            </sentence>
+            <sentence>
+                <offset>3261</offset>
+                <text>Sanger sequencing using primers for all the exons of the RUNX2 gene identified a novel heterozygote nonsense de novo variant at position c.925C&gt;T, resulting in a premature stop codon of the protein at residue 309 in exon 6 (c.925C&gt;T; p.Gln309X) in the patient (II.3), segregating with the phenotype in the family (Figure 3A–C).</text>
+            </sentence>
+        </passage>
+    </document>
+</collection>
